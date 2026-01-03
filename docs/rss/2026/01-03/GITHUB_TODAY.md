@@ -4,11 +4,11 @@
 
 ## 📋 Overview
 
-**10** Projects | **210142** ⭐ | **24630** 🍴
+**10** Projects | **210188** ⭐ | **24638** 🍴
 
 **Top Languages:** `TypeScript` (4) · `Rust` (2) · `Go` (2)
 
-**Updated:** 2026-01-03 14:03 UTC
+**Updated:** 2026-01-03 14:15 UTC
 
 **Categories:**
 
@@ -27,8 +27,8 @@
 **项目描述：** Elegant reading of real-time and hottest news
 
 **核心信息：**
-- ⭐ Stars: 16193
-- 🍴 Forks: 4742
+- ⭐ Stars: 16195
+- 🍴 Forks: 4743
 - 💻 主要语言: TypeScript
 - 📅 更新时间: 2026-01-03
 - 🔗 [访问仓库](https://github.com/ourongxing/newsnow)
@@ -41,8 +41,8 @@
 **技术栈：** elegant, news
 *
 
-- ⭐ 16193 stars
-- 🍴 4742 forks
+- ⭐ 16195 stars
+- 🍴 4743 forks
 - 💻 TypeScript
 - 📅 最近更新: 2026-01-03
 
@@ -57,8 +57,8 @@
 **项目描述：** Get 10X more out of Claude Code, Codex or any coding agent
 
 **核心信息：**
-- ⭐ Stars: 11689
-- 🍴 Forks: 1055
+- ⭐ Stars: 11702
+- 🍴 Forks: 1059
 - 💻 主要语言: Rust
 - 📅 更新时间: 2026-01-03
 - 🔗 [访问仓库](https://github.com/BloopAI/vibe-kanban)
@@ -71,8 +71,8 @@
 **技术栈：** agent, ai-agents, kanban, management, task-manager
 *
 
-- ⭐ 11689 stars
-- 🍴 1055 forks
+- ⭐ 11702 stars
+- 🍴 1059 forks
 - 💻 Rust
 - 📅 最近更新: 2026-01-03
 
@@ -87,8 +87,8 @@
 **项目描述：** An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 
 **核心信息：**
-- ⭐ Stars: 49441
-- 🍴 Forks: 3567
+- ⭐ Stars: 49464
+- 🍴 Forks: 3569
 - 💻 主要语言: Go
 - 📅 更新时间: 2026-01-03
 - 🔗 [访问仓库](https://github.com/usememos/memos)
@@ -101,8 +101,8 @@
 **技术栈：** docker, foss, go, markdown, memo, microblog, note-taking, notecard, react, self-hosted, social-network, sqlite
 *
 
-- ⭐ 49441 stars
-- 🍴 3567 forks
+- ⭐ 49464 stars
+- 🍴 3569 forks
 - 💻 Go
 - 📅 最近更新: 2026-01-03
 
@@ -117,7 +117,7 @@
 **项目描述：** 🔥 🔥 🔥 Open Source Airtable Alternative
 
 **核心信息：**
-- ⭐ Stars: 60109
+- ⭐ Stars: 60113
 - 🍴 Forks: 4469
 - 💻 主要语言: TypeScript
 - 📅 更新时间: 2026-01-03
@@ -131,7 +131,7 @@
 **技术栈：** airtable, airtable-alternative, automatic-api, hacktoberfest, low-code, no-code, no-code-database, no-code-platform, postgresql, rest-api, restful-api, spreadsheet, sqlite, swagger
 *
 
-- ⭐ 60109 stars
+- ⭐ 60113 stars
 - 🍴 4469 forks
 - 💻 TypeScript
 - 📅 最近更新: 2026-01-03
@@ -147,8 +147,8 @@
 **项目描述：** A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 
 **核心信息：**
-- ⭐ Stars: 8736
-- 🍴 Forks: 590
+- ⭐ Stars: 8739
+- 🍴 Forks: 591
 - 💻 主要语言: Rust
 - 📅 更新时间: 2026-01-03
 - 🔗 [访问仓库](https://github.com/farion1231/cc-switch)
@@ -161,8 +161,8 @@
 **技术栈：** ai-tools, claude-code, codex, deepseek-v3, desktop-app, kimi-k2-thiking, mcp, minimax, open-source, provider-management, qwen-coder, rust, tauri, typescript, wsl-support
 *
 
-- ⭐ 8736 stars
-- 🍴 590 forks
+- ⭐ 8739 stars
+- 🍴 591 forks
 - 💻 Rust
 - 📅 最近更新: 2026-01-03
 
@@ -197,37 +197,7 @@
 
 ![qui](2026-01-03_daily-top_qui.png)
 
-### 7. [organicmaps](https://github.com/organicmaps/organicmaps)
-
-> 🤖 **Why Recommend**  
-> *
-## organicmaps
-
-**项目描述：** 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!
-
-**核心信息：**
-- ⭐ Stars: 12916
-- 🍴 Forks: 1278
-- 💻 主要语言: C++
-- 📅 更新时间: 2026-01-03
-- 🔗 [访问仓库](https://github.com/organicmaps/organicmaps)
-
-**项目亮点：**
-🔥 热门项目（超过 1000 stars）
-📦 活跃维护（超过 100 forks）
-✨ 最近更新（7天内）
-
-**技术栈：** android, app, cpp, cyclists, hacktoberfest, hikers, ios, java, maps, mobile, mobile-app, navigation, objective-c, offline, offline-maps, openstreetmap, privacy, routing, tourists, travelers
-*
-
-- ⭐ 12916 stars
-- 🍴 1278 forks
-- 💻 C++
-- 📅 最近更新: 2026-01-03
-
-![organicmaps](2026-01-03_daily-top_organicmaps.png)
-
-### 8. [thingsboard](https://github.com/thingsboard/thingsboard)
+### 7. [thingsboard](https://github.com/thingsboard/thingsboard)
 
 > 🤖 **Why Recommend**  
 > *
@@ -257,6 +227,36 @@
 
 ![thingsboard](2026-01-03_daily-top_thingsboard.png)
 
+### 8. [organicmaps](https://github.com/organicmaps/organicmaps)
+
+> 🤖 **Why Recommend**  
+> *
+## organicmaps
+
+**项目描述：** 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!
+
+**核心信息：**
+- ⭐ Stars: 12916
+- 🍴 Forks: 1278
+- 💻 主要语言: C++
+- 📅 更新时间: 2026-01-03
+- 🔗 [访问仓库](https://github.com/organicmaps/organicmaps)
+
+**项目亮点：**
+🔥 热门项目（超过 1000 stars）
+📦 活跃维护（超过 100 forks）
+✨ 最近更新（7天内）
+
+**技术栈：** android, app, cpp, cyclists, hacktoberfest, hikers, ios, java, maps, mobile, mobile-app, navigation, objective-c, offline, offline-maps, openstreetmap, privacy, routing, tourists, travelers
+*
+
+- ⭐ 12916 stars
+- 🍴 1278 forks
+- 💻 C++
+- 📅 最近更新: 2026-01-03
+
+![organicmaps](2026-01-03_daily-top_organicmaps.png)
+
 ### 9. [agents.md](https://github.com/agentsmd/agents.md)
 
 > 🤖 **Why Recommend**  
@@ -266,7 +266,7 @@
 **项目描述：** AGENTS.md — a simple, open format for guiding coding agents
 
 **核心信息：**
-- ⭐ Stars: 13949
+- ⭐ Stars: 13950
 - 🍴 Forks: 985
 - 💻 主要语言: TypeScript
 - 📅 更新时间: 2026-01-03
@@ -280,7 +280,7 @@
 **技术栈：** 未标注
 *
 
-- ⭐ 13949 stars
+- ⭐ 13950 stars
 - 🍴 985 forks
 - 💻 TypeScript
 - 📅 最近更新: 2026-01-03
@@ -329,4 +329,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-03 14:03:48 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-03 14:15:37 UTC
