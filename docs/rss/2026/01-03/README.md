@@ -7,7 +7,7 @@
 | Metric | Value |
 |--------|------|
 | 📦 Total Repos | **10** |
-| ⏰ Updated | 2026-01-03 12:39 UTC |
+| ⏰ Updated | 2026-01-03 12:53 UTC |
 
 ---
 
@@ -17,7 +17,7 @@
 
 | Metric | Value |
 |------|----|
-| ⭐ Stars | **49313** |
+| ⭐ Stars | **49336** |
 | 🍴 Forks | **3563** |
 | 💻 Language | Go |
 | 🏷️ Tags | `docker` `foss` `go` `markdown` `memo` |
@@ -31,7 +31,7 @@
 
 | Metric | Value |
 |------|----|
-| ⭐ Stars | **11627** |
+| ⭐ Stars | **11635** |
 | 🍴 Forks | **1047** |
 | 💻 Language | Rust |
 | 🏷️ Tags | `agent` `ai-agents` `kanban` `management` `task-manager` |
@@ -45,7 +45,7 @@
 
 | Metric | Value |
 |------|----|
-| ⭐ Stars | **16178** |
+| ⭐ Stars | **16180** |
 | 🍴 Forks | **4741** |
 | 💻 Language | TypeScript |
 | 🏷️ Tags | `elegant` `news` |
@@ -59,8 +59,8 @@
 
 | Metric | Value |
 |------|----|
-| ⭐ Stars | **60078** |
-| 🍴 Forks | **4465** |
+| ⭐ Stars | **60082** |
+| 🍴 Forks | **4466** |
 | 💻 Language | TypeScript |
 | 🏷️ Tags | `airtable` `airtable-alternative` `automatic-api` `hacktoberfest` `low-code` |
 | 📈 Stars Today | **270** |
@@ -73,7 +73,7 @@
 
 | Metric | Value |
 |------|----|
-| ⭐ Stars | **8709** |
+| ⭐ Stars | **8714** |
 | 🍴 Forks | **586** |
 | 💻 Language | Rust |
 | 🏷️ Tags | `ai-tools` `claude-code` `codex` `deepseek-v3` `desktop-app` |
@@ -101,7 +101,7 @@
 
 | Metric | Value |
 |------|----|
-| ⭐ Stars | **1715** |
+| ⭐ Stars | **1716** |
 | 🍴 Forks | **46** |
 | 💻 Language | Go |
 | 🏷️ Tags | `cross-seed` `cross-seeding` `go` `golang` `libtorrent` |
@@ -115,7 +115,7 @@
 
 | Metric | Value |
 |------|----|
-| ⭐ Stars | **20852** |
+| ⭐ Stars | **20853** |
 | 🍴 Forks | **6012** |
 | 💻 Language | Java |
 | 🏷️ Tags | `cloud` `coap` `dashboard` `iot` `iot-analytics` |
@@ -164,4 +164,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-03 12:39:10 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-03 12:53:17 UTC

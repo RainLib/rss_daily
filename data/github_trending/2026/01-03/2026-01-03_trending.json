@@ -8,7 +8,7 @@
       "full_name": "usememos/memos",
       "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
       "html_url": "https://github.com/usememos/memos",
-      "stars": 49313,
+      "stars": 49336,
       "forks": 3563,
       "language": "Go",
       "topics": [
@@ -26,14 +26,14 @@
         "sqlite"
       ],
       "created_at": "2021-12-08T15:30:18Z",
-      "updated_at": "2026-01-03T12:37:22Z",
-      "pushed_at": "2026-01-03T06:27:40Z",
+      "updated_at": "2026-01-03T12:51:33Z",
+      "pushed_at": "2026-01-03T12:43:21Z",
       "open_issues": 39,
       "owner": {
         "login": "usememos",
         "avatar_url": "https://avatars.githubusercontent.com/u/95764151?v=4"
       },
-      "readme": "# Memos\n\n<img align=\"right\" height=\"96px\" src=\"https://raw.githubusercontent.com/usememos/.github/refs/heads/main/assets/logo-rounded.png\" alt=\"Memos\" />\n\nAn open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.\n\n[![Home](https://img.shields.io/badge/🏠-usememos.com-blue?style=flat-square)](https://www.usememos.com)\n[![Live Demo](https://img.shields.io/badge/✨-Try%20Demo-orange?style=flat-square)](https://demo.usememos.com/)\n[![Docs](https://img.shields.io/badge/📚-Documentation-green?style=flat-square)](https://www.usememos.com/docs)\n[![Discord](https://img.shields.io/badge/💬-Discord-5865f2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/tfPJa4UmAv)\n[![Docker Pulls](https://img.shields.io/docker/pulls/neosmemo/memos?style=flat-square&logo=docker)](https://hub.docker.com/r/neosmemo/memos)\n\n<img src=\"https://raw.githubusercontent.com/usememos/.github/refs/heads/main/assets/demo.png\" alt=\"Memos Demo Screenshot\" height=\"512\" />\n\n### 💎 Featured Sponsors\n\n[**Warp** — The AI-powered terminal built for speed and collaboration](https://go.warp.dev/memos)\n\n<a href=\"https://go.warp.dev/memos\" target=\"_blank\" rel=\"noopener\">\n  <img src=\"https://raw.githubusercontent.com/warpdotdev/brand-assets/main/Github/Sponsor/Warp-Github-LG-02.png\" alt=\"Warp - The AI-powered terminal built for speed and collaboration\" width=\"512\" />\n</a>\n\n---\n\n[**LambdaTest** - Cross-browser testing cloud](https://www.lambdatest.com/?utm_source=memos&utm_medium=sponsor)\n  \n<a href=\"https://www.lambdatest.com/?utm_source=memos&utm_medium=sponsor\" target=\"_blank\" rel=\"noopener\">\n  <img src=\"https://www.lambdatest.com/blue-logo.png\" alt=\"LambdaTest - Cross-browser testing cloud\" height=\"50\" />\n</a>\n\n## Overview\n\nMemos is a privacy-first, self-hosted knowledge base that works seamlessly for personal notes, team wikis, and knowledge management. Built with Go and React, it offers lightning-fast performance without compromising on features or usability.\n\n**Why choose Memos over cloud services?**\n\n| Feature           | Memos                          | Cloud Services                |\n| ----------------- | ------------------------------ | ----------------------------- |\n| **Privacy**       | ✅ Self-hosted, zero telemetry | ❌ Your data on their servers |\n| **Cost**          | ✅ Free forever, MIT license   | ❌ Subscription fees          |\n| **Performance**   | ✅ Instant load, no latency    | ⚠️ Depends on internet        |\n| **Ownership**     | ✅ Full control & export       | ❌ Vendor lock-in             |\n| **API Access**    | ✅ Full REST + gRPC APIs       | ⚠️ Limited or paid            |\n| **Customization** | ✅ Open source, forkable       | ❌ Closed ecosystem           |\n\n## Features\n\n- **🔒 Privacy-First Architecture**\n\n  - Self-hosted on your infrastructure with zero telemetry\n  - Complete data ownership and export capabilities\n  - No tracking, no ads, no vendor lock-in\n\n- **📝 Markdown Native**\n\n  - Full markdown support\n  - Plain text storage — take your data anywhere\n\n- **⚡ Blazing Fast**\n\n  - Built with Go backend and React frontend\n  - Optimized for performance at any scale\n\n- **🐳 Simple Deployment**\n\n  - One-line Docker installation\n  - Supports SQLite, MySQL, and PostgreSQL\n\n- **🔗 Developer-Friendly**\n\n  - Full REST and gRPC APIs\n  - Easy integration with existing workflows\n\n- **🎨 Beautiful Interface**\n  - Clean, minimal design and dark mode support\n  - Mobile-responsive layout\n\n## Quick Start\n\n### Docker (Recommended)\n\n```bash\ndocker run -d \\\n  --name memos \\\n  -p 5230:5230 \\\n  -v ~/.memos:/var/opt/memos \\\n  neosmemo/memos:stable\n```\n\nOpen `http://localhost:5230` and start writing!\n\n### Try the Live Demo\n\nDon't want to install yet? Try our [live demo](https://demo.usememos.com/) first!\n\n### Other Installation Methods\n\n- **Docker Compose** - Recommended for production deployments\n- **Pre-built Binaries** - Available for Linux, macOS, and Windows\n- **Kubernetes** - Helm charts and manifests available\n- **Build from Source** - For development and customization\n\nSee our [installation guide](https://www.usememos.com/docs/installation) for detailed instructions.\n\n## Contributing\n\nWe welcome contributions of all kinds! Whether you're fixing bugs, adding features, improving documentation, or helping with translations — every contribution matters.\n\n**Ways to contribute:**\n\n- 🐛 [Report bugs](https://github.com/usememos/memos/issues/new?template=bug_report.md)\n- 💡 [Suggest features](https://github.com/usememos/memos/issues/new?template=feature_request.md)\n- 🔧 [Submit pull requests](https://github.com/usememos/memos/pulls)\n- 📖 [Improve documentation](https://github.com/usememos/memos/tree/main/docs)\n- 🌍 [Help with translations](https://github.com/usememos/memos/tree/main/web/src/locales)\n\n## Sponsors\n\nLove Memos? [Sponsor us on GitHub](https://github.com/sponsors/usememos) to help keep the project growing!\n\n## Star History\n\n[![Star History Chart](https://api.star-history.com/svg?repos=usememos/memos&type=Date)](https://star-history.com/#usememos/memos&Date)\n\n## License\n\nMemos is open-source software licensed under the [MIT License](LICENSE).\n\n---\n\n**[Website](https://www.usememos.com)** • **[Documentation](https://www.usememos.com/docs)** • **[Demo](https://demo.usememos.com/)** • **[Discord](https://discord.gg/tfPJa4UmAv)** • **[X/Twitter](https://x.com/usememos)**\n\n<a href=\"https://vercel.com/oss\">\n  <img alt=\"Vercel OSS Program\" src=\"https://vercel.com/oss/program-badge.svg\" />\n</a>\n",
+      "readme": "# Memos\n\n<img align=\"right\" height=\"96px\" src=\"https://raw.githubusercontent.com/usememos/.github/refs/heads/main/assets/logo-rounded.png\" alt=\"Memos\" />\n\nAn open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.\n\n[![Home](https://img.shields.io/badge/🏠-usememos.com-blue?style=flat-square)](https://usememos.com)\n[![Live Demo](https://img.shields.io/badge/✨-Try%20Demo-orange?style=flat-square)](https://demo.usememos.com/)\n[![Docs](https://img.shields.io/badge/📚-Documentation-green?style=flat-square)](https://usememos.com/docs)\n[![Discord](https://img.shields.io/badge/💬-Discord-5865f2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/tfPJa4UmAv)\n[![Docker Pulls](https://img.shields.io/docker/pulls/neosmemo/memos?style=flat-square&logo=docker)](https://hub.docker.com/r/neosmemo/memos)\n\n<img src=\"https://raw.githubusercontent.com/usememos/.github/refs/heads/main/assets/demo.png\" alt=\"Memos Demo Screenshot\" height=\"512\" />\n\n### 💎 Featured Sponsors\n\n[**Warp** — The AI-powered terminal built for speed and collaboration](https://go.warp.dev/memos)\n\n<a href=\"https://go.warp.dev/memos\" target=\"_blank\" rel=\"noopener\">\n  <img src=\"https://raw.githubusercontent.com/warpdotdev/brand-assets/main/Github/Sponsor/Warp-Github-LG-02.png\" alt=\"Warp - The AI-powered terminal built for speed and collaboration\" width=\"512\" />\n</a>\n\n---\n\n[**LambdaTest** - Cross-browser testing cloud](https://www.lambdatest.com/?utm_source=memos&utm_medium=sponsor)\n  \n<a href=\"https://www.lambdatest.com/?utm_source=memos&utm_medium=sponsor\" target=\"_blank\" rel=\"noopener\">\n  <img src=\"https://www.lambdatest.com/blue-logo.png\" alt=\"LambdaTest - Cross-browser testing cloud\" height=\"50\" />\n</a>\n\n## Overview\n\nMemos is a privacy-first, self-hosted knowledge base that works seamlessly for personal notes, team wikis, and knowledge management. Built with Go and React, it offers lightning-fast performance without compromising on features or usability.\n\n**Why choose Memos over cloud services?**\n\n| Feature           | Memos                          | Cloud Services                |\n| ----------------- | ------------------------------ | ----------------------------- |\n| **Privacy**       | ✅ Self-hosted, zero telemetry | ❌ Your data on their servers |\n| **Cost**          | ✅ Free forever, MIT license   | ❌ Subscription fees          |\n| **Performance**   | ✅ Instant load, no latency    | ⚠️ Depends on internet        |\n| **Ownership**     | ✅ Full control & export       | ❌ Vendor lock-in             |\n| **API Access**    | ✅ Full REST + gRPC APIs       | ⚠️ Limited or paid            |\n| **Customization** | ✅ Open source, forkable       | ❌ Closed ecosystem           |\n\n## Features\n\n- **🔒 Privacy-First Architecture**\n\n  - Self-hosted on your infrastructure with zero telemetry\n  - Complete data ownership and export capabilities\n  - No tracking, no ads, no vendor lock-in\n\n- **📝 Markdown Native**\n\n  - Full markdown support\n  - Plain text storage — take your data anywhere\n\n- **⚡ Blazing Fast**\n\n  - Built with Go backend and React frontend\n  - Optimized for performance at any scale\n\n- **🐳 Simple Deployment**\n\n  - One-line Docker installation\n  - Supports SQLite, MySQL, and PostgreSQL\n\n- **🔗 Developer-Friendly**\n\n  - Full REST and gRPC APIs\n  - Easy integration with existing workflows\n\n- **🎨 Beautiful Interface**\n  - Clean, minimal design and dark mode support\n  - Mobile-responsive layout\n\n## Quick Start\n\n### Docker (Recommended)\n\n```bash\ndocker run -d \\\n  --name memos \\\n  -p 5230:5230 \\\n  -v ~/.memos:/var/opt/memos \\\n  neosmemo/memos:stable\n```\n\nOpen `http://localhost:5230` and start writing!\n\n### Try the Live Demo\n\nDon't want to install yet? Try our [live demo](https://demo.usememos.com/) first!\n\n### Other Installation Methods\n\n- **Docker Compose** - Recommended for production deployments\n- **Pre-built Binaries** - Available for Linux, macOS, and Windows\n- **Kubernetes** - Helm charts and manifests available\n- **Build from Source** - For development and customization\n\nSee our [installation guide](https://usememos.com/docs/installation) for detailed instructions.\n\n## Contributing\n\nWe welcome contributions of all kinds! Whether you're fixing bugs, adding features, improving documentation, or helping with translations — every contribution matters.\n\n**Ways to contribute:**\n\n- 🐛 [Report bugs](https://github.com/usememos/memos/issues/new?template=bug_report.md)\n- 💡 [Suggest features](https://github.com/usememos/memos/issues/new?template=feature_request.md)\n- 🔧 [Submit pull requests](https://github.com/usememos/memos/pulls)\n- 📖 [Improve documentation](https://github.com/usememos/memos/tree/main/docs)\n- 🌍 [Help with translations](https://github.com/usememos/memos/tree/main/web/src/locales)\n\n## Sponsors\n\nLove Memos? [Sponsor us on GitHub](https://github.com/sponsors/usememos) to help keep the project growing!\n\n## Star History\n\n[![Star History Chart](https://api.star-history.com/svg?repos=usememos/memos&type=Date)](https://star-history.com/#usememos/memos&Date)\n\n## License\n\nMemos is open-source software licensed under the [MIT License](LICENSE).\n\n## Privacy Policy\n\nMemos is built with privacy as a core principle. As a self-hosted application, all your data stays on your infrastructure. There is no telemetry, no tracking, and no data collection. See our [Privacy Policy](https://usememos.com/privacy) for details.\n\n---\n\n**[Website](https://usememos.com)** • **[Documentation](https://usememos.com/docs)** • **[Demo](https://demo.usememos.com/)** • **[Discord](https://discord.gg/tfPJa4UmAv)** • **[X/Twitter](https://x.com/usememos)**\n\n<a href=\"https://vercel.com/oss\">\n  <img alt=\"Vercel OSS Program\" src=\"https://vercel.com/oss/program-badge.svg\" />\n</a>\n",
       "stars_today": 841
     },
     {
@@ -42,7 +42,7 @@
       "full_name": "BloopAI/vibe-kanban",
       "description": "Get 10X more out of Claude Code, Codex or any coding agent",
       "html_url": "https://github.com/BloopAI/vibe-kanban",
-      "stars": 11627,
+      "stars": 11635,
       "forks": 1047,
       "language": "Rust",
       "topics": [
@@ -53,9 +53,9 @@
         "task-manager"
       ],
       "created_at": "2025-06-14T19:10:21Z",
-      "updated_at": "2026-01-03T12:37:32Z",
+      "updated_at": "2026-01-03T12:50:42Z",
       "pushed_at": "2026-01-03T05:57:02Z",
-      "open_issues": 183,
+      "open_issues": 184,
       "owner": {
         "login": "BloopAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/75376775?v=4"
@@ -69,7 +69,7 @@
       "full_name": "ourongxing/newsnow",
       "description": "Elegant reading of real-time and hottest news",
       "html_url": "https://github.com/ourongxing/newsnow",
-      "stars": 16178,
+      "stars": 16180,
       "forks": 4741,
       "language": "TypeScript",
       "topics": [
@@ -77,7 +77,7 @@
         "news"
       ],
       "created_at": "2024-09-23T14:16:12Z",
-      "updated_at": "2026-01-03T12:37:38Z",
+      "updated_at": "2026-01-03T12:48:07Z",
       "pushed_at": "2025-12-27T15:23:56Z",
       "open_issues": 107,
       "owner": {
@@ -93,8 +93,8 @@
       "full_name": "nocodb/nocodb",
       "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
       "html_url": "https://github.com/nocodb/nocodb",
-      "stars": 60078,
-      "forks": 4465,
+      "stars": 60082,
+      "forks": 4466,
       "language": "TypeScript",
       "topics": [
         "airtable",
@@ -113,7 +113,7 @@
         "swagger"
       ],
       "created_at": "2017-10-29T18:51:48Z",
-      "updated_at": "2026-01-03T12:37:31Z",
+      "updated_at": "2026-01-03T12:48:15Z",
       "pushed_at": "2026-01-03T08:38:43Z",
       "open_issues": 549,
       "owner": {
@@ -129,7 +129,7 @@
       "full_name": "farion1231/cc-switch",
       "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
       "html_url": "https://github.com/farion1231/cc-switch",
-      "stars": 8709,
+      "stars": 8714,
       "forks": 586,
       "language": "Rust",
       "topics": [
@@ -150,7 +150,7 @@
         "wsl-support"
       ],
       "created_at": "2025-08-04T14:16:16Z",
-      "updated_at": "2026-01-03T12:30:50Z",
+      "updated_at": "2026-01-03T12:51:11Z",
       "pushed_at": "2026-01-03T09:30:52Z",
       "open_issues": 89,
       "owner": {
@@ -208,7 +208,7 @@
       "full_name": "autobrr/qui",
       "description": "A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. Go + React.",
       "html_url": "https://github.com/autobrr/qui",
-      "stars": 1715,
+      "stars": 1716,
       "forks": 46,
       "language": "Go",
       "topics": [
@@ -222,7 +222,7 @@
         "workflows"
       ],
       "created_at": "2025-08-04T12:28:27Z",
-      "updated_at": "2026-01-03T11:48:03Z",
+      "updated_at": "2026-01-03T12:50:58Z",
       "pushed_at": "2026-01-03T10:29:44Z",
       "open_issues": 63,
       "owner": {
@@ -238,7 +238,7 @@
       "full_name": "thingsboard/thingsboard",
       "description": "Open-source IoT Platform - Device management, data collection, processing and visualization.",
       "html_url": "https://github.com/thingsboard/thingsboard",
-      "stars": 20852,
+      "stars": 20853,
       "forks": 6012,
       "language": "Java",
       "topics": [
@@ -264,7 +264,7 @@
         "widgets"
       ],
       "created_at": "2016-12-01T09:33:30Z",
-      "updated_at": "2026-01-03T12:33:46Z",
+      "updated_at": "2026-01-03T12:49:32Z",
       "pushed_at": "2026-01-02T12:14:46Z",
       "open_issues": 153,
       "owner": {
@@ -324,7 +324,7 @@
       "full_name": "nukeop/nuclear",
       "description": "Streaming music player that finds free music for you",
       "html_url": "https://github.com/nukeop/nuclear",
-      "stars": 16649,
+      "stars": 16653,
       "forks": 1248,
       "language": "TypeScript",
       "topics": [
@@ -339,7 +339,7 @@
         "youtube"
       ],
       "created_at": "2016-09-22T22:58:21Z",
-      "updated_at": "2026-01-03T12:29:57Z",
+      "updated_at": "2026-01-03T12:51:38Z",
       "pushed_at": "2025-12-27T08:45:37Z",
       "open_issues": 168,
       "owner": {
@@ -355,12 +355,12 @@
       "full_name": "heyitsnoah/claudesidian",
       "description": null,
       "html_url": "https://github.com/heyitsnoah/claudesidian",
-      "stars": 930,
-      "forks": 71,
+      "stars": 935,
+      "forks": 73,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2025-09-12T00:40:48Z",
-      "updated_at": "2026-01-03T12:35:09Z",
+      "updated_at": "2026-01-03T12:48:20Z",
       "pushed_at": "2025-10-24T16:13:36Z",
       "open_issues": 8,
       "owner": {
@@ -376,14 +376,14 @@
       "full_name": "block/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "html_url": "https://github.com/block/goose",
-      "stars": 25402,
+      "stars": 25404,
       "forks": 2285,
       "language": "Rust",
       "topics": [
         "mcp"
       ],
       "created_at": "2024-08-23T19:03:36Z",
-      "updated_at": "2026-01-03T12:26:10Z",
+      "updated_at": "2026-01-03T12:50:49Z",
       "pushed_at": "2026-01-02T23:32:31Z",
       "open_issues": 263,
       "owner": {
@@ -429,7 +429,7 @@
       "full_name": "dsp56300/gearmulator",
       "description": "Low Level Emulation of classic VA synths & effects of the late 90s/2000s by emulating the used ICs",
       "html_url": "https://github.com/dsp56300/gearmulator",
-      "stars": 778,
+      "stars": 779,
       "forks": 67,
       "language": "C",
       "topics": [
@@ -441,7 +441,7 @@
         "waldorf"
       ],
       "created_at": "2021-07-13T22:17:38Z",
-      "updated_at": "2026-01-03T12:07:42Z",
+      "updated_at": "2026-01-03T12:40:53Z",
       "pushed_at": "2025-12-28T02:07:06Z",
       "open_issues": 12,
       "owner": {
@@ -457,7 +457,7 @@
       "full_name": "dinoki-ai/osaurus",
       "description": "The missing macOS LLM server. Run local or cloud models with OpenAI & Anthropic compatible APIs. MCP server for Cursor & Claude Desktop, menu bar chat, plugins, and dev tools. Native Apple Silicon.",
       "html_url": "https://github.com/dinoki-ai/osaurus",
-      "stars": 2880,
+      "stars": 2881,
       "forks": 113,
       "language": "Swift",
       "topics": [
@@ -473,7 +473,7 @@
         "swift"
       ],
       "created_at": "2025-08-17T15:05:39Z",
-      "updated_at": "2026-01-03T12:22:32Z",
+      "updated_at": "2026-01-03T12:45:51Z",
       "pushed_at": "2026-01-02T21:43:26Z",
       "open_issues": 18,
       "owner": {
@@ -572,7 +572,7 @@
       "full_name": "sxyazi/yazi",
       "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
       "html_url": "https://github.com/sxyazi/yazi",
-      "stars": 31115,
+      "stars": 31117,
       "forks": 675,
       "language": "Rust",
       "topics": [
@@ -597,7 +597,7 @@
         "windows"
       ],
       "created_at": "2023-07-08T11:45:55Z",
-      "updated_at": "2026-01-03T11:30:22Z",
+      "updated_at": "2026-01-03T12:51:06Z",
       "pushed_at": "2026-01-03T11:16:57Z",
       "open_issues": 64,
       "owner": {
@@ -704,12 +704,12 @@
       "full_name": "RikkaApps/Shizuku",
       "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
       "html_url": "https://github.com/RikkaApps/Shizuku",
-      "stars": 20254,
+      "stars": 20255,
       "forks": 1801,
       "language": "Kotlin",
       "topics": [],
       "created_at": "2017-05-24T13:53:49Z",
-      "updated_at": "2026-01-03T10:56:17Z",
+      "updated_at": "2026-01-03T12:43:23Z",
       "pushed_at": "2025-06-18T04:21:02Z",
       "open_issues": 167,
       "owner": {
@@ -836,7 +836,7 @@
       "full_name": "eythaann/Seelen-UI",
       "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
       "html_url": "https://github.com/eythaann/Seelen-UI",
-      "stars": 15339,
+      "stars": 15340,
       "forks": 468,
       "language": "Rust",
       "topics": [
@@ -861,7 +861,7 @@
         "windows-11"
       ],
       "created_at": "2024-02-16T18:03:35Z",
-      "updated_at": "2026-01-03T12:01:11Z",
+      "updated_at": "2026-01-03T12:45:56Z",
       "pushed_at": "2025-12-27T18:02:49Z",
       "open_issues": 123,
       "owner": {
@@ -877,7 +877,7 @@
       "full_name": "spacedriveapp/spacedrive",
       "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
       "html_url": "https://github.com/spacedriveapp/spacedrive",
-      "stars": 36435,
+      "stars": 36436,
       "forks": 1166,
       "language": "Rust",
       "topics": [
@@ -891,7 +891,7 @@
         "typescript"
       ],
       "created_at": "2021-09-27T05:09:04Z",
-      "updated_at": "2026-01-03T12:33:21Z",
+      "updated_at": "2026-01-03T12:38:48Z",
       "pushed_at": "2026-01-01T00:47:02Z",
       "open_issues": 10,
       "owner": {
@@ -1172,8 +1172,8 @@
       "full_name": "maplibre/maplibre-gl-js",
       "description": "MapLibre GL JS - Interactive vector tile maps in the browser",
       "html_url": "https://github.com/maplibre/maplibre-gl-js",
-      "stars": 8918,
-      "forks": 950,
+      "stars": 8925,
+      "forks": 951,
       "language": "TypeScript",
       "topics": [
         "hacktoberfest",
@@ -1184,7 +1184,7 @@
         "webgl2"
       ],
       "created_at": "2020-12-08T22:42:56Z",
-      "updated_at": "2026-01-03T12:28:07Z",
+      "updated_at": "2026-01-03T12:51:21Z",
       "pushed_at": "2026-01-02T08:23:58Z",
       "open_issues": 403,
       "owner": {
@@ -1222,7 +1222,7 @@
       "description": ":zap: Dynamically generated stats for your github readmes",
       "html_url": "https://github.com/anuraghazra/github-readme-stats",
       "stars": 77764,
-      "forks": 28831,
+      "forks": 28832,
       "language": "JavaScript",
       "topics": [
         "dynamic",
@@ -1248,12 +1248,12 @@
       "full_name": "apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",
       "html_url": "https://github.com/apple/container",
-      "stars": 23053,
+      "stars": 23054,
       "forks": 574,
       "language": "Swift",
       "topics": [],
       "created_at": "2025-05-30T21:26:05Z",
-      "updated_at": "2026-01-03T12:20:13Z",
+      "updated_at": "2026-01-03T12:41:47Z",
       "pushed_at": "2026-01-02T22:10:48Z",
       "open_issues": 250,
       "owner": {
@@ -1415,7 +1415,7 @@
       "full_name": "uber/h3",
       "description": "Hexagonal hierarchical geospatial indexing system",
       "html_url": "https://github.com/uber/h3",
-      "stars": 5801,
+      "stars": 5802,
       "forks": 541,
       "language": "C",
       "topics": [
@@ -1426,7 +1426,7 @@
         "uber"
       ],
       "created_at": "2017-12-21T01:38:35Z",
-      "updated_at": "2026-01-03T11:40:28Z",
+      "updated_at": "2026-01-03T12:48:18Z",
       "pushed_at": "2025-12-22T00:27:48Z",
       "open_issues": 144,
       "owner": {
@@ -1443,7 +1443,7 @@
       "description": "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects ",
       "html_url": "https://github.com/vsouza/awesome-ios",
       "stars": 50897,
-      "forks": 6939,
+      "forks": 6940,
       "language": "Swift",
       "topics": [
         "apple-swift",
@@ -1506,7 +1506,7 @@
       "full_name": "TwiN/gatus",
       "description": "The most advanced status page in the world",
       "html_url": "https://github.com/TwiN/gatus",
-      "stars": 9454,
+      "stars": 9455,
       "forks": 634,
       "language": "Go",
       "topics": [
@@ -1532,7 +1532,7 @@
         "uptime-monitoring"
       ],
       "created_at": "2019-09-04T02:35:40Z",
-      "updated_at": "2026-01-03T11:47:44Z",
+      "updated_at": "2026-01-03T12:48:10Z",
       "pushed_at": "2026-01-03T03:12:12Z",
       "open_issues": 233,
       "owner": {
@@ -1548,7 +1548,7 @@
       "full_name": "kunal-kushwaha/DSA-Bootcamp-Java",
       "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
       "html_url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
-      "stars": 21489,
+      "stars": 21491,
       "forks": 12894,
       "language": "Java",
       "topics": [
@@ -1567,7 +1567,7 @@
         "math"
       ],
       "created_at": "2021-07-30T12:23:25Z",
-      "updated_at": "2026-01-03T08:28:50Z",
+      "updated_at": "2026-01-03T12:47:08Z",
       "pushed_at": "2024-08-18T08:21:57Z",
       "open_issues": 624,
       "owner": {
@@ -1583,7 +1583,7 @@
       "full_name": "nautechsystems/nautilus_trader",
       "description": "A high-performance algorithmic trading platform and event-driven backtester",
       "html_url": "https://github.com/nautechsystems/nautilus_trader",
-      "stars": 16936,
+      "stars": 16938,
       "forks": 2009,
       "language": "Rust",
       "topics": [
@@ -1602,7 +1602,7 @@
         "trading-platform"
       ],
       "created_at": "2018-06-25T06:26:16Z",
-      "updated_at": "2026-01-03T11:38:18Z",
+      "updated_at": "2026-01-03T12:51:21Z",
       "pushed_at": "2026-01-03T08:40:15Z",
       "open_issues": 70,
       "owner": {
@@ -1618,7 +1618,7 @@
       "full_name": "temporalio/temporal",
       "description": "Temporal service",
       "html_url": "https://github.com/temporalio/temporal",
-      "stars": 17350,
+      "stars": 17351,
       "forks": 1259,
       "language": "Go",
       "topics": [
@@ -1639,7 +1639,7 @@
         "workflows"
       ],
       "created_at": "2019-10-16T22:15:35Z",
-      "updated_at": "2026-01-03T11:59:17Z",
+      "updated_at": "2026-01-03T12:46:33Z",
       "pushed_at": "2026-01-03T04:11:45Z",
       "open_issues": 654,
       "owner": {
@@ -1787,12 +1787,12 @@
       "full_name": "google-ai-edge/gallery",
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "html_url": "https://github.com/google-ai-edge/gallery",
-      "stars": 14737,
+      "stars": 14738,
       "forks": 1253,
       "language": "Kotlin",
       "topics": [],
       "created_at": "2025-03-31T17:47:28Z",
-      "updated_at": "2026-01-03T11:27:34Z",
+      "updated_at": "2026-01-03T12:44:00Z",
       "pushed_at": "2025-12-18T17:15:46Z",
       "open_issues": 153,
       "owner": {
@@ -1854,7 +1854,7 @@
       "description": "A Kernel based root solution for Android",
       "html_url": "https://github.com/tiann/KernelSU",
       "stars": 14609,
-      "forks": 2966,
+      "forks": 2967,
       "language": "Kotlin",
       "topics": [
         "android",
@@ -2278,7 +2278,7 @@
       "full_name": "mangerlahn/Latest",
       "description": "A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.",
       "html_url": "https://github.com/mangerlahn/Latest",
-      "stars": 4288,
+      "stars": 4289,
       "forks": 120,
       "language": "Swift",
       "topics": [
@@ -2289,7 +2289,7 @@
         "updater"
       ],
       "created_at": "2017-02-21T13:49:32Z",
-      "updated_at": "2026-01-03T11:44:56Z",
+      "updated_at": "2026-01-03T12:51:21Z",
       "pushed_at": "2025-11-21T22:50:27Z",
       "open_issues": 119,
       "owner": {
@@ -2380,7 +2380,7 @@
       "full_name": "OpenTTD/OpenTTD",
       "description": "OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe",
       "html_url": "https://github.com/OpenTTD/OpenTTD",
-      "stars": 7423,
+      "stars": 7424,
       "forks": 1075,
       "language": "C++",
       "topics": [
@@ -2391,7 +2391,7 @@
         "simulation"
       ],
       "created_at": "2018-04-06T18:06:22Z",
-      "updated_at": "2026-01-03T10:34:17Z",
+      "updated_at": "2026-01-03T12:40:09Z",
       "pushed_at": "2026-01-03T10:34:12Z",
       "open_issues": 335,
       "owner": {
@@ -2407,12 +2407,12 @@
       "full_name": "sohzm/cheating-daddy",
       "description": "a free and opensource app that lets you gain an unfair advantage",
       "html_url": "https://github.com/sohzm/cheating-daddy",
-      "stars": 4872,
+      "stars": 4873,
       "forks": 828,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2025-05-28T22:50:20Z",
-      "updated_at": "2026-01-03T11:04:45Z",
+      "updated_at": "2026-01-03T12:38:49Z",
       "pushed_at": "2025-12-12T14:21:35Z",
       "open_issues": 109,
       "owner": {
@@ -2898,7 +2898,7 @@
       "full_name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
       "html_url": "https://github.com/airbnb/javascript",
-      "stars": 148019,
+      "stars": 148018,
       "forks": 26784,
       "language": "JavaScript",
       "topics": [
@@ -2918,7 +2918,7 @@
         "tc39"
       ],
       "created_at": "2012-11-01T23:13:50Z",
-      "updated_at": "2026-01-03T11:51:38Z",
+      "updated_at": "2026-01-03T12:48:08Z",
       "pushed_at": "2025-11-06T00:54:14Z",
       "open_issues": 182,
       "owner": {
@@ -3078,9 +3078,9 @@
         "minecraft-launcher"
       ],
       "created_at": "2015-06-22T08:06:03Z",
-      "updated_at": "2026-01-03T12:31:11Z",
-      "pushed_at": "2026-01-03T12:31:07Z",
-      "open_issues": 336,
+      "updated_at": "2026-01-03T12:45:49Z",
+      "pushed_at": "2026-01-03T12:45:45Z",
+      "open_issues": 333,
       "owner": {
         "login": "HMCL-dev",
         "avatar_url": "https://avatars.githubusercontent.com/u/155959482?v=4"
@@ -3356,7 +3356,7 @@
       "full_name": "bmax121/APatch",
       "description": "The patching of Android kernel and Android system",
       "html_url": "https://github.com/bmax121/APatch",
-      "stars": 6844,
+      "stars": 6843,
       "forks": 631,
       "language": "Kotlin",
       "topics": [
@@ -3369,7 +3369,7 @@
         "root"
       ],
       "created_at": "2023-08-21T14:20:01Z",
-      "updated_at": "2026-01-03T09:59:35Z",
+      "updated_at": "2026-01-03T12:41:33Z",
       "pushed_at": "2025-12-30T14:16:00Z",
       "open_issues": 88,
       "owner": {
@@ -3837,14 +3837,14 @@
       "full_name": "YenalyLiew/Han1meViewer",
       "description": "[Deprecated] Thanks for your support!",
       "html_url": "https://github.com/YenalyLiew/Han1meViewer",
-      "stars": 3051,
+      "stars": 3052,
       "forks": 290,
       "language": "Kotlin",
       "topics": [
         "android"
       ],
       "created_at": "2022-08-12T10:34:37Z",
-      "updated_at": "2026-01-02T23:21:13Z",
+      "updated_at": "2026-01-03T12:51:11Z",
       "pushed_at": "2025-10-27T04:23:22Z",
       "open_issues": 52,
       "owner": {
@@ -4040,9 +4040,9 @@
         "reactive"
       ],
       "created_at": "2018-07-06T00:44:20Z",
-      "updated_at": "2026-01-03T12:36:16Z",
-      "pushed_at": "2026-01-02T22:22:33Z",
-      "open_issues": 2707,
+      "updated_at": "2026-01-03T12:47:15Z",
+      "pushed_at": "2026-01-03T12:47:10Z",
+      "open_issues": 2706,
       "owner": {
         "login": "quarkusio",
         "avatar_url": "https://avatars.githubusercontent.com/u/47638783?v=4"
@@ -4161,12 +4161,12 @@
       "full_name": "adityatandon15/LLD",
       "description": "All Code of LLD Playlist",
       "html_url": "https://github.com/adityatandon15/LLD",
-      "stars": 553,
+      "stars": 554,
       "forks": 384,
       "language": "Java",
       "topics": [],
       "created_at": "2025-02-25T15:59:36Z",
-      "updated_at": "2026-01-03T10:46:47Z",
+      "updated_at": "2026-01-03T12:50:40Z",
       "pushed_at": "2025-07-23T05:02:23Z",
       "open_issues": 7,
       "owner": {
@@ -4199,8 +4199,8 @@
       ],
       "created_at": "2010-11-22T21:21:23Z",
       "updated_at": "2026-01-03T11:01:49Z",
-      "pushed_at": "2026-01-02T22:25:18Z",
-      "open_issues": 3534,
+      "pushed_at": "2026-01-03T12:50:36Z",
+      "open_issues": 3536,
       "owner": {
         "login": "jenkinsci",
         "avatar_url": "https://avatars.githubusercontent.com/u/107424?v=4"
@@ -4605,7 +4605,7 @@
       ],
       "created_at": "2015-05-16T16:59:31Z",
       "updated_at": "2026-01-03T12:26:13Z",
-      "pushed_at": "2026-01-03T12:37:56Z",
+      "pushed_at": "2026-01-03T12:38:05Z",
       "open_issues": 467,
       "owner": {
         "login": "realm",
@@ -5120,5 +5120,5 @@
       "stars_today": 0
     }
   ],
-  "created_at": "2026-01-03T12:38:22.707927620Z"
+  "created_at": "2026-01-03T12:52:30.770083120Z"
 }
