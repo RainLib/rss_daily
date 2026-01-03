@@ -256,10 +256,25 @@ async fn main() -> Result<()> {
     let today_path = output_dir.join("GITHUB_TODAY.md");
     let latest_today_path = PathBuf::from("docs/rss/GITHUB_TODAY.md");
     if today_path.exists() {
-        if let Err(e) = std::fs::copy(&today_path, &latest_today_path) {
-            log::warn!("Failed to copy GITHUB_TODAY.md to latest path: {}", e);
+        // Read content
+        if let Ok(content) = std::fs::read_to_string(&today_path) {
+            // Replace image paths to point to the correct subdirectory
+            // Image paths in generated readme are like "Timestamp_Category_Repo.png"
+            // We need to prepend "{year}/{month_day}/" to them.
+            // A simple heuristic is to replace `]({date}_` with `]({year}/{month_day}/{date}_`
+            let relative_prefix = format!("{}/{}/", year, month_day);
+            let target_pattern = format!("]({}_", date);
+            let replacement = format!("]({}{}_", relative_prefix, date);
+
+            let new_content = content.replace(&target_pattern, &replacement);
+
+            if let Err(e) = std::fs::write(&latest_today_path, new_content) {
+                log::warn!("Failed to write latest GITHUB_TODAY.md: {}", e);
+            } else {
+                info!("Updated latest GITHUB_TODAY.md: {:?}", latest_today_path);
+            }
         } else {
-            info!("Updated latest GITHUB_TODAY.md: {:?}", latest_today_path);
+            log::warn!("Failed to read today's readme for copying.");
         }
     }
 
