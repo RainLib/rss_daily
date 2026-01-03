@@ -8,7 +8,7 @@
       "full_name": "usememos/memos",
       "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
       "html_url": "https://github.com/usememos/memos",
-      "stars": 49547,
+      "stars": 49559,
       "forks": 3574,
       "language": "Go",
       "topics": [
@@ -26,7 +26,7 @@
         "sqlite"
       ],
       "created_at": "2021-12-08T15:30:18Z",
-      "updated_at": "2026-01-03T15:05:15Z",
+      "updated_at": "2026-01-03T15:14:52Z",
       "pushed_at": "2026-01-03T12:43:21Z",
       "open_issues": 39,
       "owner": {
@@ -42,8 +42,8 @@
       "full_name": "BloopAI/vibe-kanban",
       "description": "Get 10X more out of Claude Code, Codex or any coding agent",
       "html_url": "https://github.com/BloopAI/vibe-kanban",
-      "stars": 11739,
-      "forks": 1063,
+      "stars": 11748,
+      "forks": 1065,
       "language": "Rust",
       "topics": [
         "agent",
@@ -53,7 +53,7 @@
         "task-manager"
       ],
       "created_at": "2025-06-14T19:10:21Z",
-      "updated_at": "2026-01-03T15:05:53Z",
+      "updated_at": "2026-01-03T15:14:28Z",
       "pushed_at": "2026-01-03T14:39:58Z",
       "open_issues": 187,
       "owner": {
@@ -93,7 +93,7 @@
       "full_name": "nocodb/nocodb",
       "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
       "html_url": "https://github.com/nocodb/nocodb",
-      "stars": 60137,
+      "stars": 60140,
       "forks": 4470,
       "language": "TypeScript",
       "topics": [
@@ -113,7 +113,7 @@
         "swagger"
       ],
       "created_at": "2017-10-29T18:51:48Z",
-      "updated_at": "2026-01-03T15:07:03Z",
+      "updated_at": "2026-01-03T15:15:10Z",
       "pushed_at": "2026-01-03T08:38:43Z",
       "open_issues": 549,
       "owner": {
@@ -152,7 +152,7 @@
       "created_at": "2025-08-04T14:16:16Z",
       "updated_at": "2026-01-03T14:56:49Z",
       "pushed_at": "2026-01-03T09:30:52Z",
-      "open_issues": 91,
+      "open_issues": 92,
       "owner": {
         "login": "farion1231",
         "avatar_url": "https://avatars.githubusercontent.com/u/44939412?v=4"
@@ -166,7 +166,7 @@
       "full_name": "organicmaps/organicmaps",
       "description": "🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!",
       "html_url": "https://github.com/organicmaps/organicmaps",
-      "stars": 12916,
+      "stars": 12917,
       "forks": 1278,
       "language": "C++",
       "topics": [
@@ -192,7 +192,7 @@
         "travelers"
       ],
       "created_at": "2020-12-27T19:02:26Z",
-      "updated_at": "2026-01-03T13:00:03Z",
+      "updated_at": "2026-01-03T15:12:07Z",
       "pushed_at": "2026-01-02T11:00:14Z",
       "open_issues": 3158,
       "owner": {
@@ -238,7 +238,7 @@
       "full_name": "thingsboard/thingsboard",
       "description": "Open-source IoT Platform - Device management, data collection, processing and visualization.",
       "html_url": "https://github.com/thingsboard/thingsboard",
-      "stars": 20858,
+      "stars": 20859,
       "forks": 6012,
       "language": "Java",
       "topics": [
@@ -264,7 +264,7 @@
         "widgets"
       ],
       "created_at": "2016-12-01T09:33:30Z",
-      "updated_at": "2026-01-03T14:54:26Z",
+      "updated_at": "2026-01-03T15:11:46Z",
       "pushed_at": "2026-01-02T12:14:46Z",
       "open_issues": 153,
       "owner": {
@@ -281,7 +281,7 @@
       "description": "AGENTS.md — a simple, open format for guiding coding agents",
       "html_url": "https://github.com/agentsmd/agents.md",
       "stars": 13961,
-      "forks": 985,
+      "forks": 986,
       "language": "TypeScript",
       "topics": [],
       "created_at": "2025-08-19T17:22:54Z",
@@ -301,14 +301,14 @@
       "full_name": "Koenkk/zigbee2mqtt",
       "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
       "html_url": "https://github.com/Koenkk/zigbee2mqtt",
-      "stars": 14538,
+      "stars": 14539,
       "forks": 1885,
       "language": "TypeScript",
       "topics": [
         "hacktoberfest"
       ],
       "created_at": "2018-04-08T12:01:34Z",
-      "updated_at": "2026-01-03T10:26:39Z",
+      "updated_at": "2026-01-03T15:08:56Z",
       "pushed_at": "2026-01-01T14:03:59Z",
       "open_issues": 821,
       "owner": {
@@ -355,12 +355,12 @@
       "full_name": "heyitsnoah/claudesidian",
       "description": null,
       "html_url": "https://github.com/heyitsnoah/claudesidian",
-      "stars": 960,
+      "stars": 962,
       "forks": 75,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2025-09-12T00:40:48Z",
-      "updated_at": "2026-01-03T15:06:53Z",
+      "updated_at": "2026-01-03T15:09:39Z",
       "pushed_at": "2025-10-24T16:13:36Z",
       "open_issues": 8,
       "owner": {
@@ -399,7 +399,7 @@
       "full_name": "Genymobile/scrcpy",
       "description": "Display and control your Android device",
       "html_url": "https://github.com/Genymobile/scrcpy",
-      "stars": 133484,
+      "stars": 133485,
       "forks": 12466,
       "language": "C",
       "topics": [
@@ -413,7 +413,7 @@
         "sdl2"
       ],
       "created_at": "2017-11-21T18:00:27Z",
-      "updated_at": "2026-01-03T14:46:34Z",
+      "updated_at": "2026-01-03T15:13:25Z",
       "pushed_at": "2026-01-02T14:01:42Z",
       "open_issues": 2666,
       "owner": {
@@ -490,7 +490,7 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "html_url": "https://github.com/openai/codex",
       "stars": 55142,
-      "forks": 7050,
+      "forks": 7051,
       "language": "Rust",
       "topics": [],
       "created_at": "2025-04-13T05:37:54Z",
@@ -510,7 +510,7 @@
       "full_name": "googleapis/genai-toolbox",
       "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
       "html_url": "https://github.com/googleapis/genai-toolbox",
-      "stars": 12094,
+      "stars": 12096,
       "forks": 1092,
       "language": "Go",
       "topics": [
@@ -535,7 +535,7 @@
         "tidb"
       ],
       "created_at": "2024-06-07T20:52:54Z",
-      "updated_at": "2026-01-03T14:36:58Z",
+      "updated_at": "2026-01-03T15:14:55Z",
       "pushed_at": "2026-01-02T15:28:11Z",
       "open_issues": 151,
       "owner": {
@@ -572,7 +572,7 @@
       "full_name": "sxyazi/yazi",
       "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
       "html_url": "https://github.com/sxyazi/yazi",
-      "stars": 31121,
+      "stars": 31122,
       "forks": 675,
       "language": "Rust",
       "topics": [
@@ -597,7 +597,7 @@
         "windows"
       ],
       "created_at": "2023-07-08T11:45:55Z",
-      "updated_at": "2026-01-03T14:23:29Z",
+      "updated_at": "2026-01-03T15:07:06Z",
       "pushed_at": "2026-01-03T11:16:57Z",
       "open_issues": 64,
       "owner": {
@@ -613,7 +613,7 @@
       "full_name": "reacherhq/check-if-email-exists",
       "description": "Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.",
       "html_url": "https://github.com/reacherhq/check-if-email-exists",
-      "stars": 7203,
+      "stars": 7205,
       "forks": 512,
       "language": "Rust",
       "topics": [
@@ -626,7 +626,7 @@
         "hacktoberfest"
       ],
       "created_at": "2017-04-25T12:47:51Z",
-      "updated_at": "2026-01-03T15:05:54Z",
+      "updated_at": "2026-01-03T15:11:06Z",
       "pushed_at": "2025-10-27T01:06:33Z",
       "open_issues": 86,
       "owner": {
@@ -704,12 +704,12 @@
       "full_name": "RikkaApps/Shizuku",
       "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
       "html_url": "https://github.com/RikkaApps/Shizuku",
-      "stars": 20262,
+      "stars": 20263,
       "forks": 1802,
       "language": "Kotlin",
       "topics": [],
       "created_at": "2017-05-24T13:53:49Z",
-      "updated_at": "2026-01-03T15:02:18Z",
+      "updated_at": "2026-01-03T15:11:19Z",
       "pushed_at": "2025-06-18T04:21:02Z",
       "open_issues": 167,
       "owner": {
@@ -752,7 +752,7 @@
       "full_name": "nikitabobko/AeroSpace",
       "description": "AeroSpace is an i3-like tiling window manager for macOS",
       "html_url": "https://github.com/nikitabobko/AeroSpace",
-      "stars": 17902,
+      "stars": 17903,
       "forks": 377,
       "language": "Swift",
       "topics": [
@@ -767,7 +767,7 @@
         "window-manager"
       ],
       "created_at": "2023-05-21T20:20:17Z",
-      "updated_at": "2026-01-03T15:06:45Z",
+      "updated_at": "2026-01-03T15:14:22Z",
       "pushed_at": "2026-01-02T13:19:30Z",
       "open_issues": 178,
       "owner": {
@@ -783,7 +783,7 @@
       "full_name": "DavidAnson/markdownlint",
       "description": "A Node.js style checker and lint tool for Markdown/CommonMark files.",
       "html_url": "https://github.com/DavidAnson/markdownlint",
-      "stars": 5708,
+      "stars": 5709,
       "forks": 862,
       "language": "JavaScript",
       "topics": [
@@ -793,7 +793,7 @@
         "nodejs"
       ],
       "created_at": "2015-03-15T05:37:49Z",
-      "updated_at": "2026-01-03T12:29:12Z",
+      "updated_at": "2026-01-03T15:11:18Z",
       "pushed_at": "2026-01-02T23:39:54Z",
       "open_issues": 75,
       "owner": {
@@ -809,7 +809,7 @@
       "full_name": "YaLTeR/niri",
       "description": "A scrollable-tiling Wayland compositor.",
       "html_url": "https://github.com/YaLTeR/niri",
-      "stars": 16930,
+      "stars": 16931,
       "forks": 622,
       "language": "Rust",
       "topics": [
@@ -820,7 +820,7 @@
         "wayland-compositor"
       ],
       "created_at": "2023-08-10T10:53:14Z",
-      "updated_at": "2026-01-03T14:55:48Z",
+      "updated_at": "2026-01-03T15:12:04Z",
       "pushed_at": "2026-01-01T08:07:16Z",
       "open_issues": 446,
       "owner": {
@@ -987,7 +987,7 @@
       "full_name": "valkey-io/valkey",
       "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
       "html_url": "https://github.com/valkey-io/valkey",
-      "stars": 24260,
+      "stars": 24261,
       "forks": 978,
       "language": "C",
       "topics": [
@@ -1001,7 +1001,7 @@
         "valkey-client"
       ],
       "created_at": "2024-03-22T00:42:17Z",
-      "updated_at": "2026-01-03T14:23:02Z",
+      "updated_at": "2026-01-03T15:10:45Z",
       "pushed_at": "2026-01-03T02:41:48Z",
       "open_issues": 575,
       "owner": {
@@ -1054,7 +1054,7 @@
       "full_name": "AAswordman/Operit",
       "description": "The most powerful AI agent and AI chat software on Android/Operit是一款Android上目前能力最为强大的AI Agent",
       "html_url": "https://github.com/AAswordman/Operit",
-      "stars": 2898,
+      "stars": 2899,
       "forks": 221,
       "language": "Kotlin",
       "topics": [
@@ -1067,7 +1067,7 @@
         "terminal"
       ],
       "created_at": "2025-03-15T04:24:12Z",
-      "updated_at": "2026-01-03T14:53:35Z",
+      "updated_at": "2026-01-03T15:14:15Z",
       "pushed_at": "2026-01-03T14:08:55Z",
       "open_issues": 42,
       "owner": {
@@ -1207,7 +1207,7 @@
       "full_name": "maplibre/maplibre-gl-js",
       "description": "MapLibre GL JS - Interactive vector tile maps in the browser",
       "html_url": "https://github.com/maplibre/maplibre-gl-js",
-      "stars": 8958,
+      "stars": 8959,
       "forks": 954,
       "language": "TypeScript",
       "topics": [
@@ -1219,7 +1219,7 @@
         "webgl2"
       ],
       "created_at": "2020-12-08T22:42:56Z",
-      "updated_at": "2026-01-03T15:03:41Z",
+      "updated_at": "2026-01-03T15:15:52Z",
       "pushed_at": "2026-01-02T08:23:58Z",
       "open_issues": 403,
       "owner": {
@@ -1257,7 +1257,7 @@
       "description": ":zap: Dynamically generated stats for your github readmes",
       "html_url": "https://github.com/anuraghazra/github-readme-stats",
       "stars": 77766,
-      "forks": 28839,
+      "forks": 28840,
       "language": "JavaScript",
       "topics": [
         "dynamic",
@@ -1541,7 +1541,7 @@
       "full_name": "TwiN/gatus",
       "description": "The most advanced status page in the world",
       "html_url": "https://github.com/TwiN/gatus",
-      "stars": 9457,
+      "stars": 9458,
       "forks": 634,
       "language": "Go",
       "topics": [
@@ -1567,7 +1567,7 @@
         "uptime-monitoring"
       ],
       "created_at": "2019-09-04T02:35:40Z",
-      "updated_at": "2026-01-03T13:58:31Z",
+      "updated_at": "2026-01-03T15:11:54Z",
       "pushed_at": "2026-01-03T03:12:12Z",
       "open_issues": 233,
       "owner": {
@@ -1720,7 +1720,7 @@
       "full_name": "ashishps1/awesome-leetcode-resources",
       "description": "Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.",
       "html_url": "https://github.com/ashishps1/awesome-leetcode-resources",
-      "stars": 14950,
+      "stars": 14951,
       "forks": 3269,
       "language": "Java",
       "topics": [
@@ -1732,7 +1732,7 @@
         "leetcode-patterns"
       ],
       "created_at": "2023-10-25T01:48:19Z",
-      "updated_at": "2026-01-03T13:48:20Z",
+      "updated_at": "2026-01-03T15:14:36Z",
       "pushed_at": "2025-11-25T13:00:27Z",
       "open_issues": 10,
       "owner": {
@@ -1808,12 +1808,12 @@
       "full_name": "shareAI-lab/Kode-cli",
       "description": "Design for post human.   Kode is one unit agent for every human & computer task",
       "html_url": "https://github.com/shareAI-lab/Kode-cli",
-      "stars": 3951,
+      "stars": 3952,
       "forks": 608,
       "language": "TypeScript",
       "topics": [],
       "created_at": "2025-07-12T14:21:51Z",
-      "updated_at": "2026-01-03T14:49:45Z",
+      "updated_at": "2026-01-03T15:09:48Z",
       "pushed_at": "2025-12-29T21:29:09Z",
       "open_issues": 84,
       "owner": {
@@ -1830,7 +1830,7 @@
       "description": "The open-source repo for docs.github.com",
       "html_url": "https://github.com/github/docs",
       "stars": 18643,
-      "forks": 65362,
+      "forks": 65361,
       "language": "TypeScript",
       "topics": [
         "docs",
@@ -1905,7 +1905,7 @@
       "full_name": "Effect-TS/effect",
       "description": "Build production-ready applications in TypeScript",
       "html_url": "https://github.com/Effect-TS/effect",
-      "stars": 12540,
+      "stars": 12541,
       "forks": 484,
       "language": "TypeScript",
       "topics": [
@@ -1924,7 +1924,7 @@
         "workflows"
       ],
       "created_at": "2019-11-13T12:49:21Z",
-      "updated_at": "2026-01-03T14:30:27Z",
+      "updated_at": "2026-01-03T15:07:44Z",
       "pushed_at": "2026-01-02T23:30:29Z",
       "open_issues": 448,
       "owner": {
@@ -2023,12 +2023,12 @@
       "full_name": "facebookresearch/faiss",
       "description": "A library for efficient similarity search and clustering of dense vectors.",
       "html_url": "https://github.com/facebookresearch/faiss",
-      "stars": 38625,
+      "stars": 38626,
       "forks": 4176,
       "language": "C++",
       "topics": [],
       "created_at": "2017-02-07T16:07:05Z",
-      "updated_at": "2026-01-03T11:26:26Z",
+      "updated_at": "2026-01-03T15:11:41Z",
       "pushed_at": "2025-12-30T01:50:40Z",
       "open_issues": 277,
       "owner": {
@@ -2278,7 +2278,7 @@
       "full_name": "mangerlahn/Latest",
       "description": "A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.",
       "html_url": "https://github.com/mangerlahn/Latest",
-      "stars": 4289,
+      "stars": 4291,
       "forks": 120,
       "language": "Swift",
       "topics": [
@@ -2289,7 +2289,7 @@
         "updater"
       ],
       "created_at": "2017-02-21T13:49:32Z",
-      "updated_at": "2026-01-03T12:51:21Z",
+      "updated_at": "2026-01-03T15:15:27Z",
       "pushed_at": "2025-11-21T22:50:27Z",
       "open_issues": 119,
       "owner": {
@@ -2838,7 +2838,7 @@
       "full_name": "mamiiblt/instafel",
       "description": "Instafel provides fast & up-to-date Instagram Alpha experience for everyone!",
       "html_url": "https://github.com/mamiiblt/instafel",
-      "stars": 740,
+      "stars": 741,
       "forks": 23,
       "language": "Java",
       "topics": [
@@ -2846,7 +2846,7 @@
         "source-code"
       ],
       "created_at": "2024-01-16T16:26:27Z",
-      "updated_at": "2026-01-03T14:25:28Z",
+      "updated_at": "2026-01-03T15:11:02Z",
       "pushed_at": "2026-01-03T02:53:40Z",
       "open_issues": 14,
       "owner": {
@@ -3146,7 +3146,7 @@
       "full_name": "khcrysalis/Feather",
       "description": "Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.",
       "html_url": "https://github.com/khcrysalis/Feather",
-      "stars": 3395,
+      "stars": 3396,
       "forks": 299,
       "language": "Swift",
       "topics": [
@@ -3164,7 +3164,7 @@
         "zsign"
       ],
       "created_at": "2024-05-19T17:44:22Z",
-      "updated_at": "2026-01-03T14:35:30Z",
+      "updated_at": "2026-01-03T15:16:03Z",
       "pushed_at": "2026-01-03T13:50:11Z",
       "open_issues": 13,
       "owner": {
@@ -4084,7 +4084,7 @@
       "full_name": "bitwarden/android",
       "description": "Bitwarden mobile apps (Password Manager and Authenticator) for Android.",
       "html_url": "https://github.com/bitwarden/android",
-      "stars": 8222,
+      "stars": 8223,
       "forks": 926,
       "language": "Kotlin",
       "topics": [
@@ -4095,7 +4095,7 @@
         "kotlin"
       ],
       "created_at": "2016-04-30T16:43:17Z",
-      "updated_at": "2026-01-03T14:54:25Z",
+      "updated_at": "2026-01-03T15:09:44Z",
       "pushed_at": "2026-01-02T20:47:21Z",
       "open_issues": 142,
       "owner": {
@@ -4215,7 +4215,7 @@
       "description": "An open-source C++ library developed and used at Facebook.",
       "html_url": "https://github.com/facebook/folly",
       "stars": 30183,
-      "forks": 5831,
+      "forks": 5830,
       "language": "C++",
       "topics": [],
       "created_at": "2012-06-01T20:49:04Z",
@@ -4525,7 +4525,7 @@
       ],
       "created_at": "2020-09-21T12:58:30Z",
       "updated_at": "2026-01-03T12:59:27Z",
-      "pushed_at": "2026-01-03T14:01:10Z",
+      "pushed_at": "2026-01-03T15:08:41Z",
       "open_issues": 292,
       "owner": {
         "login": "nightscout",
@@ -4739,7 +4739,7 @@
       "full_name": "grafana/alloy",
       "description": "OpenTelemetry Collector distribution with programmable pipelines",
       "html_url": "https://github.com/grafana/alloy",
-      "stars": 2769,
+      "stars": 2770,
       "forks": 494,
       "language": "Go",
       "topics": [
@@ -4753,7 +4753,7 @@
         "prometheus"
       ],
       "created_at": "2024-02-28T14:00:15Z",
-      "updated_at": "2026-01-03T12:30:30Z",
+      "updated_at": "2026-01-03T15:08:42Z",
       "pushed_at": "2026-01-02T17:34:11Z",
       "open_issues": 1181,
       "owner": {
@@ -5120,5 +5120,5 @@
       "stars_today": 0
     }
   ],
-  "created_at": "2026-01-03T15:07:42.553691815Z"
+  "created_at": "2026-01-03T15:16:33.602750683Z"
 }
