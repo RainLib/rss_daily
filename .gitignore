@@ -16,12 +16,13 @@ Cargo.lock
 .env.local
 
 # Output
-# docs/rss/*.xml
-# docs/rss/*.png
+# Output
+docs/rss/
+!docs/rss/.gitkeep
 
 # Data (keep structure but ignore actual data files)
-# data/**/*.json
-!data/**/.gitkeep
+data/
+!data/.gitkeep
 
 # OS
 .DS_Store
