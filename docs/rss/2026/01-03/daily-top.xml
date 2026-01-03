@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel><title>daily-top - GitHub Trending RSS</title><link>https://your-username.github.io/rss-daily-cursor/rss/daily-top.xml</link><description>GitHub trending repositories RSS feed for daily-top</description><language>zh</language><lastBuildDate>Sat, 3 Jan 2026 02:38:44 +0000</lastBuildDate><item><title>mock-repo-preview - This is a mock repository generated because &apos;mock_mode&apos; is enabled or API rate limit was reached.</title><link>https://github.com/test/mock-repo</link><description><![CDATA[<img src="2026-01-03_daily-top_mock-repo-preview.png" alt="mock-repo-preview - This is a mock repository generated because 'mock_mode' is enabled or API rate limit was reached." /><br/><br/><div class="repo-card">
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel><title>daily-top - GitHub Trending RSS</title><link>https://your-username.github.io/rss-daily-cursor/rss/daily-top.xml</link><description>GitHub trending repositories RSS feed for daily-top</description><language>zh</language><lastBuildDate>Sat, 3 Jan 2026 02:44:26 +0000</lastBuildDate><item><title>mock-repo-preview - This is a mock repository generated because &apos;mock_mode&apos; is enabled or API rate limit was reached.</title><link>https://github.com/test/mock-repo</link><description><![CDATA[<img src="2026-01-03_daily-top_mock-repo-preview.png" alt="mock-repo-preview - This is a mock repository generated because 'mock_mode' is enabled or API rate limit was reached." /><br/><br/><div class="repo-card">
     <div class="rank-badge rank-1">
         <span class="rank-number">#1</span>
     </div>
@@ -477,7 +477,7 @@
         margin-top: 2px;
     }
 </style>
-]]></description><pubDate>Sat, 3 Jan 2026 02:37:57 +0000</pubDate></item><item><title>react - The library for web and native user interfaces.</title><link>https://github.com/facebook/react</link><description><![CDATA[<img src="2026-01-03_daily-top_react.png" alt="react - The library for web and native user interfaces." /><br/><br/><div class="repo-card">
+]]></description><pubDate>Sat, 3 Jan 2026 02:43:45 +0000</pubDate></item><item><title>react - The library for web and native user interfaces.</title><link>https://github.com/facebook/react</link><description><![CDATA[<img src="2026-01-03_daily-top_react.png" alt="react - The library for web and native user interfaces." /><br/><br/><div class="repo-card">
     <div class="rank-badge rank-2">
         <span class="rank-number">#2</span>
     </div>
