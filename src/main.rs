@@ -225,8 +225,16 @@ async fn main() -> Result<()> {
 
         // 保存 RSS 文件
         let rss_path = output_dir.join(format!("{}.xml", category.name));
-        std::fs::write(&rss_path, rss_content)?;
+        std::fs::write(&rss_path, &rss_content)?;
         info!("Generated RSS feed: {:?}", rss_path);
+
+        // Copy to docs/rss/{category}.xml as the latest version
+        let latest_rss_path = PathBuf::from("docs/rss").join(format!("{}.xml", category.name));
+        if let Err(e) = std::fs::copy(&rss_path, &latest_rss_path) {
+            log::warn!("Failed to copy RSS to latest path: {}", e);
+        } else {
+            info!("Updated latest RSS feed: {:?}", latest_rss_path);
+        }
 
         // 推送到平台（如果配置了）
         if config.push.enabled {
@@ -243,6 +251,17 @@ async fn main() -> Result<()> {
     info!("Generating daily README for {}...", date);
     readme_generator.generate_daily_readme(&date, &category_data, &output_dir)?;
     info!("Generated README_{}.md", date);
+
+    // Update docs/rss/GITHUB_TODAY.md as latest
+    let today_path = output_dir.join("GITHUB_TODAY.md");
+    let latest_today_path = PathBuf::from("docs/rss/GITHUB_TODAY.md");
+    if today_path.exists() {
+        if let Err(e) = std::fs::copy(&today_path, &latest_today_path) {
+            log::warn!("Failed to copy GITHUB_TODAY.md to latest path: {}", e);
+        } else {
+            info!("Updated latest GITHUB_TODAY.md: {:?}", latest_today_path);
+        }
+    }
 
     info!("RSS generation completed successfully!");
     Ok(())
