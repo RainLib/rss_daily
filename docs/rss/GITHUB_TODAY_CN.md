@@ -7,7 +7,7 @@
 | 统计项 | 数值 |
 |--------|------|
 | 📦 精选项目 | **10** |
-| ⏰ 更新时间 | 2026-01-03 11:11 UTC |
+| ⏰ 更新时间 | 2026-01-03 11:19 UTC |
 
 ---
 
@@ -17,7 +17,7 @@
 
 | 指标 | 值 |
 |------|----|
-| ⭐ Stars | **11582** |
+| ⭐ Stars | **11587** |
 | 🍴 Forks | **1043** |
 | 💻 Language | Rust |
 | 🏷️ Tags | `agent` `ai-agents` `kanban` `management` `task-manager` |
@@ -31,7 +31,7 @@
 
 | 指标 | 值 |
 |------|----|
-| ⭐ Stars | **49189** |
+| ⭐ Stars | **49198** |
 | 🍴 Forks | **3557** |
 | 💻 Language | Go |
 | 🏷️ Tags | `docker` `foss` `go` `markdown` `memo` |
@@ -45,7 +45,7 @@
 
 | 指标 | 值 |
 |------|----|
-| ⭐ Stars | **8682** |
+| ⭐ Stars | **8683** |
 | 🍴 Forks | **585** |
 | 💻 Language | Rust |
 | 🏷️ Tags | `ai-tools` `claude-code` `codex` `deepseek-v3` `desktop-app` |
@@ -59,7 +59,7 @@
 
 | 指标 | 值 |
 |------|----|
-| ⭐ Stars | **16158** |
+| ⭐ Stars | **16159** |
 | 🍴 Forks | **4737** |
 | 💻 Language | TypeScript |
 | 🏷️ Tags | `elegant` `news` |
@@ -87,7 +87,7 @@
 
 | 指标 | 值 |
 |------|----|
-| ⭐ Stars | **1711** |
+| ⭐ Stars | **1713** |
 | 🍴 Forks | **45** |
 | 💻 Language | Go |
 | 🏷️ Tags | `cross-seed` `cross-seeding` `go` `golang` `libtorrent` |
@@ -101,7 +101,7 @@
 
 | 指标 | 值 |
 |------|----|
-| ⭐ Stars | **20847** |
+| ⭐ Stars | **20848** |
 | 🍴 Forks | **6012** |
 | 💻 Language | Java |
 | 🏷️ Tags | `cloud` `coap` `dashboard` `iot` `iot-analytics` |
@@ -128,7 +128,7 @@
 
 | 指标 | 值 |
 |------|----|
-| ⭐ Stars | **60051** |
+| ⭐ Stars | **60053** |
 | 🍴 Forks | **4462** |
 | 💻 Language | TypeScript |
 | 🏷️ Tags | `airtable` `airtable-alternative` `automatic-api` `hacktoberfest` `low-code` |
@@ -142,7 +142,7 @@
 
 | 指标 | 值 |
 |------|----|
-| ⭐ Stars | **16635** |
+| ⭐ Stars | **16638** |
 | 🍴 Forks | **1248** |
 | 💻 Language | TypeScript |
 | 🏷️ Tags | `electron` `linux` `mac` `music` `music-player` |
@@ -164,4 +164,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-03 11:11:27 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-03 11:19:47 UTC
