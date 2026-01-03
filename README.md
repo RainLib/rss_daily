@@ -1,30 +1,26 @@
-# 🌟 GitHub Trending Daily
+# GitHub Trending Daily
 
-> 每日自动推荐 GitHub 最有价值的热门项目
+> Daily automatic recommendation of valuable GitHub trending projects
 
-## 📖 今日推荐
+## 📖 Today's Picks
 
-查看今日精选的 Top 15 GitHub 项目：
+Check out today's Top 10 GitHub projects:
 
-👉 **[点击查看今日推荐](docs/rss/GITHUB_TODAY.md)**
+**[👉 Click to view Today's Picks](docs/rss/GITHUB_TODAY.md)**
 
-## 🔔 RSS 订阅
+## 🔔 RSS Subscription
 
-通过 RSS 订阅，第一时间获取每日更新：
+Subscribe via RSS to get daily updates:
 
 - **RSS Feed**: [docs/rss/daily-top.xml](docs/rss/daily-top.xml)
 
-## ⚙️ 特性
+## ⚙️ Features
 
-- 🤖 **智能算法**：基于对数评分、增长率和时间衰减的趋势算法
-- 📊 **每日更新**：自动抓取并推荐最有价值的项目
-- 🎨 **精美卡片**：为每个项目生成可视化卡片
-- 📡 **RSS 订阅**：支持 RSS 阅读器订阅
+- 🤖 **Smart Algo**: Trending algorithm based on log scoring, growth rate, and decay.
+- 📊 **Daily Updates**: Automatically crawls and recommends the most valuable projects.
+- 🎨 **Beautiful Cards**: Generates visualization cards for every project.
+- 📡 **RSS Support**: Supports RSS reader subscription.
 
-## 📁 历史记录
+## 📁 History
 
-所有历史推荐保存在 `docs/rss/{date}/` 目录下，方便查阅往期精选项目。
-
----
-
-_⚡ Powered by Smart Trending Algorithm_
+All historical recommendations are saved in `docs/rss/{date}/` for easy access.
