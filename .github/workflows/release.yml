@@ -31,5 +31,5 @@ jobs:
       - name: Upload Release
         uses: softprops/action-gh-release@v1
         with:
-          files: target/release/rss-daily-cursor
+          files: target/release/rss-daily
           generate_release_notes: true
