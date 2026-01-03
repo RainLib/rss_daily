@@ -109,6 +109,11 @@ impl Config {
             }
         }
 
+        // 调试配置覆盖
+        if let Ok(mock_mode) = std::env::var("DEBUG_MOCK_MODE") {
+            config.debug.mock_mode = mock_mode.parse().unwrap_or(false);
+        }
+
         Ok(config)
     }
 }

@@ -62,4 +62,4 @@ password = ""
 
 # 调试配置
 [debug]
-mock_mode = true  # 开启 Mock 模式，不请求 GitHub API，直接生成测试数据
+mock_mode = false  # 开启 Mock 模式，不请求 GitHub API，直接生成测试数据
