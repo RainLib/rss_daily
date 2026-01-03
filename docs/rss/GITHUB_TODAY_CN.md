@@ -7,7 +7,7 @@
 | 统计项 | 数值 |
 |--------|------|
 | 📦 精选项目 | **10** |
-| ⏰ 更新时间 | 2026-01-03 08:20 UTC |
+| ⏰ 更新时间 | 2026-01-03 09:12 UTC |
 
 ---
 
@@ -17,8 +17,8 @@
 
 | 指标 | 值 |
 |------|----|
-| ⭐ Stars | **11522** |
-| 🍴 Forks | **1039** |
+| ⭐ Stars | **11548** |
+| 🍴 Forks | **1040** |
 | 💻 Language | Rust |
 | 🏷️ Tags | `agent` `ai-agents` `kanban` `management` `task-manager` |
 | 📈 今日新增 | **721** |
@@ -27,130 +27,131 @@
 
 ![vibe-kanban](2026/01-03/2026-01-03_daily-top_vibe-kanban.png)
 
-### 2. [termux-app](https://github.com/termux/termux-app)
+### 2. [memos](https://github.com/usememos/memos)
 
 | 指标 | 值 |
 |------|----|
-| ⭐ Stars | **48385** |
-| 🍴 Forks | **5784** |
-| 💻 Language | Java |
-| 🏷️ Tags | `android` `hacktoberfest` `linux` `terminal` `termux` |
-| 📈 今日新增 | **42** |
+| ⭐ Stars | **49089** |
+| 🍴 Forks | **3551** |
+| 💻 Language | Go |
+| 🏷️ Tags | `docker` `foss` `go` `markdown` `memo` |
+| 📈 今日新增 | **661** |
 
-**📝 描述:** Termux - a terminal emulator application for Android OS extendible by variety of packages.
+**📝 描述:** An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 
-![termux-app](2026/01-03/2026-01-03_daily-top_termux-app.png)
+![memos](2026/01-03/2026-01-03_daily-top_memos.png)
 
-### 3. [bevy](https://github.com/bevyengine/bevy)
+### 3. [cs249r_book](https://github.com/harvard-edge/cs249r_book)
 
 | 指标 | 值 |
 |------|----|
-| ⭐ Stars | **43820** |
-| 🍴 Forks | **4305** |
+| ⭐ Stars | **14916** |
+| 🍴 Forks | **1694** |
+| 💻 Language | JavaScript |
+| 🏷️ Tags | `artificial-intelligence` `cloud-ml` `computer-systems` `courseware` `deep-learning` |
+| 📈 今日新增 | **489** |
+
+**📝 描述:** Introduction to Machine Learning Systems
+
+![cs249r_book](2026/01-03/2026-01-03_daily-top_cs249r_book.png)
+
+### 4. [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC)
+
+| 指标 | 值 |
+|------|----|
+| ⭐ Stars | **2113** |
+| 🍴 Forks | **126** |
+| 💻 Language | TypeScript |
+| 🏷️ Tags | `spotify` `spotify-downloader` `wails` |
+| 📈 今日新增 | **268** |
+
+**📝 描述:** Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
+
+![SpotiFLAC](2026/01-03/2026-01-03_daily-top_SpotiFLAC.png)
+
+### 5. [newsnow](https://github.com/ourongxing/newsnow)
+
+| 指标 | 值 |
+|------|----|
+| ⭐ Stars | **16139** |
+| 🍴 Forks | **4731** |
+| 💻 Language | TypeScript |
+| 🏷️ Tags | `elegant` `news` |
+| 📈 今日新增 | **220** |
+
+**📝 描述:** Elegant reading of real-time and hottest news
+
+![newsnow](2026/01-03/2026-01-03_daily-top_newsnow.png)
+
+### 6. [organicmaps](https://github.com/organicmaps/organicmaps)
+
+| 指标 | 值 |
+|------|----|
+| ⭐ Stars | **12915** |
+| 🍴 Forks | **1278** |
+| 💻 Language | C++ |
+| 🏷️ Tags | `android` `app` `cpp` `cyclists` `hacktoberfest` |
+| 📈 今日新增 | **208** |
+
+**📝 描述:** 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!
+
+![organicmaps](2026/01-03/2026-01-03_daily-top_organicmaps.png)
+
+### 7. [qui](https://github.com/autobrr/qui)
+
+| 指标 | 值 |
+|------|----|
+| ⭐ Stars | **1709** |
+| 🍴 Forks | **44** |
+| 💻 Language | Go |
+| 🏷️ Tags | `cross-seed` `cross-seeding` `go` `golang` `libtorrent` |
+| 📈 今日新增 | **199** |
+
+**📝 描述:** A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. Go + React.
+
+![qui](2026/01-03/2026-01-03_daily-top_qui.png)
+
+### 8. [nocodb](https://github.com/nocodb/nocodb)
+
+| 指标 | 值 |
+|------|----|
+| ⭐ Stars | **59991** |
+| 🍴 Forks | **4460** |
+| 💻 Language | TypeScript |
+| 🏷️ Tags | `airtable` `airtable-alternative` `automatic-api` `hacktoberfest` `low-code` |
+| 📈 今日新增 | **112** |
+
+**📝 描述:** 🔥 🔥 🔥 Open Source Airtable Alternative
+
+![nocodb](2026/01-03/2026-01-03_daily-top_nocodb.png)
+
+### 9. [goose](https://github.com/block/goose)
+
+| 指标 | 值 |
+|------|----|
+| ⭐ Stars | **25398** |
+| 🍴 Forks | **2284** |
 | 💻 Language | Rust |
-| 🏷️ Tags | `bevy` `game-development` `game-engine` `gamedev` `open-source` |
-| 📈 今日新增 | **31** |
+| 🏷️ Tags | `mcp` |
+| 📈 今日新增 | **66** |
 
-**📝 描述:** A refreshingly simple data-driven game engine built in Rust
+**📝 描述:** an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 
-![bevy](2026/01-03/2026-01-03_daily-top_bevy.png)
+![goose](2026/01-03/2026-01-03_daily-top_goose.png)
 
-### 4. [awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)
-
-| 指标 | 值 |
-|------|----|
-| ⭐ Stars | **20689** |
-| 🍴 Forks | **5120** |
-| 💻 Language | Java |
-| 🏷️ Tags | `awesome` `design-patterns` `interview` `interview-practice` `interview-questions` |
-| 📈 今日新增 | **23** |
-
-**📝 描述:** Learn Low Level Design (LLD) and prepare for interviews using free resources.
-
-![awesome-low-level-design](2026/01-03/2026-01-03_daily-top_awesome-low-level-design.png)
-
-### 5. [Mindustry](https://github.com/Anuken/Mindustry)
+### 10. [scrcpy](https://github.com/Genymobile/scrcpy)
 
 | 指标 | 值 |
 |------|----|
-| ⭐ Stars | **26116** |
-| 🍴 Forks | **3330** |
-| 💻 Language | Java |
-| 🏷️ Tags | `android` `desktop` `game` `java` `mindustry` |
-| 📈 今日新增 | **18** |
+| ⭐ Stars | **133473** |
+| 🍴 Forks | **12464** |
+| 💻 Language | C |
+| 🏷️ Tags | `android` `c` `ffmpeg` `libav` `mirroring` |
+| 📈 今日新增 | **65** |
 
-**📝 描述:** The automation tower defense RTS
+**📝 描述:** Display and control your Android device
 
-![Mindustry](2026/01-03/2026-01-03_daily-top_Mindustry.png)
-
-### 6. [DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
-
-| 指标 | 值 |
-|------|----|
-| ⭐ Stars | **21488** |
-| 🍴 Forks | **12893** |
-| 💻 Language | Java |
-| 🏷️ Tags | `algorithms` `competitive-programming` `data-structures` `faang-interview` `faang-preparation` |
-| 📈 今日新增 | **17** |
-
-**📝 描述:** This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.
-
-![DSA-Bootcamp-Java](2026/01-03/2026-01-03_daily-top_DSA-Bootcamp-Java.png)
-
-### 7. [nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
-
-| 指标 | 值 |
-|------|----|
-| ⭐ Stars | **16932** |
-| 🍴 Forks | **2007** |
-| 💻 Language | Rust |
-| 🏷️ Tags | `algorithmic-trading-engine` `artificial-intelligence` `crypto-trading` `equity-trading` `forex` |
-| 📈 今日新增 | **17** |
-
-**📝 描述:** A high-performance algorithmic trading platform and event-driven backtester
-
-![nautilus_trader](2026/01-03/2026-01-03_daily-top_nautilus_trader.png)
-
-### 8. [awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources)
-
-| 指标 | 值 |
-|------|----|
-| ⭐ Stars | **14942** |
-| 🍴 Forks | **3268** |
-| 💻 Language | Java |
-| 🏷️ Tags | `algorithms` `coding` `data-structures` `dsa` `leetcode` |
-| 📈 今日新增 | **16** |
-
-**📝 描述:** Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.
-
-![awesome-leetcode-resources](2026/01-03/2026-01-03_daily-top_awesome-leetcode-resources.png)
-
-### 9. [SmartTube](https://github.com/yuliskov/SmartTube)
-
-| 指标 | 值 |
-|------|----|
-| ⭐ Stars | **27343** |
-| 🍴 Forks | **1472** |
-| 💻 Language | Java |
-| 🏷️ Tags | `android` `android-tv` `android-tv-box` `java` `kotlin` |
-| 📈 今日新增 | **15** |
-
-**📝 描述:** Browse media content with your own rules on Android TV
-
-![SmartTube](2026/01-03/2026-01-03_daily-top_SmartTube.png)
-
-### 10. [GhidraMCP](https://github.com/LaurieWired/GhidraMCP)
-
-| 指标 | 值 |
-|------|----|
-| ⭐ Stars | **6970** |
-| 🍴 Forks | **556** |
-| 💻 Language | Java |
-| 📈 今日新增 | **11** |
-
-**📝 描述:** MCP Server for Ghidra
-
-![GhidraMCP](2026/01-03/2026-01-03_daily-top_GhidraMCP.png)
+![scrcpy](2026/01-03/2026-01-03_daily-top_scrcpy.png)
 
 ---
 
@@ -164,4 +165,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-03 08:20:43 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-03 09:12:30 UTC

@@ -8,7 +8,7 @@
       "full_name": "BloopAI/vibe-kanban",
       "description": "Get 10X more out of Claude Code, Codex or any coding agent",
       "html_url": "https://github.com/BloopAI/vibe-kanban",
-      "stars": 11545,
+      "stars": 11548,
       "forks": 1040,
       "language": "Rust",
       "topics": [
@@ -19,7 +19,7 @@
         "task-manager"
       ],
       "created_at": "2025-06-14T19:10:21Z",
-      "updated_at": "2026-01-03T09:03:20Z",
+      "updated_at": "2026-01-03T09:10:36Z",
       "pushed_at": "2026-01-03T05:57:02Z",
       "open_issues": 183,
       "owner": {
@@ -35,7 +35,7 @@
       "full_name": "usememos/memos",
       "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
       "html_url": "https://github.com/usememos/memos",
-      "stars": 49087,
+      "stars": 49089,
       "forks": 3551,
       "language": "Go",
       "topics": [
@@ -53,7 +53,7 @@
         "sqlite"
       ],
       "created_at": "2021-12-08T15:30:18Z",
-      "updated_at": "2026-01-03T09:03:47Z",
+      "updated_at": "2026-01-03T09:09:46Z",
       "pushed_at": "2026-01-03T06:27:40Z",
       "open_issues": 37,
       "owner": {
@@ -69,7 +69,7 @@
       "full_name": "harvard-edge/cs249r_book",
       "description": "Introduction to Machine Learning Systems",
       "html_url": "https://github.com/harvard-edge/cs249r_book",
-      "stars": 14914,
+      "stars": 14916,
       "forks": 1694,
       "language": "JavaScript",
       "topics": [
@@ -87,7 +87,7 @@
         "tinyml"
       ],
       "created_at": "2023-09-06T19:31:06Z",
-      "updated_at": "2026-01-03T09:02:30Z",
+      "updated_at": "2026-01-03T09:11:13Z",
       "pushed_at": "2026-01-03T01:00:12Z",
       "open_issues": 37,
       "owner": {
@@ -128,7 +128,7 @@
       "full_name": "ourongxing/newsnow",
       "description": "Elegant reading of real-time and hottest news",
       "html_url": "https://github.com/ourongxing/newsnow",
-      "stars": 16137,
+      "stars": 16139,
       "forks": 4731,
       "language": "TypeScript",
       "topics": [
@@ -136,7 +136,7 @@
         "news"
       ],
       "created_at": "2024-09-23T14:16:12Z",
-      "updated_at": "2026-01-03T09:04:26Z",
+      "updated_at": "2026-01-03T09:10:52Z",
       "pushed_at": "2025-12-27T15:23:56Z",
       "open_issues": 107,
       "owner": {
@@ -224,7 +224,7 @@
       "full_name": "nocodb/nocodb",
       "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
       "html_url": "https://github.com/nocodb/nocodb",
-      "stars": 59990,
+      "stars": 59991,
       "forks": 4460,
       "language": "TypeScript",
       "topics": [
@@ -244,7 +244,7 @@
         "swagger"
       ],
       "created_at": "2017-10-29T18:51:48Z",
-      "updated_at": "2026-01-03T09:02:46Z",
+      "updated_at": "2026-01-03T09:11:25Z",
       "pushed_at": "2026-01-03T08:38:43Z",
       "open_issues": 549,
       "owner": {
@@ -283,7 +283,7 @@
       "full_name": "Genymobile/scrcpy",
       "description": "Display and control your Android device",
       "html_url": "https://github.com/Genymobile/scrcpy",
-      "stars": 133472,
+      "stars": 133473,
       "forks": 12464,
       "language": "C",
       "topics": [
@@ -297,7 +297,7 @@
         "sdl2"
       ],
       "created_at": "2017-11-21T18:00:27Z",
-      "updated_at": "2026-01-03T08:42:20Z",
+      "updated_at": "2026-01-03T09:11:15Z",
       "pushed_at": "2026-01-02T14:01:42Z",
       "open_issues": 2666,
       "owner": {
@@ -313,12 +313,12 @@
       "full_name": "badlogic/pi-mono",
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "html_url": "https://github.com/badlogic/pi-mono",
-      "stars": 1003,
+      "stars": 1004,
       "forks": 138,
       "language": "TypeScript",
       "topics": [],
       "created_at": "2025-08-09T14:03:50Z",
-      "updated_at": "2026-01-03T09:03:59Z",
+      "updated_at": "2026-01-03T09:05:48Z",
       "pushed_at": "2026-01-03T08:43:25Z",
       "open_issues": 11,
       "owner": {
@@ -362,7 +362,7 @@
       "full_name": "glanceapp/glance",
       "description": "A self-hosted dashboard that puts all your feeds in one place",
       "html_url": "https://github.com/glanceapp/glance",
-      "stars": 30880,
+      "stars": 30881,
       "forks": 1152,
       "language": "Go",
       "topics": [
@@ -382,7 +382,7 @@
         "youtube"
       ],
       "created_at": "2024-04-27T18:55:38Z",
-      "updated_at": "2026-01-03T08:46:56Z",
+      "updated_at": "2026-01-03T09:07:10Z",
       "pushed_at": "2025-12-10T09:44:11Z",
       "open_issues": 261,
       "owner": {
@@ -419,7 +419,7 @@
       "full_name": "sxyazi/yazi",
       "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
       "html_url": "https://github.com/sxyazi/yazi",
-      "stars": 31112,
+      "stars": 31113,
       "forks": 675,
       "language": "Rust",
       "topics": [
@@ -444,7 +444,7 @@
         "windows"
       ],
       "created_at": "2023-07-08T11:45:55Z",
-      "updated_at": "2026-01-03T08:40:53Z",
+      "updated_at": "2026-01-03T09:06:18Z",
       "pushed_at": "2026-01-03T08:56:24Z",
       "open_issues": 64,
       "owner": {
@@ -602,7 +602,7 @@
       "full_name": "cameroncooke/XcodeBuildMCP",
       "description": "A Model Context Protocol (MCP) server that provides Xcode-related tools for integration with AI assistants and other MCP clients.",
       "html_url": "https://github.com/cameroncooke/XcodeBuildMCP",
-      "stars": 3298,
+      "stars": 3299,
       "forks": 149,
       "language": "JavaScript",
       "topics": [
@@ -614,7 +614,7 @@
         "xcodebuild"
       ],
       "created_at": "2025-03-09T17:31:18Z",
-      "updated_at": "2026-01-03T07:57:28Z",
+      "updated_at": "2026-01-03T09:08:02Z",
       "pushed_at": "2026-01-02T22:23:26Z",
       "open_issues": 35,
       "owner": {
@@ -1041,7 +1041,7 @@
       "full_name": "open-ani/animeko",
       "description": "集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform",
       "html_url": "https://github.com/open-ani/animeko",
-      "stars": 13940,
+      "stars": 13941,
       "forks": 346,
       "language": "Kotlin",
       "topics": [
@@ -1066,7 +1066,7 @@
         "windows"
       ],
       "created_at": "2022-07-31T17:38:49Z",
-      "updated_at": "2026-01-03T08:33:10Z",
+      "updated_at": "2026-01-03T09:06:17Z",
       "pushed_at": "2025-12-29T16:33:53Z",
       "open_issues": 469,
       "owner": {
@@ -1112,7 +1112,7 @@
       "full_name": "facebook/react",
       "description": "The library for web and native user interfaces.",
       "html_url": "https://github.com/facebook/react",
-      "stars": 241987,
+      "stars": 241988,
       "forks": 50260,
       "language": "JavaScript",
       "topics": [
@@ -1124,7 +1124,7 @@
         "ui"
       ],
       "created_at": "2013-05-24T16:15:54Z",
-      "updated_at": "2026-01-03T08:50:09Z",
+      "updated_at": "2026-01-03T09:11:36Z",
       "pushed_at": "2026-01-03T04:40:16Z",
       "open_issues": 1100,
       "owner": {
@@ -1140,7 +1140,7 @@
       "full_name": "78/xiaozhi-esp32",
       "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
       "html_url": "https://github.com/78/xiaozhi-esp32",
-      "stars": 22839,
+      "stars": 22841,
       "forks": 4793,
       "language": "C++",
       "topics": [
@@ -1149,7 +1149,7 @@
         "mcp"
       ],
       "created_at": "2024-08-31T10:08:16Z",
-      "updated_at": "2026-01-03T08:35:54Z",
+      "updated_at": "2026-01-03T09:09:28Z",
       "pushed_at": "2026-01-02T04:19:46Z",
       "open_issues": 466,
       "owner": {
@@ -1165,7 +1165,7 @@
       "full_name": "wezterm/wezterm",
       "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
       "html_url": "https://github.com/wezterm/wezterm",
-      "stars": 23163,
+      "stars": 23164,
       "forks": 1098,
       "language": "Rust",
       "topics": [
@@ -1177,7 +1177,7 @@
         "terminal-emulators"
       ],
       "created_at": "2018-02-07T05:35:46Z",
-      "updated_at": "2026-01-03T08:55:33Z",
+      "updated_at": "2026-01-03T09:07:13Z",
       "pushed_at": "2026-01-01T00:40:51Z",
       "open_issues": 1523,
       "owner": {
@@ -1216,7 +1216,7 @@
       ],
       "created_at": "2023-05-24T03:39:39Z",
       "updated_at": "2026-01-03T08:24:07Z",
-      "pushed_at": "2026-01-02T19:15:00Z",
+      "pushed_at": "2026-01-03T09:05:42Z",
       "open_issues": 781,
       "owner": {
         "login": "continuedev",
@@ -1265,12 +1265,12 @@
       "full_name": "fish2018/pansou",
       "description": "PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。 https://so.252035.xyz/",
       "html_url": "https://github.com/fish2018/pansou",
-      "stars": 10703,
+      "stars": 10704,
       "forks": 2517,
       "language": "Go",
       "topics": [],
       "created_at": "2025-07-10T07:17:46Z",
-      "updated_at": "2026-01-03T08:59:35Z",
+      "updated_at": "2026-01-03T09:08:32Z",
       "pushed_at": "2025-12-13T11:23:34Z",
       "open_issues": 6,
       "owner": {
@@ -1286,7 +1286,7 @@
       "full_name": "EasyTier/EasyTier",
       "description": "A simple, decentralized mesh VPN with WireGuard support.",
       "html_url": "https://github.com/EasyTier/EasyTier",
-      "stars": 9081,
+      "stars": 9082,
       "forks": 851,
       "language": "Rust",
       "topics": [
@@ -1298,7 +1298,7 @@
         "zerotier"
       ],
       "created_at": "2023-09-29T17:03:53Z",
-      "updated_at": "2026-01-03T07:22:11Z",
+      "updated_at": "2026-01-03T09:05:20Z",
       "pushed_at": "2026-01-02T10:49:23Z",
       "open_issues": 319,
       "owner": {
@@ -1563,7 +1563,7 @@
       "full_name": "trufflesecurity/trufflehog",
       "description": "Find, verify, and analyze leaked credentials",
       "html_url": "https://github.com/trufflesecurity/trufflehog",
-      "stars": 23995,
+      "stars": 23996,
       "forks": 2177,
       "language": "Go",
       "topics": [
@@ -1581,7 +1581,7 @@
         "verification"
       ],
       "created_at": "2016-12-31T05:08:12Z",
-      "updated_at": "2026-01-03T08:53:34Z",
+      "updated_at": "2026-01-03T09:07:53Z",
       "pushed_at": "2026-01-01T10:43:14Z",
       "open_issues": 319,
       "owner": {
@@ -1959,7 +1959,7 @@
       "full_name": "shadps4-emu/shadPS4",
       "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
       "html_url": "https://github.com/shadps4-emu/shadPS4",
-      "stars": 27412,
+      "stars": 27413,
       "forks": 1859,
       "language": "C++",
       "topics": [
@@ -1977,7 +1977,7 @@
         "windows"
       ],
       "created_at": "2022-10-24T09:48:37Z",
-      "updated_at": "2026-01-03T07:05:59Z",
+      "updated_at": "2026-01-03T09:07:33Z",
       "pushed_at": "2025-12-31T23:01:57Z",
       "open_issues": 110,
       "owner": {
@@ -2114,7 +2114,7 @@
       "full_name": "telegramdesktop/tdesktop",
       "description": "Telegram Desktop messaging app",
       "html_url": "https://github.com/telegramdesktop/tdesktop",
-      "stars": 29451,
+      "stars": 29452,
       "forks": 6140,
       "language": "C++",
       "topics": [
@@ -2125,7 +2125,7 @@
         "telegram-solution"
       ],
       "created_at": "2014-05-02T12:36:31Z",
-      "updated_at": "2026-01-03T04:03:00Z",
+      "updated_at": "2026-01-03T09:10:41Z",
       "pushed_at": "2026-01-01T17:31:00Z",
       "open_issues": 931,
       "owner": {
@@ -2152,7 +2152,7 @@
       "created_at": "2019-05-10T16:59:42Z",
       "updated_at": "2026-01-03T00:45:29Z",
       "pushed_at": "2026-01-02T11:09:16Z",
-      "open_issues": 1537,
+      "open_issues": 1536,
       "owner": {
         "login": "nushell",
         "avatar_url": "https://avatars.githubusercontent.com/u/50749515?v=4"
@@ -2388,7 +2388,7 @@
       "full_name": "simdjson/simdjson",
       "description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
       "html_url": "https://github.com/simdjson/simdjson",
-      "stars": 23049,
+      "stars": 23050,
       "forks": 1199,
       "language": "C++",
       "topics": [
@@ -2413,7 +2413,7 @@
         "x64"
       ],
       "created_at": "2018-03-23T00:49:18Z",
-      "updated_at": "2026-01-03T08:41:54Z",
+      "updated_at": "2026-01-03T09:06:29Z",
       "pushed_at": "2026-01-02T19:28:25Z",
       "open_issues": 142,
       "owner": {
@@ -2665,7 +2665,7 @@
       "full_name": "simulot/immich-go",
       "description": "An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.",
       "html_url": "https://github.com/simulot/immich-go",
-      "stars": 5080,
+      "stars": 5081,
       "forks": 174,
       "language": "Go",
       "topics": [
@@ -2677,7 +2677,7 @@
         "takeout"
       ],
       "created_at": "2023-07-21T14:52:04Z",
-      "updated_at": "2026-01-03T04:37:59Z",
+      "updated_at": "2026-01-03T09:08:30Z",
       "pushed_at": "2025-12-29T18:42:13Z",
       "open_issues": 179,
       "owner": {
@@ -2972,7 +2972,7 @@
       "full_name": "getfider/fider",
       "description": "Open platform to collect and prioritize feedback",
       "html_url": "https://github.com/getfider/fider",
-      "stars": 3972,
+      "stars": 3973,
       "forks": 747,
       "language": "Go",
       "topics": [
@@ -2983,7 +2983,7 @@
         "suggestions"
       ],
       "created_at": "2017-01-17T22:55:19Z",
-      "updated_at": "2026-01-03T08:25:53Z",
+      "updated_at": "2026-01-03T09:10:05Z",
       "pushed_at": "2026-01-01T09:20:41Z",
       "open_issues": 37,
       "owner": {
@@ -3136,7 +3136,7 @@
       "full_name": "hrydgard/ppsspp",
       "description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org.",
       "html_url": "https://github.com/hrydgard/ppsspp",
-      "stars": 13144,
+      "stars": 13145,
       "forks": 2385,
       "language": "C++",
       "topics": [
@@ -3145,7 +3145,7 @@
         "psp"
       ],
       "created_at": "2012-11-01T08:41:48Z",
-      "updated_at": "2026-01-03T08:38:04Z",
+      "updated_at": "2026-01-03T09:06:56Z",
       "pushed_at": "2026-01-03T06:00:07Z",
       "open_issues": 1364,
       "owner": {
@@ -3182,7 +3182,7 @@
       "full_name": "libre-tube/LibreTube",
       "description": "An alternative frontend for YouTube, for Android.",
       "html_url": "https://github.com/libre-tube/LibreTube",
-      "stars": 11042,
+      "stars": 11043,
       "forks": 543,
       "language": "Kotlin",
       "topics": [
@@ -3193,7 +3193,7 @@
         "youtube"
       ],
       "created_at": "2021-12-09T12:31:36Z",
-      "updated_at": "2026-01-03T08:36:25Z",
+      "updated_at": "2026-01-03T09:05:41Z",
       "pushed_at": "2026-01-02T11:07:11Z",
       "open_issues": 98,
       "owner": {
@@ -3209,12 +3209,12 @@
       "full_name": "cloudflare/workerd",
       "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
       "html_url": "https://github.com/cloudflare/workerd",
-      "stars": 7384,
+      "stars": 7385,
       "forks": 502,
       "language": "C++",
       "topics": [],
       "created_at": "2022-09-15T15:15:16Z",
-      "updated_at": "2026-01-03T04:34:57Z",
+      "updated_at": "2026-01-03T09:06:26Z",
       "pushed_at": "2026-01-03T04:34:54Z",
       "open_issues": 517,
       "owner": {
@@ -3260,7 +3260,7 @@
       "full_name": "v2fly/v2ray-core",
       "description": "A platform for building proxies to bypass network restrictions.",
       "html_url": "https://github.com/v2fly/v2ray-core",
-      "stars": 32887,
+      "stars": 32888,
       "forks": 4957,
       "language": "Go",
       "topics": [
@@ -3279,7 +3279,7 @@
         "vpn"
       ],
       "created_at": "2019-04-15T10:05:54Z",
-      "updated_at": "2026-01-03T08:21:04Z",
+      "updated_at": "2026-01-03T09:08:04Z",
       "pushed_at": "2026-01-01T21:59:46Z",
       "open_issues": 31,
       "owner": {
@@ -3401,7 +3401,7 @@
       "created_at": "2020-09-07T12:39:51Z",
       "updated_at": "2026-01-02T21:49:36Z",
       "pushed_at": "2025-12-16T07:34:44Z",
-      "open_issues": 207,
+      "open_issues": 206,
       "owner": {
         "login": "19MisterX98",
         "avatar_url": "https://avatars.githubusercontent.com/u/41451155?v=4"
@@ -3625,7 +3625,7 @@
       "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
       "html_url": "https://github.com/typicode/json-server",
       "stars": 75513,
-      "forks": 7263,
+      "forks": 7262,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2013-11-27T13:21:13Z",
@@ -4909,5 +4909,5 @@
       "stars_today": 0
     }
   ],
-  "created_at": "2026-01-03T09:05:42.020594471Z"
+  "created_at": "2026-01-03T09:11:44.932786693Z"
 }

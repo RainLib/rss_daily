@@ -1,155 +1,168 @@
 # 🌟 GitHub Trending Daily - 2026-01-03
 
-> 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
+> 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📊 Today's Highlights
 
-| 统计项 | 数值 |
+| Metric | Value |
 |--------|------|
-| 📦 精选项目 | **10** 个 |
-| ⏰ 更新时间 | 2026-01-03 09:06 UTC |
+| 📦 Total Repos | **10** |
+| ⏰ Updated | 2026-01-03 09:12 UTC |
 
 ---
 
-## 🌟 每日 Top 10 精选
+## 🌟 Daily Top 10
 
-### 1. [react](https://github.com/facebook/react)
+### 1. [vibe-kanban](https://github.com/BloopAI/vibe-kanban)
 
-| 指标 | 值 |
+| Metric | Value |
 |------|----|
-| ⭐ Stars | **241987** |
-| 🍴 Forks | **50260** |
+| ⭐ Stars | **11548** |
+| 🍴 Forks | **1040** |
+| 💻 Language | Rust |
+| 🏷️ Tags | `agent` `ai-agents` `kanban` `management` `task-manager` |
+| 📈 Stars Today | **721** |
+
+**📝 Description:** Get 10X more out of Claude Code, Codex or any coding agent
+
+![vibe-kanban](2026-01-03_daily-top_vibe-kanban.png)
+
+### 2. [memos](https://github.com/usememos/memos)
+
+| Metric | Value |
+|------|----|
+| ⭐ Stars | **49089** |
+| 🍴 Forks | **3551** |
+| 💻 Language | Go |
+| 🏷️ Tags | `docker` `foss` `go` `markdown` `memo` |
+| 📈 Stars Today | **661** |
+
+**📝 Description:** An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+
+![memos](2026-01-03_daily-top_memos.png)
+
+### 3. [cs249r_book](https://github.com/harvard-edge/cs249r_book)
+
+| Metric | Value |
+|------|----|
+| ⭐ Stars | **14916** |
+| 🍴 Forks | **1694** |
 | 💻 Language | JavaScript |
-| 🏷️ Tags | `declarative` `frontend` `javascript` `library` `react` |
+| 🏷️ Tags | `artificial-intelligence` `cloud-ml` `computer-systems` `courseware` `deep-learning` |
+| 📈 Stars Today | **489** |
 
-**📝 Description:** The library for web and native user interfaces.
+**📝 Description:** Introduction to Machine Learning Systems
 
-![react](2026-01-03_daily-top_react.png)
+![cs249r_book](2026-01-03_daily-top_cs249r_book.png)
 
-### 2. [javascript](https://github.com/airbnb/javascript)
+### 4. [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC)
 
-| 指标 | 值 |
+| Metric | Value |
 |------|----|
-| ⭐ Stars | **148018** |
-| 🍴 Forks | **26784** |
-| 💻 Language | JavaScript |
-| 🏷️ Tags | `arrow-functions` `es2015` `es2016` `es2017` `es2018` |
+| ⭐ Stars | **2113** |
+| 🍴 Forks | **126** |
+| 💻 Language | TypeScript |
+| 🏷️ Tags | `spotify` `spotify-downloader` `wails` |
+| 📈 Stars Today | **268** |
 
-**📝 Description:** JavaScript Style Guide
+**📝 Description:** Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
 
-![javascript](2026-01-03_daily-top_javascript.png)
+![SpotiFLAC](2026-01-03_daily-top_SpotiFLAC.png)
 
-### 3. [scrcpy](https://github.com/Genymobile/scrcpy)
+### 5. [newsnow](https://github.com/ourongxing/newsnow)
 
-| 指标 | 值 |
+| Metric | Value |
 |------|----|
-| ⭐ Stars | **133472** |
+| ⭐ Stars | **16139** |
+| 🍴 Forks | **4731** |
+| 💻 Language | TypeScript |
+| 🏷️ Tags | `elegant` `news` |
+| 📈 Stars Today | **220** |
+
+**📝 Description:** Elegant reading of real-time and hottest news
+
+![newsnow](2026-01-03_daily-top_newsnow.png)
+
+### 6. [organicmaps](https://github.com/organicmaps/organicmaps)
+
+| Metric | Value |
+|------|----|
+| ⭐ Stars | **12915** |
+| 🍴 Forks | **1278** |
+| 💻 Language | C++ |
+| 🏷️ Tags | `android` `app` `cpp` `cyclists` `hacktoberfest` |
+| 📈 Stars Today | **208** |
+
+**📝 Description:** 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!
+
+![organicmaps](2026-01-03_daily-top_organicmaps.png)
+
+### 7. [qui](https://github.com/autobrr/qui)
+
+| Metric | Value |
+|------|----|
+| ⭐ Stars | **1709** |
+| 🍴 Forks | **44** |
+| 💻 Language | Go |
+| 🏷️ Tags | `cross-seed` `cross-seeding` `go` `golang` `libtorrent` |
+| 📈 Stars Today | **199** |
+
+**📝 Description:** A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. Go + React.
+
+![qui](2026-01-03_daily-top_qui.png)
+
+### 8. [nocodb](https://github.com/nocodb/nocodb)
+
+| Metric | Value |
+|------|----|
+| ⭐ Stars | **59991** |
+| 🍴 Forks | **4460** |
+| 💻 Language | TypeScript |
+| 🏷️ Tags | `airtable` `airtable-alternative` `automatic-api` `hacktoberfest` `low-code` |
+| 📈 Stars Today | **112** |
+
+**📝 Description:** 🔥 🔥 🔥 Open Source Airtable Alternative
+
+![nocodb](2026-01-03_daily-top_nocodb.png)
+
+### 9. [goose](https://github.com/block/goose)
+
+| Metric | Value |
+|------|----|
+| ⭐ Stars | **25398** |
+| 🍴 Forks | **2284** |
+| 💻 Language | Rust |
+| 🏷️ Tags | `mcp` |
+| 📈 Stars Today | **66** |
+
+**📝 Description:** an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+
+![goose](2026-01-03_daily-top_goose.png)
+
+### 10. [scrcpy](https://github.com/Genymobile/scrcpy)
+
+| Metric | Value |
+|------|----|
+| ⭐ Stars | **133473** |
 | 🍴 Forks | **12464** |
 | 💻 Language | C |
 | 🏷️ Tags | `android` `c` `ffmpeg` `libav` `mirroring` |
+| 📈 Stars Today | **65** |
 
 **📝 Description:** Display and control your Android device
 
 ![scrcpy](2026-01-03_daily-top_scrcpy.png)
 
-### 4. [elasticsearch](https://github.com/elastic/elasticsearch)
+---
 
-| 指标 | 值 |
-|------|----|
-| ⭐ Stars | **75778** |
-| 🍴 Forks | **25751** |
-| 💻 Language | Java |
-| 🏷️ Tags | `elasticsearch` `java` `search-engine` |
+## 📡 RSS Subscription
 
-**📝 Description:** Free and Open Source, Distributed, RESTful Search Engine
+Subscribe via RSS to get daily trending updates:
 
-![elasticsearch](2026-01-03_daily-top_elasticsearch.png)
-
-### 5. [rust](https://github.com/rust-lang/rust)
-
-| 指标 | 值 |
-|------|----|
-| ⭐ Stars | **109059** |
-| 🍴 Forks | **14277** |
-| 💻 Language | Rust |
-| 🏷️ Tags | `compiler` `language` `rust` |
-
-**📝 Description:** Empowering everyone to build reliable and efficient software.
-
-![rust](2026-01-03_daily-top_rust.png)
-
-### 6. [express](https://github.com/expressjs/express)
-
-| 指标 | 值 |
-|------|----|
-| ⭐ Stars | **68471** |
-| 🍴 Forks | **22013** |
-| 💻 Language | JavaScript |
-| 🏷️ Tags | `express` `javascript` `nodejs` `server` |
-
-**📝 Description:** Fast, unopinionated, minimalist web framework for node.
-
-![express](2026-01-03_daily-top_express.png)
-
-### 7. [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
-
-| 指标 | 值 |
-|------|----|
-| ⭐ Stars | **76167** |
-| 🍴 Forks | **12249** |
-| 💻 Language | JavaScript |
-| 🏷️ Tags | `css` `font` `fontawesome` `icons` `svg-icons` |
-
-**📝 Description:** The iconic SVG, font, and CSS toolkit
-
-![Font-Awesome](2026-01-03_daily-top_Font-Awesome.png)
-
-### 8. [Magisk](https://github.com/topjohnwu/Magisk)
-
-| 指标 | 值 |
-|------|----|
-| ⭐ Stars | **57899** |
-| 🍴 Forks | **16324** |
-| 💻 Language | Rust |
-
-**📝 Description:** The Magic Mask for Android
-
-![Magisk](2026-01-03_daily-top_Magisk.png)
-
-### 9. [hugo](https://github.com/gohugoio/hugo)
-
-| 指标 | 值 |
-|------|----|
-| ⭐ Stars | **85733** |
-| 🍴 Forks | **8159** |
-| 💻 Language | Go |
-| 🏷️ Tags | `blog-engine` `cms` `content-management-system` `documentation-tool` `go` |
-
-**📝 Description:** The world’s fastest framework for building websites.
-
-![hugo](2026-01-03_daily-top_hugo.png)
-
-### 10. [docs](https://github.com/github/docs)
-
-| 指标 | 值 |
-|------|----|
-| ⭐ Stars | **18643** |
-| 🍴 Forks | **65352** |
-| 💻 Language | TypeScript |
-| 🏷️ Tags | `docs` `works-with-codespaces` |
-
-**📝 Description:** The open-source repo for docs.github.com
-
-![docs](2026-01-03_daily-top_docs.png)
+- 🔔 [RSS XML] (../../daily-top.xml)
+- 🔔 [Daily Report] (../../GITHUB_TODAY.md)
+- 🔔 [Daily Top 10](../../daily-top.xml)
 
 ---
 
-## 📡 RSS订阅
-
-通过 RSS 订阅，第一时间获取每日精选项目：
-
-- 🔔 [每日 Top 10 精选](../daily-top.xml)
-
----
-
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-03 09:06:26 UTC*
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-03 09:12:30 UTC
