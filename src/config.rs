@@ -97,12 +97,11 @@ impl Config {
         // 推送平台配置（从环境变量）
         for platform in &mut config.push.platforms {
             match platform.name.as_str() {
-                "csdn" => {
-                    if let Ok(username) = std::env::var("CSDN_USERNAME") {
-                        platform.username = Some(username);
-                    }
-                    if let Ok(password) = std::env::var("CSDN_PASSWORD") {
-                        platform.password = Some(password);
+                "medium" => {
+                    if let Ok(token) = std::env::var("MEDIUM_TOKEN") {
+                        platform
+                            .extra
+                            .insert("integration_token".to_string(), toml::Value::String(token));
                     }
                 }
                 _ => {}

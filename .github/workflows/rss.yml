@@ -35,19 +35,8 @@ jobs:
           GH_REPO=${{ github.repository }}
           LATEST_TAG=$(gh release list --repo $GH_REPO --limit 1 --exclude-drafts --exclude-pre-releases --json tagName --jq '.[0].tagName')
           echo "Latest tag: $LATEST_TAG"
-          gh release download $LATEST_TAG --repo $GH_REPO --pattern "rss-daily" --output rss-daily
-          chmod +x rss-daily
-
-      - name: Restore data from gh-pages
-        run: |
-          git fetch origin gh-pages:gh-pages || echo "No gh-pages branch found"
-          if git show-ref --quiet refs/heads/gh-pages; then
-            echo "Restoring data from gh-pages..."
-            git checkout gh-pages -- data/ docs/rss/ || echo "Failed to checkout data/docs from gh-pages"
-            git reset HEAD data/ docs/rss/
-          else
-            echo "First run, no history found."
-          fi
+          gh release download $LATEST_TAG --repo $GH_REPO --pattern "rss-daily-cursor" --output rss-daily-cursor
+          chmod +x rss-daily-cursor
 
       - name: Run RSS generator
         env:
@@ -57,17 +46,25 @@ jobs:
           CSDN_PASSWORD: ${{ secrets.CSDN_PASSWORD }}
           RUST_BACKTRACE: 1
         run: |
-          ./rss-daily
+          ./rss-daily-cursor
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "rss-bot[bot]"
+          git config user.email "rss-bot[bot]@users.noreply.github.com"
+          git add docs/ || true
+          git add data/ || true
+          git diff --staged --quiet || git commit -m "🤖 Auto-update RSS feeds [skip ci]"
+          git push || echo "No changes to commit"
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./
-          publish_branch: gh-pages
-          keep_files: false
-          force_orphan: false
-          user_name: 'rss-bot[bot]'
-          user_email: 'rss-bot[bot]@users.noreply.github.com'
-          commit_message: '🤖 Auto-update RSS feeds and data'
-          exclude_assets: '.github,src,target,.gitignore,Cargo.*,*.sh'
+        id: deployment
+        uses: actions/deploy-pages@v4

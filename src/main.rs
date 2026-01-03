@@ -324,21 +324,31 @@ async fn push_to_platform(
     cards: &[(models::Repository, github_trending::card::Card)],
 ) -> Result<()> {
     match platform_config.name.as_str() {
-        "csdn" => {
-            let mut platform = push_post::CSDNPlatform::new(
-                platform_config.username.clone().unwrap_or_default(),
-                platform_config.password.clone().unwrap_or_default(),
-            );
+        "medium" => {
+            // Extract integration_token from extra config
+            let integration_token = platform_config
+                .extra
+                .get("integration_token")
+                .and_then(|v| v.as_str())
+                .ok_or_else(|| anyhow::anyhow!("Missing integration_token for Medium"))?
+                .to_string();
 
-            // 准备推送内容
+            let mut platform = push_post::MediumPlatform::new(integration_token);
+
+            // 准备推送内容 (使用 repository 的 README)
             let items: Vec<_> = cards
                 .iter()
-                .map(|(repo, card)| (repo.clone(), card.html.clone()))
+                .filter_map(|(repo, _card)| {
+                    // 使用 repo.readme 作为 markdown 内容
+                    repo.readme
+                        .as_ref()
+                        .map(|content| (repo.clone(), content.clone()))
+                })
                 .collect();
 
-            // 推送（内部会处理登录）
+            // 推送
             platform.push_batch(&items).await?;
-            info!("Successfully pushed {} items to CSDN", items.len());
+            info!("Successfully pushed {} items to Medium", items.len());
         }
         _ => {
             log::warn!("Unknown platform: {}", platform_config.name);

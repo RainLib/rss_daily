@@ -54,10 +54,9 @@ enabled = false  # 是否启用推送功能
 
 # 推送平台配置（可以通过环境变量覆盖）
 [[push.platforms]]
-name = "csdn"
-# username 和 password 可以通过环境变量 CSDN_USERNAME 和 CSDN_PASSWORD 设置
-username = ""
-password = ""
+name = "medium"
+# integration_token 可以通过环境变量 MEDIUM_TOKEN 设置
+integration_token = ""
 
 
 # 调试配置
