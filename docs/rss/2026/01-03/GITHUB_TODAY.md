@@ -4,11 +4,11 @@
 
 ## 📋 Overview
 
-**10** Projects | **214173** ⭐ | **24628** 🍴
+**10** Projects | **221929** ⭐ | **25569** 🍴
 
-**Top Languages:** `TypeScript` (5) · `Rust` (2) · `Go` (2)
+**Top Languages:** `TypeScript` (6) · `Rust` (2) · `Go` (1)
 
-**Updated:** 2026-01-03 15:21 UTC
+**Updated:** 2026-01-03 18:37 UTC
 
 **Categories:**
 
@@ -21,9 +21,9 @@
 ### 1. [memos](https://github.com/usememos/memos)
 
 > 🤖 **Why Recommend**  
-> *Memos is an open-source, self-hosted note-taking service prioritizing user privacy with no ads or subscriptions. Enjoy full control over your data, with easy demo access and comprehensive documentation.*
+> *Memos is an open-source, self-hosted note-taking service prioritizing user control and privacy. Enjoy no ads, tracking, or fees. Features include easy demo access, comprehensive documentation, and Docker support.*
 
-- ⭐ 49564 stars
+- ⭐ 49801 stars
 - 💻 Go
 - 📅 Updated: 2026-01-03
 
@@ -32,9 +32,9 @@
 ### 2. [vibe-kanban](https://github.com/BloopAI/vibe-kanban)
 
 > 🤖 **Why Recommend**  
-> *Vibe Kanban enhances productivity with coding agents like Claude Code and Codex. Built in Rust, it offers efficient project management and seamless integration. Join 11,753 stars on GitHub!*
+> *Vibe Kanban enhances productivity with coding agents like Claude Code and Codex, offering a streamlined workflow and powerful features to maximize coding efficiency.*
 
-- ⭐ 11753 stars
+- ⭐ 11835 stars
 - 💻 Rust
 - 📅 Updated: 2026-01-03
 
@@ -43,9 +43,9 @@
 ### 3. [newsnow](https://github.com/ourongxing/newsnow)
 
 > 🤖 **Why Recommend**  
-> *NewsNow offers an elegant UI for real-time trending news, GitHub OAuth login, adaptive scraping, and customizable MCP server support, ensuring an optimized reading experience.*
+> *newsnow offers an elegant UI for real-time trending news, GitHub OAuth login, customizable caching, adaptive scraping intervals, and supports MCP servers for optimal performance.*
 
-- ⭐ 16208 stars
+- ⭐ 16237 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-03
 
@@ -54,9 +54,9 @@
 ### 4. [nocodb](https://github.com/nocodb/nocodb)
 
 > 🤖 **Why Recommend**  
-> *NocoDB is an open-source Airtable alternative, enabling easy online database creation. Key features include a user-friendly interface, community support, and extensive documentation.*
+> *NocoDB is an open-source alternative to Airtable, enabling fast and easy online database creation. Key features include community support, extensive documentation, and integration options.*
 
-- ⭐ 60141 stars
+- ⭐ 60187 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-03
 
@@ -65,86 +65,68 @@
 ### 5. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **Why Recommend**  
-> *cc-switch is a cross-platform assistant tool for Claude Code, Codex & Gemini CLI, built with Rust and Tauri. It supports Windows, macOS, and Linux, offering seamless code assistance and integration.*
+> *cc-switch is a cross-platform desktop assistant for Claude Code, Codex, and Gemini CLI. Built with Rust and Tauri, it supports Windows, macOS, and Linux, offering seamless integration and usability.*
 
-- ⭐ 8748 stars
+- ⭐ 8774 stars
 - 💻 Rust
 - 📅 Updated: 2026-01-03
 
 ![cc-switch](2026-01-03_daily-top_cc-switch.png)
 
-### 6. [qui](https://github.com/autobrr/qui)
+### 6. [thingsboard](https://github.com/thingsboard/thingsboard)
 
 > 🤖 **Why Recommend**  
-> *
-## qui
+> *ThingsBoard is an open-source IoT platform for device management, data collection, processing, and visualization. It supports on-premise, cloud, and live demo installations.*
 
-**Description:** A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. Go + React.
-
-**Key Metrics:**
-- ⭐ Stars: 1717
-- 🍴 Forks: 47
-- 💻 Language: Go
-- 📅 Updated: 2026-01-03
-- 🔗 [View Repository](https://github.com/autobrr/qui)
-
-**Highlights:**
-🔥 Popular project (1000+ stars)
-✨ Recently updated (within 7 days)
-
-**Topics:** cross-seed, cross-seeding, go, golang, libtorrent, qbit, qbittorrent, workflows
-*
-
-- ⭐ 1717 stars
-- 🍴 47 forks
-- 💻 Go
-- 📅 Updated: 2026-01-03
-
-![qui](2026-01-03_daily-top_qui.png)
-
-### 7. [thingsboard](https://github.com/thingsboard/thingsboard)
-
-> 🤖 **Why Recommend**  
-> *ThingsBoard is an open-source IoT platform for device management, data collection, processing, and visualization, offering on-premise, cloud, and live demo options.*
-
-- ⭐ 20860 stars
+- ⭐ 20863 stars
 - 💻 Java
 - 📅 Updated: 2026-01-03
 
 ![thingsboard](2026-01-03_daily-top_thingsboard.png)
 
-### 8. [agents.md](https://github.com/agentsmd/agents.md)
+### 7. [agents.md](https://github.com/agentsmd/agents.md)
 
 > 🤖 **Why Recommend**  
-> *AGENTS.md is an open format for guiding AI coding agents, offering structured context and instructions for projects. It simplifies setup and testing with clear environmental tips and commands.*
+> *AGENTS.md is an open format for guiding coding agents, offering structured context and instructions for project setup, testing, and development, enhancing AI-assisted coding efficiency.*
 
-- ⭐ 13961 stars
+- ⭐ 13978 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-03
 
 ![agents.md](2026-01-03_daily-top_agents.md.png)
 
-### 9. [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+### 8. [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
 
 > 🤖 **Why Recommend**  
-> *Zigbee2MQTT bridges Zigbee devices to MQTT, eliminating proprietary hubs. Key features include extensive device support, easy configuration, and active community contributions. Stars: 14,539.*
+> *Zigbee2MQTT is an open-source bridge that connects Zigbee devices to MQTT, eliminating the need for proprietary hubs. It supports numerous devices, offers reliable communication, and is actively maintained.*
 
-- ⭐ 14539 stars
+- ⭐ 14541 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-03
 
 ![zigbee2mqtt](2026-01-03_daily-top_zigbee2mqtt.png)
 
-### 10. [nuclear](https://github.com/nukeop/nuclear)
+### 9. [nuclear](https://github.com/nukeop/nuclear)
 
 > 🤖 **Why Recommend**  
-> *Nuclear is a streaming music player that sources free music, featuring a powerful plugin system, theming support, and a transition to Tauri for improved performance. Auto-update will enhance usability.*
+> *Nuclear is a streaming music player that finds free music, featuring a powerful plugin system, theming support, and an upcoming rewrite for better performance and auto-updates.*
 
-- ⭐ 16682 stars
+- ⭐ 16711 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-03
 
 ![nuclear](2026-01-03_daily-top_nuclear.png)
+
+### 10. [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js)
+
+> 🤖 **Why Recommend**  
+> *MapLibre GL JS offers interactive vector tile maps in the browser, built with TypeScript. Key features include high customization, performance, and open-source collaboration. Over 9000 stars.*
+
+- ⭐ 9002 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-01-03
+
+![maplibre-gl-js](2026-01-03_daily-top_maplibre-gl-js.png)
 
 ---
 
@@ -158,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-03 15:21:52 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-03 18:37:55 UTC
