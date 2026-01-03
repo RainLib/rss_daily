@@ -1,0 +1,35 @@
+name: Release Build
+
+on:
+  push:
+    tags:
+      - "v*"
+
+jobs:
+  build-release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libfontconfig1-dev libfreetype6-dev fonts-dejavu-core
+
+      - name: Setup Rust
+        uses: actions-rs/toolchain@v1
+        with:
+          toolchain: stable
+          override: true
+          components: rustfmt, clippy
+
+      - name: Build Release
+        run: cargo build --release
+
+      - name: Upload Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: target/release/rss-daily-cursor
+          generate_release_notes: true

@@ -17,42 +17,26 @@ jobs:
     permissions:
       contents: write
       pages: write
+      id-token: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      - name: Setup Rust
-        uses: actions-rs/toolchain@v1
-        with:
-          toolchain: stable
-          override: true
-          components: rustfmt, clippy
-
-      - name: Cache cargo dependencies
-        uses: actions/cache@v4
-        with:
-          path: |
-            ~/.cargo/bin/
-            ~/.cargo/registry/index/
-            ~/.cargo/registry/cache/
-            ~/.cargo/git/db/
-            target/
-          key: ${{ runner.os }}-cargo-${{ hashFiles('**/Cargo.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-cargo-
 
       - name: Install system dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y libfontconfig1-dev libfreetype6-dev fonts-dejavu-core
 
-      - name: Build project
+      - name: Download latest release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          RUST_BACKTRACE: 1
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          cargo build --release
+          GH_REPO=${{ github.repository }}
+          LATEST_TAG=$(gh release list --repo $GH_REPO --limit 1 --exclude-drafts --exclude-pre-releases --json tagName --jq '.[0].tagName')
+          echo "Latest tag: $LATEST_TAG"
+          gh release download $LATEST_TAG --repo $GH_REPO --pattern "rss-daily-cursor" --output rss-daily-cursor
+          chmod +x rss-daily-cursor
 
       - name: Run RSS generator
         env:
@@ -62,7 +46,7 @@ jobs:
           CSDN_PASSWORD: ${{ secrets.CSDN_PASSWORD }}
           RUST_BACKTRACE: 1
         run: |
-          cargo run --release
+          ./rss-daily-cursor
 
       - name: Commit and push changes
         run: |
