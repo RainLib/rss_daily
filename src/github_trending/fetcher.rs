@@ -136,17 +136,18 @@ impl TrendingFetcher {
 
     /// 根据算法排序（考虑历史数据）
     pub fn rank_repositories(&self, repos: &mut [Repository]) {
-        let history = match self.history.load_all_history() {
-            Ok(h) => h,
-            Err(_) => {
-                // 如果没有历史数据，使用默认排序
-                repos.sort_by(|a, b| b.stars.cmp(&a.stars));
-                return;
-            }
-        };
+        let history = self.history.load_all_history().unwrap_or_default();
 
-        // 计算综合分数：趋势分数 + 历史表现加分
         repos.sort_by(|a, b| {
+            // First priority: stars_today (descending)
+            let stars_today_a = a.stars_today.unwrap_or(0);
+            let stars_today_b = b.stars_today.unwrap_or(0);
+
+            if stars_today_a != stars_today_b {
+                return stars_today_b.cmp(&stars_today_a);
+            }
+
+            // Second priority: calculated score (descending)
             let score_a = self.calculate_rank_score(a, &history);
             let score_b = self.calculate_rank_score(b, &history);
             score_b

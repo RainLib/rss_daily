@@ -22,7 +22,7 @@ model = "gpt-3.5-turbo"  # OpenAI model name
 # 图片生成配置
 [image]
 enabled = true
-height = 500
+height = 400
 width = 1000
 background_color = "#1a1a1a"
 text_color = "#ffffff"

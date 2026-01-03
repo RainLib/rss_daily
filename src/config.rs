@@ -160,7 +160,7 @@ impl Default for Config {
             image: ImageConfig {
                 enabled: true,
                 width: 1200,
-                height: 630,
+                height: 400,
                 background_color: "#1a1a1a".to_string(),
                 text_color: "#ffffff".to_string(),
                 font_size: 24,

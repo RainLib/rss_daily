@@ -1,155 +1,167 @@
 # 🌟 GitHub Trending Daily - 2026-01-03
 
-> 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
+> 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📊 Today's Highlights
 
-| 统计项 | 数值 |
+| Metric | Value |
 |--------|------|
-| 📦 精选项目 | **10** 个 |
-| ⏰ 更新时间 | 2026-01-03 03:00 UTC |
+| 📦 Total Repos | **10** |
+| ⏰ Updated | 2026-01-03 08:20 UTC |
 
 ---
 
-## 🌟 每日 Top 10 精选
+## 🌟 Daily Top 10
 
-### 1. [mock-repo-preview](https://github.com/test/mock-repo)
+### 1. [vibe-kanban](https://github.com/BloopAI/vibe-kanban)
 
-| 指标 | 值 |
+| Metric | Value |
 |------|----|
-| ⭐ Stars | **12345** |
-| 🍴 Forks | **678** |
+| ⭐ Stars | **11522** |
+| 🍴 Forks | **1039** |
 | 💻 Language | Rust |
-| 🏷️ Tags | `rust` `trending` `mock` |
+| 🏷️ Tags | `agent` `ai-agents` `kanban` `management` `task-manager` |
+| 📈 Stars Today | **721** |
 
-**📝 Description:** This is a mock repository generated because 'mock_mode' is enabled or API rate limit was reached.
+**📝 Description:** Get 10X more out of Claude Code, Codex or any coding agent
 
-![mock-repo-preview](2026-01-03_daily-top_mock-repo-preview.png)
+![vibe-kanban](2026/01-03/2026-01-03_daily-top_vibe-kanban.png)
 
-### 2. [react](https://github.com/facebook/react)
+### 2. [termux-app](https://github.com/termux/termux-app)
 
-| 指标 | 值 |
+| Metric | Value |
 |------|----|
-| ⭐ Stars | **241981** |
-| 🍴 Forks | **50259** |
-| 💻 Language | JavaScript |
-| 🏷️ Tags | `declarative` `frontend` `javascript` `library` `react` |
-
-**📝 Description:** The library for web and native user interfaces.
-
-![react](2026-01-03_daily-top_react.png)
-
-### 3. [javascript](https://github.com/airbnb/javascript)
-
-| 指标 | 值 |
-|------|----|
-| ⭐ Stars | **148018** |
-| 🍴 Forks | **26785** |
-| 💻 Language | JavaScript |
-| 🏷️ Tags | `arrow-functions` `es2015` `es2016` `es2017` `es2018` |
-
-**📝 Description:** JavaScript Style Guide
-
-![javascript](2026-01-03_daily-top_javascript.png)
-
-### 4. [scrcpy](https://github.com/Genymobile/scrcpy)
-
-| 指标 | 值 |
-|------|----|
-| ⭐ Stars | **133459** |
-| 🍴 Forks | **12462** |
-| 💻 Language | C |
-| 🏷️ Tags | `android` `c` `ffmpeg` `libav` `mirroring` |
-
-**📝 Description:** Display and control your Android device
-
-![scrcpy](2026-01-03_daily-top_scrcpy.png)
-
-### 5. [elasticsearch](https://github.com/elastic/elasticsearch)
-
-| 指标 | 值 |
-|------|----|
-| ⭐ Stars | **75778** |
-| 🍴 Forks | **25751** |
+| ⭐ Stars | **48385** |
+| 🍴 Forks | **5784** |
 | 💻 Language | Java |
-| 🏷️ Tags | `elasticsearch` `java` `search-engine` |
+| 🏷️ Tags | `android` `hacktoberfest` `linux` `terminal` `termux` |
+| 📈 Stars Today | **42** |
 
-**📝 Description:** Free and Open Source, Distributed, RESTful Search Engine
+**📝 Description:** Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
-![elasticsearch](2026-01-03_daily-top_elasticsearch.png)
+![termux-app](2026/01-03/2026-01-03_daily-top_termux-app.png)
 
-### 6. [rust](https://github.com/rust-lang/rust)
+### 3. [bevy](https://github.com/bevyengine/bevy)
 
-| 指标 | 值 |
+| Metric | Value |
 |------|----|
-| ⭐ Stars | **109049** |
-| 🍴 Forks | **14275** |
+| ⭐ Stars | **43820** |
+| 🍴 Forks | **4305** |
 | 💻 Language | Rust |
-| 🏷️ Tags | `compiler` `language` `rust` |
+| 🏷️ Tags | `bevy` `game-development` `game-engine` `gamedev` `open-source` |
+| 📈 Stars Today | **31** |
 
-**📝 Description:** Empowering everyone to build reliable and efficient software.
+**📝 Description:** A refreshingly simple data-driven game engine built in Rust
 
-![rust](2026-01-03_daily-top_rust.png)
+![bevy](2026/01-03/2026-01-03_daily-top_bevy.png)
 
-### 7. [express](https://github.com/expressjs/express)
+### 4. [awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)
 
-| 指标 | 值 |
+| Metric | Value |
 |------|----|
-| ⭐ Stars | **68469** |
-| 🍴 Forks | **22005** |
-| 💻 Language | JavaScript |
-| 🏷️ Tags | `express` `javascript` `nodejs` `server` |
+| ⭐ Stars | **20689** |
+| 🍴 Forks | **5120** |
+| 💻 Language | Java |
+| 🏷️ Tags | `awesome` `design-patterns` `interview` `interview-practice` `interview-questions` |
+| 📈 Stars Today | **23** |
 
-**📝 Description:** Fast, unopinionated, minimalist web framework for node.
+**📝 Description:** Learn Low Level Design (LLD) and prepare for interviews using free resources.
 
-![express](2026-01-03_daily-top_express.png)
+![awesome-low-level-design](2026/01-03/2026-01-03_daily-top_awesome-low-level-design.png)
 
-### 8. [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+### 5. [Mindustry](https://github.com/Anuken/Mindustry)
 
-| 指标 | 值 |
+| Metric | Value |
 |------|----|
-| ⭐ Stars | **76166** |
-| 🍴 Forks | **12249** |
-| 💻 Language | JavaScript |
-| 🏷️ Tags | `css` `font` `fontawesome` `icons` `svg-icons` |
+| ⭐ Stars | **26116** |
+| 🍴 Forks | **3330** |
+| 💻 Language | Java |
+| 🏷️ Tags | `android` `desktop` `game` `java` `mindustry` |
+| 📈 Stars Today | **18** |
 
-**📝 Description:** The iconic SVG, font, and CSS toolkit
+**📝 Description:** The automation tower defense RTS
 
-![Font-Awesome](2026-01-03_daily-top_Font-Awesome.png)
+![Mindustry](2026/01-03/2026-01-03_daily-top_Mindustry.png)
 
-### 9. [Magisk](https://github.com/topjohnwu/Magisk)
+### 6. [DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 
-| 指标 | 值 |
+| Metric | Value |
 |------|----|
-| ⭐ Stars | **57891** |
-| 🍴 Forks | **16323** |
+| ⭐ Stars | **21488** |
+| 🍴 Forks | **12893** |
+| 💻 Language | Java |
+| 🏷️ Tags | `algorithms` `competitive-programming` `data-structures` `faang-interview` `faang-preparation` |
+| 📈 Stars Today | **17** |
+
+**📝 Description:** This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.
+
+![DSA-Bootcamp-Java](2026/01-03/2026-01-03_daily-top_DSA-Bootcamp-Java.png)
+
+### 7. [nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
+
+| Metric | Value |
+|------|----|
+| ⭐ Stars | **16932** |
+| 🍴 Forks | **2007** |
 | 💻 Language | Rust |
+| 🏷️ Tags | `algorithmic-trading-engine` `artificial-intelligence` `crypto-trading` `equity-trading` `forex` |
+| 📈 Stars Today | **17** |
 
-**📝 Description:** The Magic Mask for Android
+**📝 Description:** A high-performance algorithmic trading platform and event-driven backtester
 
-![Magisk](2026-01-03_daily-top_Magisk.png)
+![nautilus_trader](2026/01-03/2026-01-03_daily-top_nautilus_trader.png)
 
-### 10. [hugo](https://github.com/gohugoio/hugo)
+### 8. [awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources)
 
-| 指标 | 值 |
+| Metric | Value |
 |------|----|
-| ⭐ Stars | **85725** |
-| 🍴 Forks | **8158** |
-| 💻 Language | Go |
-| 🏷️ Tags | `blog-engine` `cms` `content-management-system` `documentation-tool` `go` |
+| ⭐ Stars | **14942** |
+| 🍴 Forks | **3268** |
+| 💻 Language | Java |
+| 🏷️ Tags | `algorithms` `coding` `data-structures` `dsa` `leetcode` |
+| 📈 Stars Today | **16** |
 
-**📝 Description:** The world’s fastest framework for building websites.
+**📝 Description:** Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.
 
-![hugo](2026-01-03_daily-top_hugo.png)
+![awesome-leetcode-resources](2026/01-03/2026-01-03_daily-top_awesome-leetcode-resources.png)
+
+### 9. [SmartTube](https://github.com/yuliskov/SmartTube)
+
+| Metric | Value |
+|------|----|
+| ⭐ Stars | **27343** |
+| 🍴 Forks | **1472** |
+| 💻 Language | Java |
+| 🏷️ Tags | `android` `android-tv` `android-tv-box` `java` `kotlin` |
+| 📈 Stars Today | **15** |
+
+**📝 Description:** Browse media content with your own rules on Android TV
+
+![SmartTube](2026/01-03/2026-01-03_daily-top_SmartTube.png)
+
+### 10. [GhidraMCP](https://github.com/LaurieWired/GhidraMCP)
+
+| Metric | Value |
+|------|----|
+| ⭐ Stars | **6970** |
+| 🍴 Forks | **556** |
+| 💻 Language | Java |
+| 📈 Stars Today | **11** |
+
+**📝 Description:** MCP Server for Ghidra
+
+![GhidraMCP](2026/01-03/2026-01-03_daily-top_GhidraMCP.png)
 
 ---
 
-## 📡 RSS订阅
+## 📡 RSS Subscription
 
-通过 RSS 订阅，第一时间获取每日精选项目：
+Subscribe via RSS to get daily trending updates:
 
-- 🔔 [每日 Top 10 精选](../daily-top.xml)
+- 🔔 [RSS XML] (../../daily-top.xml)
+- 🔔 [Daily Report] (../../GITHUB_TODAY.md)
+- 🔔 [Daily Top 10](../../daily-top.xml)
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-03 03:00:07 UTC*
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-03 08:20:43 UTC

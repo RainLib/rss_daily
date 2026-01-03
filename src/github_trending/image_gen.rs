@@ -117,3 +117,113 @@ impl ImageGenerator {
         Ok(image_path)
     }
 }
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+    use crate::models::{Owner, Repository};
+    use headless_chrome::Browser;
+
+    #[tokio::test]
+    async fn test_generate_card_image() -> Result<()> {
+        // 1. Setup Mock Data
+        // Load config from file, fallback to default if missing (though user asked for config.toml)
+        let config = Config::load().unwrap_or_else(|_| {
+            eprintln!("Warning: Failed to load config.toml in test, using default.");
+            Config::default()
+        });
+        let generator = ImageGenerator::new(&config);
+
+        let repo = Repository {
+            id: 1,
+            name: "test-owner/test-repo".to_string(),
+            full_name: "test-owner/test-repo".to_string(),
+            description: Some("A test repository for image generation".to_string()),
+            html_url: "https://github.com/test-owner/test-repo".to_string(),
+            stars: 100,
+            forks: 50,
+            language: Some("Rust".to_string()),
+            topics: vec!["test".to_string(), "rust".to_string()],
+            created_at: chrono::Utc::now(),
+            updated_at: chrono::Utc::now(),
+            pushed_at: chrono::Utc::now(),
+            open_issues: 10,
+            owner: Owner {
+                login: "test-owner".to_string(),
+                avatar_url: "https://github.com/test-owner.png".to_string(),
+            },
+            readme: None,
+            stars_today: Some(10),
+        };
+
+        // 2. Prepare Output Directory
+        let output_dir = std::path::PathBuf::from("target/test_images");
+        if !output_dir.exists() {
+            std::fs::create_dir_all(&output_dir)?;
+        }
+
+        // 3. Initialize Browser
+        let browser_opts = headless_chrome::LaunchOptions::default();
+        let browser = Browser::new(browser_opts)?;
+
+        // 4. Load and Populate Template (Manual replacement for test)
+        // Note: In real app, CardGenerator handles this. Here we mimic it for ImageGenerator test.
+        let template_path = std::path::PathBuf::from("templates/card_template.html");
+        let template_content = if template_path.exists() {
+            std::fs::read_to_string(template_path)?
+        } else {
+            // Fallback if running from a different directory or template missing in test env
+            r#"<!DOCTYPE html><html><body><h1>Fallback Template</h1></body></html>"#.to_string()
+        };
+
+        let html_card = template_content
+            .replace("{{rank_class}}", "rank-1")
+            .replace("{{rank_text}}", "#1")
+            .replace("{{today_stars_badge}}", "")
+            .replace("{{avatar_url}}", &repo.owner.avatar_url)
+            .replace("{{owner_login}}", &repo.owner.login)
+            .replace("{{repo_url}}", &repo.html_url)
+            .replace("{{repo_name}}", &repo.name)
+            .replace("{{full_name}}", &repo.full_name)
+            .replace("{{stars}}", &repo.stars.to_string())
+            .replace("{{stars_label}}", "Stars")
+            .replace("{{forks}}", &repo.forks.to_string())
+            .replace("{{forks_label}}", "Forks")
+            .replace("{{lang_color}}", "#dea584") // Rust color
+            .replace("{{language}}", "Rust")
+            .replace("{{description}}", repo.description.as_ref().unwrap())
+            .replace("{{created_at}}", "2026-01-01")
+            .replace("{{open_issues}}", "10")
+            .replace("{{view_repo_label}}", "View")
+            .replace("{{qrcode}}", "") // Skip QR code for simple test
+            .replace("{{source_repo}}", "rss-daily");
+
+        // 5. Run Generation
+        let result = generator
+            .generate_card_image(
+                &repo,
+                &crate::models::Summary {
+                    content: "summary".to_string(),
+                    language: "en".to_string(),
+                    key_points: vec![],
+                },
+                &html_card,
+                &output_dir,
+                "test_real_template",
+                "2026-01-01",
+                &browser,
+            )
+            .await;
+
+        // 6. Verify Result
+        assert!(result.is_ok());
+        let filename = result.unwrap();
+        assert!(filename.ends_with(".png"));
+
+        let path = output_dir.join(filename);
+        assert!(path.exists());
+        println!("Generated test image at: {:?}", path);
+
+        Ok(())
+    }
+}

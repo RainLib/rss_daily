@@ -1,5 +1,6 @@
 mod config;
 mod github_trending;
+mod locales;
 mod models;
 mod push_post;
 mod storage;
@@ -249,32 +250,68 @@ async fn main() -> Result<()> {
 
     // 生成当天的 README
     info!("Generating daily README for {}...", date);
-    readme_generator.generate_daily_readme(&date, &category_data, &output_dir)?;
-    info!("Generated README_{}.md", date);
 
-    // Update docs/rss/GITHUB_TODAY.md as latest
+    // Generate English Version (Default) -> README.md
+    readme_generator.generate_daily_readme(&date, &category_data, &output_dir, "en")?;
+    info!("Generated README.md (EN) for {}", date);
+
+    // Generate Chinese Version -> README_CN.md
+    readme_generator.generate_daily_readme(&date, &category_data, &output_dir, "zh")?;
+    info!("Generated README_CN.md (ZH) for {}", date);
+
+    // Update docs/rss/GITHUB_TODAY.md as latest (using EN version)
     let today_path = output_dir.join("GITHUB_TODAY.md");
     let latest_today_path = PathBuf::from("docs/rss/GITHUB_TODAY.md");
     if today_path.exists() {
-        // Read content
         if let Ok(content) = std::fs::read_to_string(&today_path) {
-            // Replace image paths to point to the correct subdirectory
-            // Image paths in generated readme are like "Timestamp_Category_Repo.png"
-            // We need to prepend "{year}/{month_day}/" to them.
-            // A simple heuristic is to replace `]({date}_` with `]({year}/{month_day}/{date}_`
             let relative_prefix = format!("{}/{}/", year, month_day);
             let target_pattern = format!("]({}_", date);
             let replacement = format!("]({}{}_", relative_prefix, date);
 
             let new_content = content.replace(&target_pattern, &replacement);
 
-            if let Err(e) = std::fs::write(&latest_today_path, new_content) {
+            if let Err(e) = std::fs::write(&latest_today_path, &new_content) {
                 log::warn!("Failed to write latest GITHUB_TODAY.md: {}", e);
             } else {
                 info!("Updated latest GITHUB_TODAY.md: {:?}", latest_today_path);
             }
-        } else {
-            log::warn!("Failed to read today's readme for copying.");
+
+            // Sync to Root README.md (English) - Landing Page
+            let root_readme_path = PathBuf::from("README.md");
+            if let Err(e) = readme_generator.generate_landing_readme(&root_readme_path, "en") {
+                log::warn!("Failed to generate root README.md: {}", e);
+            } else {
+                info!("Generated root README.md (Landing Page)");
+            }
+        }
+    }
+
+    // Update docs/rss/GITHUB_TODAY_CN.md as latest (using ZH version)
+    let today_cn_path = output_dir.join("GITHUB_TODAY_CN.md");
+    let latest_today_cn_path = PathBuf::from("docs/rss/GITHUB_TODAY_CN.md");
+    if today_cn_path.exists() {
+        if let Ok(content) = std::fs::read_to_string(&today_cn_path) {
+            let relative_prefix = format!("{}/{}/", year, month_day);
+            let target_pattern = format!("]({}_", date);
+            let replacement = format!("]({}{}_", relative_prefix, date);
+
+            let new_content = content.replace(&target_pattern, &replacement);
+
+            match std::fs::write(&latest_today_cn_path, &new_content) {
+                Ok(_) => info!(
+                    "Updated latest GITHUB_TODAY_CN.md: {:?}",
+                    latest_today_cn_path
+                ),
+                Err(e) => log::warn!("Failed to write latest GITHUB_TODAY_CN.md: {}", e),
+            }
+
+            // Sync to Root README_CN.md (Chinese) - Landing Page
+            let root_readme_cn_path = PathBuf::from("README_CN.md");
+            if let Err(e) = readme_generator.generate_landing_readme(&root_readme_cn_path, "zh") {
+                log::warn!("Failed to generate root README_CN.md: {}", e);
+            } else {
+                info!("Generated root README_CN.md (Landing Page)");
+            }
         }
     }
 

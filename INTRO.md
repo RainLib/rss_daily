@@ -128,7 +128,7 @@ api_key = ""  # OpenAI API key (如果使用 OpenAI)
 [image]
 enabled = true
 width = 1200
-height = 630
+height = 400
 background_color = "#1a1a1a"
 
 # 最小 stars 数量过滤
@@ -254,7 +254,7 @@ allow_recommend_again = true
 [image]
 enabled = true
 width = 1200
-height = 630
+height = 400
 background_color = "#1a1a1a"
 text_color = "#ffffff"
 font_size = 24
