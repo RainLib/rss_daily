@@ -55,7 +55,9 @@ impl ImageGenerator {
         date: &str,
         browser: &headless_chrome::Browser,
     ) -> Result<std::path::PathBuf> {
+        use headless_chrome::protocol::cdp::Emulation::SetDefaultBackgroundColorOverride;
         use headless_chrome::protocol::cdp::Page;
+        use headless_chrome::protocol::cdp::DOM::RGBA;
         use std::time::Duration;
 
         // HTML 已包含完整文档结构
@@ -69,7 +71,15 @@ impl ImageGenerator {
         // create new tab from shared browser
         let tab = browser.new_tab()?;
 
-        // HTML template has its own background defined, no need to override
+        // Enable transparency - background should be transparent
+        tab.call_method(SetDefaultBackgroundColorOverride {
+            color: Some(RGBA {
+                r: 0,
+                g: 0,
+                b: 0,
+                a: Some(0.0),
+            }),
+        })?;
 
         // 加载 HTML 文件
         let file_url = format!("file://{}", temp_html.to_str().unwrap());
