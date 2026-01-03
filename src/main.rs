@@ -211,6 +211,14 @@ async fn main() -> Result<()> {
             }
         }
 
+        // 重新排序 cards 以确保按 stars_today 降序排列
+        // 因为 buffer_unordered 会打乱顺序
+        cards.sort_by(|a, b| {
+            let stars_a = a.0.stars_today.unwrap_or(0);
+            let stars_b = b.0.stars_today.unwrap_or(0);
+            stars_b.cmp(&stars_a) // 降序排列
+        });
+
         // 保存分类数据用于生成 README
         category_data.push((category.name.clone(), cards.clone()));
 
