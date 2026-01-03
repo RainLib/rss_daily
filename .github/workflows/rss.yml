@@ -52,7 +52,7 @@ jobs:
         run: |
           git config user.name "rss-bot[bot]"
           git config user.email "rss-bot[bot]@users.noreply.github.com"
-          git add docs/rss/*.xml docs/rss/*.png || true
+          git add docs/ || true
           git diff --staged --quiet || git commit -m "🤖 Auto-update RSS feeds [skip ci]"
           git push || echo "No changes to commit"
 
