@@ -4,11 +4,11 @@
 
 ## 📋 Overview
 
-**10** 个项目 | **217660** ⭐ | **20598** 🍴
+**10** 个项目 | **218541** ⭐ | **20659** 🍴
 
 **热门语言:** `TypeScript` (6) · `Rust` (2) · `Go` (2)
 
-**更新时间:** 2026-01-04 12:54 UTC
+**更新时间:** 2026-01-04 18:38 UTC
 
 **分类分布:**
 
@@ -21,9 +21,9 @@
 ### 1. [memos](https://github.com/usememos/memos)
 
 > 🤖 **推荐理由**  
-> *Memos is an open-source, self-hosted note-taking service designed for privacy and control. With over 50,000 stars on GitHub, it offers a fast, Markdown-native interface without ads or tracking. Key features include full data ownership, REST and gRPC APIs for easy integration, and simple deployment via Docker. Memos supports SQLite, MySQL, and PostgreSQL, making it adaptable to various infrastructures. Its beautiful, mobile-responsive design enhances user experience, while comprehensive documentation facilitates quick setup. Enjoy a free, customizable alternative to cloud-based solutions.*
+> *Memos is an open-source, self-hosted note-taking service designed for privacy and control, ensuring no tracking, ads, or subscription fees. Built with Go and React, it offers fast performance and full markdown support, making it ideal for personal notes and team wikis. Key features include a privacy-first architecture with data ownership, simple one-line Docker deployment, and REST/gRPC API access for easy integration. Memos supports SQLite, MySQL, and PostgreSQL, with a beautiful, mobile-responsive interface. Explore more at usememos.com.*
 
-- ⭐ 50985 stars
+- ⭐ 51135 stars
 - 💻 Go
 - 📅 Updated: 2026-01-04
 
@@ -32,9 +32,9 @@
 ### 2. [opencode](https://github.com/anomalyco/opencode)
 
 > 🤖 **推荐理由**  
-> *OpenCode is an open-source AI coding agent designed to enhance development workflows. With over 47,000 stars on GitHub, it supports TypeScript and offers a terminal user interface (TUI) for efficient coding. Key features include two built-in agents—'build' for full development access and 'plan' for read-only analysis. The platform is provider-agnostic, supporting various AI models, and allows remote execution through a client/server architecture. Available as a desktop app across multiple OS, OpenCode emphasizes community engagement and robust documentation for users and contributors.*
+> *OpenCode is an open-source AI coding agent designed for developers, featuring robust capabilities for code exploration and development. With over 47,000 stars, it supports multiple installation methods across platforms including macOS, Windows, and Linux. Key features include two built-in agents—'build' for full access development and 'plan' for read-only analysis. OpenCode is provider-agnostic, allowing integration with various AI models, and emphasizes a terminal user interface. The project encourages community contributions and offers comprehensive documentation for users.*
 
-- ⭐ 47044 stars
+- ⭐ 47412 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-04
 
@@ -43,9 +43,9 @@
 ### 3. [seanime](https://github.com/5rahim/seanime)
 
 > 🤖 **推荐理由**  
-> *Seanime is an open-source media server for anime and manga, featuring a cross-platform web interface and desktop app. With over 1900 stars on GitHub, it offers a built-in video player, AniList integration, and custom source support for managing local libraries. Key features include offline mode, torrent streaming, automatic episode downloads, and compatibility with popular media players. Users can also read manga, track upcoming episodes, and customize the UI. Seanime prioritizes user responsibility for legal media sourcing and is continuously evolving with community support.*
+> *Seanime is an open-source media server designed for anime and manga enthusiasts, featuring a cross-platform web interface and desktop app. Core functionalities include a built-in video player with subtitle support, AniList integration for managing collections, and offline mode. Users can scan libraries quickly, stream torrents directly, and customize their viewing experience. The platform supports various media players and offers integrated torrent search capabilities. Note that Seanime does not host media; users must obtain content legally.*
 
-- ⭐ 1901 stars
+- ⭐ 2019 stars
 - 💻 Go
 - 📅 Updated: 2026-01-04
 
@@ -56,8 +56,8 @@
 > 🤖 **推荐理由**  
 > *🔥 🔥 🔥 Open Source Airtable Alternative. popular project, actively maintained, recently updated*
 
-- ⭐ 60451 stars
-- 🍴 4497 forks
+- ⭐ 60533 stars
+- 🍴 4503 forks
 - 💻 TypeScript
 - 📅 Updated: 2026-01-04
 
@@ -66,65 +66,65 @@
 ### 5. [newsnow](https://github.com/ourongxing/newsnow)
 
 > 🤖 **推荐理由**  
-> *newsnow is an elegant news reading platform built with TypeScript, featuring a clean UI for optimal reading and real-time updates on trending topics. It supports GitHub OAuth for user authentication and data synchronization, with customizable caching and adaptive scraping to optimize performance. Future updates will include multi-language support and enhanced personalization options. Deployment is straightforward via platforms like Cloudflare or Docker, and it allows users to add various news sources easily. Contributions are encouraged to enhance functionality.*
+> *newsnow is a real-time news reading platform built in TypeScript, featuring a clean UI for an optimal reading experience. With 16,529 stars, it offers real-time updates on trending news, GitHub OAuth login for data synchronization, and adaptive scraping intervals to prevent IP bans. The project supports MCP servers and provides a straightforward deployment process on platforms like Cloudflare and Vercel. Future enhancements include multi-language support, personalized news options, and expanded data sources. Contributions are encouraged, and it operates under the MIT license.*
 
-- ⭐ 16503 stars
+- ⭐ 16529 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-04
 
 ![newsnow](2026-01-04_daily-top_newsnow.png)
 
-### 6. [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js)
+### 6. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **推荐理由**  
-> *MapLibre GL JS is an open-source library for creating interactive vector tile maps in web applications, leveraging GPU-accelerated rendering for fast display. Originating as a fork of Mapbox GL JS, it offers a robust alternative for developers seeking an OSS mapping solution. Key features include seamless integration via simple HTML scripts, support for 3D terrain, heatmaps, and customizable styles. The library's extensive documentation and examples facilitate easy adoption, while bindings for React and Angular enhance usability across frameworks. With over 9,199 stars, it's a vibrant community-driven project.*
+> *cc-switch is a cross-platform All-in-One assistant tool for Claude Code, Codex, and Gemini CLI, built with Rust and Tauri. With over 9,000 stars, it offers seamless provider management, a robust skills and prompts system, and MCP server integration. Key features include a dual-layer SQLite/JSON architecture for data handling, auto-launch on startup, and multi-language support (English, Chinese, Japanese). The application supports easy configuration import/export, speed testing, and has a user-friendly interface. It also offers cloud sync capabilities for cross-device usage.*
 
-- ⭐ 9199 stars
+- ⭐ 9071 stars
+- 💻 Rust
+- 📅 Updated: 2026-01-04
+
+![cc-switch](2026-01-04_daily-top_cc-switch.png)
+
+### 7. [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js)
+
+> 🤖 **推荐理由**  
+> *MapLibre GL JS is an open-source library for creating interactive vector tile maps in web applications, leveraging GPU-accelerated rendering for fast display. Originating as a fork of Mapbox GL JS, it offers a drop-in replacement with enhanced functionality and a commitment to open-source principles. Key features include support for 3D terrain, heatmaps, and third-party vector tile sources. Developers can easily integrate it with examples and comprehensive documentation. Contributions are welcome, fostering a collaborative community around this powerful mapping tool.*
+
+- ⭐ 9205 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-04
 
 ![maplibre-gl-js](2026-01-04_daily-top_maplibre-gl-js.png)
 
-### 7. [nuclear](https://github.com/nukeop/nuclear)
+### 8. [nuclear](https://github.com/nukeop/nuclear)
 
 > 🤖 **推荐理由**  
-> *Nuclear is a free, open-source music streaming player designed to pull content from various free sources, including YouTube, Jamendo, Audius, and SoundCloud. Key features include playlist management, real-time lyrics, audio normalization, and genre browsing. The project is currently undergoing a significant rewrite to enhance performance, integrate a powerful plugin system, and provide built-in auto-updates. With no ads or account requirements, Nuclear offers a user-friendly alternative to traditional music services, backed by a vibrant community and extensive documentation.*
+> *Nuclear is a free streaming music player designed to source music from various free platforms like YouTube, SoundCloud, and Jamendo. With a focus on audio, it offers features such as playlist integration, song queuing, real-time lyrics, and no ads or accounts required. Key highlights include a powerful plugin system, genre browsing, unlimited downloads, and scrobbling to Last.fm. A major rewrite is underway to enhance performance, introduce auto-updates, and support more streaming providers. Community contributions and translations are encouraged.*
 
-- ⭐ 16918 stars
+- ⭐ 16919 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-04
 
 ![nuclear](2026-01-04_daily-top_nuclear.png)
 
-### 8. [hl](https://github.com/pamburus/hl)
+### 9. [hl](https://github.com/pamburus/hl)
 
 > 🤖 **推荐理由**  
 > *A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.. popular project, recently updated*
 
-- ⭐ 2439 stars
+- ⭐ 2470 stars
 - 🍴 52 forks
 - 💻 Rust
 - 📅 Updated: 2026-01-04
 
 ![hl](2026-01-04_daily-top_hl.png)
 
-### 9. [cc-switch](https://github.com/farion1231/cc-switch)
-
-> 🤖 **推荐理由**  
-> *cc-switch is a cross-platform desktop assistant tool designed for Claude Code, Codex, and Gemini CLI, built with Rust and Tauri. It boasts over 9,000 stars on GitHub and features a dual-layer SQLite + JSON architecture for data synchronization and storage. Key functionalities include seamless provider management, skills and prompts management, and multi-language support (English, Chinese, Japanese). The tool offers auto-launch capabilities, customizable configurations, and robust MCP server management. It's designed for optimal coding efficiency and integrates with various AI coding services, enhancing user experience.*
-
-- ⭐ 9022 stars
-- 💻 Rust
-- 📅 Updated: 2026-01-04
-
-![cc-switch](2026-01-04_daily-top_cc-switch.png)
-
 ### 10. [Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
 
 > 🤖 **推荐理由**  
-> *Personal_AI_Infrastructure (PAI) is an open-source framework designed to create personalized AI systems that adapt to individual goals and workflows. Key features include a modular pack system for self-contained capabilities, a scientific method-based approach for iterative progress, and persistent memory for personalized context. PAI allows users to install packs independently, fostering flexibility and customization. The platform is compatible with various AI models, offering tools for automation, research, and skill management, making it an ideal solution for enhancing personal productivity through AI.*
+> *Personal AI Infrastructure (PAI) is an open-source framework designed to create personalized AI systems that evolve with user goals. Key features include modular packs for self-contained capabilities, a universal two-loop goal framework, and a scientific method-based workflow. PAI allows for custom skills, persistent memory, and intelligent routing, enhancing productivity through context-aware AI assistance. With over 3,200 stars on GitHub, it offers a community-driven approach to building an AI that adapts to individual needs, making it a powerful tool for personal and professional development.*
 
-- ⭐ 3198 stars
+- ⭐ 3248 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-04
 
@@ -142,4 +142,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-04 12:54:11 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-04 18:38:02 UTC
