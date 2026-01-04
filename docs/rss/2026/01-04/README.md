@@ -4,11 +4,11 @@
 
 ## 📋 Overview
 
-**10** Projects | **216029** ⭐ | **24884** 🍴
+**10** Projects | **216058** ⭐ | **24888** 🍴
 
-**Top Languages:** `TypeScript` (5) · `Rust` (2) · `Go` (1)
+**Top Languages:** `TypeScript` (5) · `Rust` (2) · `JavaScript` (1)
 
-**Updated:** 2026-01-04 08:02 UTC
+**Updated:** 2026-01-04 08:12 UTC
 
 **Categories:**
 
@@ -21,9 +21,9 @@
 ### 1. [memos](https://github.com/usememos/memos)
 
 > 🤖 **Why Recommend**  
-> *Memos is an open-source, self-hosted note-taking service that prioritizes privacy and data ownership. Built with Go and React, it offers features like full markdown support, zero telemetry, and customizable deployment options via Docker. Key highlights include instant performance, full REST and gRPC APIs for integration, and a clean, mobile-responsive interface. With no ads, tracking, or subscription fees, Memos ensures complete control over your notes. Try the live demo or explore the documentation for easy installation and customization.*
+> *Memos is an open-source, self-hosted note-taking service that prioritizes user privacy and data control. Built with Go and React, it offers features like full markdown support, zero telemetry, and a beautiful, mobile-responsive interface. Key highlights include simple one-line Docker deployment, API access for integrations, and complete ownership of your data without ads or subscription fees. With over 50,000 stars, Memos is ideal for personal notes, team wikis, and knowledge management, ensuring a fast and customizable experience.*
 
-- ⭐ 50713 stars
+- ⭐ 50725 stars
 - 💻 Go
 - 📅 Updated: 2026-01-04
 
@@ -32,9 +32,9 @@
 ### 2. [vibe-kanban](https://github.com/BloopAI/vibe-kanban)
 
 > 🤖 **Why Recommend**  
-> *Vibe Kanban enhances productivity with AI coding agents like Claude Code and Codex, enabling users to manage coding tasks effectively. Key features include seamless switching between agents, orchestration of parallel or sequential executions, task status tracking, and centralized agent configuration. Users can remotely open projects via SSH, facilitating development on remote servers. With over 12,000 stars on GitHub, Vibe Kanban is designed to streamline the coding process, allowing engineers to focus more on strategy and less on manual coding tasks. Visit the [documentation](https://vibekanban.com/docs) for more details.*
+> *Vibe Kanban is a Rust-based project designed to enhance productivity with AI coding agents like Claude Code and Codex. With over 12,000 stars on GitHub, it enables seamless switching and orchestration of multiple coding agents, task tracking, and centralized configuration. Key features include parallel execution, quick work reviews, and SSH access for remote projects. Vibe Kanban simplifies the coding process, allowing engineers to focus on planning and orchestration. For installation and documentation, visit [vibekanban.com](https://vibekanban.com).*
 
-- ⭐ 12186 stars
+- ⭐ 12189 stars
 - 💻 Rust
 - 📅 Updated: 2026-01-04
 
@@ -43,9 +43,9 @@
 ### 3. [newsnow](https://github.com/ourongxing/newsnow)
 
 > 🤖 **Why Recommend**  
-> *newsnow is an elegant platform for real-time and trending news, built with TypeScript and designed for optimal reading experiences. Key features include a clean UI, GitHub OAuth login, real-time news updates, and adaptive scraping intervals to prevent IP bans. The project supports a basic deployment option with caching and login, as well as Docker deployment. Future plans include multi-language support, enhanced personalization, and expanded data sources. Contributions are welcome, and it operates under the MIT license.*
+> *NewsNow is a TypeScript-based project designed for elegant reading of real-time trending news, currently supporting Chinese. Key features include a clean UI, real-time updates, GitHub OAuth login, adaptive scraping intervals, and a customizable MCP server. It supports deployment on platforms like Cloudflare and Vercel, with options for caching and database integration. Future enhancements aim for multi-language support and improved personalization. Contributions are encouraged, with a focus on expanding data sources. The project is open-source under the MIT license.*
 
-- ⭐ 16433 stars
+- ⭐ 16437 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-04
 
@@ -56,7 +56,7 @@
 > 🤖 **Why Recommend**  
 > *🔥 🔥 🔥 Open Source Airtable Alternative. popular project, actively maintained, recently updated*
 
-- ⭐ 60375 stars
+- ⭐ 60378 stars
 - 🍴 4492 forks
 - 💻 TypeScript
 - 📅 Updated: 2026-01-04
@@ -66,9 +66,9 @@
 ### 5. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **Why Recommend**  
-> *cc-switch is a cross-platform desktop assistant tool designed for Claude Code, Codex, and Gemini CLI, built with Rust and Tauri. It boasts a dual-layer SQLite + JSON architecture for data management, enabling future cloud sync. Key features include seamless provider management, skills and prompts systems, and multi-language support (English, Chinese, Japanese). The app supports auto-launch, has a redesigned UI, and offers one-click configuration switching. With over 8,900 stars, it is an efficient solution for developers looking to enhance their AI coding experience.*
+> *cc-switch is a cross-platform desktop assistant tool for Claude Code, Codex, and Gemini CLI, built with Rust. With 8,958 stars, it offers key features like a dual-layer SQLite+JSON architecture, a redesigned UI, and support for Japanese, Chinese, and English. Key functionalities include seamless provider management, skills and prompts management, and auto-sync capabilities. It integrates with various AI coding platforms and provides critical bug fixes, speed testing, and configuration import/export. The tool is designed for Windows, macOS, and Linux, ensuring a robust coding experience.*
 
-- ⭐ 8954 stars
+- ⭐ 8958 stars
 - 💻 Rust
 - 📅 Updated: 2026-01-04
 
@@ -77,7 +77,7 @@
 ### 6. [thingsboard](https://github.com/thingsboard/thingsboard)
 
 > 🤖 **Why Recommend**  
-> *ThingsBoard is an open-source IoT platform designed for device management, data collection, processing, and visualization. With over 20,000 stars on GitHub, it offers powerful features like real-time dashboards, SCADA capabilities, and a robust rule engine for data processing and alarm management. Users can connect devices, visualize telemetry data, and build custom workflows. Installation options include on-premise, cloud, and live demo. The platform supports various use cases like smart energy, fleet tracking, and smart farming, making it versatile for IoT applications.*
+> *ThingsBoard is an open-source IoT platform for device management, data collection, processing, and visualization, boasting over 20,000 stars on GitHub. Key features include device provisioning, real-time data visualization with customizable dashboards, a powerful rule engine for data processing, and SCADA capabilities for industrial monitoring. Users can manage devices securely, set alarms, and receive notifications. Installation options include on-premise, cloud, or a live demo. Comprehensive documentation and support are available to enhance user experience.*
 
 - ⭐ 20872 stars
 - 💻 Java
@@ -88,7 +88,7 @@
 ### 7. [claudesidian](https://github.com/heyitsnoah/claudesidian)
 
 > 🤖 **Why Recommend**  
-> *Claudesidian is a JavaScript-based starter kit that transforms your Obsidian vault into an AI-powered second brain using Claude Code. It enables users to leverage AI as a thinking partner, organize knowledge with the PARA method, and maintain version control via Git. Key features include a structured vault with dedicated folders for projects and resources, an interactive setup wizard, and pre-configured commands like "thinking-partner" and "research-assistant." Optional integrations for image analysis and web research enhance functionality, ensuring a comprehensive knowledge management solution.*
+> *Claudesidian is an AI-powered Obsidian starter kit designed to enhance your knowledge management using Claude Code. It features a structured PARA organization method, Git version control, and mobile access. Users can interact with Claude Code in two modes: Thinking Mode for exploration and Writing Mode for content creation. Key commands include research assistance and daily reviews. The kit supports advanced integrations like Google Gemini for document analysis and Firecrawl for web research, making it a comprehensive tool for personal and collaborative knowledge management.*
 
 - ⭐ 1035 stars
 - 💻 JavaScript
@@ -99,7 +99,7 @@
 ### 8. [agents.md](https://github.com/agentsmd/agents.md)
 
 > 🤖 **Why Recommend**  
-> *AGENTS.md is an open format designed to guide coding agents effectively, serving as a structured README to provide essential context and instructions for AI-driven projects. Key features include detailed development environment tips, testing instructions, and pull request guidelines, ensuring streamlined collaboration and code quality. With a minimalistic example file for user reference, the project also hosts a Next.js website at https://agents.md/ that outlines its goals and showcases examples. The project, built in TypeScript, has garnered over 14,000 stars on GitHub, highlighting its popularity and utility in the developer community.*
+> *AGENTS.md is an open format designed to guide coding agents, serving as a structured README for AI tools. With over 14,000 stars, it provides clear instructions on development environments, testing, and pull request protocols. Key features include streamlined commands for package management, testing, and linting, ensuring efficient collaboration and project management. Additionally, the project includes a Next.js website that outlines its goals and offers examples. AGENTS.md simplifies the process of integrating AI coding agents into development workflows.*
 
 - ⭐ 14036 stars
 - 💻 TypeScript
@@ -110,9 +110,9 @@
 ### 9. [nuclear](https://github.com/nukeop/nuclear)
 
 > 🤖 **Why Recommend**  
-> *Nuclear is a free, open-source music streaming player that focuses on providing access to music from various free sources like YouTube, Jamendo, Audius, and SoundCloud. Key features include a user-friendly GUI, playlist management, album browsing, real-time lyrics, and scrobbling to Last.fm. The project is undergoing a major rewrite to enhance performance, introduce auto-updates, and support for a powerful plugin system. With a commitment to no ads or accounts, Nuclear offers a seamless music experience for users looking for diverse audio content.*
+> *Nuclear is a streaming music player that curates free music from various online sources, including YouTube, SoundCloud, and Jamendo. Key features include playlist management, real-time lyrics, audio normalization, and scrobbling to Last.fm. The player supports genre browsing, radio mode, and unlimited downloads without ads or account requirements. A new version, currently being developed, promises auto-updates, improved performance with native Rust, and enhanced plugin support. Join the community on Discord and contribute to its ongoing development.*
 
-- ⭐ 16874 stars
+- ⭐ 16877 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-04
 
@@ -121,7 +121,7 @@
 ### 10. [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
 
 > 🤖 **Why Recommend**  
-> *Zigbee2MQTT is a TypeScript-based bridge that enables users to connect Zigbee devices without relying on proprietary gateways. It facilitates seamless integration with various smart home platforms via MQTT, enhancing compatibility and flexibility. Key features include support for a wide range of devices from major vendors like Xiaomi and Philips, an intuitive web interface for monitoring and configuration, and extensive documentation for easy setup. With over 14,500 stars on GitHub, it boasts an active community for support and contributions.*
+> *Zigbee2MQTT is an open-source project that serves as a bridge between Zigbee devices and MQTT, enabling users to control their Zigbee devices without relying on proprietary hubs. With over 14,500 stars on GitHub, it integrates seamlessly with various smart home solutions, including Home Assistant, Domoticz, and Gladys Assistant. Key features include extensive device support, a modular architecture, and web-based interfaces for monitoring and configuration. The project is actively maintained and encourages community contributions for device support and enhancements.*
 
 - ⭐ 14551 stars
 - 💻 TypeScript
@@ -141,4 +141,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-04 08:02:59 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-04 08:12:39 UTC

@@ -8,8 +8,8 @@
       "full_name": "usememos/memos",
       "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
       "html_url": "https://github.com/usememos/memos",
-      "stars": 50713,
-      "forks": 3657,
+      "stars": 50725,
+      "forks": 3658,
       "language": "Go",
       "topics": [
         "docker",
@@ -26,9 +26,9 @@
         "sqlite"
       ],
       "created_at": "2021-12-08T15:30:18Z",
-      "updated_at": "2026-01-04T08:01:01Z",
+      "updated_at": "2026-01-04T08:08:48Z",
       "pushed_at": "2026-01-03T12:43:21Z",
-      "open_issues": 45,
+      "open_issues": 46,
       "owner": {
         "login": "usememos",
         "avatar_url": "https://avatars.githubusercontent.com/u/95764151?v=4"
@@ -42,8 +42,8 @@
       "full_name": "BloopAI/vibe-kanban",
       "description": "Get 10X more out of Claude Code, Codex or any coding agent",
       "html_url": "https://github.com/BloopAI/vibe-kanban",
-      "stars": 12186,
-      "forks": 1121,
+      "stars": 12189,
+      "forks": 1122,
       "language": "Rust",
       "topics": [
         "agent",
@@ -53,7 +53,7 @@
         "task-manager"
       ],
       "created_at": "2025-06-14T19:10:21Z",
-      "updated_at": "2026-01-04T07:58:40Z",
+      "updated_at": "2026-01-04T08:04:43Z",
       "pushed_at": "2026-01-04T00:35:33Z",
       "open_issues": 192,
       "owner": {
@@ -69,15 +69,15 @@
       "full_name": "ourongxing/newsnow",
       "description": "Elegant reading of real-time and hottest news",
       "html_url": "https://github.com/ourongxing/newsnow",
-      "stars": 16433,
-      "forks": 4785,
+      "stars": 16437,
+      "forks": 4786,
       "language": "TypeScript",
       "topics": [
         "elegant",
         "news"
       ],
       "created_at": "2024-09-23T14:16:12Z",
-      "updated_at": "2026-01-04T08:01:34Z",
+      "updated_at": "2026-01-04T08:07:49Z",
       "pushed_at": "2025-12-27T15:23:56Z",
       "open_issues": 108,
       "owner": {
@@ -93,7 +93,7 @@
       "full_name": "nocodb/nocodb",
       "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
       "html_url": "https://github.com/nocodb/nocodb",
-      "stars": 60375,
+      "stars": 60378,
       "forks": 4492,
       "language": "TypeScript",
       "topics": [
@@ -113,7 +113,7 @@
         "swagger"
       ],
       "created_at": "2017-10-29T18:51:48Z",
-      "updated_at": "2026-01-04T08:00:26Z",
+      "updated_at": "2026-01-04T08:10:13Z",
       "pushed_at": "2026-01-04T04:13:20Z",
       "open_issues": 549,
       "owner": {
@@ -129,8 +129,8 @@
       "full_name": "farion1231/cc-switch",
       "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
       "html_url": "https://github.com/farion1231/cc-switch",
-      "stars": 8954,
-      "forks": 603,
+      "stars": 8958,
+      "forks": 604,
       "language": "Rust",
       "topics": [
         "ai-tools",
@@ -150,7 +150,7 @@
         "wsl-support"
       ],
       "created_at": "2025-08-04T14:16:16Z",
-      "updated_at": "2026-01-04T07:59:45Z",
+      "updated_at": "2026-01-04T08:10:48Z",
       "pushed_at": "2026-01-04T04:31:30Z",
       "open_issues": 92,
       "owner": {
@@ -250,7 +250,7 @@
       "full_name": "nukeop/nuclear",
       "description": "Streaming music player that finds free music for you",
       "html_url": "https://github.com/nukeop/nuclear",
-      "stars": 16874,
+      "stars": 16877,
       "forks": 1258,
       "language": "TypeScript",
       "topics": [
@@ -265,7 +265,7 @@
         "youtube"
       ],
       "created_at": "2016-09-22T22:58:21Z",
-      "updated_at": "2026-01-04T07:59:31Z",
+      "updated_at": "2026-01-04T08:06:40Z",
       "pushed_at": "2025-12-27T08:45:37Z",
       "open_issues": 167,
       "owner": {
@@ -304,14 +304,14 @@
       "full_name": "openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
       "html_url": "https://github.com/openai/codex",
-      "stars": 55169,
-      "forks": 7065,
+      "stars": 55170,
+      "forks": 7066,
       "language": "Rust",
       "topics": [],
       "created_at": "2025-04-13T05:37:54Z",
-      "updated_at": "2026-01-04T07:47:15Z",
+      "updated_at": "2026-01-04T08:05:36Z",
       "pushed_at": "2026-01-03T20:41:03Z",
-      "open_issues": 931,
+      "open_issues": 932,
       "owner": {
         "login": "openai",
         "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
@@ -325,7 +325,7 @@
       "full_name": "Genymobile/scrcpy",
       "description": "Display and control your Android device",
       "html_url": "https://github.com/Genymobile/scrcpy",
-      "stars": 133528,
+      "stars": 133529,
       "forks": 12472,
       "language": "C",
       "topics": [
@@ -339,7 +339,7 @@
         "sdl2"
       ],
       "created_at": "2017-11-21T18:00:27Z",
-      "updated_at": "2026-01-04T07:57:15Z",
+      "updated_at": "2026-01-04T08:06:51Z",
       "pushed_at": "2026-01-02T14:01:42Z",
       "open_issues": 2665,
       "owner": {
@@ -466,14 +466,14 @@
       "full_name": "block/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "html_url": "https://github.com/block/goose",
-      "stars": 25427,
+      "stars": 25428,
       "forks": 2286,
       "language": "Rust",
       "topics": [
         "mcp"
       ],
       "created_at": "2024-08-23T19:03:36Z",
-      "updated_at": "2026-01-04T06:57:16Z",
+      "updated_at": "2026-01-04T08:02:51Z",
       "pushed_at": "2026-01-04T01:56:38Z",
       "open_issues": 263,
       "owner": {
@@ -516,7 +516,7 @@
       "full_name": "godotengine/godot",
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "html_url": "https://github.com/godotengine/godot",
-      "stars": 104749,
+      "stars": 104750,
       "forks": 23947,
       "language": "C++",
       "topics": [
@@ -529,7 +529,7 @@
         "open-source"
       ],
       "created_at": "2014-01-04T16:05:36Z",
-      "updated_at": "2026-01-04T07:53:08Z",
+      "updated_at": "2026-01-04T08:09:24Z",
       "pushed_at": "2026-01-03T15:49:34Z",
       "open_issues": 17142,
       "owner": {
@@ -1177,7 +1177,7 @@
       "full_name": "maplibre/maplibre-gl-js",
       "description": "MapLibre GL JS - Interactive vector tile maps in the browser",
       "html_url": "https://github.com/maplibre/maplibre-gl-js",
-      "stars": 9167,
+      "stars": 9169,
       "forks": 962,
       "language": "TypeScript",
       "topics": [
@@ -1189,7 +1189,7 @@
         "webgl2"
       ],
       "created_at": "2020-12-08T22:42:56Z",
-      "updated_at": "2026-01-04T07:59:24Z",
+      "updated_at": "2026-01-04T08:08:16Z",
       "pushed_at": "2026-01-02T08:23:58Z",
       "open_issues": 403,
       "owner": {
@@ -1836,12 +1836,12 @@
       "full_name": "sohzm/cheating-daddy",
       "description": "a free and opensource app that lets you gain an unfair advantage",
       "html_url": "https://github.com/sohzm/cheating-daddy",
-      "stars": 4888,
+      "stars": 4889,
       "forks": 830,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2025-05-28T22:50:20Z",
-      "updated_at": "2026-01-04T07:51:30Z",
+      "updated_at": "2026-01-04T08:10:08Z",
       "pushed_at": "2025-12-12T14:21:35Z",
       "open_issues": 109,
       "owner": {
@@ -1919,7 +1919,7 @@
       "full_name": "mamiiblt/instafel",
       "description": "Instafel provides fast & up-to-date Instagram Alpha experience for everyone!",
       "html_url": "https://github.com/mamiiblt/instafel",
-      "stars": 747,
+      "stars": 748,
       "forks": 23,
       "language": "Java",
       "topics": [
@@ -1927,7 +1927,7 @@
         "source-code"
       ],
       "created_at": "2024-01-16T16:26:27Z",
-      "updated_at": "2026-01-04T05:33:43Z",
+      "updated_at": "2026-01-04T08:02:21Z",
       "pushed_at": "2026-01-04T03:41:22Z",
       "open_issues": 15,
       "owner": {
@@ -2077,7 +2077,7 @@
       "full_name": "firecracker-microvm/firecracker",
       "description": "Secure and fast microVMs for serverless computing.",
       "html_url": "https://github.com/firecracker-microvm/firecracker",
-      "stars": 31671,
+      "stars": 31672,
       "forks": 2194,
       "language": "Rust",
       "topics": [
@@ -2092,7 +2092,7 @@
         "virtualization"
       ],
       "created_at": "2017-10-19T06:18:47Z",
-      "updated_at": "2026-01-04T06:12:59Z",
+      "updated_at": "2026-01-04T08:06:06Z",
       "pushed_at": "2025-12-29T16:06:06Z",
       "open_issues": 73,
       "owner": {
@@ -2164,12 +2164,12 @@
       "full_name": "google-ai-edge/gallery",
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "html_url": "https://github.com/google-ai-edge/gallery",
-      "stars": 14748,
+      "stars": 14749,
       "forks": 1253,
       "language": "Kotlin",
       "topics": [],
       "created_at": "2025-03-31T17:47:28Z",
-      "updated_at": "2026-01-04T07:54:05Z",
+      "updated_at": "2026-01-04T08:04:35Z",
       "pushed_at": "2025-12-18T17:15:46Z",
       "open_issues": 153,
       "owner": {
@@ -2568,7 +2568,7 @@
       "full_name": "micropython/micropython",
       "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
       "html_url": "https://github.com/micropython/micropython",
-      "stars": 21291,
+      "stars": 21292,
       "forks": 8623,
       "language": "C",
       "topics": [
@@ -2578,7 +2578,7 @@
         "python"
       ],
       "created_at": "2013-12-20T11:47:07Z",
-      "updated_at": "2026-01-04T06:38:24Z",
+      "updated_at": "2026-01-04T08:02:09Z",
       "pushed_at": "2026-01-04T06:31:26Z",
       "open_issues": 1816,
       "owner": {
@@ -2675,7 +2675,7 @@
       "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.",
       "html_url": "https://github.com/MariaDB/server",
       "stars": 6868,
-      "forks": 1914,
+      "forks": 1915,
       "language": "C++",
       "topics": [
         "amazon-web-services",
@@ -2711,7 +2711,7 @@
       "full_name": "juspay/hyperswitch",
       "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
       "html_url": "https://github.com/juspay/hyperswitch",
-      "stars": 39301,
+      "stars": 39300,
       "forks": 4559,
       "language": "Rust",
       "topics": [
@@ -2731,9 +2731,9 @@
         "works-with-react"
       ],
       "created_at": "2022-10-17T11:18:28Z",
-      "updated_at": "2026-01-04T06:35:41Z",
+      "updated_at": "2026-01-04T08:07:51Z",
       "pushed_at": "2026-01-03T08:15:46Z",
-      "open_issues": 1341,
+      "open_issues": 1340,
       "owner": {
         "login": "juspay",
         "avatar_url": "https://avatars.githubusercontent.com/u/11497632?v=4"
@@ -2785,7 +2785,7 @@
       "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.",
       "html_url": "https://github.com/ImageMagick/ImageMagick",
       "stars": 15300,
-      "forks": 1523,
+      "forks": 1522,
       "language": "C",
       "topics": [
         "command-line-image-tool",
@@ -2856,7 +2856,7 @@
       "full_name": "HMCL-dev/HMCL",
       "description": "A Minecraft Launcher which is multi-functional, cross-platform and popular",
       "html_url": "https://github.com/HMCL-dev/HMCL",
-      "stars": 8607,
+      "stars": 8608,
       "forks": 812,
       "language": "Java",
       "topics": [
@@ -2865,9 +2865,9 @@
         "minecraft-launcher"
       ],
       "created_at": "2015-06-22T08:06:03Z",
-      "updated_at": "2026-01-04T05:10:33Z",
+      "updated_at": "2026-01-04T08:02:07Z",
       "pushed_at": "2026-01-03T12:51:46Z",
-      "open_issues": 332,
+      "open_issues": 333,
       "owner": {
         "login": "HMCL-dev",
         "avatar_url": "https://avatars.githubusercontent.com/u/155959482?v=4"
@@ -3325,7 +3325,7 @@
       "created_at": "2019-08-30T20:35:36Z",
       "updated_at": "2026-01-04T07:52:43Z",
       "pushed_at": "2026-01-02T06:04:52Z",
-      "open_issues": 378,
+      "open_issues": 379,
       "owner": {
         "login": "plankanban",
         "avatar_url": "https://avatars.githubusercontent.com/u/64215741?v=4"
@@ -3540,7 +3540,7 @@
       "full_name": "apache/arrow",
       "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
       "html_url": "https://github.com/apache/arrow",
-      "stars": 16336,
+      "stars": 16337,
       "forks": 3967,
       "language": "C++",
       "topics": [
@@ -3548,7 +3548,7 @@
         "parquet"
       ],
       "created_at": "2016-02-17T08:00:23Z",
-      "updated_at": "2026-01-04T07:30:38Z",
+      "updated_at": "2026-01-04T08:04:43Z",
       "pushed_at": "2026-01-03T05:44:38Z",
       "open_issues": 4191,
       "owner": {
@@ -5120,5 +5120,5 @@
       "stars_today": 0
     }
   ],
-  "created_at": "2026-01-04T08:02:14.096073999Z"
+  "created_at": "2026-01-04T08:11:47.793841814Z"
 }
