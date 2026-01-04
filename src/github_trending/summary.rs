@@ -198,25 +198,21 @@ impl SummaryGenerator {
             "README not available".to_string()
         });
 
-        // 截取 README 前 1000 字符避免 token 超限
-        let readme_excerpt = if readme.len() > 1000 {
-            format!("{}...", &readme[..1000])
-        } else {
-            readme
-        };
+        // 直接使用完整的 README 内容
+        let readme_excerpt = readme;
 
         // 构建 prompt
         let prompt = if language == "zh" {
             format!(
-                "请为以下 GitHub 项目生成一个200字以内的简洁总结，重点介绍项目的核心功能、亮点和提供的主要服务。\n\n\
+                "请为以下 GitHub 项目生成一个500字以内的简洁总结，重点介绍项目的核心功能、亮点和提供的主要服务。\n\n\
                 项目信息:\n\
                 名称: {}\n\
                 描述: {}\n\
                 Stars: {}\n\
                 语言: {}\n\
-                README摘要:\n{}\n\n\
+                README内容:\n{}\n\n\
                 要求:\n\
-                1. 字数严格控制在200字以内\n\
+                1. 字数控制在500字以内，如果内容特别丰富可以最多扩展到600字\n\
                 2. 突出最有价值的特性和服务内容\n\
                 3. 语言简洁专业\n\
                 4. 直接输出总结内容，不要额外的格式标记",
@@ -228,15 +224,15 @@ impl SummaryGenerator {
             )
         } else {
             format!(
-                "Generate a concise summary (max 200 characters) for this GitHub project, highlighting core features, key highlights and main services.\n\n\
+                "Generate a concise summary (max 500 characters) for this GitHub project, highlighting core features, key highlights and main services.\n\n\
                 Project Info:\n\
                 Name: {}\n\
                 Description: {}\n\
                 Stars: {}\n\
                 Language: {}\n\
-                README Excerpt:\n{}\n\n\
+                README Content:\n{}\n\n\
                 Requirements:\n\
-                1. Strictly within 200 characters\n\
+                1. Keep within 500 characters, allow up to 600 if content is particularly rich\n\
                 2. Highlight most valuable features and services\n\
                 3. Professional and concise\n\
                 4. Output summary directly without extra formatting",
