@@ -4,11 +4,11 @@
 
 ## 📋 Overview
 
-**10** 个项目 | **219657** ⭐ | **20733** 🍴
+**10** 个项目 | **220667** ⭐ | **20799** 🍴
 
-**热门语言:** `TypeScript` (6) · `Go` (2) · `Rust` (2)
+**热门语言:** `TypeScript` (6) · `Rust` (2) · `Go` (2)
 
-**更新时间:** 2026-01-05 02:25 UTC
+**更新时间:** 2026-01-05 06:51 UTC
 
 **分类分布:**
 
@@ -21,9 +21,9 @@
 ### 1. [memos](https://github.com/usememos/memos)
 
 > 🤖 **推荐理由**  
-> *Memos is an open-source, self-hosted note-taking service that prioritizes privacy and user control. Built with Go and React, it offers full markdown support, blazing-fast performance, and a clean interface. Key features include zero telemetry, complete data ownership, and easy deployment via Docker. Memos supports SQLite, MySQL, and PostgreSQL, and provides full REST and gRPC APIs for seamless integration. With no ads, tracking, or subscription fees, Memos empowers users to manage their notes securely and efficiently. Try the live demo or explore the documentation for more details.*
+> *Memos is an open-source, self-hosted note-taking service designed for privacy and control, with no tracking, ads, or subscription fees. Built with Go and React, it offers full markdown support, blazing fast performance, and easy deployment via Docker. Key features include complete data ownership, REST and gRPC APIs for integration, and a clean, responsive interface. Suitable for personal notes and team wikis, Memos allows users to manage their knowledge effectively while ensuring data privacy. Explore more at usememos.com.*
 
-- ⭐ 51286 stars
+- ⭐ 51415 stars
 - 💻 Go
 - 📅 Updated: 2026-01-05
 
@@ -32,9 +32,9 @@
 ### 2. [opencode](https://github.com/anomalyco/opencode)
 
 > 🤖 **推荐理由**  
-> *OpenCode is an open-source AI coding agent designed to enhance development workflows. With over 47,000 stars on GitHub, it features a terminal user interface (TUI) and supports multiple programming models, including those from OpenAI and Google. Key functionalities include two switchable agents for coding (full access) and planning (read-only), along with a general subagent for complex tasks. OpenCode is compatible across platforms, with a desktop app available in beta. Its modular architecture allows for integration with various clients, making it a versatile tool for developers.*
+> *OpenCode is an open-source AI coding agent built with TypeScript, boasting over 48,000 stars on GitHub. It features two agents—'build' for full development access and 'plan' for read-only analysis, ideal for exploring codebases. Users can switch between agents with ease. OpenCode supports various installation methods across platforms and offers a BETA desktop app. Its unique client/server architecture allows remote interaction with a terminal-based UI. The project emphasizes provider-agnostic model usage, making it versatile for developers. Join the community on Discord for support and collaboration.*
 
-- ⭐ 47873 stars
+- ⭐ 48359 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-05
 
@@ -45,8 +45,8 @@
 > 🤖 **推荐理由**  
 > *🔥 🔥 🔥 Open Source Airtable Alternative. popular project, actively maintained, recently updated*
 
-- ⭐ 60635 stars
-- 🍴 4505 forks
+- ⭐ 60723 stars
+- 🍴 4513 forks
 - 💻 TypeScript
 - 📅 Updated: 2026-01-05
 
@@ -55,9 +55,9 @@
 ### 4. [seanime](https://github.com/5rahim/seanime)
 
 > 🤖 **推荐理由**  
-> *Seanime is an open-source media server designed for anime and manga enthusiasts, featuring a cross-platform web interface and desktop app. Key features include a built-in video player with advanced subtitle support, complete AniList integration, custom source support, and an integrated torrent search engine. Users can manage their media libraries offline, stream directly to players, and read manga chapters. Seanime emphasizes legal media usage and offers extensive customization options. With over 2,158 stars, it provides a robust solution for media management and streaming.*
+> *Seanime is an open-source media server for anime and manga, featuring a cross-platform web interface and desktop app. Key features include a built-in video player with support for advanced subtitles, AniList integration for managing your library, and offline mode functionality. Users can scan their anime library quickly and stream torrents directly to their media player. Additional capabilities include customizable UI, integrated torrent search, and manga reading support. Seanime emphasizes legal media sourcing and offers extensive documentation and community support.*
 
-- ⭐ 2158 stars
+- ⭐ 2253 stars
 - 💻 Go
 - 📅 Updated: 2026-01-05
 
@@ -66,9 +66,9 @@
 ### 5. [newsnow](https://github.com/ourongxing/newsnow)
 
 > 🤖 **推荐理由**  
-> *newsnow is an elegant platform for reading real-time, trending news, currently supporting Chinese, with plans for multi-language support. Key features include a clean UI, real-time updates, GitHub OAuth login with data sync, and adaptive scraping intervals to optimize resource use. The project supports easy deployment on platforms like Cloudflare and Vercel, with options for Docker and database integration. Future enhancements will focus on personalization and expanding data sources. Contributions are welcomed to enhance its capabilities.*
+> *newsnow is a TypeScript-based project designed for elegant reading of real-time trending news, currently supporting Chinese. Key features include a clean UI, GitHub OAuth login, adaptive scraping intervals to optimize resource usage, and a customizable caching system. The project offers easy deployment options via platforms like Cloudflare and Vercel, with support for multiple databases, particularly Cloudflare D1. Future enhancements aim to include multi-language support, personalized news options, and expanded data sources. Contributions are welcome under the MIT license.*
 
-- ⭐ 16591 stars
+- ⭐ 16640 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-05
 
@@ -77,9 +77,9 @@
 ### 6. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **推荐理由**  
-> *cc-switch is a cross-platform desktop assistant tool designed for Claude Code, Codex, and Gemini CLI, built with Rust and powered by Tauri. It boasts over 9,100 stars and offers features such as SQLite + JSON dual-layer architecture for data management, advanced skills and prompts systems, and seamless provider switching. Users benefit from integrated MCP server management, auto-sync capabilities, and multi-language support (English, Chinese, Japanese). Sponsored by Z.ai, AIGoCode, and DMXAPI, cc-switch enhances AI coding experiences with reliable API services and tools.*
+> *cc-switch is a cross-platform desktop assistant tool for Claude Code, Codex, and Gemini CLI, built with Rust and Tauri. It boasts over 9,200 stars and features a robust SQLite + JSON dual-layer architecture for data management. Key highlights include seamless provider switching, advanced skills and prompts management, and enhanced MCP server integration. The app supports multiple languages, auto-launches on startup, and offers a brand-new user interface. It also provides cloud sync capabilities and integrates with various AI coding services, ensuring a fast and stable coding experience.*
 
-- ⭐ 9126 stars
+- ⭐ 9211 stars
 - 💻 Rust
 - 📅 Updated: 2026-01-05
 
@@ -88,9 +88,9 @@
 ### 7. [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js)
 
 > 🤖 **推荐理由**  
-> *MapLibre GL JS is an open-source JavaScript library for creating interactive vector tile maps in web applications. It offers fast, GPU-accelerated rendering and is a community-driven fork of mapbox-gl-js. Core features include customizable map styles, 3D terrain visualization, heatmaps, and support for various third-party vector tile sources. The library is designed for easy integration, with simple HTML setup and extensive documentation. With 9,216 stars on GitHub, it also encourages community contributions and offers bounties for development tasks.*
+> *MapLibre GL JS is an open-source library for rendering interactive vector tile maps in web applications, leveraging GPU acceleration for fast performance. Originating as a fork of Mapbox GL JS, it provides a seamless experience for developers seeking an open-source alternative. Key features include customizable map styles, 3D terrain visualization, and support for heatmaps. The library is compatible with React and Angular, and comprehensive documentation, examples, and community engagement opportunities are available. It is actively maintained under the BSD-3-Clause license.*
 
-- ⭐ 9216 stars
+- ⭐ 9222 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-05
 
@@ -99,9 +99,9 @@
 ### 8. [nuclear](https://github.com/nukeop/nuclear)
 
 > 🤖 **推荐理由**  
-> *Nuclear is a TypeScript-based streaming music player that aggregates free music from sources like YouTube, Jamendo, Audius, and SoundCloud. Key features include playlist management, real-time lyrics, audio normalization, and support for various metadata and streaming providers. Users can browse music by genre, export playlists, and enjoy a radio mode. A major rewrite is underway to enhance performance and add auto-update capabilities, Tauri integration, theming support, and improved plugin tools. Community-driven and ad-free, Nuclear offers a rich and expansive listening experience.*
+> *Nuclear is a free, open-source music streaming player that aggregates music from platforms like YouTube, Jamendo, Audius, and SoundCloud. Key features include playlist management, real-time lyrics, scrobbling to Last.fm, and genre browsing. With no ads or accounts required, users can enjoy unlimited downloads and audio normalization. A forthcoming rewrite aims to enhance performance, add auto-updates, and support for plugins using Tauri and Rust. Community engagement is encouraged through translations and feature suggestions.*
 
-- ⭐ 16924 stars
+- ⭐ 16925 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-05
 
@@ -110,9 +110,9 @@
 ### 9. [Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
 
 > 🤖 **推荐理由**  
-> *Personal AI Infrastructure (PAI) is an open-source framework for creating personalized AI systems that evolve to meet individual goals. With over 3,350 stars on GitHub, PAI offers modular "packs" that provide specific capabilities, allowing users to build tailored solutions instead of generic assistants. Key features include a two-loop progress model for goal achievement, a scientific method-driven workflow, and persistent memory for context retention. PAI supports various platforms and enables AI-driven installation and management of skills, making it a versatile tool for enhancing personal productivity.*
+> *Personal_AI_Infrastructure (PAI) is an open-source framework for creating personalized AI systems. With 3,398 stars on GitHub, PAI focuses on helping users achieve their goals through a unique architecture that combines a universal progress pattern and a scientific method cycle. Key features include modular packs for customizable AI capabilities, persistent memory, and intelligent context management. PAI enables users to build tailored AI assistants that learn and adapt, fostering a self-improving ecosystem designed for individual needs.*
 
-- ⭐ 3350 stars
+- ⭐ 3398 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-05
 
@@ -123,7 +123,7 @@
 > 🤖 **推荐理由**  
 > *A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.. popular project, recently updated*
 
-- ⭐ 2498 stars
+- ⭐ 2521 stars
 - 🍴 52 forks
 - 💻 Rust
 - 📅 Updated: 2026-01-05
@@ -142,4 +142,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-05 02:25:42 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-05 06:51:06 UTC

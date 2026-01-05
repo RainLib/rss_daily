@@ -8,8 +8,8 @@
       "full_name": "usememos/memos",
       "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
       "html_url": "https://github.com/usememos/memos",
-      "stars": 51286,
-      "forks": 3701,
+      "stars": 51415,
+      "forks": 3708,
       "language": "Go",
       "topics": [
         "docker",
@@ -26,7 +26,7 @@
         "sqlite"
       ],
       "created_at": "2021-12-08T15:30:18Z",
-      "updated_at": "2026-01-05T02:18:53Z",
+      "updated_at": "2026-01-05T06:48:40Z",
       "pushed_at": "2026-01-04T11:18:48Z",
       "open_issues": 44,
       "owner": {
@@ -42,14 +42,14 @@
       "full_name": "anomalyco/opencode",
       "description": "The open source coding agent.",
       "html_url": "https://github.com/anomalyco/opencode",
-      "stars": 47873,
-      "forks": 4093,
+      "stars": 48359,
+      "forks": 4120,
       "language": "TypeScript",
       "topics": [],
       "created_at": "2025-04-30T20:08:00Z",
-      "updated_at": "2026-01-05T02:24:29Z",
-      "pushed_at": "2026-01-05T02:18:21Z",
-      "open_issues": 1954,
+      "updated_at": "2026-01-05T06:48:09Z",
+      "pushed_at": "2026-01-05T06:40:40Z",
+      "open_issues": 1962,
       "owner": {
         "login": "anomalyco",
         "avatar_url": "https://avatars.githubusercontent.com/u/66570915?v=4"
@@ -63,8 +63,8 @@
       "full_name": "nocodb/nocodb",
       "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
       "html_url": "https://github.com/nocodb/nocodb",
-      "stars": 60635,
-      "forks": 4505,
+      "stars": 60723,
+      "forks": 4513,
       "language": "TypeScript",
       "topics": [
         "airtable",
@@ -83,8 +83,8 @@
         "swagger"
       ],
       "created_at": "2017-10-29T18:51:48Z",
-      "updated_at": "2026-01-05T02:24:19Z",
-      "pushed_at": "2026-01-04T04:13:20Z",
+      "updated_at": "2026-01-05T06:48:12Z",
+      "pushed_at": "2026-01-05T05:38:28Z",
       "open_issues": 549,
       "owner": {
         "login": "nocodb",
@@ -99,8 +99,8 @@
       "full_name": "5rahim/seanime",
       "description": "Open-source media server with a web interface and desktop app for anime and manga.",
       "html_url": "https://github.com/5rahim/seanime",
-      "stars": 2158,
-      "forks": 136,
+      "stars": 2253,
+      "forks": 141,
       "language": "Go",
       "topics": [
         "anilist",
@@ -120,9 +120,9 @@
         "self-hosted"
       ],
       "created_at": "2023-10-23T03:05:04Z",
-      "updated_at": "2026-01-05T02:23:23Z",
+      "updated_at": "2026-01-05T06:48:59Z",
       "pushed_at": "2026-01-04T11:09:18Z",
-      "open_issues": 38,
+      "open_issues": 39,
       "owner": {
         "login": "5rahim",
         "avatar_url": "https://avatars.githubusercontent.com/u/44007774?v=4"
@@ -136,17 +136,17 @@
       "full_name": "ourongxing/newsnow",
       "description": "Elegant reading of real-time and hottest news",
       "html_url": "https://github.com/ourongxing/newsnow",
-      "stars": 16591,
-      "forks": 4810,
+      "stars": 16640,
+      "forks": 4819,
       "language": "TypeScript",
       "topics": [
         "elegant",
         "news"
       ],
       "created_at": "2024-09-23T14:16:12Z",
-      "updated_at": "2026-01-05T02:20:59Z",
+      "updated_at": "2026-01-05T06:43:05Z",
       "pushed_at": "2025-12-27T15:23:56Z",
-      "open_issues": 109,
+      "open_issues": 110,
       "owner": {
         "login": "ourongxing",
         "avatar_url": "https://avatars.githubusercontent.com/u/48356807?v=4"
@@ -160,8 +160,8 @@
       "full_name": "farion1231/cc-switch",
       "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
       "html_url": "https://github.com/farion1231/cc-switch",
-      "stars": 9126,
-      "forks": 618,
+      "stars": 9211,
+      "forks": 625,
       "language": "Rust",
       "topics": [
         "ai-tools",
@@ -181,7 +181,7 @@
         "wsl-support"
       ],
       "created_at": "2025-08-04T14:16:16Z",
-      "updated_at": "2026-01-05T02:18:26Z",
+      "updated_at": "2026-01-05T06:40:25Z",
       "pushed_at": "2026-01-04T15:01:38Z",
       "open_issues": 86,
       "owner": {
@@ -197,7 +197,7 @@
       "full_name": "maplibre/maplibre-gl-js",
       "description": "MapLibre GL JS - Interactive vector tile maps in the browser",
       "html_url": "https://github.com/maplibre/maplibre-gl-js",
-      "stars": 9216,
+      "stars": 9222,
       "forks": 965,
       "language": "TypeScript",
       "topics": [
@@ -209,7 +209,7 @@
         "webgl2"
       ],
       "created_at": "2020-12-08T22:42:56Z",
-      "updated_at": "2026-01-05T01:47:08Z",
+      "updated_at": "2026-01-05T06:40:43Z",
       "pushed_at": "2026-01-02T08:23:58Z",
       "open_issues": 404,
       "owner": {
@@ -225,7 +225,7 @@
       "full_name": "nukeop/nuclear",
       "description": "Streaming music player that finds free music for you",
       "html_url": "https://github.com/nukeop/nuclear",
-      "stars": 16924,
+      "stars": 16925,
       "forks": 1261,
       "language": "TypeScript",
       "topics": [
@@ -240,7 +240,7 @@
         "youtube"
       ],
       "created_at": "2016-09-22T22:58:21Z",
-      "updated_at": "2026-01-05T01:21:54Z",
+      "updated_at": "2026-01-05T02:42:43Z",
       "pushed_at": "2025-12-27T08:45:37Z",
       "open_issues": 167,
       "owner": {
@@ -256,8 +256,8 @@
       "full_name": "danielmiessler/Personal_AI_Infrastructure",
       "description": "Personal AI Infrastructure for upgrading humans.",
       "html_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "stars": 3350,
-      "forks": 592,
+      "stars": 3398,
+      "forks": 595,
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -265,7 +265,7 @@
         "productivity"
       ],
       "created_at": "2025-09-08T16:18:30Z",
-      "updated_at": "2026-01-05T02:17:24Z",
+      "updated_at": "2026-01-05T06:48:54Z",
       "pushed_at": "2026-01-04T21:33:05Z",
       "open_issues": 11,
       "owner": {
@@ -281,7 +281,7 @@
       "full_name": "pamburus/hl",
       "description": "A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.",
       "html_url": "https://github.com/pamburus/hl",
-      "stars": 2498,
+      "stars": 2521,
       "forks": 52,
       "language": "Rust",
       "topics": [
@@ -304,7 +304,7 @@
         "viewer"
       ],
       "created_at": "2020-08-04T07:19:46Z",
-      "updated_at": "2026-01-05T02:18:30Z",
+      "updated_at": "2026-01-05T06:31:53Z",
       "pushed_at": "2026-01-04T23:43:29Z",
       "open_issues": 7,
       "owner": {
@@ -320,12 +320,12 @@
       "full_name": "heyitsnoah/claudesidian",
       "description": null,
       "html_url": "https://github.com/heyitsnoah/claudesidian",
-      "stars": 1100,
-      "forks": 86,
+      "stars": 1147,
+      "forks": 88,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2025-09-12T00:40:48Z",
-      "updated_at": "2026-01-05T02:18:03Z",
+      "updated_at": "2026-01-05T06:49:03Z",
       "pushed_at": "2025-10-24T16:13:36Z",
       "open_issues": 8,
       "owner": {
@@ -341,8 +341,8 @@
       "full_name": "keploy/keploy",
       "description": "API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!",
       "html_url": "https://github.com/keploy/keploy",
-      "stars": 14648,
-      "forks": 1938,
+      "stars": 14672,
+      "forks": 1942,
       "language": "Go",
       "topics": [
         "agentic-ai",
@@ -361,9 +361,9 @@
         "testing-tools"
       ],
       "created_at": "2022-01-19T10:40:31Z",
-      "updated_at": "2026-01-05T01:12:04Z",
-      "pushed_at": "2026-01-04T19:56:02Z",
-      "open_issues": 415,
+      "updated_at": "2026-01-05T06:41:14Z",
+      "pushed_at": "2026-01-05T05:04:10Z",
+      "open_issues": 414,
       "owner": {
         "login": "keploy",
         "avatar_url": "https://avatars.githubusercontent.com/u/92252339?v=4"
@@ -377,7 +377,7 @@
       "full_name": "c3lang/c3c",
       "description": "Compiler for the C3 language",
       "html_url": "https://github.com/c3lang/c3c",
-      "stars": 4864,
+      "stars": 4872,
       "forks": 314,
       "language": "C",
       "topics": [
@@ -386,7 +386,7 @@
         "language"
       ],
       "created_at": "2019-07-31T21:24:37Z",
-      "updated_at": "2026-01-05T02:23:25Z",
+      "updated_at": "2026-01-05T06:13:50Z",
       "pushed_at": "2026-01-05T00:56:27Z",
       "open_issues": 163,
       "owner": {
@@ -402,7 +402,7 @@
       "full_name": "ollama/ollama",
       "description": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
       "html_url": "https://github.com/ollama/ollama",
-      "stars": 158782,
+      "stars": 158791,
       "forks": 14064,
       "language": "Go",
       "topics": [
@@ -425,9 +425,9 @@
         "qwen"
       ],
       "created_at": "2023-06-26T19:39:32Z",
-      "updated_at": "2026-01-05T01:30:30Z",
+      "updated_at": "2026-01-05T06:41:51Z",
       "pushed_at": "2026-01-03T22:27:46Z",
-      "open_issues": 2367,
+      "open_issues": 2364,
       "owner": {
         "login": "ollama",
         "avatar_url": "https://avatars.githubusercontent.com/u/151674099?v=4"
@@ -436,19 +436,53 @@
       "stars_today": 78
     },
     {
+      "id": 186733095,
+      "name": "v2rayNG",
+      "full_name": "2dust/v2rayNG",
+      "description": "A V2Ray client for Android, support Xray core and v2fly core",
+      "html_url": "https://github.com/2dust/v2rayNG",
+      "stars": 49106,
+      "forks": 6768,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "proxy",
+        "shadowsocks",
+        "socks5",
+        "trojan",
+        "v2fly",
+        "v2ray",
+        "vless",
+        "vmess",
+        "vpn",
+        "xray",
+        "xtls"
+      ],
+      "created_at": "2019-05-15T02:15:31Z",
+      "updated_at": "2026-01-05T06:39:39Z",
+      "pushed_at": "2026-01-05T03:06:42Z",
+      "open_issues": 5,
+      "owner": {
+        "login": "2dust",
+        "avatar_url": "https://avatars.githubusercontent.com/u/31833384?v=4"
+      },
+      "readme": "# v2rayNG\n\nA V2Ray client for Android, support [Xray core](https://github.com/XTLS/Xray-core) and [v2fly core](https://github.com/v2fly/v2ray-core)\n\n[![API](https://img.shields.io/badge/API-21%2B-yellow.svg?style=flat)](https://developer.android.com/about/versions/lollipop)\n[![Kotlin Version](https://img.shields.io/badge/Kotlin-2.3.0-blue.svg)](https://kotlinlang.org)\n[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/2dust/v2rayNG)](https://github.com/2dust/v2rayNG/commits/master)\n[![CodeFactor](https://www.codefactor.io/repository/github/2dust/v2rayng/badge)](https://www.codefactor.io/repository/github/2dust/v2rayng)\n[![GitHub Releases](https://img.shields.io/github/downloads/2dust/v2rayNG/latest/total?logo=github)](https://github.com/2dust/v2rayNG/releases)\n[![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/v2rayn)\n\n### Telegram Channel\n[github_2dust](https://t.me/github_2dust)\n\n### Usage\n\n#### Geoip and Geosite\n- geoip.dat and geosite.dat files are in `Android/data/com.v2ray.ang/files/assets` (path may differ on some Android device)\n- download feature will get enhanced version in this [repo](https://github.com/Loyalsoldier/v2ray-rules-dat) (Note it need a working proxy)\n- latest official [domain list](https://github.com/Loyalsoldier/v2ray-rules-dat) and [ip list](https://github.com/Loyalsoldier/geoip) can be imported manually\n- possible to use third party dat file in the same folder, like [h2y](https://guide.v2fly.org/routing/sitedata.html#%E5%A4%96%E7%BD%AE%E7%9A%84%E5%9F%9F%E5%90%8D%E6%96%87%E4%BB%B6)\n\n### More in our [wiki](https://github.com/2dust/v2rayNG/wiki)\n\n### Development guide\n\nAndroid project under V2rayNG folder can be compiled directly in Android Studio, or using Gradle wrapper. But the v2ray core inside the aar is (probably) outdated.  \nThe aar can be compiled from the Golang project [AndroidLibV2rayLite](https://github.com/2dust/AndroidLibV2rayLite) or [AndroidLibXrayLite](https://github.com/2dust/AndroidLibXrayLite).\nFor a quick start, read guide for [Go Mobile](https://github.com/golang/go/wiki/Mobile) and [Makefiles for Go Developers](https://tutorialedge.net/golang/makefiles-for-go-developers/)\n\nv2rayNG can run on Android Emulators. For WSA, VPN permission need to be granted via\n`appops set [package name] ACTIVATE_VPN allow`\n",
+      "stars_today": 63
+    },
+    {
       "id": 965415649,
       "name": "codex",
       "full_name": "openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
       "html_url": "https://github.com/openai/codex",
-      "stars": 55215,
-      "forks": 7075,
+      "stars": 55231,
+      "forks": 7078,
       "language": "Rust",
       "topics": [],
       "created_at": "2025-04-13T05:37:54Z",
-      "updated_at": "2026-01-05T02:23:28Z",
-      "pushed_at": "2026-01-04T23:29:13Z",
-      "open_issues": 939,
+      "updated_at": "2026-01-05T06:41:12Z",
+      "pushed_at": "2026-01-05T06:25:54Z",
+      "open_issues": 949,
       "owner": {
         "login": "openai",
         "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
@@ -462,8 +496,8 @@
       "full_name": "jesseduffield/lazygit",
       "description": "simple terminal UI for git commands",
       "html_url": "https://github.com/jesseduffield/lazygit",
-      "stars": 70151,
-      "forks": 2419,
+      "stars": 70159,
+      "forks": 2420,
       "language": "Go",
       "topics": [
         "cli",
@@ -471,7 +505,7 @@
         "terminal"
       ],
       "created_at": "2018-05-19T00:53:06Z",
-      "updated_at": "2026-01-05T01:36:23Z",
+      "updated_at": "2026-01-05T06:34:59Z",
       "pushed_at": "2026-01-04T17:54:39Z",
       "open_issues": 843,
       "owner": {
@@ -487,8 +521,8 @@
       "full_name": "godotengine/godot",
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "html_url": "https://github.com/godotengine/godot",
-      "stars": 104803,
-      "forks": 23953,
+      "stars": 104841,
+      "forks": 23956,
       "language": "C++",
       "topics": [
         "game-development",
@@ -500,9 +534,9 @@
         "open-source"
       ],
       "created_at": "2014-01-04T16:05:36Z",
-      "updated_at": "2026-01-05T02:20:35Z",
+      "updated_at": "2026-01-05T06:40:40Z",
       "pushed_at": "2026-01-04T22:51:56Z",
-      "open_issues": 17151,
+      "open_issues": 17155,
       "owner": {
         "login": "godotengine",
         "avatar_url": "https://avatars.githubusercontent.com/u/6318500?v=4"
@@ -516,7 +550,7 @@
       "full_name": "gitbutlerapp/gitbutler",
       "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
       "html_url": "https://github.com/gitbutlerapp/gitbutler",
-      "stars": 17373,
+      "stars": 17375,
       "forks": 747,
       "language": "Rust",
       "topics": [
@@ -525,7 +559,7 @@
         "tauri"
       ],
       "created_at": "2023-01-31T14:56:22Z",
-      "updated_at": "2026-01-05T02:00:14Z",
+      "updated_at": "2026-01-05T06:46:15Z",
       "pushed_at": "2026-01-05T02:15:21Z",
       "open_issues": 641,
       "owner": {
@@ -541,14 +575,14 @@
       "full_name": "RikkaApps/Shizuku",
       "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
       "html_url": "https://github.com/RikkaApps/Shizuku",
-      "stars": 20319,
-      "forks": 1820,
+      "stars": 20323,
+      "forks": 1822,
       "language": "Kotlin",
       "topics": [],
       "created_at": "2017-05-24T13:53:49Z",
-      "updated_at": "2026-01-05T01:54:42Z",
+      "updated_at": "2026-01-05T06:04:46Z",
       "pushed_at": "2025-06-18T04:21:02Z",
-      "open_issues": 170,
+      "open_issues": 172,
       "owner": {
         "login": "RikkaApps",
         "avatar_url": "https://avatars.githubusercontent.com/u/31959043?v=4"
@@ -562,8 +596,8 @@
       "full_name": "termux/termux-app",
       "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
       "html_url": "https://github.com/termux/termux-app",
-      "stars": 48466,
-      "forks": 5792,
+      "stars": 48472,
+      "forks": 5794,
       "language": "Java",
       "topics": [
         "android",
@@ -573,7 +607,7 @@
         "termux"
       ],
       "created_at": "2015-10-23T09:42:46Z",
-      "updated_at": "2026-01-05T02:18:30Z",
+      "updated_at": "2026-01-05T06:28:03Z",
       "pushed_at": "2026-01-04T02:16:28Z",
       "open_issues": 479,
       "owner": {
@@ -589,7 +623,7 @@
       "full_name": "SillyTavern/SillyTavern",
       "description": "LLM Frontend for Power Users.",
       "html_url": "https://github.com/SillyTavern/SillyTavern",
-      "stars": 21643,
+      "stars": 21656,
       "forks": 4505,
       "language": "JavaScript",
       "topics": [
@@ -598,9 +632,9 @@
         "llm"
       ],
       "created_at": "2023-02-09T10:19:24Z",
-      "updated_at": "2026-01-05T01:51:25Z",
+      "updated_at": "2026-01-05T06:35:11Z",
       "pushed_at": "2026-01-05T02:15:39Z",
-      "open_issues": 337,
+      "open_issues": 338,
       "owner": {
         "login": "SillyTavern",
         "avatar_url": "https://avatars.githubusercontent.com/u/134869877?v=4"
@@ -614,7 +648,7 @@
       "full_name": "TwiN/gatus",
       "description": "Automated developer-oriented status page with alerting and incident support",
       "html_url": "https://github.com/TwiN/gatus",
-      "stars": 9515,
+      "stars": 9517,
       "forks": 635,
       "language": "Go",
       "topics": [
@@ -640,9 +674,9 @@
         "uptime-monitoring"
       ],
       "created_at": "2019-09-04T02:35:40Z",
-      "updated_at": "2026-01-05T01:48:51Z",
-      "pushed_at": "2026-01-03T03:12:12Z",
-      "open_issues": 233,
+      "updated_at": "2026-01-05T06:35:04Z",
+      "pushed_at": "2026-01-05T06:05:23Z",
+      "open_issues": 234,
       "owner": {
         "login": "TwiN",
         "avatar_url": "https://avatars.githubusercontent.com/u/15699766?v=4"
@@ -656,7 +690,7 @@
       "full_name": "aandrew-me/ytDownloader",
       "description": "Desktop App for downloading Videos and Audios from hundreds of sites",
       "html_url": "https://github.com/aandrew-me/ytDownloader",
-      "stars": 7094,
+      "stars": 7106,
       "forks": 612,
       "language": "JavaScript",
       "topics": [
@@ -682,7 +716,7 @@
         "ytdownloader"
       ],
       "created_at": "2022-07-25T16:14:20Z",
-      "updated_at": "2026-01-05T01:18:25Z",
+      "updated_at": "2026-01-05T06:10:27Z",
       "pushed_at": "2025-12-11T16:57:49Z",
       "open_issues": 20,
       "owner": {
@@ -698,12 +732,12 @@
       "full_name": "topjohnwu/Magisk",
       "description": "The Magic Mask for Android",
       "html_url": "https://github.com/topjohnwu/Magisk",
-      "stars": 57947,
-      "forks": 16339,
+      "stars": 57951,
+      "forks": 16342,
       "language": "Rust",
       "topics": [],
       "created_at": "2016-09-08T12:42:53Z",
-      "updated_at": "2026-01-05T01:47:37Z",
+      "updated_at": "2026-01-05T05:20:16Z",
       "pushed_at": "2025-12-14T06:12:31Z",
       "open_issues": 50,
       "owner": {
@@ -719,8 +753,8 @@
       "full_name": "TeamNewPipe/NewPipe",
       "description": "A libre lightweight streaming front-end for Android.",
       "html_url": "https://github.com/TeamNewPipe/NewPipe",
-      "stars": 36145,
-      "forks": 3360,
+      "stars": 36150,
+      "forks": 3359,
       "language": "Java",
       "topics": [
         "4k",
@@ -736,7 +770,7 @@
         "youtube-video"
       ],
       "created_at": "2015-09-03T23:39:26Z",
-      "updated_at": "2026-01-05T00:43:11Z",
+      "updated_at": "2026-01-05T05:47:35Z",
       "pushed_at": "2026-01-04T12:26:03Z",
       "open_issues": 1353,
       "owner": {
@@ -752,7 +786,7 @@
       "full_name": "dsp56300/gearmulator",
       "description": "Low Level Emulation of classic VA synths & effects of the late 90s/2000s by emulating the used ICs",
       "html_url": "https://github.com/dsp56300/gearmulator",
-      "stars": 840,
+      "stars": 843,
       "forks": 69,
       "language": "C",
       "topics": [
@@ -764,7 +798,7 @@
         "waldorf"
       ],
       "created_at": "2021-07-13T22:17:38Z",
-      "updated_at": "2026-01-05T02:24:03Z",
+      "updated_at": "2026-01-05T04:49:28Z",
       "pushed_at": "2026-01-04T18:01:40Z",
       "open_issues": 14,
       "owner": {
@@ -780,7 +814,7 @@
       "full_name": "MatsuriDayo/NekoBoxForAndroid",
       "description": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
       "html_url": "https://github.com/MatsuriDayo/NekoBoxForAndroid",
-      "stars": 17997,
+      "stars": 18002,
       "forks": 1441,
       "language": "Kotlin",
       "topics": [
@@ -794,7 +828,7 @@
         "vpn"
       ],
       "created_at": "2023-03-04T13:26:16Z",
-      "updated_at": "2026-01-05T02:14:26Z",
+      "updated_at": "2026-01-05T06:41:31Z",
       "pushed_at": "2025-10-30T07:27:25Z",
       "open_issues": 115,
       "owner": {
@@ -810,7 +844,7 @@
       "full_name": "ruvnet/claude-flow",
       "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.",
       "html_url": "https://github.com/ruvnet/claude-flow",
-      "stars": 11106,
+      "stars": 11117,
       "forks": 1441,
       "language": "JavaScript",
       "topics": [
@@ -836,7 +870,7 @@
         "swarm-intelligence"
       ],
       "created_at": "2025-06-02T21:24:20Z",
-      "updated_at": "2026-01-05T02:21:18Z",
+      "updated_at": "2026-01-05T06:24:35Z",
       "pushed_at": "2026-01-04T23:05:14Z",
       "open_issues": 324,
       "owner": {
@@ -852,12 +886,12 @@
       "full_name": "touchHLE/touchHLE",
       "description": "High-level emulator for iPhone OS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE",
       "html_url": "https://github.com/touchHLE/touchHLE",
-      "stars": 3394,
+      "stars": 3398,
       "forks": 185,
       "language": "Rust",
       "topics": [],
       "created_at": "2022-12-01T18:03:56Z",
-      "updated_at": "2026-01-05T02:17:51Z",
+      "updated_at": "2026-01-05T06:27:15Z",
       "pushed_at": "2026-01-05T00:49:49Z",
       "open_issues": 85,
       "owner": {
@@ -873,8 +907,8 @@
       "full_name": "ocornut/imgui",
       "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
       "html_url": "https://github.com/ocornut/imgui",
-      "stars": 70499,
-      "forks": 11430,
+      "stars": 70503,
+      "forks": 11431,
       "language": "C++",
       "topics": [
         "api",
@@ -894,7 +928,7 @@
         "ui"
       ],
       "created_at": "2014-07-21T14:29:47Z",
-      "updated_at": "2026-01-05T01:45:55Z",
+      "updated_at": "2026-01-05T06:18:47Z",
       "pushed_at": "2026-01-03T19:26:29Z",
       "open_issues": 1209,
       "owner": {
@@ -910,7 +944,7 @@
       "full_name": "open-ani/animeko",
       "description": "集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform",
       "html_url": "https://github.com/open-ani/animeko",
-      "stars": 13982,
+      "stars": 13990,
       "forks": 350,
       "language": "Kotlin",
       "topics": [
@@ -935,7 +969,7 @@
         "windows"
       ],
       "created_at": "2022-07-31T17:38:49Z",
-      "updated_at": "2026-01-05T02:08:06Z",
+      "updated_at": "2026-01-05T05:56:00Z",
       "pushed_at": "2026-01-05T00:54:32Z",
       "open_issues": 467,
       "owner": {
@@ -951,7 +985,7 @@
       "full_name": "rust-lang/rust",
       "description": "Empowering everyone to build reliable and efficient software.",
       "html_url": "https://github.com/rust-lang/rust",
-      "stars": 109115,
+      "stars": 109125,
       "forks": 14275,
       "language": "Rust",
       "topics": [
@@ -960,9 +994,9 @@
         "rust"
       ],
       "created_at": "2010-06-16T20:39:03Z",
-      "updated_at": "2026-01-05T01:35:30Z",
-      "pushed_at": "2026-01-05T01:45:20Z",
-      "open_issues": 11904,
+      "updated_at": "2026-01-05T06:37:30Z",
+      "pushed_at": "2026-01-05T05:02:22Z",
+      "open_issues": 11906,
       "owner": {
         "login": "rust-lang",
         "avatar_url": "https://avatars.githubusercontent.com/u/5430905?v=4"
@@ -976,7 +1010,7 @@
       "full_name": "obsproject/obs-studio",
       "description": "OBS Studio - Free and open source software for live streaming and screen recording",
       "html_url": "https://github.com/obsproject/obs-studio",
-      "stars": 69481,
+      "stars": 69484,
       "forks": 8943,
       "language": "C",
       "topics": [
@@ -993,9 +1027,9 @@
         "youtube-live"
       ],
       "created_at": "2013-10-01T02:40:31Z",
-      "updated_at": "2026-01-05T02:07:33Z",
+      "updated_at": "2026-01-05T06:34:44Z",
       "pushed_at": "2025-12-28T00:52:53Z",
-      "open_issues": 1083,
+      "open_issues": 1084,
       "owner": {
         "login": "obsproject",
         "avatar_url": "https://avatars.githubusercontent.com/u/7725691?v=4"
@@ -1009,7 +1043,7 @@
       "full_name": "withastro/astro",
       "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
       "html_url": "https://github.com/withastro/astro",
-      "stars": 55314,
+      "stars": 55319,
       "forks": 3050,
       "language": "TypeScript",
       "topics": [
@@ -1026,9 +1060,9 @@
         "universal"
       ],
       "created_at": "2021-03-15T17:19:47Z",
-      "updated_at": "2026-01-05T02:05:48Z",
-      "pushed_at": "2026-01-05T00:53:26Z",
-      "open_issues": 276,
+      "updated_at": "2026-01-05T05:52:11Z",
+      "pushed_at": "2026-01-05T06:46:31Z",
+      "open_issues": 277,
       "owner": {
         "login": "withastro",
         "avatar_url": "https://avatars.githubusercontent.com/u/44914786?v=4"
@@ -1042,8 +1076,8 @@
       "full_name": "ashishps1/awesome-low-level-design",
       "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
       "html_url": "https://github.com/ashishps1/awesome-low-level-design",
-      "stars": 20741,
-      "forks": 5137,
+      "stars": 20745,
+      "forks": 5138,
       "language": "Java",
       "topics": [
         "awesome",
@@ -1060,7 +1094,7 @@
         "uml"
       ],
       "created_at": "2023-11-17T10:15:12Z",
-      "updated_at": "2026-01-05T00:43:31Z",
+      "updated_at": "2026-01-05T05:14:55Z",
       "pushed_at": "2025-10-25T14:41:17Z",
       "open_issues": 56,
       "owner": {
@@ -1076,7 +1110,7 @@
       "full_name": "caddyserver/caddy",
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "html_url": "https://github.com/caddyserver/caddy",
-      "stars": 68946,
+      "stars": 68950,
       "forks": 4586,
       "language": "Go",
       "topics": [
@@ -1097,7 +1131,7 @@
         "web-server"
       ],
       "created_at": "2015-01-13T19:45:03Z",
-      "updated_at": "2026-01-05T00:39:36Z",
+      "updated_at": "2026-01-05T05:43:47Z",
       "pushed_at": "2026-01-02T15:51:37Z",
       "open_issues": 247,
       "owner": {
@@ -1113,7 +1147,7 @@
       "full_name": "voideditor/void",
       "description": null,
       "html_url": "https://github.com/voideditor/void",
-      "stars": 27947,
+      "stars": 27949,
       "forks": 2233,
       "language": "TypeScript",
       "topics": [
@@ -1131,7 +1165,7 @@
         "vscode-extension"
       ],
       "created_at": "2024-09-11T02:37:00Z",
-      "updated_at": "2026-01-05T02:19:55Z",
+      "updated_at": "2026-01-05T06:20:53Z",
       "pushed_at": "2025-08-07T00:07:32Z",
       "open_issues": 311,
       "owner": {
@@ -1147,8 +1181,8 @@
       "full_name": "NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "html_url": "https://github.com/NationalSecurityAgency/ghidra",
-      "stars": 63250,
-      "forks": 7031,
+      "stars": 63255,
+      "forks": 7032,
       "language": "Java",
       "topics": [
         "disassembler",
@@ -1156,7 +1190,7 @@
         "software-analysis"
       ],
       "created_at": "2019-03-01T03:27:48Z",
-      "updated_at": "2026-01-05T01:32:12Z",
+      "updated_at": "2026-01-05T06:07:32Z",
       "pushed_at": "2026-01-02T18:34:08Z",
       "open_issues": 1843,
       "owner": {
@@ -1172,7 +1206,7 @@
       "full_name": "yuliskov/SmartTube",
       "description": "Browse media content with your own rules on Android TV",
       "html_url": "https://github.com/yuliskov/SmartTube",
-      "stars": 27387,
+      "stars": 27393,
       "forks": 1473,
       "language": "Java",
       "topics": [
@@ -1185,8 +1219,8 @@
         "rxjava-android"
       ],
       "created_at": "2020-07-28T12:53:52Z",
-      "updated_at": "2026-01-05T01:47:56Z",
-      "pushed_at": "2026-01-04T05:13:42Z",
+      "updated_at": "2026-01-05T05:30:32Z",
+      "pushed_at": "2026-01-05T05:30:27Z",
       "open_issues": 2946,
       "owner": {
         "login": "yuliskov",
@@ -1201,7 +1235,7 @@
       "full_name": "fastfetch-cli/fastfetch",
       "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
       "html_url": "https://github.com/fastfetch-cli/fastfetch",
-      "stars": 19122,
+      "stars": 19126,
       "forks": 646,
       "language": "C",
       "topics": [
@@ -1214,9 +1248,9 @@
         "terminal"
       ],
       "created_at": "2021-02-18T21:25:19Z",
-      "updated_at": "2026-01-05T01:56:51Z",
-      "pushed_at": "2026-01-04T08:45:21Z",
-      "open_issues": 40,
+      "updated_at": "2026-01-05T05:58:44Z",
+      "pushed_at": "2026-01-05T02:54:44Z",
+      "open_issues": 39,
       "owner": {
         "login": "fastfetch-cli",
         "avatar_url": "https://avatars.githubusercontent.com/u/136235211?v=4"
@@ -1230,7 +1264,7 @@
       "full_name": "golang/go",
       "description": "The Go programming language",
       "html_url": "https://github.com/golang/go",
-      "stars": 131766,
+      "stars": 131770,
       "forks": 18688,
       "language": "Go",
       "topics": [
@@ -1240,9 +1274,9 @@
         "programming-language"
       ],
       "created_at": "2014-08-19T04:33:40Z",
-      "updated_at": "2026-01-05T02:04:04Z",
+      "updated_at": "2026-01-05T06:16:13Z",
       "pushed_at": "2026-01-03T22:47:43Z",
-      "open_issues": 9694,
+      "open_issues": 9691,
       "owner": {
         "login": "golang",
         "avatar_url": "https://avatars.githubusercontent.com/u/4314092?v=4"
@@ -1256,7 +1290,7 @@
       "full_name": "ashishps1/awesome-system-design-resources",
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "html_url": "https://github.com/ashishps1/awesome-system-design-resources",
-      "stars": 28820,
+      "stars": 28830,
       "forks": 6627,
       "language": "Java",
       "topics": [
@@ -1272,7 +1306,7 @@
         "system-design"
       ],
       "created_at": "2023-10-25T01:50:42Z",
-      "updated_at": "2026-01-05T01:18:27Z",
+      "updated_at": "2026-01-05T06:17:40Z",
       "pushed_at": "2025-12-26T09:47:09Z",
       "open_issues": 7,
       "owner": {
@@ -1288,7 +1322,7 @@
       "full_name": "deniscerri/ytdlnis",
       "description": "Full-featured audio/video downloader for Android using yt-dlp",
       "html_url": "https://github.com/deniscerri/ytdlnis",
-      "stars": 7179,
+      "stars": 7183,
       "forks": 297,
       "language": "Kotlin",
       "topics": [
@@ -1306,7 +1340,7 @@
         "yt-dlp-gui"
       ],
       "created_at": "2022-05-27T20:46:51Z",
-      "updated_at": "2026-01-04T22:29:44Z",
+      "updated_at": "2026-01-05T05:01:50Z",
       "pushed_at": "2026-01-04T16:28:53Z",
       "open_issues": 28,
       "owner": {
@@ -1354,8 +1388,8 @@
       "full_name": "aseprite/aseprite",
       "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
       "html_url": "https://github.com/aseprite/aseprite",
-      "stars": 35160,
-      "forks": 7652,
+      "stars": 35165,
+      "forks": 7651,
       "language": "C++",
       "topics": [
         "animated-sprites",
@@ -1375,7 +1409,7 @@
         "tilemap-editor"
       ],
       "created_at": "2014-08-19T23:44:50Z",
-      "updated_at": "2026-01-05T02:08:53Z",
+      "updated_at": "2026-01-05T06:24:30Z",
       "pushed_at": "2025-12-30T14:16:24Z",
       "open_issues": 1867,
       "owner": {
@@ -1391,8 +1425,8 @@
       "full_name": "nautechsystems/nautilus_trader",
       "description": "A high-performance algorithmic trading platform and event-driven backtester",
       "html_url": "https://github.com/nautechsystems/nautilus_trader",
-      "stars": 16978,
-      "forks": 2020,
+      "stars": 16986,
+      "forks": 2021,
       "language": "Rust",
       "topics": [
         "algorithmic-trading-engine",
@@ -1410,7 +1444,7 @@
         "trading-platform"
       ],
       "created_at": "2018-06-25T06:26:16Z",
-      "updated_at": "2026-01-05T02:23:42Z",
+      "updated_at": "2026-01-05T06:37:25Z",
       "pushed_at": "2026-01-05T01:56:12Z",
       "open_issues": 71,
       "owner": {
@@ -1426,7 +1460,7 @@
       "full_name": "johannesjo/super-productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
       "html_url": "https://github.com/johannesjo/super-productivity",
-      "stars": 16772,
+      "stars": 16778,
       "forks": 1374,
       "language": "TypeScript",
       "topics": [
@@ -1444,9 +1478,9 @@
         "todo"
       ],
       "created_at": "2017-01-06T22:30:58Z",
-      "updated_at": "2026-01-05T02:21:34Z",
+      "updated_at": "2026-01-05T06:48:56Z",
       "pushed_at": "2026-01-04T17:09:52Z",
-      "open_issues": 630,
+      "open_issues": 632,
       "owner": {
         "login": "johannesjo",
         "avatar_url": "https://avatars.githubusercontent.com/u/1456265?v=4"
@@ -1460,7 +1494,7 @@
       "full_name": "mihonapp/mihon",
       "description": "Free and open source manga reader for Android",
       "html_url": "https://github.com/mihonapp/mihon",
-      "stars": 17843,
+      "stars": 17849,
       "forks": 897,
       "language": "Kotlin",
       "topics": [
@@ -1475,9 +1509,9 @@
         "tachiyomi-alternative"
       ],
       "created_at": "2024-01-15T20:03:57Z",
-      "updated_at": "2026-01-05T02:20:34Z",
+      "updated_at": "2026-01-05T05:59:30Z",
       "pushed_at": "2025-12-26T19:50:27Z",
-      "open_issues": 519,
+      "open_issues": 520,
       "owner": {
         "login": "mihonapp",
         "avatar_url": "https://avatars.githubusercontent.com/u/156513628?v=4"
@@ -1491,7 +1525,7 @@
       "full_name": "netdata/netdata",
       "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
       "html_url": "https://github.com/netdata/netdata",
-      "stars": 77236,
+      "stars": 77238,
       "forks": 6296,
       "language": "C",
       "topics": [
@@ -1517,9 +1551,9 @@
         "prometheus"
       ],
       "created_at": "2013-06-17T18:39:10Z",
-      "updated_at": "2026-01-05T01:57:17Z",
-      "pushed_at": "2026-01-05T00:18:30Z",
-      "open_issues": 241,
+      "updated_at": "2026-01-05T06:32:41Z",
+      "pushed_at": "2026-01-05T04:11:03Z",
+      "open_issues": 243,
       "owner": {
         "login": "netdata",
         "avatar_url": "https://avatars.githubusercontent.com/u/43390781?v=4"
@@ -1533,8 +1567,8 @@
       "full_name": "qbittorrent/qBittorrent",
       "description": "qBittorrent BitTorrent client",
       "html_url": "https://github.com/qbittorrent/qBittorrent",
-      "stars": 34834,
-      "forks": 4525,
+      "stars": 34839,
+      "forks": 4526,
       "language": "C++",
       "topics": [
         "bittorrent",
@@ -1545,9 +1579,9 @@
         "torrent-client"
       ],
       "created_at": "2012-02-04T09:37:46Z",
-      "updated_at": "2026-01-05T00:35:05Z",
+      "updated_at": "2026-01-05T06:29:22Z",
       "pushed_at": "2026-01-04T09:04:11Z",
-      "open_issues": 2445,
+      "open_issues": 2446,
       "owner": {
         "login": "qbittorrent",
         "avatar_url": "https://avatars.githubusercontent.com/u/2131270?v=4"
@@ -1561,7 +1595,7 @@
       "full_name": "filebrowser/filebrowser",
       "description": "📂 Web File Browser",
       "html_url": "https://github.com/filebrowser/filebrowser",
-      "stars": 32775,
+      "stars": 32781,
       "forks": 3635,
       "language": "Go",
       "topics": [
@@ -1574,7 +1608,7 @@
         "vue"
       ],
       "created_at": "2015-09-11T21:21:58Z",
-      "updated_at": "2026-01-05T01:24:06Z",
+      "updated_at": "2026-01-05T06:39:04Z",
       "pushed_at": "2026-01-04T22:42:56Z",
       "open_issues": 31,
       "owner": {
@@ -1590,7 +1624,7 @@
       "full_name": "wailsapp/wails",
       "description": "Create beautiful applications using Go",
       "html_url": "https://github.com/wailsapp/wails",
-      "stars": 32016,
+      "stars": 32018,
       "forks": 1546,
       "language": "Go",
       "topics": [
@@ -1607,8 +1641,8 @@
         "windows"
       ],
       "created_at": "2018-12-15T23:14:06Z",
-      "updated_at": "2026-01-05T00:42:32Z",
-      "pushed_at": "2026-01-05T00:22:29Z",
+      "updated_at": "2026-01-05T06:41:09Z",
+      "pushed_at": "2026-01-05T04:55:41Z",
       "open_issues": 364,
       "owner": {
         "login": "wailsapp",
@@ -1623,8 +1657,8 @@
       "full_name": "biomejs/biome",
       "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
       "html_url": "https://github.com/biomejs/biome",
-      "stars": 22978,
-      "forks": 801,
+      "stars": 22982,
+      "forks": 802,
       "language": "Rust",
       "topics": [
         "css",
@@ -1638,9 +1672,9 @@
         "web"
       ],
       "created_at": "2023-07-27T20:30:22Z",
-      "updated_at": "2026-01-05T01:18:37Z",
-      "pushed_at": "2026-01-05T01:24:09Z",
-      "open_issues": 501,
+      "updated_at": "2026-01-05T06:33:38Z",
+      "pushed_at": "2026-01-05T06:38:49Z",
+      "open_issues": 499,
       "owner": {
         "login": "biomejs",
         "avatar_url": "https://avatars.githubusercontent.com/u/140182603?v=4"
@@ -1654,8 +1688,8 @@
       "full_name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
       "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
       "html_url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-      "stars": 5459,
-      "forks": 220,
+      "stars": 5465,
+      "forks": 221,
       "language": "Rust",
       "topics": [
         "adb",
@@ -1668,7 +1702,7 @@
         "privacy"
       ],
       "created_at": "2023-10-26T17:00:49Z",
-      "updated_at": "2026-01-04T23:38:33Z",
+      "updated_at": "2026-01-05T06:36:10Z",
       "pushed_at": "2026-01-01T06:26:37Z",
       "open_issues": 205,
       "owner": {
@@ -1684,12 +1718,12 @@
       "full_name": "johannesboyne/gofakes3",
       "description": "A simple fake AWS S3 object storage (used for local test-runs against AWS S3 APIs)",
       "html_url": "https://github.com/johannesboyne/gofakes3",
-      "stars": 713,
+      "stars": 715,
       "forks": 117,
       "language": "Go",
       "topics": [],
       "created_at": "2016-02-24T09:13:09Z",
-      "updated_at": "2026-01-05T02:13:21Z",
+      "updated_at": "2026-01-05T05:38:04Z",
       "pushed_at": "2025-09-16T17:52:45Z",
       "open_issues": 13,
       "owner": {
@@ -1705,8 +1739,8 @@
       "full_name": "ChatGPTNextWeb/NextChat",
       "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
       "html_url": "https://github.com/ChatGPTNextWeb/NextChat",
-      "stars": 86925,
-      "forks": 60592,
+      "stars": 86931,
+      "forks": 60594,
       "language": "TypeScript",
       "topics": [
         "calclaude",
@@ -1730,7 +1764,7 @@
         "webui"
       ],
       "created_at": "2023-03-10T18:27:54Z",
-      "updated_at": "2026-01-05T02:21:19Z",
+      "updated_at": "2026-01-05T06:46:36Z",
       "pushed_at": "2025-12-02T17:05:02Z",
       "open_issues": 790,
       "owner": {
@@ -1746,7 +1780,7 @@
       "full_name": "tansu-io/tansu",
       "description": "Apache Kafka® compatible broker with S3, PostgreSQL, SQLite, Apache Iceberg and Delta Lake",
       "html_url": "https://github.com/tansu-io/tansu",
-      "stars": 1043,
+      "stars": 1045,
       "forks": 40,
       "language": "Rust",
       "topics": [
@@ -1764,7 +1798,7 @@
         "sqlite"
       ],
       "created_at": "2024-08-21T14:47:15Z",
-      "updated_at": "2026-01-05T01:09:28Z",
+      "updated_at": "2026-01-05T06:23:37Z",
       "pushed_at": "2026-01-04T20:04:47Z",
       "open_issues": 60,
       "owner": {
@@ -1780,12 +1814,12 @@
       "full_name": "microsoft/typescript-go",
       "description": "Staging repo for development of native port of TypeScript",
       "html_url": "https://github.com/microsoft/typescript-go",
-      "stars": 23631,
+      "stars": 23633,
       "forks": 783,
       "language": "Go",
       "topics": [],
       "created_at": "2024-09-19T20:25:12Z",
-      "updated_at": "2026-01-05T02:15:33Z",
+      "updated_at": "2026-01-05T03:28:59Z",
       "pushed_at": "2025-12-31T17:31:21Z",
       "open_issues": 255,
       "owner": {
@@ -1801,7 +1835,7 @@
       "full_name": "steveiliop56/tinyauth",
       "description": "The simplest way to protect your apps with a login screen.",
       "html_url": "https://github.com/steveiliop56/tinyauth",
-      "stars": 6662,
+      "stars": 6664,
       "forks": 208,
       "language": "Go",
       "topics": [
@@ -1819,7 +1853,7 @@
         "typescipt"
       ],
       "created_at": "2025-01-19T11:40:09Z",
-      "updated_at": "2026-01-05T02:06:37Z",
+      "updated_at": "2026-01-05T06:16:50Z",
       "pushed_at": "2026-01-05T00:28:08Z",
       "open_issues": 16,
       "owner": {
@@ -1835,7 +1869,7 @@
       "full_name": "AAswordman/Operit",
       "description": "The most powerful AI agent and AI chat software on Android/Operit是一款Android上目前能力最为强大的AI Agent",
       "html_url": "https://github.com/AAswordman/Operit",
-      "stars": 2923,
+      "stars": 2928,
       "forks": 223,
       "language": "Kotlin",
       "topics": [
@@ -1848,7 +1882,7 @@
         "terminal"
       ],
       "created_at": "2025-03-15T04:24:12Z",
-      "updated_at": "2026-01-04T21:47:00Z",
+      "updated_at": "2026-01-05T06:14:28Z",
       "pushed_at": "2026-01-04T13:54:02Z",
       "open_issues": 42,
       "owner": {
@@ -1864,12 +1898,12 @@
       "full_name": "sohzm/cheating-daddy",
       "description": "a free and opensource app that lets you gain an unfair advantage",
       "html_url": "https://github.com/sohzm/cheating-daddy",
-      "stars": 4898,
+      "stars": 4902,
       "forks": 831,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2025-05-28T22:50:20Z",
-      "updated_at": "2026-01-04T23:24:14Z",
+      "updated_at": "2026-01-05T05:22:30Z",
       "pushed_at": "2025-12-12T14:21:35Z",
       "open_issues": 109,
       "owner": {
@@ -1885,7 +1919,7 @@
       "full_name": "dinoki-ai/osaurus",
       "description": "The missing macOS LLM server. Run local or cloud models with OpenAI & Anthropic compatible APIs. MCP server for Cursor & Claude Desktop, menu bar chat, plugins, and dev tools. Native Apple Silicon.",
       "html_url": "https://github.com/dinoki-ai/osaurus",
-      "stars": 2909,
+      "stars": 2916,
       "forks": 116,
       "language": "Swift",
       "topics": [
@@ -1901,8 +1935,8 @@
         "swift"
       ],
       "created_at": "2025-08-17T15:05:39Z",
-      "updated_at": "2026-01-05T01:24:30Z",
-      "pushed_at": "2026-01-04T14:40:44Z",
+      "updated_at": "2026-01-05T06:35:35Z",
+      "pushed_at": "2026-01-05T03:26:16Z",
       "open_issues": 18,
       "owner": {
         "login": "dinoki-ai",
@@ -1917,8 +1951,8 @@
       "full_name": "openssl/openssl",
       "description": "TLS/SSL and crypto library",
       "html_url": "https://github.com/openssl/openssl",
-      "stars": 29322,
-      "forks": 10981,
+      "stars": 29324,
+      "forks": 10983,
       "language": "C",
       "topics": [
         "cryptography",
@@ -1929,7 +1963,7 @@
         "tls"
       ],
       "created_at": "2013-01-15T22:34:48Z",
-      "updated_at": "2026-01-05T02:15:07Z",
+      "updated_at": "2026-01-05T05:50:10Z",
       "pushed_at": "2026-01-04T22:58:16Z",
       "open_issues": 1689,
       "owner": {
@@ -1945,8 +1979,8 @@
       "full_name": "meilisearch/meilisearch",
       "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
       "html_url": "https://github.com/meilisearch/meilisearch",
-      "stars": 55224,
-      "forks": 2323,
+      "stars": 55232,
+      "forks": 2324,
       "language": "Rust",
       "topics": [
         "ai",
@@ -1971,8 +2005,8 @@
         "vectors"
       ],
       "created_at": "2018-04-23T11:45:28Z",
-      "updated_at": "2026-01-05T01:53:30Z",
-      "pushed_at": "2025-12-31T17:38:38Z",
+      "updated_at": "2026-01-05T06:46:54Z",
+      "pushed_at": "2026-01-05T04:31:56Z",
       "open_issues": 302,
       "owner": {
         "login": "meilisearch",
@@ -1987,14 +2021,14 @@
       "full_name": "anddea/revanced-patches",
       "description": "🧩 Patches for ReVanced",
       "html_url": "https://github.com/anddea/revanced-patches",
-      "stars": 1372,
-      "forks": 72,
+      "stars": 1373,
+      "forks": 73,
       "language": "Kotlin",
       "topics": [],
       "created_at": "2024-02-10T17:41:43Z",
-      "updated_at": "2026-01-04T22:52:18Z",
+      "updated_at": "2026-01-05T04:52:27Z",
       "pushed_at": "2026-01-01T19:13:20Z",
-      "open_issues": 55,
+      "open_issues": 57,
       "owner": {
         "login": "anddea",
         "avatar_url": "https://avatars.githubusercontent.com/u/70171475?v=4"
@@ -2008,14 +2042,14 @@
       "full_name": "HapeLee/legado-with-MD3",
       "description": "使用 Material Design 3 全新设计的阅读 3.0",
       "html_url": "https://github.com/HapeLee/legado-with-MD3",
-      "stars": 1612,
+      "stars": 1614,
       "forks": 41,
       "language": "Kotlin",
       "topics": [],
       "created_at": "2025-08-28T19:16:22Z",
-      "updated_at": "2026-01-05T01:22:22Z",
+      "updated_at": "2026-01-05T05:38:18Z",
       "pushed_at": "2026-01-04T17:58:54Z",
-      "open_issues": 71,
+      "open_issues": 72,
       "owner": {
         "login": "HapeLee",
         "avatar_url": "https://avatars.githubusercontent.com/u/63206378?v=4"
@@ -2029,8 +2063,8 @@
       "full_name": "jeecgboot/JeecgBoot",
       "description": "🔥AI low-code platform empowers enterprises to quickly develop low-code solutions and build AI applications.  助力企业快速实现低代码开发和构建AI应用！ AI应用平台涵盖：AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等。 强大代码生成器：实现前后端一键生成，无需手写代码! 显著提升效率节省成本，又不失灵活~",
       "html_url": "https://github.com/jeecgboot/JeecgBoot",
-      "stars": 44910,
-      "forks": 15735,
+      "stars": 44912,
+      "forks": 15736,
       "language": "Java",
       "topics": [
         "activiti",
@@ -2055,9 +2089,9 @@
         "vue3"
       ],
       "created_at": "2018-11-26T10:40:00Z",
-      "updated_at": "2026-01-05T02:15:03Z",
+      "updated_at": "2026-01-05T05:48:41Z",
       "pushed_at": "2026-01-01T19:21:41Z",
-      "open_issues": 32,
+      "open_issues": 33,
       "owner": {
         "login": "jeecgboot",
         "avatar_url": "https://avatars.githubusercontent.com/u/86360035?v=4"
@@ -2071,7 +2105,7 @@
       "full_name": "thingsboard/thingsboard",
       "description": "Open-source IoT Platform - Device management, data collection, processing and visualization.",
       "html_url": "https://github.com/thingsboard/thingsboard",
-      "stars": 20880,
+      "stars": 20883,
       "forks": 6013,
       "language": "Java",
       "topics": [
@@ -2097,7 +2131,7 @@
         "widgets"
       ],
       "created_at": "2016-12-01T09:33:30Z",
-      "updated_at": "2026-01-05T01:39:01Z",
+      "updated_at": "2026-01-05T06:18:31Z",
       "pushed_at": "2026-01-02T12:14:46Z",
       "open_issues": 154,
       "owner": {
@@ -2113,7 +2147,7 @@
       "full_name": "utmapp/UTM",
       "description": "Virtual machines for iOS and macOS",
       "html_url": "https://github.com/utmapp/UTM",
-      "stars": 32113,
+      "stars": 32117,
       "forks": 1614,
       "language": "Swift",
       "topics": [
@@ -2128,8 +2162,8 @@
         "vm"
       ],
       "created_at": "2019-04-12T16:09:24Z",
-      "updated_at": "2026-01-04T21:10:13Z",
-      "pushed_at": "2026-01-04T03:31:22Z",
+      "updated_at": "2026-01-05T06:43:33Z",
+      "pushed_at": "2026-01-05T06:38:29Z",
       "open_issues": 970,
       "owner": {
         "login": "utmapp",
@@ -2144,8 +2178,8 @@
       "full_name": "DioxusLabs/dioxus",
       "description": "Fullstack app framework for web, desktop, and mobile.",
       "html_url": "https://github.com/DioxusLabs/dioxus",
-      "stars": 32962,
-      "forks": 1429,
+      "stars": 32974,
+      "forks": 1430,
       "language": "Rust",
       "topics": [
         "android",
@@ -2163,7 +2197,7 @@
         "web"
       ],
       "created_at": "2021-01-15T01:57:26Z",
-      "updated_at": "2026-01-05T02:20:38Z",
+      "updated_at": "2026-01-05T06:36:05Z",
       "pushed_at": "2026-01-02T22:53:30Z",
       "open_issues": 590,
       "owner": {
@@ -2179,7 +2213,7 @@
       "full_name": "libsdl-org/SDL",
       "description": "Simple DirectMedia Layer",
       "html_url": "https://github.com/libsdl-org/SDL",
-      "stars": 14486,
+      "stars": 14488,
       "forks": 2538,
       "language": "C",
       "topics": [
@@ -2188,7 +2222,7 @@
         "sdl3"
       ],
       "created_at": "2021-01-15T19:55:54Z",
-      "updated_at": "2026-01-05T01:49:04Z",
+      "updated_at": "2026-01-05T02:54:39Z",
       "pushed_at": "2026-01-04T23:18:12Z",
       "open_issues": 748,
       "owner": {
@@ -2204,7 +2238,7 @@
       "full_name": "MAZHARMIK/Interview_DS_Algo",
       "description": "Super Repository for Coding Interview Preperation",
       "html_url": "https://github.com/MAZHARMIK/Interview_DS_Algo",
-      "stars": 3592,
+      "stars": 3594,
       "forks": 1674,
       "language": "C++",
       "topics": [
@@ -2217,7 +2251,7 @@
         "leetcode"
       ],
       "created_at": "2020-07-12T13:13:36Z",
-      "updated_at": "2026-01-05T01:02:22Z",
+      "updated_at": "2026-01-05T05:02:17Z",
       "pushed_at": "2026-01-04T02:26:01Z",
       "open_issues": 55,
       "owner": {
@@ -2233,7 +2267,7 @@
       "full_name": "Beingpax/VoiceInk",
       "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
       "html_url": "https://github.com/Beingpax/VoiceInk",
-      "stars": 3033,
+      "stars": 3037,
       "forks": 367,
       "language": "Swift",
       "topics": [
@@ -2242,9 +2276,9 @@
         "swift"
       ],
       "created_at": "2024-10-20T15:11:17Z",
-      "updated_at": "2026-01-05T00:33:27Z",
-      "pushed_at": "2026-01-04T13:48:04Z",
-      "open_issues": 170,
+      "updated_at": "2026-01-05T04:48:24Z",
+      "pushed_at": "2026-01-05T05:56:00Z",
+      "open_issues": 171,
       "owner": {
         "login": "Beingpax",
         "avatar_url": "https://avatars.githubusercontent.com/u/101010368?v=4"
@@ -2258,7 +2292,7 @@
       "full_name": "bkaradzic/bgfx",
       "description": "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style rendering library.",
       "html_url": "https://github.com/bkaradzic/bgfx",
-      "stars": 16532,
+      "stars": 16536,
       "forks": 2031,
       "language": "C++",
       "topics": [
@@ -2281,9 +2315,9 @@
         "webgl"
       ],
       "created_at": "2012-04-04T03:39:04Z",
-      "updated_at": "2026-01-05T01:49:02Z",
+      "updated_at": "2026-01-05T06:48:02Z",
       "pushed_at": "2026-01-02T16:40:58Z",
-      "open_issues": 314,
+      "open_issues": 316,
       "owner": {
         "login": "bkaradzic",
         "avatar_url": "https://avatars.githubusercontent.com/u/814772?v=4"
@@ -2306,7 +2340,7 @@
       "created_at": "2018-04-08T12:01:34Z",
       "updated_at": "2026-01-05T02:21:56Z",
       "pushed_at": "2026-01-04T20:36:59Z",
-      "open_issues": 806,
+      "open_issues": 807,
       "owner": {
         "login": "Koenkk",
         "avatar_url": "https://avatars.githubusercontent.com/u/2892853?v=4"
@@ -2320,7 +2354,7 @@
       "full_name": "OrcaSlicer/OrcaSlicer",
       "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
       "html_url": "https://github.com/OrcaSlicer/OrcaSlicer",
-      "stars": 12048,
+      "stars": 12050,
       "forks": 1621,
       "language": "C++",
       "topics": [
@@ -2332,9 +2366,9 @@
         "slicer"
       ],
       "created_at": "2022-07-16T11:01:21Z",
-      "updated_at": "2026-01-05T01:33:28Z",
-      "pushed_at": "2026-01-05T01:09:59Z",
-      "open_issues": 1560,
+      "updated_at": "2026-01-05T06:14:22Z",
+      "pushed_at": "2026-01-05T05:32:29Z",
+      "open_issues": 1561,
       "owner": {
         "login": "OrcaSlicer",
         "avatar_url": "https://avatars.githubusercontent.com/u/134699248?v=4"
@@ -2348,8 +2382,8 @@
       "full_name": "taskflow/taskflow",
       "description": "A General-purpose Task-parallel Programming System using Modern C++",
       "html_url": "https://github.com/taskflow/taskflow",
-      "stars": 11565,
-      "forks": 1348,
+      "stars": 11567,
+      "forks": 1349,
       "language": "C++",
       "topics": [
         "concurrent-programming",
@@ -2369,9 +2403,9 @@
         "work-stealing"
       ],
       "created_at": "2018-04-18T13:45:30Z",
-      "updated_at": "2026-01-05T01:42:10Z",
+      "updated_at": "2026-01-05T06:00:24Z",
       "pushed_at": "2026-01-03T18:17:56Z",
-      "open_issues": 23,
+      "open_issues": 24,
       "owner": {
         "login": "taskflow",
         "avatar_url": "https://avatars.githubusercontent.com/u/40002981?v=4"
@@ -2385,7 +2419,7 @@
       "full_name": "komikku-app/komikku",
       "description": "Free and open source manga reader for Android",
       "html_url": "https://github.com/komikku-app/komikku",
-      "stars": 3008,
+      "stars": 3010,
       "forks": 112,
       "language": "Kotlin",
       "topics": [
@@ -2406,8 +2440,8 @@
         "tachiyomisy"
       ],
       "created_at": "2024-01-14T16:25:54Z",
-      "updated_at": "2026-01-05T01:16:27Z",
-      "pushed_at": "2026-01-04T23:46:15Z",
+      "updated_at": "2026-01-05T05:55:41Z",
+      "pushed_at": "2026-01-05T06:42:52Z",
       "open_issues": 311,
       "owner": {
         "login": "komikku-app",
@@ -2422,7 +2456,7 @@
       "full_name": "charmbracelet/vhs",
       "description": "Your CLI home video recorder 📼",
       "html_url": "https://github.com/charmbracelet/vhs",
-      "stars": 18172,
+      "stars": 18179,
       "forks": 352,
       "language": "Go",
       "topics": [
@@ -2436,7 +2470,7 @@
         "video"
       ],
       "created_at": "2022-07-19T14:28:36Z",
-      "updated_at": "2026-01-05T01:46:37Z",
+      "updated_at": "2026-01-05T06:35:06Z",
       "pushed_at": "2025-12-21T00:33:53Z",
       "open_issues": 131,
       "owner": {
@@ -2452,7 +2486,7 @@
       "full_name": "simulot/immich-go",
       "description": "An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.",
       "html_url": "https://github.com/simulot/immich-go",
-      "stars": 5101,
+      "stars": 5103,
       "forks": 176,
       "language": "Go",
       "topics": [
@@ -2464,7 +2498,7 @@
         "takeout"
       ],
       "created_at": "2023-07-21T14:52:04Z",
-      "updated_at": "2026-01-04T22:09:22Z",
+      "updated_at": "2026-01-05T06:46:16Z",
       "pushed_at": "2025-12-29T18:42:13Z",
       "open_issues": 186,
       "owner": {
@@ -2480,12 +2514,12 @@
       "full_name": "coredevices/PebbleOS",
       "description": null,
       "html_url": "https://github.com/coredevices/PebbleOS",
-      "stars": 697,
+      "stars": 699,
       "forks": 86,
       "language": "C",
       "topics": [],
       "created_at": "2025-05-20T08:34:00Z",
-      "updated_at": "2026-01-04T20:33:25Z",
+      "updated_at": "2026-01-05T03:36:04Z",
       "pushed_at": "2026-01-02T19:46:07Z",
       "open_issues": 39,
       "owner": {
@@ -2501,14 +2535,14 @@
       "full_name": "brunodev85/winlator",
       "description": "Android application for running Windows applications with Wine and Box86/Box64",
       "html_url": "https://github.com/brunodev85/winlator",
-      "stars": 16032,
-      "forks": 1133,
+      "stars": 16034,
+      "forks": 1134,
       "language": "C",
       "topics": [],
       "created_at": "2023-07-26T13:02:11Z",
-      "updated_at": "2026-01-05T02:09:22Z",
+      "updated_at": "2026-01-05T04:39:27Z",
       "pushed_at": "2025-09-26T20:20:22Z",
-      "open_issues": 390,
+      "open_issues": 391,
       "owner": {
         "login": "brunodev85",
         "avatar_url": "https://avatars.githubusercontent.com/u/11407071?v=4"
@@ -2548,8 +2582,8 @@
       "full_name": "AlistGo/alist",
       "description": "🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",
       "html_url": "https://github.com/AlistGo/alist",
-      "stars": 48762,
-      "forks": 7998,
+      "stars": 48761,
+      "forks": 8000,
       "language": "Go",
       "topics": [
         "file-server",
@@ -2560,9 +2594,9 @@
         "webdav"
       ],
       "created_at": "2020-12-23T17:40:29Z",
-      "updated_at": "2026-01-05T02:13:19Z",
+      "updated_at": "2026-01-05T06:28:56Z",
       "pushed_at": "2026-01-04T15:14:24Z",
-      "open_issues": 568,
+      "open_issues": 567,
       "owner": {
         "login": "AlistGo",
         "avatar_url": "https://avatars.githubusercontent.com/u/184931308?v=4"
@@ -2576,8 +2610,8 @@
       "full_name": "nlohmann/json",
       "description": "JSON for Modern C++",
       "html_url": "https://github.com/nlohmann/json",
-      "stars": 48410,
-      "forks": 7277,
+      "stars": 48413,
+      "forks": 7278,
       "language": "C++",
       "topics": [
         "bson",
@@ -2601,7 +2635,7 @@
         "ubjson"
       ],
       "created_at": "2013-07-04T08:47:49Z",
-      "updated_at": "2026-01-05T01:45:58Z",
+      "updated_at": "2026-01-05T03:27:57Z",
       "pushed_at": "2026-01-01T19:04:25Z",
       "open_issues": 97,
       "owner": {
@@ -2617,7 +2651,7 @@
       "full_name": "WerWolv/ImHex",
       "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
       "html_url": "https://github.com/WerWolv/ImHex",
-      "stars": 52189,
+      "stars": 52192,
       "forks": 2323,
       "language": "C++",
       "topics": [
@@ -2643,7 +2677,7 @@
         "windows"
       ],
       "created_at": "2020-11-10T14:27:00Z",
-      "updated_at": "2026-01-05T00:46:11Z",
+      "updated_at": "2026-01-05T06:10:06Z",
       "pushed_at": "2026-01-05T00:12:43Z",
       "open_issues": 316,
       "owner": {
@@ -2659,14 +2693,14 @@
       "full_name": "ml-explore/mlx",
       "description": "MLX: An array framework for Apple silicon",
       "html_url": "https://github.com/ml-explore/mlx",
-      "stars": 23358,
+      "stars": 23360,
       "forks": 1442,
       "language": "C++",
       "topics": [
         "mlx"
       ],
       "created_at": "2023-11-28T23:33:45Z",
-      "updated_at": "2026-01-05T01:46:02Z",
+      "updated_at": "2026-01-05T06:43:55Z",
       "pushed_at": "2026-01-01T00:02:51Z",
       "open_issues": 152,
       "owner": {
@@ -2682,7 +2716,7 @@
       "full_name": "glzr-io/glazewm",
       "description": "GlazeWM is a tiling window manager for Windows inspired by i3wm.",
       "html_url": "https://github.com/glzr-io/glazewm",
-      "stars": 11012,
+      "stars": 11013,
       "forks": 323,
       "language": "Rust",
       "topics": [
@@ -2693,7 +2727,7 @@
         "windows"
       ],
       "created_at": "2020-06-28T10:28:26Z",
-      "updated_at": "2026-01-05T02:19:10Z",
+      "updated_at": "2026-01-05T06:14:03Z",
       "pushed_at": "2026-01-01T12:20:14Z",
       "open_issues": 329,
       "owner": {
@@ -2709,7 +2743,7 @@
       "full_name": "flightlessmango/MangoHud",
       "description": "A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.",
       "html_url": "https://github.com/flightlessmango/MangoHud",
-      "stars": 8088,
+      "stars": 8091,
       "forks": 374,
       "language": "C",
       "topics": [
@@ -2721,7 +2755,7 @@
         "vulkan"
       ],
       "created_at": "2020-01-28T03:18:11Z",
-      "updated_at": "2026-01-05T00:00:15Z",
+      "updated_at": "2026-01-05T06:47:53Z",
       "pushed_at": "2026-01-02T20:59:47Z",
       "open_issues": 254,
       "owner": {
@@ -2737,7 +2771,7 @@
       "full_name": "uber/h3",
       "description": "Hexagonal hierarchical geospatial indexing system",
       "html_url": "https://github.com/uber/h3",
-      "stars": 5819,
+      "stars": 5822,
       "forks": 543,
       "language": "C",
       "topics": [
@@ -2748,7 +2782,7 @@
         "uber"
       ],
       "created_at": "2017-12-21T01:38:35Z",
-      "updated_at": "2026-01-04T20:49:33Z",
+      "updated_at": "2026-01-05T05:49:59Z",
       "pushed_at": "2025-12-22T00:27:48Z",
       "open_issues": 144,
       "owner": {
@@ -2764,7 +2798,7 @@
       "full_name": "0xPlaygrounds/rig",
       "description": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
       "html_url": "https://github.com/0xPlaygrounds/rig",
-      "stars": 5348,
+      "stars": 5351,
       "forks": 614,
       "language": "Rust",
       "topics": [
@@ -2780,7 +2814,7 @@
         "scalable-ai"
       ],
       "created_at": "2024-06-05T13:42:28Z",
-      "updated_at": "2026-01-05T02:10:41Z",
+      "updated_at": "2026-01-05T06:10:10Z",
       "pushed_at": "2025-12-22T20:22:31Z",
       "open_issues": 122,
       "owner": {
@@ -2833,7 +2867,7 @@
       ],
       "created_at": "2024-01-16T16:26:27Z",
       "updated_at": "2026-01-04T23:26:50Z",
-      "pushed_at": "2026-01-04T03:41:22Z",
+      "pushed_at": "2026-01-05T02:40:57Z",
       "open_issues": 16,
       "owner": {
         "login": "mamiiblt",
@@ -2848,7 +2882,7 @@
       "full_name": "sqlitebrowser/sqlitebrowser",
       "description": "Official home of the DB Browser for SQLite (DB4S) project. Previously known as \"SQLite Database Browser\" and \"Database Browser for SQLite\". Website at: ",
       "html_url": "https://github.com/sqlitebrowser/sqlitebrowser",
-      "stars": 23446,
+      "stars": 23447,
       "forks": 2301,
       "language": "C++",
       "topics": [
@@ -2861,7 +2895,7 @@
         "sqlitebrowser"
       ],
       "created_at": "2014-05-04T01:54:44Z",
-      "updated_at": "2026-01-05T01:34:14Z",
+      "updated_at": "2026-01-05T03:25:59Z",
       "pushed_at": "2026-01-04T00:22:15Z",
       "open_issues": 811,
       "owner": {
@@ -2877,7 +2911,7 @@
       "full_name": "MaaAssistantArknights/MaaAssistantArknights",
       "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
       "html_url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
-      "stars": 19116,
+      "stars": 19118,
       "forks": 2424,
       "language": "C++",
       "topics": [
@@ -2886,9 +2920,9 @@
         "maa"
       ],
       "created_at": "2021-07-09T18:26:38Z",
-      "updated_at": "2026-01-05T02:23:05Z",
-      "pushed_at": "2026-01-05T02:09:35Z",
-      "open_issues": 567,
+      "updated_at": "2026-01-05T05:41:23Z",
+      "pushed_at": "2026-01-05T06:06:26Z",
+      "open_issues": 565,
       "owner": {
         "login": "MaaAssistantArknights",
         "avatar_url": "https://avatars.githubusercontent.com/u/97677443?v=4"
@@ -2902,7 +2936,7 @@
       "full_name": "OpenVPN/openvpn",
       "description": "OpenVPN  is  an open source VPN daemon",
       "html_url": "https://github.com/OpenVPN/openvpn",
-      "stars": 13027,
+      "stars": 13028,
       "forks": 3235,
       "language": "C",
       "topics": [
@@ -2910,7 +2944,7 @@
         "vpn"
       ],
       "created_at": "2012-04-26T20:42:48Z",
-      "updated_at": "2026-01-05T01:49:07Z",
+      "updated_at": "2026-01-05T02:38:05Z",
       "pushed_at": "2026-01-01T17:26:45Z",
       "open_issues": 201,
       "owner": {
@@ -2926,7 +2960,7 @@
       "full_name": "esphome/esphome",
       "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
       "html_url": "https://github.com/esphome/esphome",
-      "stars": 10319,
+      "stars": 10320,
       "forks": 4926,
       "language": "C++",
       "topics": [
@@ -2942,9 +2976,9 @@
         "yaml"
       ],
       "created_at": "2018-04-06T23:23:25Z",
-      "updated_at": "2026-01-05T02:21:14Z",
-      "pushed_at": "2026-01-05T02:14:58Z",
-      "open_issues": 593,
+      "updated_at": "2026-01-05T05:52:59Z",
+      "pushed_at": "2026-01-05T06:37:06Z",
+      "open_issues": 580,
       "owner": {
         "login": "esphome",
         "avatar_url": "https://avatars.githubusercontent.com/u/45919759?v=4"
@@ -2958,7 +2992,7 @@
       "full_name": "cabaletta/baritone",
       "description": "google maps for block game",
       "html_url": "https://github.com/cabaletta/baritone",
-      "stars": 8525,
+      "stars": 8526,
       "forks": 1743,
       "language": "Java",
       "topics": [
@@ -2973,9 +3007,9 @@
         "pathfinding"
       ],
       "created_at": "2018-08-01T15:34:21Z",
-      "updated_at": "2026-01-04T10:46:48Z",
-      "pushed_at": "2026-01-04T23:16:37Z",
-      "open_issues": 919,
+      "updated_at": "2026-01-05T05:09:18Z",
+      "pushed_at": "2026-01-05T04:51:06Z",
+      "open_issues": 918,
       "owner": {
         "login": "cabaletta",
         "avatar_url": "https://avatars.githubusercontent.com/u/41924544?v=4"
@@ -2989,7 +3023,7 @@
       "full_name": "AdAway/AdAway",
       "description": "AdAway is a free and open source ad blocker for Android. ",
       "html_url": "https://github.com/AdAway/AdAway",
-      "stars": 8670,
+      "stars": 8671,
       "forks": 649,
       "language": "C",
       "topics": [
@@ -3000,7 +3034,7 @@
         "vpn"
       ],
       "created_at": "2012-07-15T15:34:47Z",
-      "updated_at": "2026-01-05T02:01:19Z",
+      "updated_at": "2026-01-05T03:36:22Z",
       "pushed_at": "2025-12-29T07:54:59Z",
       "open_issues": 640,
       "owner": {
@@ -3040,7 +3074,7 @@
       "full_name": "thebaselab/codeapp",
       "description": "Building a full-fledged code editor for iPad",
       "html_url": "https://github.com/thebaselab/codeapp",
-      "stars": 3669,
+      "stars": 3670,
       "forks": 302,
       "language": "Swift",
       "topics": [
@@ -3049,7 +3083,7 @@
         "swiftui"
       ],
       "created_at": "2020-12-15T13:31:44Z",
-      "updated_at": "2026-01-04T23:51:36Z",
+      "updated_at": "2026-01-05T03:44:27Z",
       "pushed_at": "2025-11-04T04:48:46Z",
       "open_issues": 573,
       "owner": {
@@ -3065,7 +3099,7 @@
       "full_name": "automazeio/vibeproxy",
       "description": "Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with AI coding tools - no API keys needed",
       "html_url": "https://github.com/automazeio/vibeproxy",
-      "stars": 787,
+      "stars": 789,
       "forks": 51,
       "language": "Swift",
       "topics": [
@@ -3077,7 +3111,7 @@
         "gpt-5-codex"
       ],
       "created_at": "2025-10-04T00:36:21Z",
-      "updated_at": "2026-01-05T02:13:26Z",
+      "updated_at": "2026-01-05T05:55:42Z",
       "pushed_at": "2026-01-04T12:09:30Z",
       "open_issues": 27,
       "owner": {
@@ -3093,7 +3127,7 @@
       "full_name": "angular/angular",
       "description": "Deliver web apps with confidence 🚀",
       "html_url": "https://github.com/angular/angular",
-      "stars": 99613,
+      "stars": 99615,
       "forks": 26957,
       "language": "TypeScript",
       "topics": [
@@ -3106,7 +3140,7 @@
         "web-performance"
       ],
       "created_at": "2014-09-18T16:12:01Z",
-      "updated_at": "2026-01-05T01:50:49Z",
+      "updated_at": "2026-01-05T06:16:39Z",
       "pushed_at": "2026-01-02T13:24:47Z",
       "open_issues": 1205,
       "owner": {
@@ -3122,7 +3156,7 @@
       "full_name": "FortAwesome/Font-Awesome",
       "description": "The iconic SVG, font, and CSS toolkit",
       "html_url": "https://github.com/FortAwesome/Font-Awesome",
-      "stars": 76183,
+      "stars": 76187,
       "forks": 12251,
       "language": "JavaScript",
       "topics": [
@@ -3135,7 +3169,7 @@
         "webfont"
       ],
       "created_at": "2012-02-17T14:19:43Z",
-      "updated_at": "2026-01-05T01:38:03Z",
+      "updated_at": "2026-01-05T05:43:27Z",
       "pushed_at": "2025-12-12T16:04:31Z",
       "open_issues": 303,
       "owner": {
@@ -3151,7 +3185,7 @@
       "full_name": "openjdk/jdk",
       "description": "JDK main-line development https://openjdk.org/projects/jdk",
       "html_url": "https://github.com/openjdk/jdk",
-      "stars": 22315,
+      "stars": 22317,
       "forks": 6212,
       "language": "Java",
       "topics": [
@@ -3160,8 +3194,8 @@
         "openjdk"
       ],
       "created_at": "2018-09-17T12:29:20Z",
-      "updated_at": "2026-01-05T01:54:45Z",
-      "pushed_at": "2026-01-05T02:01:15Z",
+      "updated_at": "2026-01-05T06:28:37Z",
+      "pushed_at": "2026-01-05T06:40:18Z",
       "open_issues": 383,
       "owner": {
         "login": "openjdk",
@@ -3176,14 +3210,14 @@
       "full_name": "espressif/esp-idf",
       "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
       "html_url": "https://github.com/espressif/esp-idf",
-      "stars": 16989,
+      "stars": 16991,
       "forks": 8041,
       "language": "C",
       "topics": [],
       "created_at": "2016-08-17T10:40:35Z",
-      "updated_at": "2026-01-05T01:51:27Z",
+      "updated_at": "2026-01-05T06:48:31Z",
       "pushed_at": "2026-01-05T00:08:59Z",
-      "open_issues": 1496,
+      "open_issues": 1495,
       "owner": {
         "login": "espressif",
         "avatar_url": "https://avatars.githubusercontent.com/u/9460735?v=4"
@@ -3197,7 +3231,7 @@
       "full_name": "meshery/meshery",
       "description": "Meshery, the cloud native manager",
       "html_url": "https://github.com/meshery/meshery",
-      "stars": 9623,
+      "stars": 9624,
       "forks": 2908,
       "language": "JavaScript",
       "topics": [
@@ -3223,7 +3257,7 @@
         "webassembly"
       ],
       "created_at": "2018-11-14T13:41:00Z",
-      "updated_at": "2026-01-05T00:33:39Z",
+      "updated_at": "2026-01-05T06:42:31Z",
       "pushed_at": "2026-01-05T00:00:34Z",
       "open_issues": 881,
       "owner": {
@@ -3239,7 +3273,7 @@
       "full_name": "pymumu/smartdns",
       "description": "A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。",
       "html_url": "https://github.com/pymumu/smartdns",
-      "stars": 10409,
+      "stars": 10412,
       "forks": 1212,
       "language": "C",
       "topics": [
@@ -3261,7 +3295,7 @@
         "stubby"
       ],
       "created_at": "2018-04-22T15:09:47Z",
-      "updated_at": "2026-01-05T02:20:04Z",
+      "updated_at": "2026-01-05T06:46:58Z",
       "pushed_at": "2025-12-30T14:13:13Z",
       "open_issues": 250,
       "owner": {
@@ -3277,7 +3311,7 @@
       "full_name": "seemoo-lab/openhaystack",
       "description": "Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.",
       "html_url": "https://github.com/seemoo-lab/openhaystack",
-      "stars": 12509,
+      "stars": 12510,
       "forks": 621,
       "language": "Swift",
       "topics": [
@@ -3292,7 +3326,7 @@
         "reverse-engineering"
       ],
       "created_at": "2021-02-22T13:23:06Z",
-      "updated_at": "2026-01-05T02:21:44Z",
+      "updated_at": "2026-01-05T06:15:28Z",
       "pushed_at": "2024-07-09T07:19:10Z",
       "open_issues": 145,
       "owner": {
@@ -3309,7 +3343,7 @@
       "description": "AI coding assistant for Xcode",
       "html_url": "https://github.com/github/CopilotForXcode",
       "stars": 5466,
-      "forks": 1664,
+      "forks": 1666,
       "language": "Swift",
       "topics": [
         "ai",
@@ -3318,8 +3352,8 @@
         "xcode"
       ],
       "created_at": "2024-09-19T17:48:15Z",
-      "updated_at": "2026-01-05T02:00:14Z",
-      "pushed_at": "2025-12-18T07:01:34Z",
+      "updated_at": "2026-01-05T02:30:05Z",
+      "pushed_at": "2026-01-05T02:30:09Z",
       "open_issues": 191,
       "owner": {
         "login": "github",
@@ -3355,7 +3389,7 @@
       "full_name": "khcrysalis/Feather",
       "description": "Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.",
       "html_url": "https://github.com/khcrysalis/Feather",
-      "stars": 3410,
+      "stars": 3411,
       "forks": 299,
       "language": "Swift",
       "topics": [
@@ -3373,7 +3407,7 @@
         "zsign"
       ],
       "created_at": "2024-05-19T17:44:22Z",
-      "updated_at": "2026-01-04T23:35:41Z",
+      "updated_at": "2026-01-05T06:26:04Z",
       "pushed_at": "2026-01-04T20:41:36Z",
       "open_issues": 14,
       "owner": {
@@ -3389,7 +3423,7 @@
       "full_name": "vercel/turborepo",
       "description": "Build system optimized for JavaScript and TypeScript, written in Rust",
       "html_url": "https://github.com/vercel/turborepo",
-      "stars": 29413,
+      "stars": 29415,
       "forks": 2205,
       "language": "Rust",
       "topics": [
@@ -3400,7 +3434,7 @@
         "typescript"
       ],
       "created_at": "2021-10-05T17:37:11Z",
-      "updated_at": "2026-01-05T01:37:04Z",
+      "updated_at": "2026-01-05T06:18:37Z",
       "pushed_at": "2026-01-01T22:44:52Z",
       "open_issues": 138,
       "owner": {
@@ -3416,14 +3450,14 @@
       "full_name": "permissionlesstech/bitchat",
       "description": "bluetooth mesh chat, IRC vibes",
       "html_url": "https://github.com/permissionlesstech/bitchat",
-      "stars": 23726,
-      "forks": 2212,
+      "stars": 23728,
+      "forks": 2213,
       "language": "Swift",
       "topics": [],
       "created_at": "2025-07-04T14:34:38Z",
-      "updated_at": "2026-01-05T00:25:11Z",
+      "updated_at": "2026-01-05T06:13:36Z",
       "pushed_at": "2026-01-05T00:25:08Z",
-      "open_issues": 218,
+      "open_issues": 219,
       "owner": {
         "login": "permissionlesstech",
         "avatar_url": "https://avatars.githubusercontent.com/u/220183803?v=4"
@@ -3438,7 +3472,7 @@
       "description": "𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅]",
       "html_url": "https://github.com/NotHarshhaa/DevOps-Projects",
       "stars": 2941,
-      "forks": 3147,
+      "forks": 3148,
       "language": "Java",
       "topics": [
         "devops",
@@ -3496,7 +3530,7 @@
       "full_name": "argmaxinc/WhisperKit",
       "description": "On-device Speech Recognition for Apple Silicon",
       "html_url": "https://github.com/argmaxinc/WhisperKit",
-      "stars": 5397,
+      "stars": 5398,
       "forks": 490,
       "language": "Swift",
       "topics": [
@@ -3511,7 +3545,7 @@
         "whisper"
       ],
       "created_at": "2024-01-26T07:11:52Z",
-      "updated_at": "2026-01-04T17:35:56Z",
+      "updated_at": "2026-01-05T04:34:10Z",
       "pushed_at": "2025-12-02T20:23:31Z",
       "open_issues": 86,
       "owner": {
@@ -3568,7 +3602,7 @@
       "created_at": "2023-12-24T06:19:29Z",
       "updated_at": "2026-01-04T19:36:58Z",
       "pushed_at": "2026-01-04T03:24:21Z",
-      "open_issues": 7,
+      "open_issues": 6,
       "owner": {
         "login": "xchacha20-poly1305",
         "avatar_url": "https://avatars.githubusercontent.com/u/139959885?v=4"
@@ -3612,7 +3646,7 @@
       "full_name": "hashcat/hashcat",
       "description": "World's fastest and most advanced password recovery utility",
       "html_url": "https://github.com/hashcat/hashcat",
-      "stars": 25065,
+      "stars": 25066,
       "forks": 3324,
       "language": "C",
       "topics": [
@@ -3626,7 +3660,7 @@
         "password"
       ],
       "created_at": "2015-12-04T14:46:51Z",
-      "updated_at": "2026-01-05T01:47:03Z",
+      "updated_at": "2026-01-05T03:23:52Z",
       "pushed_at": "2025-11-20T19:30:16Z",
       "open_issues": 276,
       "owner": {
@@ -3642,7 +3676,7 @@
       "full_name": "PaperMC/Paper",
       "description": "The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies",
       "html_url": "https://github.com/PaperMC/Paper",
-      "stars": 11817,
+      "stars": 11819,
       "forks": 3192,
       "language": "Java",
       "topics": [
@@ -3658,7 +3692,7 @@
         "tacos"
       ],
       "created_at": "2016-01-22T05:40:19Z",
-      "updated_at": "2026-01-05T00:35:44Z",
+      "updated_at": "2026-01-05T06:31:29Z",
       "pushed_at": "2026-01-04T22:03:10Z",
       "open_issues": 588,
       "owner": {
@@ -3674,7 +3708,7 @@
       "full_name": "iSoron/uhabits",
       "description": "Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits",
       "html_url": "https://github.com/iSoron/uhabits",
-      "stars": 9452,
+      "stars": 9453,
       "forks": 1112,
       "language": "Kotlin",
       "topics": [
@@ -3686,7 +3720,7 @@
         "streak"
       ],
       "created_at": "2014-11-08T11:07:12Z",
-      "updated_at": "2026-01-05T00:00:06Z",
+      "updated_at": "2026-01-05T06:03:13Z",
       "pushed_at": "2025-12-13T15:50:09Z",
       "open_issues": 46,
       "owner": {
@@ -3703,7 +3737,7 @@
       "description": "A Minecraft Launcher which is multi-functional, cross-platform and popular",
       "html_url": "https://github.com/HMCL-dev/HMCL",
       "stars": 8615,
-      "forks": 810,
+      "forks": 811,
       "language": "Java",
       "topics": [
         "javafx",
@@ -3713,7 +3747,7 @@
       "created_at": "2015-06-22T08:06:03Z",
       "updated_at": "2026-01-05T00:57:05Z",
       "pushed_at": "2026-01-04T14:06:45Z",
-      "open_issues": 335,
+      "open_issues": 334,
       "owner": {
         "login": "HMCL-dev",
         "avatar_url": "https://avatars.githubusercontent.com/u/155959482?v=4"
@@ -3738,7 +3772,7 @@
         "static-code-analysis"
       ],
       "created_at": "2013-06-29T23:59:48Z",
-      "updated_at": "2026-01-05T00:02:59Z",
+      "updated_at": "2026-01-05T05:51:46Z",
       "pushed_at": "2026-01-04T22:47:53Z",
       "open_issues": 93,
       "owner": {
@@ -3754,12 +3788,12 @@
       "full_name": "TelegramMessenger/Telegram-iOS",
       "description": "Telegram-iOS",
       "html_url": "https://github.com/TelegramMessenger/Telegram-iOS",
-      "stars": 7867,
+      "stars": 7871,
       "forks": 2303,
       "language": "Swift",
       "topics": [],
       "created_at": "2018-11-14T18:06:49Z",
-      "updated_at": "2026-01-05T01:28:46Z",
+      "updated_at": "2026-01-05T05:48:27Z",
       "pushed_at": "2026-01-04T00:36:39Z",
       "open_issues": 604,
       "owner": {
@@ -3775,12 +3809,12 @@
       "full_name": "floooh/sokol",
       "description": "minimal cross-platform standalone C headers",
       "html_url": "https://github.com/floooh/sokol",
-      "stars": 9404,
+      "stars": 9406,
       "forks": 605,
       "language": "C",
       "topics": [],
       "created_at": "2017-07-14T08:38:25Z",
-      "updated_at": "2026-01-04T19:04:23Z",
+      "updated_at": "2026-01-05T06:32:29Z",
       "pushed_at": "2026-01-01T12:09:15Z",
       "open_issues": 145,
       "owner": {
@@ -3796,7 +3830,7 @@
       "full_name": "AlexandreRouma/SDRPlusPlus",
       "description": "Cross-Platform SDR Software",
       "html_url": "https://github.com/AlexandreRouma/SDRPlusPlus",
-      "stars": 5459,
+      "stars": 5460,
       "forks": 753,
       "language": "C++",
       "topics": [
@@ -3804,7 +3838,7 @@
         "sdr"
       ],
       "created_at": "2020-06-10T02:12:59Z",
-      "updated_at": "2026-01-05T01:03:42Z",
+      "updated_at": "2026-01-05T03:51:34Z",
       "pushed_at": "2025-12-12T06:55:38Z",
       "open_issues": 120,
       "owner": {
@@ -3848,7 +3882,7 @@
       "created_at": "2025-05-01T13:38:01Z",
       "updated_at": "2026-01-05T01:24:32Z",
       "pushed_at": "2026-01-04T13:04:02Z",
-      "open_issues": 195,
+      "open_issues": 196,
       "owner": {
         "login": "JetBrains",
         "avatar_url": "https://avatars.githubusercontent.com/u/878437?v=4"
@@ -3883,7 +3917,7 @@
       "full_name": "curl/curl",
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "html_url": "https://github.com/curl/curl",
-      "stars": 40314,
+      "stars": 40315,
       "forks": 7008,
       "language": "C",
       "topics": [
@@ -3909,7 +3943,7 @@
         "websocket"
       ],
       "created_at": "2010-03-18T22:32:22Z",
-      "updated_at": "2026-01-05T01:50:34Z",
+      "updated_at": "2026-01-05T04:35:09Z",
       "pushed_at": "2026-01-04T13:48:30Z",
       "open_issues": 36,
       "owner": {
@@ -3925,7 +3959,7 @@
       "full_name": "apache/skywalking",
       "description": "APM, Application Performance Monitoring System",
       "html_url": "https://github.com/apache/skywalking",
-      "stars": 24682,
+      "stars": 24683,
       "forks": 6627,
       "language": "Java",
       "topics": [
@@ -3945,9 +3979,9 @@
         "zabbix"
       ],
       "created_at": "2015-11-07T03:30:36Z",
-      "updated_at": "2026-01-05T01:11:59Z",
+      "updated_at": "2026-01-05T03:28:15Z",
       "pushed_at": "2025-12-28T03:32:30Z",
-      "open_issues": 57,
+      "open_issues": 58,
       "owner": {
         "login": "apache",
         "avatar_url": "https://avatars.githubusercontent.com/u/47359?v=4"
@@ -3961,14 +3995,14 @@
       "full_name": "GoogleChrome/chrome-extensions-samples",
       "description": "Chrome Extensions Samples",
       "html_url": "https://github.com/GoogleChrome/chrome-extensions-samples",
-      "stars": 17213,
+      "stars": 17215,
       "forks": 8933,
       "language": "JavaScript",
       "topics": [
         "chrome"
       ],
       "created_at": "2012-06-13T00:30:44Z",
-      "updated_at": "2026-01-05T00:44:13Z",
+      "updated_at": "2026-01-05T05:41:30Z",
       "pushed_at": "2025-12-15T13:08:26Z",
       "open_issues": 85,
       "owner": {
@@ -3984,7 +4018,7 @@
       "full_name": "audacity/audacity",
       "description": "Audio Editor                                     ",
       "html_url": "https://github.com/audacity/audacity",
-      "stars": 16242,
+      "stars": 16244,
       "forks": 2499,
       "language": "C++",
       "topics": [
@@ -3995,7 +4029,7 @@
         "wxwidgets-applications"
       ],
       "created_at": "2015-03-26T10:46:17Z",
-      "updated_at": "2026-01-04T22:07:26Z",
+      "updated_at": "2026-01-05T06:39:11Z",
       "pushed_at": "2026-01-04T21:23:30Z",
       "open_issues": 1360,
       "owner": {
@@ -4011,12 +4045,12 @@
       "full_name": "overleaf/overleaf",
       "description": "A web-based collaborative LaTeX editor",
       "html_url": "https://github.com/overleaf/overleaf",
-      "stars": 17093,
+      "stars": 17096,
       "forks": 1833,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2014-02-08T20:20:34Z",
-      "updated_at": "2026-01-04T14:32:57Z",
+      "updated_at": "2026-01-05T06:49:33Z",
       "pushed_at": "2025-12-18T09:06:49Z",
       "open_issues": 157,
       "owner": {
@@ -4032,8 +4066,8 @@
       "full_name": "thunderbird/thunderbird-android",
       "description": "Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)",
       "html_url": "https://github.com/thunderbird/thunderbird-android",
-      "stars": 12946,
-      "forks": 2672,
+      "stars": 12947,
+      "forks": 2674,
       "language": "Kotlin",
       "topics": [
         "android",
@@ -4042,9 +4076,9 @@
         "mozilla"
       ],
       "created_at": "2011-02-04T02:40:00Z",
-      "updated_at": "2026-01-05T02:05:23Z",
+      "updated_at": "2026-01-05T02:29:02Z",
       "pushed_at": "2025-12-22T14:38:28Z",
-      "open_issues": 929,
+      "open_issues": 931,
       "owner": {
         "login": "thunderbird",
         "avatar_url": "https://avatars.githubusercontent.com/u/15187237?v=4"
@@ -4088,12 +4122,12 @@
       "full_name": "FiguraMC/Figura",
       "description": "Extensively customize your character with Figura!",
       "html_url": "https://github.com/FiguraMC/Figura",
-      "stars": 427,
+      "stars": 430,
       "forks": 106,
       "language": "Java",
       "topics": [],
       "created_at": "2023-07-15T21:32:27Z",
-      "updated_at": "2026-01-05T00:37:00Z",
+      "updated_at": "2026-01-05T06:38:43Z",
       "pushed_at": "2025-12-16T21:35:29Z",
       "open_issues": 116,
       "owner": {
@@ -4109,7 +4143,7 @@
       "full_name": "knadh/listmonk",
       "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
       "html_url": "https://github.com/knadh/listmonk",
-      "stars": 18590,
+      "stars": 18592,
       "forks": 1872,
       "language": "Go",
       "topics": [
@@ -4128,7 +4162,7 @@
         "transactional-emails"
       ],
       "created_at": "2019-06-26T05:08:39Z",
-      "updated_at": "2026-01-04T21:49:12Z",
+      "updated_at": "2026-01-05T06:34:12Z",
       "pushed_at": "2026-01-02T17:40:25Z",
       "open_issues": 96,
       "owner": {
@@ -4144,7 +4178,7 @@
       "full_name": "scylladb/scylladb",
       "description": "NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB",
       "html_url": "https://github.com/scylladb/scylladb",
-      "stars": 15199,
+      "stars": 15200,
       "forks": 1461,
       "language": "C++",
       "topics": [
@@ -4157,9 +4191,9 @@
         "seastar"
       ],
       "created_at": "2014-12-24T13:16:33Z",
-      "updated_at": "2026-01-05T01:55:33Z",
-      "pushed_at": "2026-01-05T01:55:28Z",
-      "open_issues": 3662,
+      "updated_at": "2026-01-05T02:31:37Z",
+      "pushed_at": "2026-01-05T05:09:16Z",
+      "open_issues": 3663,
       "owner": {
         "login": "scylladb",
         "avatar_url": "https://avatars.githubusercontent.com/u/14364730?v=4"
@@ -4181,9 +4215,9 @@
         "rust"
       ],
       "created_at": "2014-06-30T20:53:49Z",
-      "updated_at": "2026-01-05T02:14:29Z",
-      "pushed_at": "2026-01-05T01:09:00Z",
-      "open_issues": 98,
+      "updated_at": "2026-01-05T06:25:03Z",
+      "pushed_at": "2026-01-05T06:26:44Z",
+      "open_issues": 97,
       "owner": {
         "login": "rust-lang",
         "avatar_url": "https://avatars.githubusercontent.com/u/5430905?v=4"
@@ -4197,12 +4231,12 @@
       "full_name": "ninxsoft/Mist",
       "description": "A Mac utility that automatically downloads macOS Firmwares / Installers.",
       "html_url": "https://github.com/ninxsoft/Mist",
-      "stars": 4271,
-      "forks": 181,
+      "stars": 4272,
+      "forks": 182,
       "language": "Swift",
       "topics": [],
       "created_at": "2022-06-30T11:21:57Z",
-      "updated_at": "2026-01-05T01:41:17Z",
+      "updated_at": "2026-01-05T06:20:30Z",
       "pushed_at": "2025-10-11T07:40:41Z",
       "open_issues": 53,
       "owner": {
@@ -4219,13 +4253,13 @@
       "description": "Experimental menu for GTA 5: Enhanced",
       "html_url": "https://github.com/YimMenu/YimMenuV2",
       "stars": 974,
-      "forks": 315,
+      "forks": 314,
       "language": "C++",
       "topics": [],
       "created_at": "2023-08-11T20:51:21Z",
       "updated_at": "2026-01-04T21:16:56Z",
       "pushed_at": "2026-01-04T14:15:07Z",
-      "open_issues": 164,
+      "open_issues": 165,
       "owner": {
         "login": "YimMenu",
         "avatar_url": "https://avatars.githubusercontent.com/u/106739674?v=4"
@@ -4239,12 +4273,12 @@
       "full_name": "google/gson",
       "description": "A Java serialization/deserialization library to convert Java Objects into JSON and back",
       "html_url": "https://github.com/google/gson",
-      "stars": 24299,
+      "stars": 24301,
       "forks": 4372,
       "language": "Java",
       "topics": [],
       "created_at": "2015-03-19T18:21:20Z",
-      "updated_at": "2026-01-04T20:49:30Z",
+      "updated_at": "2026-01-05T06:35:12Z",
       "pushed_at": "2026-01-01T16:46:20Z",
       "open_issues": 334,
       "owner": {
@@ -4260,7 +4294,7 @@
       "full_name": "quarkusio/quarkus",
       "description": "Quarkus: Supersonic Subatomic Java. ",
       "html_url": "https://github.com/quarkusio/quarkus",
-      "stars": 15379,
+      "stars": 15380,
       "forks": 3046,
       "language": "Java",
       "topics": [
@@ -4271,9 +4305,9 @@
         "reactive"
       ],
       "created_at": "2018-07-06T00:44:20Z",
-      "updated_at": "2026-01-04T08:22:22Z",
+      "updated_at": "2026-01-05T05:49:48Z",
       "pushed_at": "2026-01-03T18:10:13Z",
-      "open_issues": 2705,
+      "open_issues": 2704,
       "owner": {
         "login": "quarkusio",
         "avatar_url": "https://avatars.githubusercontent.com/u/47638783?v=4"
@@ -4287,7 +4321,7 @@
       "full_name": "ankidroid/Anki-Android",
       "description": "AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.",
       "html_url": "https://github.com/ankidroid/Anki-Android",
-      "stars": 10472,
+      "stars": 10477,
       "forks": 2607,
       "language": "Kotlin",
       "topics": [
@@ -4301,9 +4335,9 @@
         "srs"
       ],
       "created_at": "2013-01-20T13:55:53Z",
-      "updated_at": "2026-01-04T23:20:35Z",
+      "updated_at": "2026-01-05T05:51:45Z",
       "pushed_at": "2026-01-04T05:52:19Z",
-      "open_issues": 369,
+      "open_issues": 372,
       "owner": {
         "login": "ankidroid",
         "avatar_url": "https://avatars.githubusercontent.com/u/3320903?v=4"
@@ -4317,7 +4351,7 @@
       "full_name": "PojavLauncherTeam/PojavLauncher",
       "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android",
       "html_url": "https://github.com/PojavLauncherTeam/PojavLauncher",
-      "stars": 8603,
+      "stars": 8604,
       "forks": 1794,
       "language": "Java",
       "topics": [
@@ -4325,7 +4359,7 @@
         "minecraft-launcher"
       ],
       "created_at": "2020-03-11T03:22:54Z",
-      "updated_at": "2026-01-04T23:38:28Z",
+      "updated_at": "2026-01-05T04:25:44Z",
       "pushed_at": "2025-09-23T20:12:28Z",
       "open_issues": 124,
       "owner": {
@@ -4362,12 +4396,12 @@
       "full_name": "mindcraft-bots/mindcraft",
       "description": "Minecraft AI with LLMs+Mineflayer",
       "html_url": "https://github.com/mindcraft-bots/mindcraft",
-      "stars": 4589,
+      "stars": 4591,
       "forks": 632,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2023-08-16T06:39:59Z",
-      "updated_at": "2026-01-04T23:38:16Z",
+      "updated_at": "2026-01-05T05:20:25Z",
       "pushed_at": "2025-12-29T01:25:06Z",
       "open_issues": 104,
       "owner": {
@@ -4404,12 +4438,12 @@
       "full_name": "scier/MetalSplatter",
       "description": "Render Gaussian Splats using Metal on Apple platforms (iOS/iPhone/iPad, macOS, and visionOS)",
       "html_url": "https://github.com/scier/MetalSplatter",
-      "stars": 520,
+      "stars": 521,
       "forks": 74,
       "language": "Swift",
       "topics": [],
       "created_at": "2023-12-31T23:56:16Z",
-      "updated_at": "2026-01-05T01:16:39Z",
+      "updated_at": "2026-01-05T03:28:23Z",
       "pushed_at": "2024-09-24T04:52:32Z",
       "open_issues": 16,
       "owner": {
@@ -4425,8 +4459,8 @@
       "full_name": "Aidoku/Aidoku",
       "description": "Free and open source manga reader for iOS and iPadOS",
       "html_url": "https://github.com/Aidoku/Aidoku",
-      "stars": 3802,
-      "forks": 207,
+      "stars": 3803,
+      "forks": 208,
       "language": "Swift",
       "topics": [
         "ios",
@@ -4435,9 +4469,9 @@
         "swift"
       ],
       "created_at": "2022-01-02T16:44:46Z",
-      "updated_at": "2026-01-04T22:11:51Z",
+      "updated_at": "2026-01-05T06:16:03Z",
       "pushed_at": "2026-01-04T18:55:59Z",
-      "open_issues": 127,
+      "open_issues": 128,
       "owner": {
         "login": "Aidoku",
         "avatar_url": "https://avatars.githubusercontent.com/u/97767528?v=4"
@@ -4451,12 +4485,12 @@
       "full_name": "swiftlang/swift-markdown",
       "description": "A Swift package for parsing, building, editing, and analyzing Markdown documents.",
       "html_url": "https://github.com/swiftlang/swift-markdown",
-      "stars": 3195,
+      "stars": 3196,
       "forks": 247,
       "language": "Swift",
       "topics": [],
       "created_at": "2021-07-19T16:42:24Z",
-      "updated_at": "2026-01-04T13:47:08Z",
+      "updated_at": "2026-01-05T03:56:08Z",
       "pushed_at": "2026-01-04T09:50:53Z",
       "open_issues": 56,
       "owner": {
@@ -4472,7 +4506,7 @@
       "full_name": "supabase/supabase-swift",
       "description": "A Swift SDK for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse Swift examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector. ",
       "html_url": "https://github.com/supabase/supabase-swift",
-      "stars": 1126,
+      "stars": 1127,
       "forks": 215,
       "language": "Swift",
       "topics": [
@@ -4482,7 +4516,7 @@
         "swift"
       ],
       "created_at": "2021-05-23T07:46:26Z",
-      "updated_at": "2026-01-04T06:20:45Z",
+      "updated_at": "2026-01-05T03:09:50Z",
       "pushed_at": "2025-12-29T14:19:49Z",
       "open_issues": 28,
       "owner": {
@@ -4543,7 +4577,7 @@
       "full_name": "openzfs/zfs",
       "description": "OpenZFS on Linux and FreeBSD",
       "html_url": "https://github.com/openzfs/zfs",
-      "stars": 11875,
+      "stars": 11876,
       "forks": 1934,
       "language": "C",
       "topics": [
@@ -4552,7 +4586,7 @@
         "system-software"
       ],
       "created_at": "2009-12-14T20:20:34Z",
-      "updated_at": "2026-01-05T01:19:45Z",
+      "updated_at": "2026-01-05T06:11:33Z",
       "pushed_at": "2025-12-30T17:29:48Z",
       "open_issues": 1624,
       "owner": {
@@ -4604,8 +4638,8 @@
         "vms"
       ],
       "created_at": "2016-12-16T21:24:26Z",
-      "updated_at": "2026-01-05T01:57:52Z",
-      "pushed_at": "2026-01-05T01:57:45Z",
+      "updated_at": "2026-01-05T05:17:50Z",
+      "pushed_at": "2026-01-05T05:17:45Z",
       "open_issues": 470,
       "owner": {
         "login": "kubevirt",
@@ -4658,8 +4692,8 @@
         "library"
       ],
       "created_at": "2020-04-17T19:17:41Z",
-      "updated_at": "2026-01-04T11:26:33Z",
-      "pushed_at": "2026-01-02T22:21:42Z",
+      "updated_at": "2026-01-05T06:24:05Z",
+      "pushed_at": "2026-01-05T06:24:00Z",
       "open_issues": 44,
       "owner": {
         "login": "androidx",
@@ -4695,7 +4729,7 @@
       "full_name": "FWGS/xash3d-fwgs",
       "description": "Xash3D FWGS engine",
       "html_url": "https://github.com/FWGS/xash3d-fwgs",
-      "stars": 2275,
+      "stars": 2277,
       "forks": 367,
       "language": "C",
       "topics": [
@@ -4721,9 +4755,9 @@
         "xash3d-fwgs"
       ],
       "created_at": "2018-04-02T21:33:02Z",
-      "updated_at": "2026-01-04T17:28:05Z",
-      "pushed_at": "2026-01-03T03:28:33Z",
-      "open_issues": 424,
+      "updated_at": "2026-01-05T06:20:53Z",
+      "pushed_at": "2026-01-05T04:48:29Z",
+      "open_issues": 423,
       "owner": {
         "login": "FWGS",
         "avatar_url": "https://avatars.githubusercontent.com/u/10867064?v=4"
@@ -4765,12 +4799,12 @@
       "full_name": "openwrt/luci",
       "description": "LuCI - OpenWrt Configuration Interface",
       "html_url": "https://github.com/openwrt/luci",
-      "stars": 7349,
+      "stars": 7350,
       "forks": 2753,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2014-10-09T16:02:20Z",
-      "updated_at": "2026-01-04T23:27:22Z",
+      "updated_at": "2026-01-05T04:58:23Z",
       "pushed_at": "2026-01-03T16:53:29Z",
       "open_issues": 307,
       "owner": {
@@ -4808,7 +4842,7 @@
       "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
       "html_url": "https://github.com/rdpeng/ProgrammingAssignment2",
       "stars": 872,
-      "forks": 143973,
+      "forks": 143974,
       "language": "R",
       "topics": [],
       "created_at": "2014-01-14T22:07:41Z",
@@ -4857,7 +4891,7 @@
       "description": "Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android",
       "html_url": "https://github.com/androidx/media",
       "stars": 2615,
-      "forks": 702,
+      "forks": 703,
       "language": "Java",
       "topics": [
         "android",
@@ -4886,7 +4920,7 @@
       "description": "Opensource automated insulin delivery system (closed loop)",
       "html_url": "https://github.com/nightscout/AndroidAPS",
       "stars": 944,
-      "forks": 3286,
+      "forks": 3288,
       "language": "Kotlin",
       "topics": [
         "closed-loop",
@@ -4896,7 +4930,7 @@
       ],
       "created_at": "2020-09-21T12:58:30Z",
       "updated_at": "2026-01-04T20:33:41Z",
-      "pushed_at": "2026-01-05T01:16:27Z",
+      "pushed_at": "2026-01-05T02:45:41Z",
       "open_issues": 296,
       "owner": {
         "login": "nightscout",
@@ -4954,7 +4988,7 @@
       "created_at": "2014-05-31T16:34:32Z",
       "updated_at": "2026-01-02T13:15:07Z",
       "pushed_at": "2025-12-28T00:20:20Z",
-      "open_issues": 362,
+      "open_issues": 363,
       "owner": {
         "login": "YuLab-SMU",
         "avatar_url": "https://avatars.githubusercontent.com/u/40430016?v=4"
@@ -4969,7 +5003,7 @@
       "description": "GCAM -- The Global Change Analysis Model",
       "html_url": "https://github.com/JGCRI/gcam-core",
       "stars": 376,
-      "forks": 201,
+      "forks": 202,
       "language": "R",
       "topics": [
         "climate",
@@ -4985,7 +5019,7 @@
       "created_at": "2016-01-29T15:57:28Z",
       "updated_at": "2025-12-27T08:24:48Z",
       "pushed_at": "2025-12-12T20:56:28Z",
-      "open_issues": 254,
+      "open_issues": 253,
       "owner": {
         "login": "JGCRI",
         "avatar_url": "https://avatars.githubusercontent.com/u/8431983?v=4"
@@ -5017,5 +5051,5 @@
       "stars_today": 0
     }
   ],
-  "created_at": "2026-01-05T02:24:52.006108042Z"
+  "created_at": "2026-01-05T06:50:19.731202738Z"
 }
