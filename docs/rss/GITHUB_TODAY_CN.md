@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-01-05
+# 📊 🌟 GitHub Trending Daily - 2026-01-06
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **258412** ⭐ | **24070** 🍴
+**10** 个项目 | **259372** ⭐ | **24127** 🍴
 
-**热门语言:** `TypeScript` (6) · `Go` (2) · `Rust` (1)
+**热门语言:** `TypeScript` (6) · `Go` (2) · `JavaScript` (1)
 
-**更新时间:** 2026-01-05 18:43 UTC
+**更新时间:** 2026-01-06 02:09 UTC
 
 **分类分布:**
 
@@ -21,113 +21,113 @@
 ### 1. [opencode](https://github.com/anomalyco/opencode)
 
 > 🤖 **推荐理由**  
-> *OpenCode is an open-source AI coding agent built in TypeScript, boasting 49,385 stars on GitHub. It features two main agents: "build" for development tasks and "plan" for code exploration, enhancing user productivity. OpenCode supports installation across multiple platforms and offers a desktop application in beta. It emphasizes a terminal user interface (TUI) and is provider-agnostic, compatible with various AI models. Comprehensive documentation and a growing community on Discord support users and contributors. Explore more at opencode.ai.*
+> *OpenCode is an open-source AI coding agent built in TypeScript, boasting nearly 50,000 stars on GitHub. It features a dual-agent system: a full-access "build" agent for development and a read-only "plan" agent for code analysis. Users can switch agents easily and utilize a general subagent for complex tasks. OpenCode supports multiple platforms, including a desktop app, and offers seamless integration with various AI models. Emphasizing terminal usability and community engagement, it also provides extensive documentation for configuration and contribution.*
 
-- ⭐ 49385 stars
+- ⭐ 49895 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-05
+- 📅 Updated: 2026-01-06
 
-![opencode](2026/01-05/2026-01-05_daily-top_opencode.png)
+![opencode](2026/01-06/2026-01-06_daily-top_opencode.png)
 
 ### 2. [memos](https://github.com/usememos/memos)
 
 > 🤖 **推荐理由**  
-> *Memos is an open-source, self-hosted note-taking service designed for privacy and data ownership. With over 51,000 stars, it offers a user-friendly interface, full markdown support, and lightning-fast performance built with Go and React. Key features include zero telemetry, complete control over your data, simple Docker deployment, REST and gRPC APIs for integration, and a clean, responsive design. Memos is free forever with no ads or subscription fees, making it ideal for personal notes, team wikis, and knowledge management. Explore the live demo or documentation to get started.*
+> *Memos is an open-source, self-hosted note-taking service designed for privacy and control. Built with Go and React, it offers features like full markdown support, complete data ownership, and no tracking or ads. Key highlights include a blazing-fast performance, simple one-line Docker deployment, and extensive REST and gRPC APIs for easy integration. Memos is free forever under the MIT license, making it an ideal alternative to traditional cloud services. Experience a clean, responsive interface and contribute to the project to enhance its capabilities.*
 
-- ⭐ 51784 stars
+- ⭐ 51929 stars
 - 💻 Go
-- 📅 Updated: 2026-01-05
+- 📅 Updated: 2026-01-06
 
-![memos](2026/01-05/2026-01-05_daily-top_memos.png)
+![memos](2026/01-06/2026-01-06_daily-top_memos.png)
 
 ### 3. [daytona](https://github.com/daytonaio/daytona)
 
 > 🤖 **推荐理由**  
-> *Daytona is a secure and elastic infrastructure designed for running AI-generated code, built with TypeScript and boasting over 42,900 stars on GitHub. Key features include sub-90ms sandbox creation, isolated runtimes for risk-free execution, massive parallelization for concurrent workflows, and programmatic control via various APIs. Daytona supports OCI/Docker images and offers unlimited sandbox persistence. Quick start is facilitated through Python and TypeScript SDKs. Join the community and explore documentation at www.daytona.io/docs.*
+> *Daytona is a secure and elastic infrastructure designed for running AI-generated code, garnering 42,990 stars on GitHub. Key features include lightning-fast sandbox creation (under 90ms), isolated execution environments to protect infrastructure, and massive parallelization for concurrent workflows. It supports OCI/Docker images for sandbox creation and offers programmatic control via a comprehensive API. Daytona provides SDKs for both Python and TypeScript, enabling developers to integrate seamlessly. For documentation and more, visit [daytona.io](https://www.daytona.io/docs).*
 
-- ⭐ 42935 stars
+- ⭐ 42990 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-05
+- 📅 Updated: 2026-01-06
 
-![daytona](2026/01-05/2026-01-05_daily-top_daytona.png)
+![daytona](2026/01-06/2026-01-06_daily-top_daytona.png)
 
 ### 4. [seanime](https://github.com/5rahim/seanime)
 
 > 🤖 **推荐理由**  
-> *Seanime is an open-source media server designed for anime and manga enthusiasts, featuring a web interface and desktop app. With over 2,350 stars, it offers cross-platform support, a built-in video player, and complete AniList integration for managing and discovering content. Key features include offline mode, torrent streaming capabilities, customizable UI, and support for popular media players like MPV and VLC. Users can scan their libraries quickly, track episodes, and read manga from local sources. Seanime prioritizes legal media access and user customization.*
+> *Seanime is an open-source media server designed for anime and manga enthusiasts, featuring a web interface and desktop app. Key features include a built-in video player, AniList integration for managing collections, and custom source support for additional series. It allows offline use, direct streaming of torrents, and supports various media players like MPV and VLC. Users can scan their library quickly, schedule episodes, and read manga from local or online sources. Seanime prioritizes legal media access and user customization, making it a versatile tool for anime and manga management.*
 
-- ⭐ 2350 stars
+- ⭐ 2362 stars
 - 💻 Go
-- 📅 Updated: 2026-01-05
+- 📅 Updated: 2026-01-06
 
-![seanime](2026/01-05/2026-01-05_daily-top_seanime.png)
+![seanime](2026/01-06/2026-01-06_daily-top_seanime.png)
 
 ### 5. [nocodb](https://github.com/nocodb/nocodb)
 
 > 🤖 **推荐理由**  
 > *🔥 🔥 🔥 Open Source Airtable Alternative. popular project, actively maintained, recently updated*
 
-- ⭐ 60869 stars
+- ⭐ 60930 stars
 - 🍴 4522 forks
 - 💻 TypeScript
-- 📅 Updated: 2026-01-05
+- 📅 Updated: 2026-01-06
 
-![nocodb](2026/01-05/2026-01-05_daily-top_nocodb.png)
+![nocodb](2026/01-06/2026-01-06_daily-top_nocodb.png)
 
 ### 6. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **推荐理由**  
-> *cc-switch is a cross-platform desktop assistant tool for Claude Code, Codex, and Gemini CLI, built with Rust and Tauri. It streamlines provider management with seamless switching between APIs and advanced configuration options. Key features include a dual-layer storage system (SQLite + JSON), multi-language support (English, Chinese, Japanese), skills management, and prompt handling. The app also offers built-in speed testing, auto-launch on startup, and a redesigned user interface. Notable sponsors include Z.ai and PackyCode, enhancing user experience with various coding services.*
+> *cc-switch is a cross-platform desktop assistant tool designed for Claude Code, Codex, and Gemini CLI, built with Rust. It boasts a dual-layer architecture combining SQLite and JSON, enabling efficient data management and future cloud sync capabilities. Key features include provider management, skills and prompts systems, and MCP server integration. With a user-friendly interface supporting multiple languages, it allows seamless switching between AI tools and offers extensive customization options. The project has garnered 9,375 stars on GitHub, reflecting its popularity and utility among developers.*
 
-- ⭐ 9348 stars
+- ⭐ 9375 stars
 - 💻 Rust
-- 📅 Updated: 2026-01-05
+- 📅 Updated: 2026-01-06
 
-![cc-switch](2026/01-05/2026-01-05_daily-top_cc-switch.png)
+![cc-switch](2026/01-06/2026-01-06_daily-top_cc-switch.png)
 
 ### 7. [Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
 
 > 🤖 **推荐理由**  
-> *Personal_AI_Infrastructure (PAI) is an open-source framework designed to enable users to build personalized AI systems that enhance productivity and goal achievement. Key features include a modular architecture with self-contained packs for specific capabilities, a universal algorithm for progress tracking, and a scientific method-based workflow for iterative improvement. PAI's core services offer persistent memory, custom skills, and context-aware functionalities, making it adaptable to individual needs. With 3,532 stars on GitHub, PAI empowers users to create tailored AI solutions.*
+> *Personal AI Infrastructure (PAI) is an open-source framework designed for creating personalized AI systems that help individuals achieve their goals. Key features include a modular architecture with self-contained "packs" for specific capabilities, a universal goal-oriented structure based on the scientific method, and persistent memory for context-aware interactions. PAI enables users to install, customize, and iterate on AI functionalities easily, ensuring that technology serves individual needs. With over 3,590 stars on GitHub, PAI emphasizes user empowerment through tailored AI experiences.*
 
-- ⭐ 3532 stars
+- ⭐ 3590 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-05
+- 📅 Updated: 2026-01-06
 
-![Personal_AI_Infrastructure](2026/01-05/2026-01-05_daily-top_Personal_AI_Infrastructure.png)
+![Personal_AI_Infrastructure](2026/01-06/2026-01-06_daily-top_Personal_AI_Infrastructure.png)
 
 ### 8. [escrcpy](https://github.com/viarotel-org/escrcpy)
 
 > 🤖 **推荐理由**  
-> *escrcpy is an open-source project that enables users to display and control Android devices graphically through a powerful Electron interface. With 7,156 stars on GitHub, it offers intelligent control via natural-language commands, automated workflows, and multi-device management. Key features include wireless connectivity with reverse tethering support and low-latency screen mirroring. Installation is straightforward via released packages or Homebrew for macOS. Comprehensive documentation is available for getting started, device operations, and preferences, making it accessible for both users and developers.*
+> *Escrcpy is an innovative tool that allows users to display and control Android devices graphically via Electron. Key features include intelligent control through natural-language commands, automation for efficient workflow across multiple devices, and wireless connectivity with Gnirehtet support. The software provides high-performance, low-latency screen mirroring and centralized management for multi-device orchestration. With a strong community backing and extensive documentation, Escrcpy is a powerful solution for Android device management, boasting over 7,166 stars on GitHub.*
 
-- ⭐ 7156 stars
+- ⭐ 7166 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-01-05
+- 📅 Updated: 2026-01-06
 
-![escrcpy](2026/01-05/2026-01-05_daily-top_escrcpy.png)
+![escrcpy](2026/01-06/2026-01-06_daily-top_escrcpy.png)
 
 ### 9. [newsnow](https://github.com/ourongxing/newsnow)
 
 > 🤖 **推荐理由**  
-> *newsnow is a TypeScript-based project designed for elegant reading of real-time and trending news, currently supporting Chinese. Key features include a clean UI, real-time updates, GitHub OAuth login, and adaptive scraping intervals to optimize resource usage. Deployment options include Cloudflare Pages and Docker, with database support recommended for Cloudflare D1. Future enhancements aim for multi-language support, personalization, and expanded data sources. Contributions are encouraged, and a full-featured version will be available later.*
+> *newsnow is a TypeScript-based project designed for elegant reading of real-time and trending news, currently supporting Chinese. Key features include a clean UI, real-time news updates, GitHub OAuth login, and adaptive scraping to optimize resource usage. It supports deployment on platforms like Cloudflare and Vercel, along with Docker. Future enhancements include multi-language support, personalization options, and expanded data sources. The project encourages contributions and offers a detailed guide for adding new data sources.*
 
-- ⭐ 16753 stars
+- ⭐ 16809 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-05
+- 📅 Updated: 2026-01-06
 
-![newsnow](2026/01-05/2026-01-05_daily-top_newsnow.png)
+![newsnow](2026/01-06/2026-01-06_daily-top_newsnow.png)
 
 ### 10. [agents.md](https://github.com/agentsmd/agents.md)
 
 > 🤖 **推荐理由**  
-> *AGENTS.md is an open format designed to guide AI coding agents, serving as a structured README for project context and instructions. Key features include clear development environment tips, comprehensive testing instructions, and PR guidelines to streamline collaboration. The project has garnered over 14,300 stars on GitHub and is built with TypeScript. Additionally, it offers a basic Next.js website at agents.md, providing an overview and examples of its capabilities. Users can easily run the app locally with simple commands.*
+> *AGENTS.md is an open format designed to guide AI coding agents effectively. Acting as a README for agents, it provides structured context and instructions essential for project development. Key features include environment setup tips, testing instructions, and PR guidelines, ensuring seamless collaboration and code quality. The project is implemented in TypeScript and has garnered 14,326 stars on GitHub. Additionally, it includes a simple Next.js website at https://agents.md/, offering a clear overview and examples of its usage.*
 
-- ⭐ 14300 stars
+- ⭐ 14326 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-05
+- 📅 Updated: 2026-01-06
 
-![agents.md](2026/01-05/2026-01-05_daily-top_agents.md.png)
+![agents.md](2026/01-06/2026-01-06_daily-top_agents.md.png)
 
 ---
 
@@ -141,4 +141,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-05 18:43:30 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-06 02:09:31 UTC
