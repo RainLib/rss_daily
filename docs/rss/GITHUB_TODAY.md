@@ -4,11 +4,11 @@
 
 ## 📋 Overview
 
-**10** Projects | **260195** ⭐ | **24228** 🍴
+**10** Projects | **136107** ⭐ | **10528** 🍴
 
-**Top Languages:** `TypeScript` (6) · `Go` (2) · `Rust` (1)
+**Top Languages:** `TypeScript` (4) · `JavaScript` (4) · `Rust` (1)
 
-**Updated:** 2026-01-06 06:45 UTC
+**Updated:** 2026-01-06 12:58 UTC
 
 **Categories:**
 
@@ -21,113 +21,112 @@
 ### 1. [opencode](https://github.com/anomalyco/opencode)
 
 > 🤖 **Why Recommend**  
-> *OpenCode is an open-source AI coding agent designed for developers, featuring a terminal user interface (TUI) and support for multiple programming models. It includes two built-in agents: a full-access "build" agent for development and a read-only "plan" agent for code exploration. OpenCode can be installed across various platforms and supports a client/server architecture, enabling remote operation. With a focus on flexibility and customization, it integrates with various AI models and offers a strong community via Discord. Explore more at opencode.ai.*
+> *OpenCode is an open-source AI coding agent designed to enhance coding efficiency. It features two built-in agents: the "build" agent for full development access and the "plan" agent for read-only code exploration. Users can switch between agents seamlessly. OpenCode supports multiple platforms with a desktop application and offers installation via various package managers. It is provider-agnostic, enabling integration with models from various sources, and features a terminal user interface optimized for neovim users. Join the community on Discord for support and collaboration.*
 
-- ⭐ 50330 stars
+- ⭐ 50944 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-06
 
 ![opencode](2026/01-06/2026-01-06_daily-top_opencode.png)
 
-### 2. [memos](https://github.com/usememos/memos)
+### 2. [claude-mem](https://github.com/thedotmack/claude-mem)
 
 > 🤖 **Why Recommend**  
-> *Memos is an open-source, self-hosted note-taking service built with Go and React, emphasizing privacy and data control. Key features include complete data ownership, zero telemetry, full markdown support, and fast performance. Users can easily deploy Memos via Docker and enjoy a developer-friendly environment with REST and gRPC APIs. The platform offers a beautiful, mobile-responsive interface and is free forever under the MIT license. Experience Memos through a live demo or explore comprehensive documentation for installation guidance.*
+> *Claude-Mem is a powerful TypeScript plugin designed for Claude Code that enhances coding sessions by automatically capturing and compressing context with AI. Key features include persistent memory to retain knowledge across sessions, progressive disclosure for efficient memory retrieval, and a web viewer UI for real-time access. Users can perform skill-based searches, manage privacy with `<private>` tags, and utilize automatic operation without manual input. Claude-Mem supports a beta channel for experimental features, making it an essential tool for continuous coding productivity.*
 
-- ⭐ 52043 stars
-- 💻 Go
-- 📅 Updated: 2026-01-06
-
-![memos](2026/01-06/2026-01-06_daily-top_memos.png)
-
-### 3. [daytona](https://github.com/daytonaio/daytona)
-
-> 🤖 **Why Recommend**  
-> *Daytona is a secure and elastic infrastructure designed for running AI-generated code, boasting over 43,000 stars on GitHub. Key features include lightning-fast sandbox creation (sub-90ms), isolated runtime environments to safeguard infrastructure, and support for massive parallelization of AI workflows. It offers programmatic control through file, Git, LSP, and execute APIs, and ensures unlimited persistence of sandboxes. Compatible with OCI/Docker images, Daytona provides a streamlined SDK for both Python and TypeScript, empowering developers to execute code securely and efficiently.*
-
-- ⭐ 43049 stars
+- ⭐ 10840 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-06
 
-![daytona](2026/01-06/2026-01-06_daily-top_daytona.png)
+![claude-mem](2026/01-06/2026-01-06_daily-top_claude-mem.png)
 
-### 4. [seanime](https://github.com/5rahim/seanime)
+### 3. [seanime](https://github.com/5rahim/seanime)
 
 > 🤖 **Why Recommend**  
-> *Seanime is an open-source media server designed for anime and manga, featuring a cross-platform web interface and desktop app. Key features include a built-in video player with advanced subtitle support, AniList integration, custom source support, and offline mode. Users can scan libraries quickly, stream torrents directly, and enjoy transcoding for various devices. The project emphasizes legal content usage and does not host media. With a focus on user customization and accessibility, Seanime is ideal for anime enthusiasts looking to manage and stream their collections efficiently.*
+> *Seanime is an open-source media server designed for anime and manga enthusiasts, featuring a cross-platform web interface and desktop app. Key features include a built-in video player with subtitle support, complete AniList integration, and the ability to manage a local library. Users can stream content via torrents without downloading, with support for major torrent clients. Seanime also offers offline mode, customizable UI, and manga reading capabilities. It emphasizes user responsibility for obtaining media legally and includes extensive documentation and community support.*
 
-- ⭐ 2369 stars
+- ⭐ 2378 stars
 - 💻 Go
 - 📅 Updated: 2026-01-06
 
 ![seanime](2026/01-06/2026-01-06_daily-top_seanime.png)
 
-### 5. [nocodb](https://github.com/nocodb/nocodb)
+### 4. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **Why Recommend**  
-> *🔥 🔥 🔥 Open Source Airtable Alternative. popular project, actively maintained, recently updated*
+> *cc-switch is a cross-platform All-in-One assistant tool for Claude Code, Codex, and Gemini CLI, built with Rust and Tauri. It features a dual-layer SQLite + JSON architecture for data management, a redesigned UI, and support for multiple languages (English, Chinese, Japanese). Key functionalities include provider management, skills and prompts management, auto-launch on startup, and environment variable conflict detection. It offers seamless integration with various AI coding services, enhanced performance, and user-friendly configuration options, making it a valuable tool for developers.*
 
-- ⭐ 60959 stars
-- 🍴 4527 forks
-- 💻 TypeScript
-- 📅 Updated: 2026-01-06
-
-![nocodb](2026/01-06/2026-01-06_daily-top_nocodb.png)
-
-### 6. [cc-switch](https://github.com/farion1231/cc-switch)
-
-> 🤖 **Why Recommend**  
-> *cc-switch is a cross-platform desktop assistant tool for managing Claude Code, Codex, and Gemini CLI, built with Rust and Tauri. Key features include a dual-layer SQLite + JSON architecture for data management, a revamped user interface, and support for multi-language (English, Chinese, Japanese). It offers one-click provider switching, skills and prompts management, and seamless MCP server integration. With 9,424 stars on GitHub, it supports various operating systems (Windows, macOS, Linux) and includes auto-launch and cloud sync capabilities. The project is sponsored by Z.ai, AIGoCode, and DMXAPI, enhancing its functionality with reliable API services.*
-
-- ⭐ 9424 stars
+- ⭐ 9529 stars
 - 💻 Rust
 - 📅 Updated: 2026-01-06
 
 ![cc-switch](2026/01-06/2026-01-06_daily-top_cc-switch.png)
 
-### 7. [Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
+### 5. [YTPro](https://github.com/prateek-chaubey/YTPro)
 
 > 🤖 **Why Recommend**  
-> *Personal_AI_Infrastructure (PAI) is an open-source framework for creating personalized AI systems that evolve with user goals. Key features include modular "packs" for specific capabilities, a universal progress pattern (current state to desired state), and a scientific method-based workflow for effective task execution. PAI's architecture supports various platforms, enabling customizable AI assistants with persistent memory, specialized skills, and intelligent routing. With over 3,600 stars on GitHub, PAI empowers users to build tailored AI solutions that enhance productivity and personal growth.*
+> *YTPro is a YouTube client designed for older Android versions, offering features like background audio playback, video downloading, and Google Gemini for video summarization. With a minimalist design and APK size under 50KB, it includes an ad blocker, thumbnail and caption downloads, and gesture controls for volume and brightness. Users can save videos without logging in and enjoy features like Picture-in-Picture mode and dislike counts. The project has garnered 1,075 stars on GitHub, showcasing its popularity among users seeking a versatile YouTube experience.*
 
-- ⭐ 3619 stars
-- 💻 TypeScript
+- ⭐ 1075 stars
+- 💻 JavaScript
 - 📅 Updated: 2026-01-06
 
-![Personal_AI_Infrastructure](2026/01-06/2026-01-06_daily-top_Personal_AI_Infrastructure.png)
+![YTPro](2026/01-06/2026-01-06_daily-top_YTPro.png)
 
-### 8. [escrcpy](https://github.com/viarotel-org/escrcpy)
+### 6. [escrcpy](https://github.com/viarotel-org/escrcpy)
 
 > 🤖 **Why Recommend**  
-> *escrcpy is an open-source project that allows users to display and control their Android devices graphically via Electron. Key features include intelligent control with natural-language commands, automated workflows supporting parallel operations, and centralized management of multiple devices. It supports wireless connectivity with Gnirehtet reverse tethering and offers high-performance screen mirroring. With over 7,178 stars on GitHub, escrcpy is a valuable tool for developers and users looking to enhance their Android device experience.*
+> *Escrcpy is an innovative tool for displaying and controlling Android devices graphically, leveraging Electron for a seamless experience. Key features include intelligent control through natural-language commands, automated workflows across multiple devices, and efficient multi-device management. It supports wireless connectivity with Gnirehtet reverse tethering and offers high-performance, low-latency screen mirroring. With comprehensive documentation and community support, Escrcpy is a powerful solution for Android device management, boasting over 7,192 stars on GitHub.*
 
-- ⭐ 7178 stars
+- ⭐ 7192 stars
 - 💻 JavaScript
 - 📅 Updated: 2026-01-06
 
 ![escrcpy](2026/01-06/2026-01-06_daily-top_escrcpy.png)
 
-### 9. [newsnow](https://github.com/ourongxing/newsnow)
+### 7. [web-check](https://github.com/Lissy93/web-check)
 
 > 🤖 **Why Recommend**  
-> *newsnow is a TypeScript-based project designed for elegant reading of real-time and trending news, currently supporting Chinese content. Key features include a clean UI, real-time updates, GitHub OAuth login, adaptive scraping intervals, and MCP server support. The project allows for easy deployment on platforms like Cloudflare and Vercel, with options for caching and database integration, particularly with Cloudflare D1. Future plans include multi-language support and enhanced personalization options. Contributions are welcome to expand data sources and enhance functionality.*
+> *Web-Check is a powerful all-in-one OSINT tool for analyzing websites, boasting over 27,000 stars on GitHub. Built with TypeScript, it offers comprehensive insights into website security, server architecture, and technology stack. Key features include IP info, SSL chain analysis, DNS records, cookie examination, server location mapping, and performance metrics. Users can explore associated hostnames, traceroute paths, and even the environmental impact of a website. Web-Check facilitates optimization and security assessment, making it essential for web developers and security researchers alike.*
 
-- ⭐ 16863 stars
+- ⭐ 27424 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-06
 
-![newsnow](2026/01-06/2026-01-06_daily-top_newsnow.png)
+![web-check](2026/01-06/2026-01-06_daily-top_web-check.png)
 
-### 10. [agents.md](https://github.com/agentsmd/agents.md)
+### 8. [public-apis](https://github.com/marcelscruz/public-apis)
 
 > 🤖 **Why Recommend**  
-> *AGENTS.md is an open format designed to guide coding agents, serving as a README specifically tailored for AI assistance in software projects. Key features include structured sections for development environment tips, testing instructions, and pull request guidelines, ensuring consistency and clarity in project management. The project, built with TypeScript, has garnered over 14,361 stars on GitHub. Additionally, it includes a basic Next.js website for project goals and examples, enhancing accessibility for users. Visit [agents.md](https://agents.md) for more information.*
+> *The "public-apis" project is a collaborative repository featuring a curated list of over 1,000 public APIs for developers. It covers diverse categories such as Animals, Weather, Finance, Machine Learning, and more, enabling quick access to essential data and services. With 6,663 stars on GitHub, this resource facilitates API discovery for various applications, from e-commerce to social media integration. Key highlights include APIs for cryptocurrency, health data, transportation, and entertainment, making it a valuable tool for developers seeking to enhance their projects with external data.*
 
-- ⭐ 14361 stars
+- ⭐ 6663 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-01-06
+
+![public-apis](2026/01-06/2026-01-06_daily-top_public-apis.png)
+
+### 9. [claudesidian](https://github.com/heyitsnoah/claudesidian)
+
+> 🤖 **Why Recommend**  
+> *Claudesidian is an AI-powered Obsidian starter kit designed to enhance knowledge organization and productivity using Claude Code. Key features include a PARA method-based vault structure, Git integration for version control, and mobile access. It offers AI-driven functionalities such as collaborative exploration and content generation, along with optional modules for document analysis and web research. The setup wizard streamlines the initial configuration, making it easy to personalize and maintain an efficient workflow. Ideal for users seeking to leverage AI as a thinking partner.*
+
+- ⭐ 1279 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-01-06
+
+![claudesidian](2026/01-06/2026-01-06_daily-top_claudesidian.png)
+
+### 10. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+
+> 🤖 **Why Recommend**  
+> *chrome-devtools-mcp is a TypeScript project enabling coding agents like Gemini and Copilot to control and inspect live Chrome browsers. With over 18,000 stars, it acts as a Model-Context-Protocol (MCP) server, providing advanced debugging, performance insights, and reliable automation through Puppeteer. Key features include network request analysis, screenshot capture, and performance trace recording. The tool requires Node.js and a stable Chrome version, allowing seamless integration with various coding environments for enhanced development efficiency.*
+
+- ⭐ 18783 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-06
 
-![agents.md](2026/01-06/2026-01-06_daily-top_agents.md.png)
+![chrome-devtools-mcp](2026/01-06/2026-01-06_daily-top_chrome-devtools-mcp.png)
 
 ---
 
@@ -141,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-06 06:45:00 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-06 12:58:37 UTC
