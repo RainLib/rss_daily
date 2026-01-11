@@ -4,11 +4,11 @@
 
 ## 📋 Overview
 
-**10** Projects | **470725** ⭐ | **76486** 🍴
+**10** Projects | **251917** ⭐ | **21354** 🍴
 
-**Top Languages:** `TypeScript` (7) · `Go` (2) · `JavaScript` (1)
+**Top Languages:** `TypeScript` (6) · `JavaScript` (1) · `Java` (1)
 
-**Updated:** 2026-01-11 01:14 UTC
+**Updated:** 2026-01-11 12:27 UTC
 
 **Categories:**
 
@@ -21,9 +21,9 @@
 ### 1. [opencode](https://github.com/anomalyco/opencode)
 
 > 🤖 **Why Recommend**  
-> *OpenCode is an open-source AI coding agent designed for seamless development and code exploration. It features a dual-agent system, allowing users to switch between a full-access development agent and a read-only planning agent for safe code analysis. Installation is straightforward across platforms, including a desktop app in beta. OpenCode offers built-in support for various models and emphasizes a terminal user interface, catering to neovim users. With a community-driven approach and comprehensive documentation, OpenCode is ideal for developers seeking flexibility and control in their coding workflows.*
+> *OpenCode is an open-source AI coding agent designed to enhance development workflows. With over 60,000 stars, it features two main agents: a full-access agent for development and a read-only agent for code exploration. OpenCode supports multiple programming models and offers a terminal user interface (TUI), making it ideal for neovim users. Available as a desktop app for macOS, Windows, and Linux, it prioritizes flexibility in installation. The project encourages community contributions and provides extensive documentation for setup and usage. Join the community on Discord for support and collaboration.*
 
-- ⭐ 59754 stars
+- ⭐ 60692 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-11
 
@@ -32,101 +32,101 @@
 ### 2. [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
 
 > 🤖 **Why Recommend**  
-> *UI-TARS-desktop is an open-source multimodal AI agent stack that integrates advanced AI models and agent infrastructure, receiving over 22,000 stars on GitHub. Key features include natural language control powered by Vision-Language Models, precise mouse and keyboard control, and support for real-time feedback across platforms (Windows, MacOS, Browser). The application enables local and remote operations for tasks like GUI automation and browser interactions, while ensuring privacy with fully local processing. It aims to facilitate human-like task completion through seamless integration with real-world tools.*
+> *UI-TARS-desktop is an open-source multimodal AI agent stack providing a native GUI for local and remote computer operations. It features natural language control powered by advanced Vision-Language models, real-time feedback, and precise mouse and keyboard control. The application supports cross-platform use (Windows, MacOS, Browser) and includes visual recognition and screenshot capabilities. Key highlights include seamless integration with various real-world tools and a user-friendly interface, making it ideal for automating complex tasks efficiently.*
 
-- ⭐ 22319 stars
+- ⭐ 22569 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-11
 
 ![UI-TARS-desktop](2026-01-11_daily-top_UI-TARS-desktop.png)
 
-### 3. [ConvertX](https://github.com/C4illin/ConvertX)
+### 3. [twenty](https://github.com/twentyhq/twenty)
 
 > 🤖 **Why Recommend**  
-> *ConvertX is a self-hosted file converter supporting over 1000 formats, built with TypeScript, Bun, and Elysia. Key features include batch processing, password protection, and multiple user accounts. It supports a wide range of converters such as Inkscape, FFmpeg, and LibreOffice, allowing conversions for images, documents, and videos. The project is easily deployable via Docker and offers customizable settings for user management and file handling. With over 14,000 stars on GitHub, ConvertX is a robust solution for file conversion needs.*
+> *Twenty is an open-source CRM designed as a modern alternative to Salesforce, emphasizing community-driven development. Key features include customizable layouts, permissions management, workflow automation, and integration with emails and calendar events. The platform leverages TypeScript, NestJS, PostgreSQL, and React to deliver a user-friendly experience inspired by contemporary tools. With a growing ecosystem of plugins and a commitment to affordable, flexible solutions, Twenty aims to revolutionize CRM usage. Join the community on Discord and contribute to its evolution.*
 
-- ⭐ 14251 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-01-11
-
-![ConvertX](2026-01-11_daily-top_ConvertX.png)
-
-### 4. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-
-> 🤖 **Why Recommend**  
-> *chrome-devtools-mcp is a powerful TypeScript library that enables coding agents like Gemini and Copilot to control and inspect a live Chrome browser. With over 20,000 stars on GitHub, it serves as a Model-Context-Protocol (MCP) server, facilitating reliable automation, advanced debugging, and performance analysis via Chrome DevTools. Key features include performance insights recording, network request analysis, and screenshot capabilities. It seamlessly integrates with various MCP clients, supporting customizable configurations for optimized browser interactions.*
-
-- ⭐ 20058 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-01-11
-
-![chrome-devtools-mcp](2026-01-11_daily-top_chrome-devtools-mcp.png)
-
-### 5. [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-
-> 🤖 **Why Recommend**  
-> *Tailwind CSS is a utility-first CSS framework designed for rapid UI development, enabling developers to create custom user interfaces efficiently. With over 92,000 stars on GitHub, it emphasizes a flexible and responsive design approach, allowing for easy customization through utility classes. The framework is built in TypeScript and supports extensive documentation available at tailwindcss.com. Community engagement is encouraged through discussions and contributions, fostering a collaborative environment for best practices and feature enhancements.*
-
-- ⭐ 92671 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-01-11
-
-![tailwindcss](2026-01-11_daily-top_tailwindcss.png)
-
-### 6. [n8n](https://github.com/n8n-io/n8n)
-
-> 🤖 **Why Recommend**  
-> *n8n is a fair-code workflow automation platform designed for technical teams, combining the flexibility of code with no-code speed. With over 400 integrations and native AI capabilities, users can create powerful automations while retaining full data control. Key features include a visual interface, support for JavaScript/Python, self-hosting options, and enterprise-ready solutions with advanced permissions. The platform also boasts an active community offering over 900 templates and extensive documentation. n8n is self-hostable and extensible, making it ideal for diverse automation needs.*
-
-- ⭐ 167994 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-01-11
-
-![n8n](2026-01-11_daily-top_n8n.png)
-
-### 7. [twenty](https://github.com/twentyhq/twenty)
-
-> 🤖 **Why Recommend**  
-> *Twenty is a modern open-source CRM, designed as a community-driven alternative to Salesforce, with over 38,000 stars on GitHub. Key features include customizable layouts with filters, roles and permissions management, and workflow automation. It supports integration of emails, calendar events, and files. Built with TypeScript and React, it emphasizes user-friendly design inspired by tools like Notion and Airtable. The project encourages community contributions and offers extensive documentation, a roadmap, and active support via Discord and other platforms.*
-
-- ⭐ 38375 stars
+- ⭐ 38512 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-11
 
 ![twenty](2026-01-11_daily-top_twenty.png)
 
-### 8. [crush](https://github.com/charmbracelet/crush)
+### 4. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
 > 🤖 **Why Recommend**  
-> *Crush is a sophisticated AI coding assistant designed for integration with various terminal environments. Key features include multi-model support for LLMs, session-based context preservation, and LSP-enhanced functionalities, enabling seamless workflow management. The tool is extensible through Model Context Protocols (MCPs) and offers compatibility across macOS, Linux, Windows, and BSD systems. Installation is straightforward via multiple package managers. Crush empowers developers by streamlining coding tasks while maintaining flexibility and adaptability in diverse coding environments.*
+> *chrome-devtools-mcp is a TypeScript-based GitHub project that enables coding agents like Gemini and Copilot to control and inspect a live Chrome browser. With over 20,000 stars, it acts as a Model-Context-Protocol server, allowing for reliable automation, advanced debugging, and performance analysis using Chrome DevTools. Key features include detailed performance insights, network request analysis, and automation capabilities via Puppeteer. The project supports various MCP clients and offers extensive configuration options for seamless integration and testing.*
 
-- ⭐ 17433 stars
-- 💻 Go
+- ⭐ 20216 stars
+- 💻 TypeScript
 - 📅 Updated: 2026-01-11
 
-![crush](2026-01-11_daily-top_crush.png)
+![chrome-devtools-mcp](2026-01-11_daily-top_chrome-devtools-mcp.png)
 
-### 9. [awesome-copilot](https://github.com/github/awesome-copilot)
+### 5. [plane](https://github.com/makeplane/plane)
 
 > 🤖 **Why Recommend**  
-> *Awesome Copilot is a community-driven repository offering a collection of custom agents, prompts, and instructions to enhance your GitHub Copilot experience. With 16,937 stars, it includes specialized agents for various workflows, task-specific prompts for code generation, and best practice instructions tailored to file patterns. Key features include curated collections for efficient coding, an MCP server for easy installation of customizations, and support for continuous learning through community contributions. Ideal for developers seeking to optimize their coding productivity and adherence to best practices.*
+> *Plane is an open-source project management platform designed as an alternative to Jira, Linear, Monday, and ClickUp. With over 43,000 stars, it offers robust features including task management with a rich text editor, sprint tracking through Cycles, customizable workflow views, and real-time analytics. Users can choose between Plane Cloud for quick setup or self-hosting for full control. The platform encourages community engagement for suggestions and bug reporting via Discord. Explore more at plane.so.*
 
-- ⭐ 16937 stars
+- ⭐ 43306 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-01-11
+
+![plane](2026-01-11_daily-top_plane.png)
+
+### 6. [ConvertX](https://github.com/C4illin/ConvertX)
+
+> 🤖 **Why Recommend**  
+> *ConvertX is a self-hosted online file converter supporting over 1000 formats, built with TypeScript, Bun, and Elysia. Key features include multi-file processing, password protection, and support for multiple accounts. It utilizes various converters like Inkscape and FFmpeg for tasks ranging from image and document conversions to video processing. ConvertX is easily deployable via Docker, ensuring a secure and customizable environment for users. With a strong community backing and 14,413 stars on GitHub, it offers robust file conversion capabilities for diverse needs.*
+
+- ⭐ 14413 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-01-11
+
+![ConvertX](2026-01-11_daily-top_ConvertX.png)
+
+### 7. [awesome-copilot](https://github.com/github/awesome-copilot)
+
+> 🤖 **Why Recommend**  
+> *Awesome Copilot is a community-driven repository designed to enhance your GitHub Copilot experience. With over 17,000 stars, it offers specialized agents, task-specific prompts, and comprehensive instructions tailored to various workflows and coding standards. Key features include curated collections of prompts, custom agents for enhanced functionality, and a user-friendly MCP server for easy integration. This project empowers developers to boost productivity and implement best practices effectively, making it an essential toolkit for anyone using GitHub Copilot.*
+
+- ⭐ 17064 stars
 - 💻 JavaScript
 - 📅 Updated: 2026-01-11
 
 ![awesome-copilot](2026-01-11_daily-top_awesome-copilot.png)
 
-### 10. [netbird](https://github.com/netbirdio/netbird)
+### 8. [xpipe](https://github.com/xpipe-io/xpipe)
 
 > 🤖 **Why Recommend**  
-> *NetBird is an open-source project that creates secure, WireGuard®-based overlay networks for seamless device connectivity with features like Single Sign-On (SSO), Multi-Factor Authentication (MFA), and granular access controls. It simplifies network management through an Admin Web UI and supports auto peer discovery, public APIs, and private DNS. Key highlights include peer-to-peer connections, NAT traversal, and robust security measures like quantum-resistant encryption. NetBird is available for multiple platforms, including Linux, Windows, and Docker, and offers both cloud and self-hosted deployment options.*
+> *XPipe is a powerful connection hub that enables seamless access to your entire server infrastructure directly from your local desktop. It supports SSH, Docker, Kubernetes, and various virtualization platforms, allowing for easy management of remote systems without additional setup. Key features include a versatile scripting system, integrated file browser, and customizable terminal sessions. XPipe ensures data security with a cryptographically secure vault and sync capabilities. Its extensible architecture allows integration with text editors and command-line tools, making it ideal for professionals.*
 
-- ⭐ 20933 stars
+- ⭐ 13360 stars
+- 💻 Java
+- 📅 Updated: 2026-01-11
+
+![xpipe](2026-01-11_daily-top_xpipe.png)
+
+### 9. [open-meteo](https://github.com/open-meteo/open-meteo)
+
+> 🤖 **Why Recommend**  
+> *Open-Meteo is a free, open-source Weather Forecast API designed for non-commercial use, requiring no API key. It offers hourly forecasts for up to 16 days, utilizing high-resolution global and regional models with updates every hour for Europe and North America. Key features include a Historical Weather API, Marine and Air Quality APIs, and fast response times under 10 ms. Data is provided under CC BY 4.0, ensuring open access, and the source code is available under AGPLv3. Users can also run their own API using Docker, fostering community contributions and transparency.*
+
+- ⭐ 4297 stars
+- 💻 Swift
+- 📅 Updated: 2026-01-11
+
+![open-meteo](2026-01-11_daily-top_open-meteo.png)
+
+### 10. [crush](https://github.com/charmbracelet/crush)
+
+> 🤖 **Why Recommend**  
+> *Crush is a highly versatile AI coding agent designed for terminal use, integrating seamlessly with various programming workflows. Key features include support for multiple LLMs (OpenAI, Anthropic, etc.), flexible context switching, session management, and LSP-enhanced functionality. Users can extend capabilities through MCPs and utilize it across platforms like macOS, Linux, and Windows. With over 17,000 stars, Crush offers extensive configuration options, logging, and metrics tracking while prioritizing user privacy. Ideal for developers seeking to enhance productivity in coding environments.*
+
+- ⭐ 17488 stars
 - 💻 Go
 - 📅 Updated: 2026-01-11
 
-![netbird](2026-01-11_daily-top_netbird.png)
+![crush](2026-01-11_daily-top_crush.png)
 
 ---
 
@@ -140,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-11 01:14:01 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-11 12:27:15 UTC
