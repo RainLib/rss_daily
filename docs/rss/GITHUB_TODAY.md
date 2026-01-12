@@ -4,11 +4,11 @@
 
 ## 📋 Overview
 
-**10** Projects | **292353** ⭐ | **27669** 🍴
+**10** Projects | **315219** ⭐ | **31228** 🍴
 
-**Top Languages:** `TypeScript` (6) · `Java` (1) · `JavaScript` (1)
+**Top Languages:** `TypeScript` (6) · `Rust` (1) · `Swift` (1)
 
-**Updated:** 2026-01-12 01:09 UTC
+**Updated:** 2026-01-12 12:32 UTC
 
 **Categories:**
 
@@ -21,112 +21,112 @@
 ### 1. [opencode](https://github.com/anomalyco/opencode)
 
 > 🤖 **Why Recommend**  
-> *OpenCode is an open-source AI coding agent designed for efficient software development. It features two built-in agents: a full-access "build" agent for development tasks and a read-only "plan" agent for code exploration. Users can seamlessly switch between agents using the Tab key. The project is built in TypeScript and supports a variety of installation methods, including desktop applications for macOS, Windows, and Linux. OpenCode emphasizes a terminal user interface (TUI) and is provider-agnostic, allowing integration with various AI models. Join the community on Discord for support and collaboration.*
+> *OpenCode is an open-source AI coding agent built with TypeScript, designed to enhance coding productivity. It features two built-in agents: "build" for full access development and "plan" for code exploration with read-only capabilities. The project supports various installation methods, including package managers and a desktop app for macOS, Windows, and Linux. OpenCode emphasizes a terminal user interface and offers provider-agnostic model support, making it versatile for developers. Join the community on Discord for collaboration and support.*
 
-- ⭐ 61780 stars
+- ⭐ 63942 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-12
 
 ![opencode](2026/01-12/2026-01-12_daily-top_opencode.png)
 
-### 2. [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+### 2. [plane](https://github.com/makeplane/plane)
 
 > 🤖 **Why Recommend**  
-> *UI-TARS-desktop is an open-source multimodal AI agent stack that enhances desktop interaction through natural language control and advanced visual recognition. It features both local and remote operators for seamless computer and browser management. Key highlights include precise mouse and keyboard control, cross-platform support, and real-time feedback. With a focus on human-like task completion, UI-TARS integrates with various real-world tools and offers a user-friendly GUI for enhanced productivity. The project has garnered over 22,770 stars on GitHub, reflecting its popularity and utility.*
+> *Plane is an open-source project management platform that serves as an alternative to Jira, Linear, Monday, and ClickUp. It features task management with a rich text editor, cycle tracking with burn-down charts, modular organization for complex projects, customizable views, and AI-enhanced note-taking capabilities. Users can choose between Plane Cloud for quick setup or self-hosting for data control. With real-time analytics and a strong community on Discord, Plane supports teams in maintaining productivity and collaboration effectively.*
 
-- ⭐ 22770 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-01-12
-
-![UI-TARS-desktop](2026/01-12/2026-01-12_daily-top_UI-TARS-desktop.png)
-
-### 3. [twenty](https://github.com/twentyhq/twenty)
-
-> 🤖 **Why Recommend**  
-> *Twenty is an open-source CRM designed as a modern alternative to Salesforce, emphasizing community-driven development. Key features include customizable layouts, object and field management, role-based permissions, and workflow automation. It supports integration with emails, calendar events, and more. Built with TypeScript, NestJS, and React, Twenty prioritizes user experience, drawing inspiration from contemporary tools like Notion and Airtable. The project fosters collaboration through Discord and encourages contributions, making it a versatile option for businesses seeking affordable CRM solutions.*
-
-- ⭐ 38650 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-01-12
-
-![twenty](2026/01-12/2026-01-12_daily-top_twenty.png)
-
-### 4. [plane](https://github.com/makeplane/plane)
-
-> 🤖 **Why Recommend**  
-> *Plane is an open-source project management platform designed as an alternative to Jira, Linear, Monday, and ClickUp. It enables teams to manage tasks, sprints, and documentation efficiently. Key features include customizable work items, cycle tracking with burn-down charts, modular project organization, and real-time analytics. Users can choose between a managed Plane Cloud service or self-hosting options via Docker or Kubernetes. With a vibrant community and active development, Plane provides a modern solution for streamlined project workflows.*
-
-- ⭐ 43542 stars
+- ⭐ 43791 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-12
 
 ![plane](2026/01-12/2026-01-12_daily-top_plane.png)
 
-### 5. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+### 3. [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
 
 > 🤖 **Why Recommend**  
-> *chrome-devtools-mcp is a powerful TypeScript library enabling AI coding agents like Gemini and Copilot to control and inspect live Chrome browsers using a Model-Context-Protocol (MCP) server. With over 20,000 stars, it offers core features such as performance insights, advanced browser debugging, and reliable automation via Puppeteer. Users can analyze network requests, capture screenshots, and perform in-depth performance analysis. The library supports various configurations for seamless integration with multiple MCP clients, ensuring a robust development experience.*
+> *UI-TARS-desktop is an open-source multimodal AI agent stack designed for seamless interaction with advanced AI models. It offers a native GUI application that enables users to control local and remote computers using natural language commands, visual recognition, and precise mouse and keyboard actions. Key features include cross-platform support, real-time feedback, and integration with various tools for enhanced task automation. With over 23,000 stars on GitHub, it provides a user-friendly interface for both casual users and developers, making AI-driven automation accessible and efficient.*
 
-- ⭐ 20344 stars
+- ⭐ 23052 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-12
 
-![chrome-devtools-mcp](2026/01-12/2026-01-12_daily-top_chrome-devtools-mcp.png)
+![UI-TARS-desktop](2026/01-12/2026-01-12_daily-top_UI-TARS-desktop.png)
 
-### 6. [ConvertX](https://github.com/C4illin/ConvertX)
+### 4. [ConvertX](https://github.com/C4illin/ConvertX)
 
 > 🤖 **Why Recommend**  
-> *ConvertX is a self-hosted file converter that supports over 1000 formats, built with TypeScript, Bun, and Elysia. Key features include batch processing, password protection, and multi-account support. It utilizes various converters like Inkscape for vector images, FFmpeg for video, and LibreOffice for documents. The project is easily deployable via Docker, allowing users to run it locally. With 14,584 stars on GitHub, ConvertX is a robust solution for users needing versatile file conversion capabilities.*
+> *ConvertX is a self-hosted online file converter supporting over 1000 formats. Built with TypeScript, it offers features like batch processing, password protection, and multi-account support. Key converters include Inkscape for vector images, FFmpeg for video, and Calibre for e-books. Users can deploy ConvertX easily using Docker, with customizable environment variables for enhanced security and functionality. With 14,787 stars on GitHub, ConvertX is a robust solution for diverse file conversion needs, catering to both individual and professional users.*
 
-- ⭐ 14584 stars
+- ⭐ 14787 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-12
 
 ![ConvertX](2026/01-12/2026-01-12_daily-top_ConvertX.png)
 
-### 7. [awesome-copilot](https://github.com/github/awesome-copilot)
+### 5. [twenty](https://github.com/twentyhq/twenty)
 
 > 🤖 **Why Recommend**  
-> *Awesome Copilot is a community-driven repository designed to enhance your GitHub Copilot experience with specialized agents, prompts, and instructions. Key features include tailored agents for specific workflows, task-focused prompts for coding and documentation, coding standards and best practices, and curated collections of related resources. The MCP Server facilitates easy integration and installation of these customizations. With over 17,000 stars, it offers a comprehensive toolkit for developers seeking to maximize productivity and access expert guidance across various programming domains.*
+> *Twenty is an open-source CRM designed as a modern alternative to Salesforce, emphasizing community collaboration. With 38,787 stars on GitHub, it offers features such as customizable layouts, object management, role-based permissions, and workflow automation. Built using TypeScript, NestJS, and React, Twenty allows users to personalize their experience through kanban and table views, integrate emails and calendar events, and automate tasks. Join the community on Discord, contribute to ongoing development, and explore the documentation for self-hosting and local setup options.*
 
-- ⭐ 17103 stars
+- ⭐ 38787 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-01-12
+
+![twenty](2026/01-12/2026-01-12_daily-top_twenty.png)
+
+### 6. [awesome-copilot](https://github.com/github/awesome-copilot)
+
+> 🤖 **Why Recommend**  
+> *Awesome Copilot is a community-driven repository designed to enhance your GitHub Copilot experience. It features specialized agents, task-specific prompts, comprehensive instructions, and curated collections tailored for various coding scenarios. With over 17,000 stars, key offerings include custom agents for enhanced workflow, focused prompts for specific coding tasks, and best practice instructions. An MCP server simplifies the integration of these resources into your development environment. This project promotes productivity, best coding practices, and continuous learning in software development.*
+
+- ⭐ 17181 stars
 - 💻 JavaScript
 - 📅 Updated: 2026-01-12
 
 ![awesome-copilot](2026/01-12/2026-01-12_daily-top_awesome-copilot.png)
 
-### 8. [open-meteo](https://github.com/open-meteo/open-meteo)
+### 7. [open-meteo](https://github.com/open-meteo/open-meteo)
 
 > 🤖 **Why Recommend**  
-> *Open-Meteo is a free, open-source Weather Forecast API designed for non-commercial use, boasting over 4,340 stars on GitHub. It offers hourly weather forecasts for up to 16 days, utilizing high-resolution global and regional models with updates every hour for Europe and North America. Key features include a Historical Weather API, Marine Forecast API, and Air Quality API. No API key is required, ensuring easy access with fast response times. Users can run their own API using Docker, and the service emphasizes transparency by providing full source code and data attribution under CC BY 4.0.*
+> *Open-Meteo is a free, open-source Weather API designed for non-commercial use, requiring no API key. It offers hourly forecasts for up to 16 days, historical weather data spanning 80 years, and high-resolution global models. Key features include marine and air quality APIs, rapid updates every hour, and lightning-fast response times. The API is built on reputable weather models and supports CORS, ensuring privacy without ads or tracking. Users can run their own instances with Docker, and contributions are encouraged. For more details, visit open-meteo.com.*
 
-- ⭐ 4340 stars
+- ⭐ 4389 stars
 - 💻 Swift
 - 📅 Updated: 2026-01-12
 
 ![open-meteo](2026/01-12/2026-01-12_daily-top_open-meteo.png)
 
-### 9. [xpipe](https://github.com/xpipe-io/xpipe)
+### 8. [sim](https://github.com/simstudioai/sim)
 
 > 🤖 **Why Recommend**  
-> *XPipe is a powerful connection hub that enables seamless access to your entire server infrastructure from your local desktop. It supports SSH, Docker, VNC, RDP, Kubernetes, and various cloud services, allowing users to manage and organize connections effortlessly. Key features include a versatile scripting system, a file browser for remote file management, and a customizable terminal launcher. XPipe ensures data security with a cryptographically secure vault and integrates with local tools without requiring setup on remote systems, making it an essential tool for IT professionals.*
+> *Sim is an open-source platform designed for building and deploying AI agent workflows with ease. Key features include a visual workflow builder, natural language Copilot for flow generation and error correction, and integration with vector databases for tailored responses. With over 25,000 stars on GitHub, Sim supports both cloud-hosted and self-hosted deployments via Docker and NPM. The platform utilizes Next.js, PostgreSQL, and modern UI frameworks, making it versatile for developers looking to create intelligent applications quickly. Visit sim.ai for more information.*
 
-- ⭐ 13376 stars
-- 💻 Java
+- ⭐ 25495 stars
+- 💻 TypeScript
 - 📅 Updated: 2026-01-12
 
-![xpipe](2026/01-12/2026-01-12_daily-top_xpipe.png)
+![sim](2026/01-12/2026-01-12_daily-top_sim.png)
 
-### 10. [codex](https://github.com/openai/codex)
+### 9. [codex](https://github.com/openai/codex)
 
 > 🤖 **Why Recommend**  
-> *Codex is a lightweight coding agent from OpenAI, designed to run locally in your terminal. With over 55,800 stars on GitHub, it allows seamless integration into your development workflow via command-line interface (CLI). Easily installable via npm or Homebrew, Codex enhances coding efficiency by providing AI-powered assistance. It also supports integration with popular code editors like VS Code. Users can access additional functionalities by signing in with their ChatGPT account or using an API key. Comprehensive documentation and contributing guidelines are available.*
+> *Codex is a lightweight coding agent from OpenAI that operates directly in your terminal, enhancing coding efficiency. Install it globally via npm or Homebrew, and simply run `codex` to start. Key features include integration with various code editors like VS Code, and access to Codex Web for cloud-based functionality. Users can benefit from signing in with their ChatGPT account, which unlocks additional features based on their plan. The project boasts over 55,000 stars on GitHub and is built using Rust. Comprehensive documentation is available for installation and contributions.*
 
-- ⭐ 55864 stars
+- ⭐ 55943 stars
 - 💻 Rust
 - 📅 Updated: 2026-01-12
 
 ![codex](2026/01-12/2026-01-12_daily-top_codex.png)
+
+### 10. [shadPS4](https://github.com/shadps4-emu/shadPS4)
+
+> 🤖 **Why Recommend**  
+> *shadPS4 is an early PlayStation 4 emulator for Windows, Linux, and macOS, developed in C++. With over 27,000 stars on GitHub, it enables users to run PS4 titles like Bloodborne and Dark Souls Remastered. The core emulator lacks a GUI, but users can download the QtLauncher for a more user-friendly experience. Key features include firmware support, custom input mapping, and a dedicated Discord community for support and development discussions. The project is in active development, with regular updates aimed at enhancing compatibility and performance.*
+
+- ⭐ 27852 stars
+- 💻 C++
+- 📅 Updated: 2026-01-12
+
+![shadPS4](2026/01-12/2026-01-12_daily-top_shadPS4.png)
 
 ---
 
@@ -140,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-12 01:09:59 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-12 12:32:13 UTC
