@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-01-13
+# 📊 🌟 GitHub Trending Daily - 2026-01-14
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **326794** ⭐ | **28414** 🍴
+**10** Projects | **283845** ⭐ | **22619** 🍴
 
-**Top Languages:** `Rust` (4) · `TypeScript` (3) · `Go` (1)
+**Top Languages:** `Rust` (3) · `TypeScript` (3) · `Go` (2)
 
-**Updated:** 2026-01-13 12:32 UTC
+**Updated:** 2026-01-14 01:09 UTC
 
 **Categories:**
 
@@ -21,112 +21,112 @@
 ### 1. [opencode](https://github.com/anomalyco/opencode)
 
 > 🤖 **Why Recommend**  
-> *OpenCode is an open-source AI coding agent built in TypeScript, boasting over 66,000 stars. It offers two main agents: a full-access "build" agent for development and a read-only "plan" agent for code exploration. With built-in support for various AI models, OpenCode is provider-agnostic and features a terminal user interface (TUI) aimed at enhancing developer productivity. Available as a desktop app for multiple platforms, it also supports extensive customization and configuration. Join the community on Discord for support and collaboration.*
+> *OpenCode is an open-source AI coding agent designed for developers, built in TypeScript, with over 67,000 stars on GitHub. It features two built-in agents: the "build" agent for full development access and the "plan" agent for read-only code exploration. OpenCode supports various installation methods, including desktop applications for macOS, Windows, and Linux. Key highlights include being provider-agnostic, offering out-of-the-box LSP support, and a focus on terminal user interface (TUI). Join the community on Discord for collaboration and support.*
 
-- ⭐ 66096 stars
+- ⭐ 67179 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-13
+- 📅 Updated: 2026-01-14
 
-![opencode](2026/01-13/2026-01-13_daily-top_opencode.png)
+![opencode](2026/01-14/2026-01-14_daily-top_opencode.png)
 
-### 2. [memos](https://github.com/usememos/memos)
+### 2. [dioxus](https://github.com/DioxusLabs/dioxus)
 
 > 🤖 **Why Recommend**  
-> *Memos is an open-source, self-hosted note-taking service designed for privacy and data ownership. Built with Go and React, it offers lightning-fast performance and no tracking, ads, or subscription fees. Key features include Markdown support, easy deployment via Docker, full REST and gRPC APIs for developer integration, and a beautiful, responsive interface. Memos enables instant access to your notes while ensuring complete control over your data. Try the live demo or host it yourself to experience seamless knowledge management.*
+> *Dioxus is a fullstack app framework built in Rust, enabling developers to create cross-platform applications for web, desktop, and mobile from a single codebase. Key features include ergonomic state management, integrated hot-reloading, and a robust CLI for deployment. It supports server-side rendering, WebSockets, and customizable components, making it ideal for both frontend and backend development. With a focus on performance, Dioxus ensures minimal app sizes and quick iterations. Its community-driven approach and extensive documentation foster collaboration and ease of use.*
 
-- ⭐ 53786 stars
+- ⭐ 34004 stars
+- 💻 Rust
+- 📅 Updated: 2026-01-14
+
+![dioxus](2026/01-14/2026-01-14_daily-top_dioxus.png)
+
+### 3. [memos](https://github.com/usememos/memos)
+
+> 🤖 **Why Recommend**  
+> *Memos is an open-source, self-hosted note-taking service prioritizing privacy and data ownership. With no tracking, ads, or subscription fees, it offers users full control over their information. Key features include full markdown support, blazing-fast performance powered by Go and React, and simple deployment via Docker. Memos provides a clean, responsive interface, extensive REST and gRPC APIs for integration, and supports various databases. Ideal for personal notes or team wikis, Memos ensures your data remains secure and accessible on your own infrastructure.*
+
+- ⭐ 53892 stars
 - 💻 Go
-- 📅 Updated: 2026-01-13
+- 📅 Updated: 2026-01-14
 
-![memos](2026/01-13/2026-01-13_daily-top_memos.png)
-
-### 3. [claude-flow](https://github.com/ruvnet/claude-flow)
-
-> 🤖 **Why Recommend**  
-> *Claude-Flow v2.7.0 is an enterprise-grade AI orchestration platform designed for deploying intelligent multi-agent systems and coordinating workflows. Key features include 25 natural language-activated Claude Skills, AgentDB integration for 96x-164x faster semantic vector search, a hybrid memory system, and a dynamic agent architecture. The platform supports advanced hooks for automated workflows, GitHub integration, and offers a robust toolkit of 100 MCP tools. With a focus on efficiency and orchestration, Claude-Flow is ranked #1 in agent-based frameworks, with 11,870 stars on GitHub.*
-
-- ⭐ 11870 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-01-13
-
-![claude-flow](2026/01-13/2026-01-13_daily-top_claude-flow.png)
+![memos](2026/01-14/2026-01-14_daily-top_memos.png)
 
 ### 4. [vibe-kanban](https://github.com/BloopAI/vibe-kanban)
 
 > 🤖 **Why Recommend**  
-> *Vibe Kanban is a powerful tool designed to enhance productivity with AI coding agents like Claude Code and Codex. With over 15,000 stars, it enables seamless switching and orchestration of multiple coding agents, facilitating task management, work reviews, and remote project access via SSH. Key features include centralized agent configuration, parallel execution, and quick server startup. The project is built in Rust and offers comprehensive documentation, installation guides, and community support through GitHub Discussions.*
+> *Vibe Kanban is a powerful Rust-based tool designed to optimize the use of AI coding agents like Claude Code and Codex, enabling developers to enhance productivity by 10X. Key features include seamless switching between coding agents, task orchestration in parallel or sequence, easy work review, and remote project access via SSH. It centralizes configuration for multiple agents while providing real-time task tracking. With strong community support via GitHub Discussions and detailed documentation, Vibe Kanban simplifies the coding workflow for modern developers.*
 
-- ⭐ 15517 stars
+- ⭐ 15655 stars
 - 💻 Rust
-- 📅 Updated: 2026-01-13
+- 📅 Updated: 2026-01-14
 
-![vibe-kanban](2026/01-13/2026-01-13_daily-top_vibe-kanban.png)
+![vibe-kanban](2026/01-14/2026-01-14_daily-top_vibe-kanban.png)
 
-### 5. [openscreen](https://github.com/siddharthvaddem/openscreen)
+### 5. [claude-flow](https://github.com/ruvnet/claude-flow)
 
 > 🤖 **Why Recommend**  
-> *OpenScreen is a free, open-source screen recording tool designed as a straightforward alternative to Screen Studio. With features like full-screen recording, customizable manual zooms, video cropping, background options, motion blur, and annotation tools, it caters to users seeking essential functionalities without subscriptions or watermarks. OpenScreen is suitable for personal and commercial use, allowing modifications and distribution. Built with TypeScript, React, and Electron, it is currently in beta, inviting contributions to enhance its capabilities.*
+> *Claude-Flow v2.7.0 is a leading enterprise AI orchestration platform that enables the deployment of intelligent multi-agent swarms and autonomous workflows. Key features include 25 Claude Skills for natural language activation, AgentDB v1.3.9 for enhanced vector search performance (96x-164x faster), a hybrid memory system, and a comprehensive toolkit of 100 MCP tools for automation. With persistent memory, dynamic agent architecture, and seamless GitHub integration, Claude-Flow streamlines AI-powered development, making it the top choice for agent-based frameworks.*
 
-- ⭐ 5694 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-01-13
+- ⭐ 11909 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-01-14
 
-![openscreen](2026/01-13/2026-01-13_daily-top_openscreen.png)
+![claude-flow](2026/01-14/2026-01-14_daily-top_claude-flow.png)
 
 ### 6. [Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)
 
 > 🤖 **Why Recommend**  
-> *Pumpkin is a fast and efficient Minecraft server built in Rust, boasting 6,335 stars on GitHub. Key features include multi-threading for performance, compatibility with the latest Java and Bedrock versions, robust security measures, and high configurability. Users can enjoy extensive functionalities such as world loading, player management, and customizable server settings. The project supports plugin development and offers a variety of networking capabilities like encryption and packet compression. Join the active community on Discord or contribute to the ongoing development!*
+> *Pumpkin is a Rust-based Minecraft server designed for speed, efficiency, and customization, garnering over 6,300 stars. Key features include multi-threaded performance, compatibility with the latest Java and Bedrock versions, robust security measures, and extensive configurability. It supports essential server functions like world loading, player management, and entity interactions while allowing plugin development. Currently in active development, Pumpkin aims to enhance player experience while adhering to Vanilla mechanics. For more information, visit the documentation at pumpkinmc.org.*
 
-- ⭐ 6335 stars
+- ⭐ 6386 stars
 - 💻 Rust
-- 📅 Updated: 2026-01-13
+- 📅 Updated: 2026-01-14
 
-![Pumpkin](2026/01-13/2026-01-13_daily-top_Pumpkin.png)
+![Pumpkin](2026/01-14/2026-01-14_daily-top_Pumpkin.png)
 
-### 7. [plane](https://github.com/makeplane/plane)
+### 7. [openscreen](https://github.com/siddharthvaddem/openscreen)
 
 > 🤖 **Why Recommend**  
-> *Plane is an open-source project management platform designed as an alternative to Jira, Linear, Monday, and ClickUp, boasting over 43,000 stars. It offers features like efficient task management, cycles for tracking progress, customizable workflow views, and analytics for real-time insights. Users can opt for Plane Cloud for quick setup or self-host for data control. With community engagement on Discord and GitHub, Plane encourages contributions and feedback to enhance its evolving capabilities. Ideal for teams seeking organized project management without the chaos.*
+> *OpenScreen is a free, open-source screen recording tool, offering an accessible alternative to Screen Studio without subscriptions or watermarks. Key features include whole-screen or app-specific recording, customizable manual zooms, video cropping, background personalization, motion blur, annotations, and various export options. Designed for personal and commercial use, OpenScreen is user-friendly and focuses on essential functionality. Built with Electron and TypeScript, it is currently in beta, inviting contributions and feedback from the community.*
 
-- ⭐ 43952 stars
+- ⭐ 5752 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-13
+- 📅 Updated: 2026-01-14
 
-![plane](2026/01-13/2026-01-13_daily-top_plane.png)
+![openscreen](2026/01-14/2026-01-14_daily-top_openscreen.png)
 
-### 8. [dioxus](https://github.com/DioxusLabs/dioxus)
+### 8. [plane](https://github.com/makeplane/plane)
 
 > 🤖 **Why Recommend**  
-> *Dioxus is a fullstack app framework built in Rust, enabling seamless development for web, desktop, and mobile platforms from a single codebase. Key features include ergonomic state management, zero-config setup, integrated hot-reloading, and a robust CLI for bundling applications. Dioxus supports native mobile development for iOS and Android and offers first-class server-side rendering capabilities. With an active community and comprehensive documentation, Dioxus is designed for rapid iteration and deployment of lightweight applications across various environments.*
+> *Plane is an open-source project management platform designed as an alternative to Jira, Linear, Monday, and ClickUp, boasting over 44,000 stars on GitHub. It enables teams to efficiently manage tasks, sprints, and documentation. Key features include customizable work items, cycle tracking with burn-down charts, modular project organization, tailored views, and real-time analytics. Users can choose between a cloud-based solution or self-hosting options using Docker or Kubernetes. Engage with the community through Discord and GitHub discussions for support and collaboration.*
 
-- ⭐ 33942 stars
-- 💻 Rust
-- 📅 Updated: 2026-01-13
+- ⭐ 44009 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-01-14
 
-![dioxus](2026/01-13/2026-01-13_daily-top_dioxus.png)
+![plane](2026/01-14/2026-01-14_daily-top_plane.png)
 
 ### 9. [mpv](https://github.com/mpv-player/mpv)
 
 > 🤖 **Why Recommend**  
-> *mpv is a versatile command line media player, supporting a wide range of audio and video formats along with subtitles. Built in C, it boasts hardware decoding options and shader-based video rendering for enhanced playback quality. Key features include extensive customization via user scripts, detailed documentation, and active community support through GitHub and IRC. The player is compatible with modern operating systems like Linux, Windows, and macOS, and is maintained under the GPLv2 license. With over 33,000 stars on GitHub, mpv is a popular choice for media enthusiasts.*
+> *mpv is a powerful command-line media player that supports a wide range of media formats, audio/video codecs, and subtitles. With over 33,000 stars on GitHub, it emphasizes performance and flexibility, allowing users to enable hardware decoding and customize playback options. Key features include a robust API, user script support, and detailed documentation through a comprehensive wiki and manual. Developed from the MPlayer project, mpv maintains regular releases and encourages community contributions via GitHub and IRC channels.*
 
-- ⭐ 33558 stars
+- ⭐ 33566 stars
 - 💻 C
-- 📅 Updated: 2026-01-13
+- 📅 Updated: 2026-01-14
 
-![mpv](2026/01-13/2026-01-13_daily-top_mpv.png)
+![mpv](2026/01-14/2026-01-14_daily-top_mpv.png)
 
-### 10. [codex](https://github.com/openai/codex)
+### 10. [WeKnora](https://github.com/Tencent/WeKnora)
 
 > 🤖 **Why Recommend**  
-> *Codex is a lightweight coding agent from OpenAI that runs locally in your terminal, designed for seamless integration into your development workflow. With over 56,000 stars, it supports installation via npm or Homebrew and allows users to execute commands with ease. Codex can be enhanced by signing into a ChatGPT account, leveraging features from various subscription plans. For IDE integration, users can install Codex in popular editors like VS Code. Comprehensive documentation and contribution guidelines are available in the repository.*
+> *WeKnora is a powerful LLM-driven framework for deep document understanding and semantic retrieval, utilizing the Retrieval-Augmented Generation (RAG) paradigm. It features a modular architecture with multimodal preprocessing, intelligent retrieval, and context-aware Q&A capabilities. Key highlights include Agent Mode for enhanced summary reporting, support for various knowledge base types, flexible document parsing (PDF, Word, images), and integration with web search tools. WeKnora is designed for applications in enterprise knowledge management, academic research, technical support, and more, ensuring secure and efficient data handling.*
 
-- ⭐ 56044 stars
-- 💻 Rust
-- 📅 Updated: 2026-01-13
+- ⭐ 11493 stars
+- 💻 Go
+- 📅 Updated: 2026-01-14
 
-![codex](2026/01-13/2026-01-13_daily-top_codex.png)
+![WeKnora](2026/01-14/2026-01-14_daily-top_WeKnora.png)
 
 ---
 
@@ -140,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-13 12:32:07 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-14 01:09:09 UTC
