@@ -8,14 +8,14 @@
       "full_name": "anomalyco/opencode",
       "description": "The open source coding agent.",
       "html_url": "https://github.com/anomalyco/opencode",
-      "stars": 67179,
-      "forks": 5807,
+      "stars": 68446,
+      "forks": 5922,
       "language": "TypeScript",
       "topics": [],
       "created_at": "2025-04-30T20:08:00Z",
-      "updated_at": "2026-01-14T01:07:24Z",
-      "pushed_at": "2026-01-14T01:01:58Z",
-      "open_issues": 2746,
+      "updated_at": "2026-01-14T12:29:38Z",
+      "pushed_at": "2026-01-14T12:05:19Z",
+      "open_issues": 2834,
       "owner": {
         "login": "anomalyco",
         "avatar_url": "https://avatars.githubusercontent.com/u/66570915?v=4"
@@ -29,7 +29,7 @@
       "full_name": "DioxusLabs/dioxus",
       "description": "Fullstack app framework for web, desktop, and mobile.",
       "html_url": "https://github.com/DioxusLabs/dioxus",
-      "stars": 34004,
+      "stars": 34059,
       "forks": 1494,
       "language": "Rust",
       "topics": [
@@ -48,9 +48,9 @@
         "web"
       ],
       "created_at": "2021-01-15T01:57:26Z",
-      "updated_at": "2026-01-14T00:48:04Z",
+      "updated_at": "2026-01-14T12:27:44Z",
       "pushed_at": "2026-01-12T15:34:46Z",
-      "open_issues": 609,
+      "open_issues": 608,
       "owner": {
         "login": "DioxusLabs",
         "avatar_url": "https://avatars.githubusercontent.com/u/79236386?v=4"
@@ -64,8 +64,8 @@
       "full_name": "usememos/memos",
       "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
       "html_url": "https://github.com/usememos/memos",
-      "stars": 53892,
-      "forks": 3867,
+      "stars": 54026,
+      "forks": 3881,
       "language": "Go",
       "topics": [
         "docker",
@@ -82,9 +82,9 @@
         "sqlite"
       ],
       "created_at": "2021-12-08T15:30:18Z",
-      "updated_at": "2026-01-14T01:03:54Z",
+      "updated_at": "2026-01-14T12:24:55Z",
       "pushed_at": "2026-01-13T15:19:48Z",
-      "open_issues": 50,
+      "open_issues": 53,
       "owner": {
         "login": "usememos",
         "avatar_url": "https://avatars.githubusercontent.com/u/95764151?v=4"
@@ -93,13 +93,54 @@
       "stars_today": 411
     },
     {
+      "id": 820087727,
+      "name": "onlook",
+      "full_name": "onlook-dev/onlook",
+      "description": "The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI",
+      "html_url": "https://github.com/onlook-dev/onlook",
+      "stars": 24289,
+      "forks": 1787,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "cursor",
+        "cursor-ai",
+        "design",
+        "design-to-code",
+        "drizzle",
+        "editor",
+        "figma",
+        "frontend",
+        "ide",
+        "low-code",
+        "nextjs",
+        "react",
+        "supabase",
+        "tailwindcss",
+        "typescript",
+        "ui",
+        "vibe-coding",
+        "vibecoding"
+      ],
+      "created_at": "2024-06-25T19:16:02Z",
+      "updated_at": "2026-01-14T12:21:07Z",
+      "pushed_at": "2025-12-29T02:49:53Z",
+      "open_issues": 352,
+      "owner": {
+        "login": "onlook-dev",
+        "avatar_url": "https://avatars.githubusercontent.com/u/157326433?v=4"
+      },
+      "readme": "<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->\n\n<div align=\"center\">\n<img width=\"800\" alt=\"header image\" src=\"assets/web-preview.png\">\n<h3 align=\"center\">Onlook</h3>\n  <p align=\"center\">\n    Cursor for Designers\n    <br />\n    <a href=\"https://docs.onlook.com\"><strong>Explore the docs »</strong></a>\n    <br />\n  </p>\n  <p align=\"center\">\n    👨‍💻👩‍💻👨‍💻\n    <a href=\"https://www.ycombinator.com/companies/onlook/jobs/e4gHv1n-founding-engineer-fullstack\">We're hiring engineers in SF!</a>\n    👩‍💻👨‍💻👩‍💻\n  </p>\n    <br />\n    <a href=\"https://youtu.be/RSX_3EaO5eU?feature=shared\">View Demo</a>\n    ·\n    <a href=\"https://github.com/onlook-dev/onlook/issues/new?labels=bug&template=bug-report---.md\">Report Bug</a>\n    ·\n    <a href=\"https://github.com/onlook-dev/onlook/issues/new?labels=enhancement&template=feature-request---.md\">Request Feature</a>\n  </p>\n  <!-- PROJECT SHIELDS -->\n<!--\n*** I'm using markdown \"reference style\" links for readability.\n*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).\n*** See the bottom of this document for the declaration of the reference variables\n*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.\n*** https://www.markdownguide.org/basic-syntax/#reference-style-links\n-->\n<!-- [![Contributors][contributors-shield]][contributors-url]\n[![Forks][forks-shield]][forks-url]\n[![Stargazers][stars-shield]][stars-url]\n[![Issues][issues-shield]][issues-url]\n[![Apache License][license-shield]][license-url] -->\n\n[![Discord][discord-shield]][discord-url]\n[![LinkedIn][linkedin-shield]][linkedin-url]\n[![Twitter][twitter-shield]][twitter-url]\n\n[中文](https://www.readme-i18n.com/onlook-dev/onlook?lang=zh) |\n[Español](https://www.readme-i18n.com/onlook-dev/onlook?lang=es) |\n[Deutsch](https://www.readme-i18n.com/onlook-dev/onlook?lang=de) |\n[français](https://www.readme-i18n.com/onlook-dev/onlook?lang=fr) |\n[Português](https://www.readme-i18n.com/onlook-dev/onlook?lang=pt) |\n[Русский](https://www.readme-i18n.com/onlook-dev/onlook?lang=ru) |\n[日本語](https://www.readme-i18n.com/onlook-dev/onlook?lang=ja) |\n[한국어](https://www.readme-i18n.com/onlook-dev/onlook?lang=ko)\n\n</div>\n\n# An Open-Source, Visual-First Code Editor\n\nCraft websites, prototypes, and designs with AI in Next.js + TailwindCSS. Make\nedits directly in the browser DOM with a visual editor. Design in realtime with\ncode. An open-source alternative to Bolt.new, Lovable, V0, Replit Agent, Figma\nMake, Webflow, etc.\n\n### 🚧 🚧 🚧 Onlook is still under development 🚧 🚧 🚧\n\nWe're actively looking for contributors to help make Onlook for Web an\nincredible prompt-to-build experience. Check the\n[open issues](https://github.com/onlook-dev/onlook/issues) for a full list of\nproposed features (and known issues), and join our\n[Discord](https://discord.gg/hERDfFZCsH) to collaborate with hundreds of other\nbuilders.\n\n## What you can do with Onlook:\n\n- [x] Create Next.js app in seconds\n  - [x] Start from text or image\n  - [x] Use prebuilt templates\n  - [ ] Import from Figma\n  - [ ] Import from GitHub repo\n  - [ ] Make a PR to a GitHub repo\n- [x] Visually edit your app\n  - [x] Use Figma-like UI\n  - [x] Preview your app in real-time\n  - [x] Manage brand assets and tokens\n  - [x] Create and navigate to Pages\n  - [x] Browse layers\n  - [x] Manage project Images\n  - [x] Detect and use Components – _Previously in\n        [Onlook Desktop](https://github.com/onlook-dev/desktop)_\n  - [ ] Drag-and-drop Components Panel\n  - [x] Use Branching to experiment with designs\n- [x] Development Tools\n  - [x] Real-time code editor\n  - [x] Save and restore from checkpoints\n  - [x] Run commands via CLI\n  - [x] Connect with app marketplace\n- [x] Deploy your app in seconds\n  - [x] Generate sharable links\n  - [x] Link your custom domain    \n- [ ] Collaborate with your team\n  - [x] Real-time editing\n  - [ ] Leave comments\n- [ ] Advanced AI capabilities\n  - [x] Queue multiple messages at once\n  - [ ] Use Images as references and as assets in a project\n  - [ ] Setup and use MCPs in projects\n  - [ ] Allow Onlook to use itself as a toolcall for branch creation and iteration\n- [ ] Advanced project support\n  - [ ] Support non-NextJS projects\n  - [ ] Support non-Tailwind projects\n\n![Onlook-GitHub-Example](https://github.com/user-attachments/assets/642de37a-72cc-4056-8eb7-8eb42714cdc4)\n\n## Getting Started\n\nUse our [hosted app](https://onlook.com) or\n[run locally](https://docs.onlook.com/developers/running-locally).\n\n### Usage\n\nOnlook will run on any Next.js + TailwindCSS project, import your project into\nOnlook or start from scratch within the editor.\n\nUse the AI chat to create or edit a project you're working on. At any time, you\ncan always right-click an element to open up the exact location of the element\nin code.\n\n<img width=\"600\" alt=\"image\" src=\"https://github.com/user-attachments/assets/4ad9f411-b172-4430-81ef-650f4f314666\" />\n\n<br>\n\nDraw-in new divs and re-arrange them within their parent containers by\ndragging-and-dropping.\n\n<img width=\"600\" alt=\"image\" src=\"assets/insert-div.png\">\n\n<br>\n\nPreview the code side-by-side with your site design.\n\n<img width=\"600\" alt=\"image\" src=\"assets/code-connect.png\">\n\n<br>\n\nUse Onlook's editor toolbar to adjust Tailwind styles, directly manipulate\nobjects, and experiment with layouts.\n\n<img width=\"600\" alt=\"image\" src=\"assets/text-styling.png\" />\n\n## Documentation\n\nFor full documentation, visit [docs.onlook.com](https://docs.onlook.com)\n\nTo see how to Contribute, visit\n[Contributing to Onlook](https://docs.onlook.com/developers) in our docs.\n\n## How it works\n\n<img width=\"676\" alt=\"architecture\" src=\"assets/architecture.png\">\n\n1. When you create an app, we load the code into a web container\n2. The container runs and serves the code\n3. Our editor receives the preview link and displays it in an iFrame\n4. Our editor reads and indexes the code from the container\n5. We instrument the code in order to map elements to their place in code\n6. When the element is edited, we edit the element in our iFrame, then in code\n7. Our AI chat also has code access and tools to understand and edit the code\n\nThis architecture can theoretically scale to any language or framework that\ndisplays DOM elements declaratively (e.g. jsx/tsx/html). We are focused on\nmaking it work well with Next.js and TailwindCSS for now.\n\nFor a full walkthrough, check out our\n[Architecture Docs](https://docs.onlook.com/developers/architecture).\n\n### Our Tech Stack\n\n#### Front-end\n\n- [Next.js](https://nextjs.org/) - Full stack\n- [TailwindCSS](https://tailwindcss.com/) - Styling\n- [tRPC](https://trpc.io/) - Server interface\n\n#### Database\n\n- [Supabase](https://supabase.com/) - Auth, Database, Storage\n- [Drizzle](https://orm.drizzle.team/) - ORM\n\n#### AI\n\n- [AI SDK](https://ai-sdk.dev/) - LLM client\n- [OpenRouter](https://openrouter.ai/) - LLM model provider\n- [Morph Fast Apply](https://morphllm.com) - Fast apply model provider\n- [Relace](https://relace.ai) - Fast apply model provider\n\n#### Sandbox and hosting\n\n- [CodeSandboxSDK](https://codesandbox.io/docs/sdk) - Dev sandbox\n- [Freestyle](https://www.freestyle.sh/) - Hosting\n\n#### Runtime\n\n- [Bun](https://bun.sh/) - Monorepo, runtime, bundler\n- [Docker](https://www.docker.com/) - Container management\n\n## Contributing\n\n![image](https://github.com/user-attachments/assets/ecc94303-df23-46ae-87dc-66b040396e0b)\n\nIf you have a suggestion that would make this better, please fork the repo and\ncreate a pull request. You can also\n[open issues](https://github.com/onlook-dev/onlook/issues).\n\nSee the [CONTRIBUTING.md](CONTRIBUTING.md) for instructions and code of conduct.\n\n#### Contributors\n\n<a href=\"https://github.com/onlook-dev/onlook/graphs/contributors\">\n  <img src=\"https://contrib.rocks/image?repo=onlook-dev/onlook\" />\n</a>\n\n## Contact\n\n![image](https://github.com/user-attachments/assets/60684b68-1925-4550-8efd-51a1509fc953)\n\n- Team: [Discord](https://discord.gg/hERDfFZCsH) -\n  [Twitter](https://twitter.com/onlookdev) -\n  [LinkedIn](https://www.linkedin.com/company/onlook-dev/) -\n  [Email](mailto:contact@onlook.com)\n- Project:\n  [https://github.com/onlook-dev/onlook](https://github.com/onlook-dev/onlook)\n- Website: [https://onlook.com](https://onlook.com)\n\n## License\n\nDistributed under the Apache 2.0 License. See [LICENSE.md](LICENSE.md) for more\ninformation.\n\n<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->\n\n[contributors-shield]: https://img.shields.io/github/contributors/onlook-dev/studio.svg?style=for-the-badge\n[contributors-url]: https://github.com/onlook-dev/onlook/graphs/contributors\n[forks-shield]: https://img.shields.io/github/forks/onlook-dev/studio.svg?style=for-the-badge\n[forks-url]: https://github.com/onlook-dev/onlook/network/members\n[stars-shield]: https://img.shields.io/github/stars/onlook-dev/studio.svg?style=for-the-badge\n[stars-url]: https://github.com/onlook-dev/onlook/stargazers\n[issues-shield]: https://img.shields.io/github/issues/onlook-dev/studio.svg?style=for-the-badge\n[issues-url]: https://github.com/onlook-dev/onlook/issues\n[license-shield]: https://img.shields.io/github/license/onlook-dev/studio.svg?style=for-the-badge\n[license-url]: https://github.com/onlook-dev/onlook/blob/master/LICENSE.txt\n[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?logo=linkedin&colorB=555\n[linkedin-url]: https://www.linkedin.com/company/onlook-dev\n[twitter-shield]: https://img.shields.io/badge/-Twitter-black?logo=x&colorB=555\n[twitter-url]: https://x.com/onlookdev\n[discord-shield]: https://img.shields.io/badge/-Discord-black?logo=discord&colorB=555\n[discord-url]: https://discord.gg/hERDfFZCsH\n[React.js]: https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB\n[React-url]: https://reactjs.org/\n[TailwindCSS]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white\n[Tailwind-url]: https://tailwindcss.com/\n[Electron.js]: https://img.shields.io/badge/Electron-191970?logo=Electron&logoColor=white\n[Electron-url]: https://www.electronjs.org/\n[Vite.js]: https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white\n[Vite-url]: https://vitejs.dev/\n[product-screenshot]: assets/brand.png\n[weave-shield]: https://img.shields.io/endpoint?url=https%3A%2F%2Fapp.workweave.ai%2Fapi%2Frepository%2Fbadge%2Forg_pWcXBHJo3Li2Te2Y4WkCPA33%2F820087727&cacheSeconds=3600&labelColor=#131313\n[weave-url]: https://app.workweave.ai/reports/repository/org_pWcXBHJo3Li2Te2Y4WkCPA33/820087727\n",
+      "stars_today": 362
+    },
+    {
       "id": 1002125012,
       "name": "vibe-kanban",
       "full_name": "BloopAI/vibe-kanban",
       "description": "Get 10X more out of Claude Code, Codex or any coding agent",
       "html_url": "https://github.com/BloopAI/vibe-kanban",
-      "stars": 15655,
-      "forks": 1456,
+      "stars": 15892,
+      "forks": 1470,
       "language": "Rust",
       "topics": [
         "agent",
@@ -109,9 +150,9 @@
         "task-manager"
       ],
       "created_at": "2025-06-14T19:10:21Z",
-      "updated_at": "2026-01-14T01:06:49Z",
-      "pushed_at": "2026-01-13T18:45:52Z",
-      "open_issues": 243,
+      "updated_at": "2026-01-14T12:26:26Z",
+      "pushed_at": "2026-01-14T12:13:21Z",
+      "open_issues": 240,
       "owner": {
         "login": "BloopAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/75376775?v=4"
@@ -125,8 +166,8 @@
       "full_name": "ruvnet/claude-flow",
       "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.",
       "html_url": "https://github.com/ruvnet/claude-flow",
-      "stars": 11909,
-      "forks": 1501,
+      "stars": 11941,
+      "forks": 1503,
       "language": "JavaScript",
       "topics": [
         "agentic-ai",
@@ -151,8 +192,8 @@
         "swarm-intelligence"
       ],
       "created_at": "2025-06-02T21:24:20Z",
-      "updated_at": "2026-01-14T01:03:51Z",
-      "pushed_at": "2026-01-14T00:23:20Z",
+      "updated_at": "2026-01-14T11:52:29Z",
+      "pushed_at": "2026-01-14T03:42:48Z",
       "open_issues": 338,
       "owner": {
         "login": "ruvnet",
@@ -162,13 +203,47 @@
       "stars_today": 350
     },
     {
+      "id": 167694194,
+      "name": "frigate",
+      "full_name": "blakeblackshear/frigate",
+      "description": "NVR with realtime local object detection for IP cameras",
+      "html_url": "https://github.com/blakeblackshear/frigate",
+      "stars": 29144,
+      "forks": 2720,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "camera",
+        "google-coral",
+        "home-assistant",
+        "home-automation",
+        "homeautomation",
+        "mqtt",
+        "nvr",
+        "object-detection",
+        "realtime",
+        "rtsp",
+        "tensorflow"
+      ],
+      "created_at": "2019-01-26T13:52:38Z",
+      "updated_at": "2026-01-14T12:29:16Z",
+      "pushed_at": "2026-01-13T20:57:00Z",
+      "open_issues": 152,
+      "owner": {
+        "login": "blakeblackshear",
+        "avatar_url": "https://avatars.githubusercontent.com/u/569905?v=4"
+      },
+      "readme": "<p align=\"center\">\n  <img align=\"center\" alt=\"logo\" src=\"docs/static/img/branding/frigate.png\">\n</p>\n\n# Frigate NVR™ - Realtime Object Detection for IP Cameras\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n\n<a href=\"https://hosted.weblate.org/engage/frigate-nvr/\">\n<img src=\"https://hosted.weblate.org/widget/frigate-nvr/language-badge.svg\" alt=\"Translation status\" />\n</a>\n\n\\[English\\] | [简体中文](https://github.com/blakeblackshear/frigate/blob/dev/README_CN.md)\n\nA complete and local NVR designed for [Home Assistant](https://www.home-assistant.io) with AI object detection. Uses OpenCV and Tensorflow to perform realtime object detection locally for IP cameras.\n\nUse of a GPU or AI accelerator is highly recommended. AI accelerators will outperform even the best CPUs with very little overhead. See Frigate's supported [object detectors](https://docs.frigate.video/configuration/object_detectors/).\n\n- Tight integration with Home Assistant via a [custom component](https://github.com/blakeblackshear/frigate-hass-integration)\n- Designed to minimize resource use and maximize performance by only looking for objects when and where it is necessary\n- Leverages multiprocessing heavily with an emphasis on realtime over processing every frame\n- Uses a very low overhead motion detection to determine where to run object detection\n- Object detection with TensorFlow runs in separate processes for maximum FPS\n- Communicates over MQTT for easy integration into other systems\n- Records video with retention settings based on detected objects\n- 24/7 recording\n- Re-streaming via RTSP to reduce the number of connections to your camera\n- WebRTC & MSE support for low-latency live view\n\n## Documentation\n\nView the documentation at https://docs.frigate.video\n\n## Donations\n\nIf you would like to make a donation to support development, please use [Github Sponsors](https://github.com/sponsors/blakeblackshear).\n\n## License\n\nThis project is licensed under the **MIT License**.\n\n- **Code:** The source code, configuration files, and documentation in this repository are available under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as long as you include the original copyright notice.\n- **Trademarks:** The \"Frigate\" name, the \"Frigate NVR\" brand, and the Frigate logo are **trademarks of Frigate, Inc.** and are **not** covered by the MIT License.\n\nPlease see our [Trademark Policy](TRADEMARK.md) for details on acceptable use of our brand assets.\n\n## Screenshots\n\n### Live dashboard\n\n<div>\n<img width=\"800\" alt=\"Live dashboard\" src=\"https://github.com/blakeblackshear/frigate/assets/569905/5e713cb9-9db5-41dc-947a-6937c3bc376e\">\n</div>\n\n### Streamlined review workflow\n\n<div>\n<img width=\"800\" alt=\"Streamlined review workflow\" src=\"https://github.com/blakeblackshear/frigate/assets/569905/6fed96e8-3b18-40e5-9ddc-31e6f3c9f2ff\">\n</div>\n\n### Multi-camera scrubbing\n\n<div>\n<img width=\"800\" alt=\"Multi-camera scrubbing\" src=\"https://github.com/blakeblackshear/frigate/assets/569905/d6788a15-0eeb-4427-a8d4-80b93cae3d74\">\n</div>\n\n### Built-in mask and zone editor\n\n<div>\n<img width=\"800\" alt=\"Built-in mask and zone editor\" src=\"https://github.com/blakeblackshear/frigate/assets/569905/d7885fc3-bfe6-452f-b7d0-d957cb3e31f5\">\n</div>\n\n## Translations\n\nWe use [Weblate](https://hosted.weblate.org/projects/frigate-nvr/) to support language translations. Contributions are always welcome.\n\n<a href=\"https://hosted.weblate.org/engage/frigate-nvr/\">\n<img src=\"https://hosted.weblate.org/widget/frigate-nvr/multi-auto.svg\" alt=\"Translation status\" />\n</a>\n\n---\n\n**Copyright © 2026 Frigate, Inc.**\n",
+      "stars_today": 337
+    },
+    {
       "id": 834966974,
       "name": "Pumpkin",
       "full_name": "Pumpkin-MC/Pumpkin",
       "description": "Empowering everyone to host fast and efficient Minecraft servers.",
       "html_url": "https://github.com/Pumpkin-MC/Pumpkin",
-      "stars": 6386,
-      "forks": 372,
+      "stars": 6401,
+      "forks": 373,
       "language": "Rust",
       "topics": [
         "docker",
@@ -183,9 +258,9 @@
         "server"
       ],
       "created_at": "2024-07-28T21:07:38Z",
-      "updated_at": "2026-01-14T00:30:42Z",
+      "updated_at": "2026-01-14T10:53:13Z",
       "pushed_at": "2026-01-13T22:50:40Z",
-      "open_issues": 153,
+      "open_issues": 154,
       "owner": {
         "login": "Pumpkin-MC",
         "avatar_url": "https://avatars.githubusercontent.com/u/193089026?v=4"
@@ -199,8 +274,8 @@
       "full_name": "siddharthvaddem/openscreen",
       "description": "Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. ",
       "html_url": "https://github.com/siddharthvaddem/openscreen",
-      "stars": 5752,
-      "forks": 352,
+      "stars": 5795,
+      "forks": 354,
       "language": "TypeScript",
       "topics": [
         "electron",
@@ -210,9 +285,9 @@
         "screen-recorder"
       ],
       "created_at": "2025-10-10T05:36:55Z",
-      "updated_at": "2026-01-14T01:07:30Z",
+      "updated_at": "2026-01-14T12:24:04Z",
       "pushed_at": "2026-01-11T18:27:18Z",
-      "open_issues": 21,
+      "open_issues": 20,
       "owner": {
         "login": "siddharthvaddem",
         "avatar_url": "https://avatars.githubusercontent.com/u/70214527?v=4"
@@ -226,8 +301,8 @@
       "full_name": "makeplane/plane",
       "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
       "html_url": "https://github.com/makeplane/plane",
-      "stars": 44009,
-      "forks": 3313,
+      "stars": 44058,
+      "forks": 3316,
       "language": "TypeScript",
       "topics": [
         "boards",
@@ -252,9 +327,9 @@
         "work-management"
       ],
       "created_at": "2022-11-19T12:55:01Z",
-      "updated_at": "2026-01-14T00:14:05Z",
+      "updated_at": "2026-01-14T12:24:18Z",
       "pushed_at": "2026-01-13T14:53:51Z",
-      "open_issues": 631,
+      "open_issues": 633,
       "owner": {
         "login": "makeplane",
         "avatar_url": "https://avatars.githubusercontent.com/u/115727700?v=4"
@@ -268,7 +343,7 @@
       "full_name": "mpv-player/mpv",
       "description": "🎥 Command line media player",
       "html_url": "https://github.com/mpv-player/mpv",
-      "stars": 33566,
+      "stars": 33577,
       "forks": 3195,
       "language": "C",
       "topics": [
@@ -281,9 +356,9 @@
         "video"
       ],
       "created_at": "2012-10-13T08:08:44Z",
-      "updated_at": "2026-01-14T00:56:26Z",
+      "updated_at": "2026-01-14T10:29:28Z",
       "pushed_at": "2026-01-14T00:56:18Z",
-      "open_issues": 1068,
+      "open_issues": 1070,
       "owner": {
         "login": "mpv-player",
         "avatar_url": "https://avatars.githubusercontent.com/u/2550273?v=4"
@@ -297,8 +372,8 @@
       "full_name": "Tencent/WeKnora",
       "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
       "html_url": "https://github.com/Tencent/WeKnora",
-      "stars": 11493,
-      "forks": 1262,
+      "stars": 11584,
+      "forks": 1269,
       "language": "Go",
       "topics": [
         "agent",
@@ -323,9 +398,9 @@
         "vector-search"
       ],
       "created_at": "2025-07-22T08:01:23Z",
-      "updated_at": "2026-01-14T00:57:03Z",
-      "pushed_at": "2026-01-13T12:55:16Z",
-      "open_issues": 80,
+      "updated_at": "2026-01-14T12:21:37Z",
+      "pushed_at": "2026-01-14T11:39:35Z",
+      "open_issues": 81,
       "owner": {
         "login": "Tencent",
         "avatar_url": "https://avatars.githubusercontent.com/u/18461506?v=4"
@@ -339,14 +414,14 @@
       "full_name": "openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
       "html_url": "https://github.com/openai/codex",
-      "stars": 56072,
-      "forks": 7214,
+      "stars": 56112,
+      "forks": 7215,
       "language": "Rust",
       "topics": [],
       "created_at": "2025-04-13T05:37:54Z",
-      "updated_at": "2026-01-14T01:01:40Z",
-      "pushed_at": "2026-01-14T01:06:53Z",
-      "open_issues": 884,
+      "updated_at": "2026-01-14T12:23:15Z",
+      "pushed_at": "2026-01-14T11:13:48Z",
+      "open_issues": 838,
       "owner": {
         "login": "openai",
         "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
@@ -360,8 +435,8 @@
       "full_name": "simstudioai/sim",
       "description": "Open-source platform to build and deploy AI agent workflows.",
       "html_url": "https://github.com/simstudioai/sim",
-      "stars": 25656,
-      "forks": 3191,
+      "stars": 25674,
+      "forks": 3193,
       "language": "TypeScript",
       "topics": [
         "agent-workflow",
@@ -384,9 +459,9 @@
         "typescript"
       ],
       "created_at": "2025-01-05T22:47:49Z",
-      "updated_at": "2026-01-14T01:07:03Z",
-      "pushed_at": "2026-01-14T01:03:02Z",
-      "open_issues": 150,
+      "updated_at": "2026-01-14T12:08:04Z",
+      "pushed_at": "2026-01-14T08:25:54Z",
+      "open_issues": 149,
       "owner": {
         "login": "simstudioai",
         "avatar_url": "https://avatars.githubusercontent.com/u/199344406?v=4"
@@ -400,8 +475,8 @@
       "full_name": "zed-industries/zed",
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "html_url": "https://github.com/zed-industries/zed",
-      "stars": 73228,
-      "forks": 6607,
+      "stars": 73283,
+      "forks": 6612,
       "language": "Rust",
       "topics": [
         "gpui",
@@ -410,9 +485,9 @@
         "zed"
       ],
       "created_at": "2021-02-20T03:01:06Z",
-      "updated_at": "2026-01-14T00:46:34Z",
-      "pushed_at": "2026-01-14T00:35:50Z",
-      "open_issues": 3311,
+      "updated_at": "2026-01-14T12:21:38Z",
+      "pushed_at": "2026-01-14T12:27:41Z",
+      "open_issues": 3314,
       "owner": {
         "login": "zed-industries",
         "avatar_url": "https://avatars.githubusercontent.com/u/79345384?v=4"
@@ -426,8 +501,8 @@
       "full_name": "edoardottt/cariddi",
       "description": "Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more",
       "html_url": "https://github.com/edoardottt/cariddi",
-      "stars": 3203,
-      "forks": 282,
+      "stars": 3212,
+      "forks": 284,
       "language": "Go",
       "topics": [
         "bugbounty",
@@ -452,7 +527,7 @@
         "security-tools"
       ],
       "created_at": "2021-04-27T19:54:43Z",
-      "updated_at": "2026-01-14T01:06:23Z",
+      "updated_at": "2026-01-14T12:05:36Z",
       "pushed_at": "2026-01-11T10:52:32Z",
       "open_issues": 11,
       "owner": {
@@ -468,8 +543,8 @@
       "full_name": "C4illin/ConvertX",
       "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
       "html_url": "https://github.com/C4illin/ConvertX",
-      "stars": 14911,
-      "forks": 797,
+      "stars": 14935,
+      "forks": 800,
       "language": "TypeScript",
       "topics": [
         "bun",
@@ -487,9 +562,9 @@
         "typescript"
       ],
       "created_at": "2024-04-07T16:21:39Z",
-      "updated_at": "2026-01-14T00:54:59Z",
+      "updated_at": "2026-01-14T11:28:01Z",
       "pushed_at": "2026-01-13T20:47:26Z",
-      "open_issues": 79,
+      "open_issues": 80,
       "owner": {
         "login": "C4illin",
         "avatar_url": "https://avatars.githubusercontent.com/u/20753603?v=4"
@@ -503,8 +578,8 @@
       "full_name": "louislam/uptime-kuma",
       "description": "A fancy self-hosted monitoring tool",
       "html_url": "https://github.com/louislam/uptime-kuma",
-      "stars": 81304,
-      "forks": 7250,
+      "stars": 81335,
+      "forks": 7257,
       "language": "JavaScript",
       "topics": [
         "docker",
@@ -521,9 +596,9 @@
         "websocket"
       ],
       "created_at": "2021-07-03T01:02:42Z",
-      "updated_at": "2026-01-14T00:49:57Z",
-      "pushed_at": "2026-01-13T12:20:00Z",
-      "open_issues": 712,
+      "updated_at": "2026-01-14T12:20:14Z",
+      "pushed_at": "2026-01-14T11:44:36Z",
+      "open_issues": 709,
       "owner": {
         "login": "louislam",
         "avatar_url": "https://avatars.githubusercontent.com/u/1336778?v=4"
@@ -537,8 +612,8 @@
       "full_name": "dani-garcia/vaultwarden",
       "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "html_url": "https://github.com/dani-garcia/vaultwarden",
-      "stars": 53434,
-      "forks": 2473,
+      "stars": 53461,
+      "forks": 2475,
       "language": "Rust",
       "topics": [
         "bitwarden",
@@ -549,9 +624,9 @@
         "vaultwarden"
       ],
       "created_at": "2018-02-17T22:40:20Z",
-      "updated_at": "2026-01-14T00:55:42Z",
-      "pushed_at": "2026-01-09T18:22:58Z",
-      "open_issues": 33,
+      "updated_at": "2026-01-14T12:11:48Z",
+      "pushed_at": "2026-01-14T12:11:43Z",
+      "open_issues": 31,
       "owner": {
         "login": "dani-garcia",
         "avatar_url": "https://avatars.githubusercontent.com/u/725423?v=4"
@@ -565,8 +640,8 @@
       "full_name": "open-meteo/open-meteo",
       "description": "Free Weather Forecast API for non-commercial use",
       "html_url": "https://github.com/open-meteo/open-meteo",
-      "stars": 4477,
-      "forks": 291,
+      "stars": 4487,
+      "forks": 292,
       "language": "Swift",
       "topics": [
         "weather",
@@ -574,9 +649,9 @@
         "weather-forecast"
       ],
       "created_at": "2021-06-24T09:48:38Z",
-      "updated_at": "2026-01-13T23:32:29Z",
+      "updated_at": "2026-01-14T12:17:50Z",
       "pushed_at": "2026-01-13T21:00:28Z",
-      "open_issues": 162,
+      "open_issues": 161,
       "owner": {
         "login": "open-meteo",
         "avatar_url": "https://avatars.githubusercontent.com/u/86407831?v=4"
@@ -590,8 +665,8 @@
       "full_name": "CherryHQ/cherry-studio",
       "description": "AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "stars": 37719,
-      "forks": 3479,
+      "stars": 37758,
+      "forks": 3481,
       "language": "TypeScript",
       "topics": [
         "ai-agent",
@@ -603,9 +678,9 @@
         "code-agent"
       ],
       "created_at": "2024-05-24T01:56:26Z",
-      "updated_at": "2026-01-14T00:35:32Z",
-      "pushed_at": "2026-01-13T23:09:27Z",
-      "open_issues": 642,
+      "updated_at": "2026-01-14T11:49:48Z",
+      "pushed_at": "2026-01-14T11:14:46Z",
+      "open_issues": 653,
       "owner": {
         "login": "CherryHQ",
         "avatar_url": "https://avatars.githubusercontent.com/u/187777663?v=4"
@@ -614,54 +689,13 @@
       "stars_today": 62
     },
     {
-      "id": 820087727,
-      "name": "onlook",
-      "full_name": "onlook-dev/onlook",
-      "description": "The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI",
-      "html_url": "https://github.com/onlook-dev/onlook",
-      "stars": 24098,
-      "forks": 1779,
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "cursor",
-        "cursor-ai",
-        "design",
-        "design-to-code",
-        "drizzle",
-        "editor",
-        "figma",
-        "frontend",
-        "ide",
-        "low-code",
-        "nextjs",
-        "react",
-        "supabase",
-        "tailwindcss",
-        "typescript",
-        "ui",
-        "vibe-coding",
-        "vibecoding"
-      ],
-      "created_at": "2024-06-25T19:16:02Z",
-      "updated_at": "2026-01-14T01:05:08Z",
-      "pushed_at": "2025-12-29T02:49:53Z",
-      "open_issues": 350,
-      "owner": {
-        "login": "onlook-dev",
-        "avatar_url": "https://avatars.githubusercontent.com/u/157326433?v=4"
-      },
-      "readme": "<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->\n\n<div align=\"center\">\n<img width=\"800\" alt=\"header image\" src=\"assets/web-preview.png\">\n<h3 align=\"center\">Onlook</h3>\n  <p align=\"center\">\n    Cursor for Designers\n    <br />\n    <a href=\"https://docs.onlook.com\"><strong>Explore the docs »</strong></a>\n    <br />\n  </p>\n  <p align=\"center\">\n    👨‍💻👩‍💻👨‍💻\n    <a href=\"https://www.ycombinator.com/companies/onlook/jobs/e4gHv1n-founding-engineer-fullstack\">We're hiring engineers in SF!</a>\n    👩‍💻👨‍💻👩‍💻\n  </p>\n    <br />\n    <a href=\"https://youtu.be/RSX_3EaO5eU?feature=shared\">View Demo</a>\n    ·\n    <a href=\"https://github.com/onlook-dev/onlook/issues/new?labels=bug&template=bug-report---.md\">Report Bug</a>\n    ·\n    <a href=\"https://github.com/onlook-dev/onlook/issues/new?labels=enhancement&template=feature-request---.md\">Request Feature</a>\n  </p>\n  <!-- PROJECT SHIELDS -->\n<!--\n*** I'm using markdown \"reference style\" links for readability.\n*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).\n*** See the bottom of this document for the declaration of the reference variables\n*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.\n*** https://www.markdownguide.org/basic-syntax/#reference-style-links\n-->\n<!-- [![Contributors][contributors-shield]][contributors-url]\n[![Forks][forks-shield]][forks-url]\n[![Stargazers][stars-shield]][stars-url]\n[![Issues][issues-shield]][issues-url]\n[![Apache License][license-shield]][license-url] -->\n\n[![Discord][discord-shield]][discord-url]\n[![LinkedIn][linkedin-shield]][linkedin-url]\n[![Twitter][twitter-shield]][twitter-url]\n\n[中文](https://www.readme-i18n.com/onlook-dev/onlook?lang=zh) |\n[Español](https://www.readme-i18n.com/onlook-dev/onlook?lang=es) |\n[Deutsch](https://www.readme-i18n.com/onlook-dev/onlook?lang=de) |\n[français](https://www.readme-i18n.com/onlook-dev/onlook?lang=fr) |\n[Português](https://www.readme-i18n.com/onlook-dev/onlook?lang=pt) |\n[Русский](https://www.readme-i18n.com/onlook-dev/onlook?lang=ru) |\n[日本語](https://www.readme-i18n.com/onlook-dev/onlook?lang=ja) |\n[한국어](https://www.readme-i18n.com/onlook-dev/onlook?lang=ko)\n\n</div>\n\n# An Open-Source, Visual-First Code Editor\n\nCraft websites, prototypes, and designs with AI in Next.js + TailwindCSS. Make\nedits directly in the browser DOM with a visual editor. Design in realtime with\ncode. An open-source alternative to Bolt.new, Lovable, V0, Replit Agent, Figma\nMake, Webflow, etc.\n\n### 🚧 🚧 🚧 Onlook is still under development 🚧 🚧 🚧\n\nWe're actively looking for contributors to help make Onlook for Web an\nincredible prompt-to-build experience. Check the\n[open issues](https://github.com/onlook-dev/onlook/issues) for a full list of\nproposed features (and known issues), and join our\n[Discord](https://discord.gg/hERDfFZCsH) to collaborate with hundreds of other\nbuilders.\n\n## What you can do with Onlook:\n\n- [x] Create Next.js app in seconds\n  - [x] Start from text or image\n  - [x] Use prebuilt templates\n  - [ ] Import from Figma\n  - [ ] Import from GitHub repo\n  - [ ] Make a PR to a GitHub repo\n- [x] Visually edit your app\n  - [x] Use Figma-like UI\n  - [x] Preview your app in real-time\n  - [x] Manage brand assets and tokens\n  - [x] Create and navigate to Pages\n  - [x] Browse layers\n  - [x] Manage project Images\n  - [x] Detect and use Components – _Previously in\n        [Onlook Desktop](https://github.com/onlook-dev/desktop)_\n  - [ ] Drag-and-drop Components Panel\n  - [x] Use Branching to experiment with designs\n- [x] Development Tools\n  - [x] Real-time code editor\n  - [x] Save and restore from checkpoints\n  - [x] Run commands via CLI\n  - [x] Connect with app marketplace\n- [x] Deploy your app in seconds\n  - [x] Generate sharable links\n  - [x] Link your custom domain    \n- [ ] Collaborate with your team\n  - [x] Real-time editing\n  - [ ] Leave comments\n- [ ] Advanced AI capabilities\n  - [x] Queue multiple messages at once\n  - [ ] Use Images as references and as assets in a project\n  - [ ] Setup and use MCPs in projects\n  - [ ] Allow Onlook to use itself as a toolcall for branch creation and iteration\n- [ ] Advanced project support\n  - [ ] Support non-NextJS projects\n  - [ ] Support non-Tailwind projects\n\n![Onlook-GitHub-Example](https://github.com/user-attachments/assets/642de37a-72cc-4056-8eb7-8eb42714cdc4)\n\n## Getting Started\n\nUse our [hosted app](https://onlook.com) or\n[run locally](https://docs.onlook.com/developers/running-locally).\n\n### Usage\n\nOnlook will run on any Next.js + TailwindCSS project, import your project into\nOnlook or start from scratch within the editor.\n\nUse the AI chat to create or edit a project you're working on. At any time, you\ncan always right-click an element to open up the exact location of the element\nin code.\n\n<img width=\"600\" alt=\"image\" src=\"https://github.com/user-attachments/assets/4ad9f411-b172-4430-81ef-650f4f314666\" />\n\n<br>\n\nDraw-in new divs and re-arrange them within their parent containers by\ndragging-and-dropping.\n\n<img width=\"600\" alt=\"image\" src=\"assets/insert-div.png\">\n\n<br>\n\nPreview the code side-by-side with your site design.\n\n<img width=\"600\" alt=\"image\" src=\"assets/code-connect.png\">\n\n<br>\n\nUse Onlook's editor toolbar to adjust Tailwind styles, directly manipulate\nobjects, and experiment with layouts.\n\n<img width=\"600\" alt=\"image\" src=\"assets/text-styling.png\" />\n\n## Documentation\n\nFor full documentation, visit [docs.onlook.com](https://docs.onlook.com)\n\nTo see how to Contribute, visit\n[Contributing to Onlook](https://docs.onlook.com/developers) in our docs.\n\n## How it works\n\n<img width=\"676\" alt=\"architecture\" src=\"assets/architecture.png\">\n\n1. When you create an app, we load the code into a web container\n2. The container runs and serves the code\n3. Our editor receives the preview link and displays it in an iFrame\n4. Our editor reads and indexes the code from the container\n5. We instrument the code in order to map elements to their place in code\n6. When the element is edited, we edit the element in our iFrame, then in code\n7. Our AI chat also has code access and tools to understand and edit the code\n\nThis architecture can theoretically scale to any language or framework that\ndisplays DOM elements declaratively (e.g. jsx/tsx/html). We are focused on\nmaking it work well with Next.js and TailwindCSS for now.\n\nFor a full walkthrough, check out our\n[Architecture Docs](https://docs.onlook.com/developers/architecture).\n\n### Our Tech Stack\n\n#### Front-end\n\n- [Next.js](https://nextjs.org/) - Full stack\n- [TailwindCSS](https://tailwindcss.com/) - Styling\n- [tRPC](https://trpc.io/) - Server interface\n\n#### Database\n\n- [Supabase](https://supabase.com/) - Auth, Database, Storage\n- [Drizzle](https://orm.drizzle.team/) - ORM\n\n#### AI\n\n- [AI SDK](https://ai-sdk.dev/) - LLM client\n- [OpenRouter](https://openrouter.ai/) - LLM model provider\n- [Morph Fast Apply](https://morphllm.com) - Fast apply model provider\n- [Relace](https://relace.ai) - Fast apply model provider\n\n#### Sandbox and hosting\n\n- [CodeSandboxSDK](https://codesandbox.io/docs/sdk) - Dev sandbox\n- [Freestyle](https://www.freestyle.sh/) - Hosting\n\n#### Runtime\n\n- [Bun](https://bun.sh/) - Monorepo, runtime, bundler\n- [Docker](https://www.docker.com/) - Container management\n\n## Contributing\n\n![image](https://github.com/user-attachments/assets/ecc94303-df23-46ae-87dc-66b040396e0b)\n\nIf you have a suggestion that would make this better, please fork the repo and\ncreate a pull request. You can also\n[open issues](https://github.com/onlook-dev/onlook/issues).\n\nSee the [CONTRIBUTING.md](CONTRIBUTING.md) for instructions and code of conduct.\n\n#### Contributors\n\n<a href=\"https://github.com/onlook-dev/onlook/graphs/contributors\">\n  <img src=\"https://contrib.rocks/image?repo=onlook-dev/onlook\" />\n</a>\n\n## Contact\n\n![image](https://github.com/user-attachments/assets/60684b68-1925-4550-8efd-51a1509fc953)\n\n- Team: [Discord](https://discord.gg/hERDfFZCsH) -\n  [Twitter](https://twitter.com/onlookdev) -\n  [LinkedIn](https://www.linkedin.com/company/onlook-dev/) -\n  [Email](mailto:contact@onlook.com)\n- Project:\n  [https://github.com/onlook-dev/onlook](https://github.com/onlook-dev/onlook)\n- Website: [https://onlook.com](https://onlook.com)\n\n## License\n\nDistributed under the Apache 2.0 License. See [LICENSE.md](LICENSE.md) for more\ninformation.\n\n<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->\n\n[contributors-shield]: https://img.shields.io/github/contributors/onlook-dev/studio.svg?style=for-the-badge\n[contributors-url]: https://github.com/onlook-dev/onlook/graphs/contributors\n[forks-shield]: https://img.shields.io/github/forks/onlook-dev/studio.svg?style=for-the-badge\n[forks-url]: https://github.com/onlook-dev/onlook/network/members\n[stars-shield]: https://img.shields.io/github/stars/onlook-dev/studio.svg?style=for-the-badge\n[stars-url]: https://github.com/onlook-dev/onlook/stargazers\n[issues-shield]: https://img.shields.io/github/issues/onlook-dev/studio.svg?style=for-the-badge\n[issues-url]: https://github.com/onlook-dev/onlook/issues\n[license-shield]: https://img.shields.io/github/license/onlook-dev/studio.svg?style=for-the-badge\n[license-url]: https://github.com/onlook-dev/onlook/blob/master/LICENSE.txt\n[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?logo=linkedin&colorB=555\n[linkedin-url]: https://www.linkedin.com/company/onlook-dev\n[twitter-shield]: https://img.shields.io/badge/-Twitter-black?logo=x&colorB=555\n[twitter-url]: https://x.com/onlookdev\n[discord-shield]: https://img.shields.io/badge/-Discord-black?logo=discord&colorB=555\n[discord-url]: https://discord.gg/hERDfFZCsH\n[React.js]: https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB\n[React-url]: https://reactjs.org/\n[TailwindCSS]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white\n[Tailwind-url]: https://tailwindcss.com/\n[Electron.js]: https://img.shields.io/badge/Electron-191970?logo=Electron&logoColor=white\n[Electron-url]: https://www.electronjs.org/\n[Vite.js]: https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white\n[Vite-url]: https://vitejs.dev/\n[product-screenshot]: assets/brand.png\n[weave-shield]: https://img.shields.io/endpoint?url=https%3A%2F%2Fapp.workweave.ai%2Fapi%2Frepository%2Fbadge%2Forg_pWcXBHJo3Li2Te2Y4WkCPA33%2F820087727&cacheSeconds=3600&labelColor=#131313\n[weave-url]: https://app.workweave.ai/reports/repository/org_pWcXBHJo3Li2Te2Y4WkCPA33/820087727\n",
-      "stars_today": 54
-    },
-    {
       "id": 784181462,
       "name": "Perplexica",
       "full_name": "ItzCrazyKns/Perplexica",
       "description": "Perplexica is an AI-powered answering engine. It is an Open source alternative to Perplexity AI",
       "html_url": "https://github.com/ItzCrazyKns/Perplexica",
-      "stars": 28176,
-      "forks": 2965,
+      "stars": 28199,
+      "forks": 2969,
       "language": "TypeScript",
       "topics": [
         "ai-search-engine",
@@ -676,7 +710,7 @@
         "searxng-copilot"
       ],
       "created_at": "2024-04-09T10:51:32Z",
-      "updated_at": "2026-01-14T01:07:27Z",
+      "updated_at": "2026-01-14T12:29:48Z",
       "pushed_at": "2026-01-10T17:33:58Z",
       "open_issues": 214,
       "owner": {
@@ -687,47 +721,13 @@
       "stars_today": 51
     },
     {
-      "id": 167694194,
-      "name": "frigate",
-      "full_name": "blakeblackshear/frigate",
-      "description": "NVR with realtime local object detection for IP cameras",
-      "html_url": "https://github.com/blakeblackshear/frigate",
-      "stars": 28960,
-      "forks": 2706,
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "camera",
-        "google-coral",
-        "home-assistant",
-        "home-automation",
-        "homeautomation",
-        "mqtt",
-        "nvr",
-        "object-detection",
-        "realtime",
-        "rtsp",
-        "tensorflow"
-      ],
-      "created_at": "2019-01-26T13:52:38Z",
-      "updated_at": "2026-01-14T01:06:56Z",
-      "pushed_at": "2026-01-13T20:57:00Z",
-      "open_issues": 150,
-      "owner": {
-        "login": "blakeblackshear",
-        "avatar_url": "https://avatars.githubusercontent.com/u/569905?v=4"
-      },
-      "readme": "<p align=\"center\">\n  <img align=\"center\" alt=\"logo\" src=\"docs/static/img/branding/frigate.png\">\n</p>\n\n# Frigate NVR™ - Realtime Object Detection for IP Cameras\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n\n<a href=\"https://hosted.weblate.org/engage/frigate-nvr/\">\n<img src=\"https://hosted.weblate.org/widget/frigate-nvr/language-badge.svg\" alt=\"Translation status\" />\n</a>\n\n\\[English\\] | [简体中文](https://github.com/blakeblackshear/frigate/blob/dev/README_CN.md)\n\nA complete and local NVR designed for [Home Assistant](https://www.home-assistant.io) with AI object detection. Uses OpenCV and Tensorflow to perform realtime object detection locally for IP cameras.\n\nUse of a GPU or AI accelerator is highly recommended. AI accelerators will outperform even the best CPUs with very little overhead. See Frigate's supported [object detectors](https://docs.frigate.video/configuration/object_detectors/).\n\n- Tight integration with Home Assistant via a [custom component](https://github.com/blakeblackshear/frigate-hass-integration)\n- Designed to minimize resource use and maximize performance by only looking for objects when and where it is necessary\n- Leverages multiprocessing heavily with an emphasis on realtime over processing every frame\n- Uses a very low overhead motion detection to determine where to run object detection\n- Object detection with TensorFlow runs in separate processes for maximum FPS\n- Communicates over MQTT for easy integration into other systems\n- Records video with retention settings based on detected objects\n- 24/7 recording\n- Re-streaming via RTSP to reduce the number of connections to your camera\n- WebRTC & MSE support for low-latency live view\n\n## Documentation\n\nView the documentation at https://docs.frigate.video\n\n## Donations\n\nIf you would like to make a donation to support development, please use [Github Sponsors](https://github.com/sponsors/blakeblackshear).\n\n## License\n\nThis project is licensed under the **MIT License**.\n\n- **Code:** The source code, configuration files, and documentation in this repository are available under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as long as you include the original copyright notice.\n- **Trademarks:** The \"Frigate\" name, the \"Frigate NVR\" brand, and the Frigate logo are **trademarks of Frigate, Inc.** and are **not** covered by the MIT License.\n\nPlease see our [Trademark Policy](TRADEMARK.md) for details on acceptable use of our brand assets.\n\n## Screenshots\n\n### Live dashboard\n\n<div>\n<img width=\"800\" alt=\"Live dashboard\" src=\"https://github.com/blakeblackshear/frigate/assets/569905/5e713cb9-9db5-41dc-947a-6937c3bc376e\">\n</div>\n\n### Streamlined review workflow\n\n<div>\n<img width=\"800\" alt=\"Streamlined review workflow\" src=\"https://github.com/blakeblackshear/frigate/assets/569905/6fed96e8-3b18-40e5-9ddc-31e6f3c9f2ff\">\n</div>\n\n### Multi-camera scrubbing\n\n<div>\n<img width=\"800\" alt=\"Multi-camera scrubbing\" src=\"https://github.com/blakeblackshear/frigate/assets/569905/d6788a15-0eeb-4427-a8d4-80b93cae3d74\">\n</div>\n\n### Built-in mask and zone editor\n\n<div>\n<img width=\"800\" alt=\"Built-in mask and zone editor\" src=\"https://github.com/blakeblackshear/frigate/assets/569905/d7885fc3-bfe6-452f-b7d0-d957cb3e31f5\">\n</div>\n\n## Translations\n\nWe use [Weblate](https://hosted.weblate.org/projects/frigate-nvr/) to support language translations. Contributions are always welcome.\n\n<a href=\"https://hosted.weblate.org/engage/frigate-nvr/\">\n<img src=\"https://hosted.weblate.org/widget/frigate-nvr/multi-auto.svg\" alt=\"Translation status\" />\n</a>\n\n---\n\n**Copyright © 2026 Frigate, Inc.**\n",
-      "stars_today": 51
-    },
-    {
       "id": 566931318,
       "name": "live",
       "full_name": "fanmingming/live",
       "description": "✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕",
       "html_url": "https://github.com/fanmingming/live",
-      "stars": 27266,
-      "forks": 4131,
+      "stars": 27291,
+      "forks": 4134,
       "language": "JavaScript",
       "topics": [
         "china",
@@ -746,9 +746,9 @@
         "workers"
       ],
       "created_at": "2022-11-16T18:03:31Z",
-      "updated_at": "2026-01-14T00:50:47Z",
-      "pushed_at": "2026-01-14T00:43:34Z",
-      "open_issues": 28,
+      "updated_at": "2026-01-14T12:28:12Z",
+      "pushed_at": "2026-01-14T12:28:07Z",
+      "open_issues": 29,
       "owner": {
         "login": "fanmingming",
         "avatar_url": "https://avatars.githubusercontent.com/u/4993993?v=4"
@@ -762,7 +762,7 @@
       "full_name": "VictoriaMetrics/VictoriaLogs",
       "description": "Fast and easy to use database for logs, which can efficiently handle terabytes of logs",
       "html_url": "https://github.com/VictoriaMetrics/VictoriaLogs",
-      "stars": 1165,
+      "stars": 1176,
       "forks": 79,
       "language": "Go",
       "topics": [
@@ -776,9 +776,9 @@
         "siem"
       ],
       "created_at": "2025-07-06T22:56:52Z",
-      "updated_at": "2026-01-13T23:56:20Z",
-      "pushed_at": "2026-01-13T16:11:54Z",
-      "open_issues": 160,
+      "updated_at": "2026-01-14T10:08:49Z",
+      "pushed_at": "2026-01-14T11:44:28Z",
+      "open_issues": 158,
       "owner": {
         "login": "VictoriaMetrics",
         "avatar_url": "https://avatars.githubusercontent.com/u/43720803?v=4"
@@ -792,8 +792,8 @@
       "full_name": "henrygd/beszel",
       "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
       "html_url": "https://github.com/henrygd/beszel",
-      "stars": 18602,
-      "forks": 593,
+      "stars": 18614,
+      "forks": 597,
       "language": "Go",
       "topics": [
         "homelab",
@@ -801,9 +801,9 @@
         "self-hosted"
       ],
       "created_at": "2024-07-07T21:36:28Z",
-      "updated_at": "2026-01-14T00:52:55Z",
+      "updated_at": "2026-01-14T12:12:59Z",
       "pushed_at": "2026-01-13T22:24:57Z",
-      "open_issues": 385,
+      "open_issues": 389,
       "owner": {
         "login": "henrygd",
         "avatar_url": "https://avatars.githubusercontent.com/u/8519632?v=4"
@@ -818,14 +818,14 @@
       "description": "Your handy, infinite, brainstorming tool! The project has now moved to KDE Invent.",
       "html_url": "https://github.com/Prayag2/drawy",
       "stars": 861,
-      "forks": 25,
+      "forks": 27,
       "language": "C++",
       "topics": [
         "drawing",
         "whiteboard"
       ],
       "created_at": "2025-01-08T18:59:32Z",
-      "updated_at": "2026-01-14T00:21:02Z",
+      "updated_at": "2026-01-14T10:12:13Z",
       "pushed_at": "2025-12-25T08:31:44Z",
       "open_issues": 29,
       "owner": {
@@ -841,8 +841,8 @@
       "full_name": "jj-vcs/jj",
       "description": "A Git-compatible VCS that is both simple and powerful",
       "html_url": "https://github.com/jj-vcs/jj",
-      "stars": 24700,
-      "forks": 881,
+      "stars": 24728,
+      "forks": 883,
       "language": "Rust",
       "topics": [
         "cli",
@@ -853,9 +853,9 @@
         "vcs"
       ],
       "created_at": "2020-12-18T04:05:27Z",
-      "updated_at": "2026-01-14T01:06:33Z",
-      "pushed_at": "2026-01-14T00:58:50Z",
-      "open_issues": 978,
+      "updated_at": "2026-01-14T12:00:53Z",
+      "pushed_at": "2026-01-14T09:52:21Z",
+      "open_issues": 979,
       "owner": {
         "login": "jj-vcs",
         "avatar_url": "https://avatars.githubusercontent.com/u/166203655?v=4"
@@ -869,8 +869,8 @@
       "full_name": "tisfeng/Easydict",
       "description": "一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text. ",
       "html_url": "https://github.com/tisfeng/Easydict",
-      "stars": 11780,
-      "forks": 577,
+      "stars": 11794,
+      "forks": 579,
       "language": "Swift",
       "topics": [
         "app",
@@ -890,9 +890,9 @@
         "youdao"
       ],
       "created_at": "2022-11-15T12:41:53Z",
-      "updated_at": "2026-01-13T23:20:35Z",
+      "updated_at": "2026-01-14T12:12:42Z",
       "pushed_at": "2026-01-11T16:31:39Z",
-      "open_issues": 119,
+      "open_issues": 120,
       "owner": {
         "login": "tisfeng",
         "avatar_url": "https://avatars.githubusercontent.com/u/25194972?v=4"
@@ -906,8 +906,8 @@
       "full_name": "j178/prek",
       "description": "⚡ Better `pre-commit`, re-engineered in Rust",
       "html_url": "https://github.com/j178/prek",
-      "stars": 3260,
-      "forks": 102,
+      "stars": 3351,
+      "forks": 104,
       "language": "Rust",
       "topics": [
         "git",
@@ -915,14 +915,14 @@
         "pre-commit"
       ],
       "created_at": "2024-10-07T08:21:29Z",
-      "updated_at": "2026-01-14T00:28:05Z",
-      "pushed_at": "2026-01-13T15:50:20Z",
-      "open_issues": 71,
+      "updated_at": "2026-01-14T12:08:23Z",
+      "pushed_at": "2026-01-14T10:27:09Z",
+      "open_issues": 72,
       "owner": {
         "login": "j178",
         "avatar_url": "https://avatars.githubusercontent.com/u/10510431?v=4"
       },
-      "readme": "<div align=\"center\">\n\n<h1>\n  <img width=\"180\" alt=\"prek\" src=\"https://raw.githubusercontent.com/j178/prek/master/docs/assets/logo.webp\" />\n  <br/>prek\n</h1>\n\n[![prek](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/j178/prek/master/docs/assets/badge-v0.json)](https://github.com/j178/prek)\n[![codecov](https://codecov.io/github/j178/prek/graph/badge.svg?token=MP6TY24F43)](https://codecov.io/github/j178/prek)\n[![GitHub Downloads](https://img.shields.io/github/downloads/j178/prek/total?logo=github)](https://github.com/j178/prek/releases)\n[![PyPI Downloads](https://img.shields.io/pypi/dm/prek?logo=python)](https://pepy.tech/projects/prek)\n[![Discord](https://img.shields.io/discord/1403581202102878289?logo=discord)](https://discord.gg/3NRJUqJz86)\n\n</div>\n\n<!-- description:start -->\n[pre-commit](https://pre-commit.com/) is a framework to run hooks written in many languages, and it manages the\nlanguage toolchain and dependencies for running the hooks.\n\n*prek* is a reimagined version of pre-commit, built in Rust.\nIt is designed to be a faster, dependency-free and drop-in alternative for it,\nwhile also providing some additional long-requested features.\n<!-- description:end -->\n\n> [!NOTE]\n> Although prek is pretty new, it’s already powering real‑world projects like [Apache Airflow](https://github.com/apache/airflow), [FastAPI](https://github.com/fastapi/fastapi), and more projects are picking it up—see [Who is using prek?](#who-is-using-prek). If you’re looking for an alternative to `pre-commit`, please give it a try—we’d love your feedback!\n>\n> Please note that some subcommands and languages are still missing for full drop‑in parity with `pre-commit`. Track the remaining gaps here: [TODO](https://prek.j178.dev/todo/).\n\n<!-- features:start -->\n## Features\n\n- 🚀 A single binary with no dependencies, does not require Python or any other runtime.\n- ⚡ [Faster](https://prek.j178.dev/benchmark/) than `pre-commit` and more efficient in disk space usage.\n- 🔄 Fully compatible with the original pre-commit configurations and hooks.\n- 🏗️ Built-in support for monorepos (i.e. [workspace mode](https://prek.j178.dev/workspace/)).\n- 🐍 Integration with [`uv`](https://github.com/astral-sh/uv) for managing Python virtual environments and dependencies.\n- 🛠️ Improved toolchain installations for Python, Node.js, Go, Rust and Ruby, shared between hooks.\n- 📦 [Built-in](https://prek.j178.dev/builtin/) Rust-native implementation of some common hooks.\n<!-- features:end -->\n\n## Table of contents\n\n- [Installation](#installation)\n- [Quick start](#quick-start)\n- [Why prek?](#why-prek)\n- [Who is using prek?](#who-is-using-prek)\n- [Acknowledgements](#acknowledgements)\n\n## Installation\n\n<details>\n<summary>Standalone installer</summary>\n\nprek provides a standalone installer script to download and install the tool,\n\nOn Linux and macOS:\n\n<!-- linux-standalone-install:start -->\n```bash\ncurl --proto '=https' --tlsv1.2 -LsSf https://github.com/j178/prek/releases/download/v0.2.28/prek-installer.sh | sh\n```\n<!-- linux-standalone-install:end -->\n\nOn Windows:\n\n<!-- windows-standalone-install:start -->\n```powershell\npowershell -ExecutionPolicy ByPass -c \"irm https://github.com/j178/prek/releases/download/v0.2.28/prek-installer.ps1 | iex\"\n```\n<!-- windows-standalone-install:end -->\n\n</details>\n\n<details>\n<summary>PyPI</summary>\n\n<!-- pypi-install:start -->\nprek is published as Python binary wheel to PyPI, you can install it using `pip`, `uv` (recommended), or `pipx`:\n\n```bash\n# Using uv (recommended)\nuv tool install prek\n\n# Using uvx (install and run in one command)\nuvx prek\n\n# Adding prek to the project dev-dependencies\nuv add --dev prek\n\n# Using pip\npip install prek\n\n# Using pipx\npipx install prek\n```\n<!-- pypi-install:end -->\n\n</details>\n\n<details>\n<summary>Homebrew</summary>\n\n<!-- homebrew-install:start -->\n```bash\nbrew install prek\n```\n<!-- homebrew-install:end -->\n\n</details>\n\n<details>\n<summary>mise</summary>\n\n<!-- mise-install:start -->\nTo use prek with [mise](https://mise.jdx.dev) ([v2025.8.11](https://github.com/jdx/mise/releases/tag/v2025.8.11) or later):\n\n```bash\nmise use prek\n```\n<!-- mise-install:end -->\n\n</details>\n\n<details>\n<summary>Cargo binstall</summary>\n\n<!-- cargo-binstall:start -->\nInstall pre-compiled binaries from GitHub using [cargo-binstall](https://github.com/cargo-bins/cargo-binstall):\n\n```bash\ncargo binstall prek\n```\n<!-- cargo-binstall:end -->\n\n</details>\n\n<details>\n<summary>Cargo</summary>\n\n<!-- cargo-install:start -->\nBuild from source using Cargo (Rust 1.89+ is required):\n\n```bash\ncargo install --locked prek\n```\n<!-- cargo-install:end -->\n\n</details>\n\n<details>\n<summary>npmjs</summary>\n\n<!-- npmjs-install:start -->\nprek is published as a Node.js package, you can install it using `npm`, `pnpm`, or `npx`:\n\n```bash\n# Using npm\nnpm add -D @j178/prek\n\n# Using pnpm\npnpm add -D @j178/prek\n\n# Using npx\nnpx @j178/prek --version\n\n# or install globally\nnpm install -g @j178/prek\n\n# then use `prek` command\nprek --version\n```\n<!-- npmjs-install:end -->\n\n</details>\n\n<details>\n<summary>Nix</summary>\n\n<!-- nix-install:start -->\nprek is available via [Nixpkgs](https://search.nixos.org/packages?channel=unstable&show=prek&query=prek).\n\n```shell\n# Choose what's appropriate for your use case.\n# One-off in a shell:\nnix-shell -p prek\n\n# NixOS or non-NixOS without flakes:\nnix-env -iA nixos.prek\n\n# Non-NixOS with flakes:\nnix profile install nixpkgs#prek\n```\n<!-- nix-install:end -->\n\n</details>\n\n<details>\n<summary>Conda</summary>\n\n<!-- conda-forge-install:start -->\nprek is available as `prek` via [conda-forge](https://anaconda.org/conda-forge/prek).\n\n```shell\nconda install conda-forge::prek\n```\n<!-- conda-forge-install:end -->\n\n</details>\n\n<details>\n<summary>Scoop (Windows)</summary>\n\n<!-- scoop-install:start -->\nprek is available via [Scoop](https://scoop.sh/#/apps?q=prek).\n\n```powershell\nscoop install main/prek\n```\n<!-- scoop-install:end -->\n</details>\n\n<details>\n<summary>MacPorts</summary>\n\n<!-- macports-install:start -->\nprek is available via [MacPorts](https://ports.macports.org/port/prek/).\n\n```bash\nsudo port install prek\n```\n<!-- macports-install:end -->\n</details>\n\n<details>\n<summary>GitHub Releases</summary>\n\n<!-- pre-built-binaries:start -->\nPre-built binaries are available for download from the [GitHub releases](https://github.com/j178/prek/releases) page.\n<!-- pre-built-binaries:end -->\n\n</details>\n\n<details>\n<summary>GitHub Actions</summary>\n\n<!-- github-actions:start -->\nprek can be used in GitHub Actions via the [j178/prek-action](https://github.com/j178/prek-action) repository.\n\nExample workflow:\n\n```yaml\nname: Prek checks\non: [push, pull_request]\n\njobs:\n  prek:\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v5\n      - uses: j178/prek-action@v1\n```\n\nThis action installs prek and runs `prek run --all-files` on your repository.\n\nprek is also available via [`taiki-e/install-action`](https://github.com/taiki-e/install-action) for installing various tools.\n<!-- github-actions:end -->\n</details>\n\n<!-- self-update:start -->\nIf installed via the standalone installer, prek can update itself to the latest version:\n\n```bash\nprek self update\n```\n<!-- self-update:end -->\n\n## Quick start\n\n- **I already use pre-commit:** follow the short migration checklist in the [quickstart guide](https://prek.j178.dev/quickstart/#already-using-pre-commit) to swap in `prek` safely.\n- **I'm new to pre-commit-style tools:** learn the basics—creating a config, running hooks, and installing git hooks—in the [beginner quickstart walkthrough](https://prek.j178.dev/quickstart/#new-to-pre-commit-style-workflows).\n\n<!-- why:start -->\n## Why prek?\n\n### prek is faster\n\n- It is [multiple times faster](https://prek.j178.dev/benchmark/) than `pre-commit` and takes up half the disk space.\n- It redesigned how hook environments and toolchains are managed, they are all shared between hooks, which reduces the disk space usage and speeds up the installation process.\n- Repositories are cloned in parallel, and hooks are installed in parallel if their dependencies are disjoint.\n- Hooks can run in parallel by priority (hooks with the same [`priority`](https://prek.j178.dev/configuration/#priority) may run concurrently), reducing end-to-end runtime.\n- It uses [`uv`](https://github.com/astral-sh/uv) for creating Python virtualenvs and installing dependencies, which is known for its speed and efficiency.\n- It implements some common hooks in Rust, [built in prek](https://prek.j178.dev/builtin/), which are faster than their Python counterparts.\n- It supports `repo: builtin` for offline, zero-setup hooks, which is not available in `pre-commit`.\n\n### prek provides a better user experience\n\n- No need to install Python or any other runtime, just download a single binary.\n- No hassle with your Python version or virtual environments, prek automatically installs the required Python version and creates a virtual environment for you.\n- Built-in support for [workspaces](https://prek.j178.dev/workspace/) (or monorepos), each subproject can have its own `.pre-commit-config.yaml` file.\n- [`prek run`](https://prek.j178.dev/cli/#prek-run) has some nifty improvements over `pre-commit run`, such as:\n  - `prek run --directory <dir>` runs hooks for files in the specified directory, no need to use `git ls-files -- <dir> | xargs pre-commit run --files` anymore.\n  - `prek run --last-commit` runs hooks for files changed in the last commit.\n  - `prek run [HOOK] [HOOK]` selects and runs multiple hooks.\n- [`prek list`](https://prek.j178.dev/cli/#prek-list) command lists all available hooks, their ids, and descriptions, providing a better overview of the configured hooks.\n- [`prek auto-update`](https://prek.j178.dev/cli/#prek-auto-update) supports `--cooldown-days` to mitigate open source supply chain attacks.\n- prek provides shell completions for `prek run <hook_id>` command, making it easier to run specific hooks without remembering their ids.\n\nFor more detailed improvements prek offers, take a look at [Difference from pre-commit](https://prek.j178.dev/diff/).\n\n## Who is using prek?\n\nprek is pretty new, but it is already being used or recommend by some projects and organizations:\n\n- [apache/airflow](https://github.com/apache/airflow/issues/44995)\n- [python/cpython](https://github.com/python/cpython/issues/143148)\n- [pdm-project/pdm](https://github.com/pdm-project/pdm/pull/3593)\n- [fastapi/fastapi](https://github.com/fastapi/fastapi/pull/14572)\n- [fastapi/typer](https://github.com/fastapi/typer/pull/1453)\n- [fastapi/asyncer](https://github.com/fastapi/asyncer/pull/437)\n- [astral-sh/ruff](https://github.com/astral-sh/ruff/pull/22505)\n- [astral-sh/ty](https://github.com/astral-sh/ty/pull/2469)\n- [home-assistant/core](https://github.com/home-assistant/core/pull/160427)\n- [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright/pull/1413)\n- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage/pull/3965)\n- [authlib/authlib](https://github.com/authlib/authlib/pull/804)\n- [django/djangoproject.com](https://github.com/django/djangoproject.com/pull/2252)\n- [Future-House/paper-qa](https://github.com/Future-House/paper-qa/pull/1098)\n- [requests-cache/requests-cache](https://github.com/requests-cache/requests-cache/pull/1116)\n- [Goldziher/kreuzberg](https://github.com/Goldziher/kreuzberg/pull/142)\n- [python-attrs/attrs](https://github.com/python-attrs/attrs/commit/c95b177682e76a63478d29d040f9cb36a8d31915)\n- [jlowin/fastmcp](https://github.com/jlowin/fastmcp/pull/2309)\n- [apache/iceberg-python](https://github.com/apache/iceberg-python/pull/2533)\n- [jcrist/msgspec](https://github.com/jcrist/msgspec/pull/918)\n- [python-humanize/humanize](https://github.com/python-humanize/humanize/pull/276)\n- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli/pull/535)\n- [ZhuoZhuoCrayon/throttled-py](https://github.com/ZhuoZhuoCrayon/throttled-py/pull/119)\n\n<!-- why:end -->\n\n## Acknowledgements\n\nThis project is heavily inspired by the original [pre-commit](https://pre-commit.com/) tool, and it wouldn't be possible without the hard work\nof the maintainers and contributors of that project.\n\nAnd a special thanks to the [Astral](https://github.com/astral-sh) team for their remarkable projects, particularly [uv](https://github.com/astral-sh/uv),\nfrom which I've learned a lot on how to write efficient and idiomatic Rust code.\n",
+      "readme": "<div align=\"center\">\n\n<h1>\n  <img width=\"180\" alt=\"prek\" src=\"https://raw.githubusercontent.com/j178/prek/master/docs/assets/logo.webp\" />\n  <br/>prek\n</h1>\n\n[![prek](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/j178/prek/master/docs/assets/badge-v0.json)](https://github.com/j178/prek)\n[![codecov](https://codecov.io/github/j178/prek/graph/badge.svg?token=MP6TY24F43)](https://codecov.io/github/j178/prek)\n[![GitHub Downloads](https://img.shields.io/github/downloads/j178/prek/total?logo=github)](https://github.com/j178/prek/releases)\n[![PyPI Downloads](https://img.shields.io/pypi/dm/prek?logo=python)](https://pepy.tech/projects/prek)\n[![Discord](https://img.shields.io/discord/1403581202102878289?logo=discord)](https://discord.gg/3NRJUqJz86)\n\n</div>\n\n<!-- description:start -->\n[pre-commit](https://pre-commit.com/) is a framework to run hooks written in many languages, and it manages the\nlanguage toolchain and dependencies for running the hooks.\n\n*prek* is a reimagined version of pre-commit, built in Rust.\nIt is designed to be a faster, dependency-free and drop-in alternative for it,\nwhile also providing some additional long-requested features.\n<!-- description:end -->\n\n> [!NOTE]\n> Although prek is pretty new, it’s already powering real‑world projects like [Apache Airflow](https://github.com/apache/airflow), [FastAPI](https://github.com/fastapi/fastapi), and more projects are picking it up—see [Who is using prek?](#who-is-using-prek). If you’re looking for an alternative to `pre-commit`, please give it a try—we’d love your feedback!\n>\n> Please note that some subcommands and languages are still missing for full drop‑in parity with `pre-commit`. Track the remaining gaps here: [TODO](https://prek.j178.dev/todo/).\n\n<!-- features:start -->\n## Features\n\n- 🚀 A single binary with no dependencies, does not require Python or any other runtime.\n- ⚡ [Faster](https://prek.j178.dev/benchmark/) than `pre-commit` and more efficient in disk space usage.\n- 🔄 Fully compatible with the original pre-commit configurations and hooks.\n- 🏗️ Built-in support for monorepos (i.e. [workspace mode](https://prek.j178.dev/workspace/)).\n- 🐍 Integration with [`uv`](https://github.com/astral-sh/uv) for managing Python virtual environments and dependencies.\n- 🛠️ Improved toolchain installations for Python, Node.js, Go, Rust and Ruby, shared between hooks.\n- 📦 [Built-in](https://prek.j178.dev/builtin/) Rust-native implementation of some common hooks.\n<!-- features:end -->\n\n## Table of contents\n\n- [Installation](#installation)\n- [Quick start](#quick-start)\n- [Why prek?](#why-prek)\n- [Who is using prek?](#who-is-using-prek)\n- [Acknowledgements](#acknowledgements)\n\n## Installation\n\n<details>\n<summary>Standalone installer</summary>\n\nprek provides a standalone installer script to download and install the tool,\n\nOn Linux and macOS:\n\n<!-- linux-standalone-install:start -->\n```bash\ncurl --proto '=https' --tlsv1.2 -LsSf https://github.com/j178/prek/releases/download/v0.2.28/prek-installer.sh | sh\n```\n<!-- linux-standalone-install:end -->\n\nOn Windows:\n\n<!-- windows-standalone-install:start -->\n```powershell\npowershell -ExecutionPolicy ByPass -c \"irm https://github.com/j178/prek/releases/download/v0.2.28/prek-installer.ps1 | iex\"\n```\n<!-- windows-standalone-install:end -->\n\n</details>\n\n<details>\n<summary>PyPI</summary>\n\n<!-- pypi-install:start -->\nprek is published as Python binary wheel to PyPI, you can install it using `pip`, `uv` (recommended), or `pipx`:\n\n```bash\n# Using uv (recommended)\nuv tool install prek\n\n# Using uvx (install and run in one command)\nuvx prek\n\n# Adding prek to the project dev-dependencies\nuv add --dev prek\n\n# Using pip\npip install prek\n\n# Using pipx\npipx install prek\n```\n<!-- pypi-install:end -->\n\n</details>\n\n<details>\n<summary>Homebrew</summary>\n\n<!-- homebrew-install:start -->\n```bash\nbrew install prek\n```\n<!-- homebrew-install:end -->\n\n</details>\n\n<details>\n<summary>mise</summary>\n\n<!-- mise-install:start -->\nTo use prek with [mise](https://mise.jdx.dev) ([v2025.8.11](https://github.com/jdx/mise/releases/tag/v2025.8.11) or later):\n\n```bash\nmise use prek\n```\n<!-- mise-install:end -->\n\n</details>\n\n<details>\n<summary>Cargo binstall</summary>\n\n<!-- cargo-binstall:start -->\nInstall pre-compiled binaries from GitHub using [cargo-binstall](https://github.com/cargo-bins/cargo-binstall):\n\n```bash\ncargo binstall prek\n```\n<!-- cargo-binstall:end -->\n\n</details>\n\n<details>\n<summary>Cargo</summary>\n\n<!-- cargo-install:start -->\nBuild from source using Cargo (Rust 1.89+ is required):\n\n```bash\ncargo install --locked prek\n```\n<!-- cargo-install:end -->\n\n</details>\n\n<details>\n<summary>npmjs</summary>\n\n<!-- npmjs-install:start -->\nprek is published as a Node.js package, you can install it using `npm`, `pnpm`, or `npx`:\n\n```bash\n# Using npm\nnpm add -D @j178/prek\n\n# Using pnpm\npnpm add -D @j178/prek\n\n# Using npx\nnpx @j178/prek --version\n\n# or install globally\nnpm install -g @j178/prek\n\n# then use `prek` command\nprek --version\n```\n<!-- npmjs-install:end -->\n\n</details>\n\n<details>\n<summary>Nix</summary>\n\n<!-- nix-install:start -->\nprek is available via [Nixpkgs](https://search.nixos.org/packages?channel=unstable&show=prek&query=prek).\n\n```shell\n# Choose what's appropriate for your use case.\n# One-off in a shell:\nnix-shell -p prek\n\n# NixOS or non-NixOS without flakes:\nnix-env -iA nixos.prek\n\n# Non-NixOS with flakes:\nnix profile install nixpkgs#prek\n```\n<!-- nix-install:end -->\n\n</details>\n\n<details>\n<summary>Conda</summary>\n\n<!-- conda-forge-install:start -->\nprek is available as `prek` via [conda-forge](https://anaconda.org/conda-forge/prek).\n\n```shell\nconda install conda-forge::prek\n```\n<!-- conda-forge-install:end -->\n\n</details>\n\n<details>\n<summary>Scoop (Windows)</summary>\n\n<!-- scoop-install:start -->\nprek is available via [Scoop](https://scoop.sh/#/apps?q=prek).\n\n```powershell\nscoop install main/prek\n```\n<!-- scoop-install:end -->\n</details>\n\n<details>\n<summary>MacPorts</summary>\n\n<!-- macports-install:start -->\nprek is available via [MacPorts](https://ports.macports.org/port/prek/).\n\n```bash\nsudo port install prek\n```\n<!-- macports-install:end -->\n</details>\n\n<details>\n<summary>GitHub Releases</summary>\n\n<!-- pre-built-binaries:start -->\nPre-built binaries are available for download from the [GitHub releases](https://github.com/j178/prek/releases) page.\n<!-- pre-built-binaries:end -->\n\n</details>\n\n<details>\n<summary>GitHub Actions</summary>\n\n<!-- github-actions:start -->\nprek can be used in GitHub Actions via the [j178/prek-action](https://github.com/j178/prek-action) repository.\n\nExample workflow:\n\n```yaml\nname: Prek checks\non: [push, pull_request]\n\njobs:\n  prek:\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v6\n      - uses: j178/prek-action@v1\n```\n\nThis action installs prek and runs `prek run --all-files` on your repository.\n\nprek is also available via [`taiki-e/install-action`](https://github.com/taiki-e/install-action) for installing various tools.\n<!-- github-actions:end -->\n</details>\n\n<!-- self-update:start -->\nIf installed via the standalone installer, prek can update itself to the latest version:\n\n```bash\nprek self update\n```\n<!-- self-update:end -->\n\n## Quick start\n\n- **I already use pre-commit:** follow the short migration checklist in the [quickstart guide](https://prek.j178.dev/quickstart/#already-using-pre-commit) to swap in `prek` safely.\n- **I'm new to pre-commit-style tools:** learn the basics—creating a config, running hooks, and installing git hooks—in the [beginner quickstart walkthrough](https://prek.j178.dev/quickstart/#new-to-pre-commit-style-workflows).\n\n<!-- why:start -->\n## Why prek?\n\n### prek is faster\n\n- It is [multiple times faster](https://prek.j178.dev/benchmark/) than `pre-commit` and takes up half the disk space.\n- It redesigned how hook environments and toolchains are managed, they are all shared between hooks, which reduces the disk space usage and speeds up the installation process.\n- Repositories are cloned in parallel, and hooks are installed in parallel if their dependencies are disjoint.\n- Hooks can run in parallel by priority (hooks with the same [`priority`](https://prek.j178.dev/configuration/#priority) may run concurrently), reducing end-to-end runtime.\n- It uses [`uv`](https://github.com/astral-sh/uv) for creating Python virtualenvs and installing dependencies, which is known for its speed and efficiency.\n- It implements some common hooks in Rust, [built in prek](https://prek.j178.dev/builtin/), which are faster than their Python counterparts.\n- It supports `repo: builtin` for offline, zero-setup hooks, which is not available in `pre-commit`.\n\n### prek provides a better user experience\n\n- No need to install Python or any other runtime, just download a single binary.\n- No hassle with your Python version or virtual environments, prek automatically installs the required Python version and creates a virtual environment for you.\n- Built-in support for [workspaces](https://prek.j178.dev/workspace/) (or monorepos), each subproject can have its own `.pre-commit-config.yaml` file.\n- [`prek run`](https://prek.j178.dev/cli/#prek-run) has some nifty improvements over `pre-commit run`, such as:\n  - `prek run --directory <dir>` runs hooks for files in the specified directory, no need to use `git ls-files -- <dir> | xargs pre-commit run --files` anymore.\n  - `prek run --last-commit` runs hooks for files changed in the last commit.\n  - `prek run [HOOK] [HOOK]` selects and runs multiple hooks.\n- [`prek list`](https://prek.j178.dev/cli/#prek-list) command lists all available hooks, their ids, and descriptions, providing a better overview of the configured hooks.\n- [`prek auto-update`](https://prek.j178.dev/cli/#prek-auto-update) supports `--cooldown-days` to mitigate open source supply chain attacks.\n- prek provides shell completions for `prek run <hook_id>` command, making it easier to run specific hooks without remembering their ids.\n\nFor more detailed improvements prek offers, take a look at [Difference from pre-commit](https://prek.j178.dev/diff/).\n\n## Who is using prek?\n\nprek is pretty new, but it is already being used or recommend by some projects and organizations:\n\n- [apache/airflow](https://github.com/apache/airflow/issues/44995)\n- [python/cpython](https://github.com/python/cpython/issues/143148)\n- [pdm-project/pdm](https://github.com/pdm-project/pdm/pull/3593)\n- [fastapi/fastapi](https://github.com/fastapi/fastapi/pull/14572)\n- [fastapi/typer](https://github.com/fastapi/typer/pull/1453)\n- [fastapi/asyncer](https://github.com/fastapi/asyncer/pull/437)\n- [astral-sh/ruff](https://github.com/astral-sh/ruff/pull/22505)\n- [astral-sh/ty](https://github.com/astral-sh/ty/pull/2469)\n- [home-assistant/core](https://github.com/home-assistant/core/pull/160427)\n- [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright/pull/1413)\n- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage/pull/3965)\n- [authlib/authlib](https://github.com/authlib/authlib/pull/804)\n- [django/djangoproject.com](https://github.com/django/djangoproject.com/pull/2252)\n- [Future-House/paper-qa](https://github.com/Future-House/paper-qa/pull/1098)\n- [requests-cache/requests-cache](https://github.com/requests-cache/requests-cache/pull/1116)\n- [Goldziher/kreuzberg](https://github.com/Goldziher/kreuzberg/pull/142)\n- [python-attrs/attrs](https://github.com/python-attrs/attrs/commit/c95b177682e76a63478d29d040f9cb36a8d31915)\n- [jlowin/fastmcp](https://github.com/jlowin/fastmcp/pull/2309)\n- [apache/iceberg-python](https://github.com/apache/iceberg-python/pull/2533)\n- [jcrist/msgspec](https://github.com/jcrist/msgspec/pull/918)\n- [python-humanize/humanize](https://github.com/python-humanize/humanize/pull/276)\n- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli/pull/535)\n- [ZhuoZhuoCrayon/throttled-py](https://github.com/ZhuoZhuoCrayon/throttled-py/pull/119)\n\n<!-- why:end -->\n\n## Acknowledgements\n\nThis project is heavily inspired by the original [pre-commit](https://pre-commit.com/) tool, and it wouldn't be possible without the hard work\nof the maintainers and contributors of that project.\n\nAnd a special thanks to the [Astral](https://github.com/astral-sh) team for their remarkable projects, particularly [uv](https://github.com/astral-sh/uv),\nfrom which I've learned a lot on how to write efficient and idiomatic Rust code.\n",
       "stars_today": 34
     },
     {
@@ -931,7 +931,7 @@
       "full_name": "swark-io/swark",
       "description": "Create architecture diagrams from code automatically using large language models (LLMs).",
       "html_url": "https://github.com/swark-io/swark",
-      "stars": 1408,
+      "stars": 1421,
       "forks": 95,
       "language": "TypeScript",
       "topics": [
@@ -944,7 +944,7 @@
         "vscode-extension"
       ],
       "created_at": "2024-10-25T06:45:13Z",
-      "updated_at": "2026-01-14T01:05:10Z",
+      "updated_at": "2026-01-14T12:29:45Z",
       "pushed_at": "2025-03-21T09:51:01Z",
       "open_issues": 7,
       "owner": {
@@ -960,8 +960,8 @@
       "full_name": "k2-fsa/sherpa-onnx",
       "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages",
       "html_url": "https://github.com/k2-fsa/sherpa-onnx",
-      "stars": 9738,
-      "forks": 1092,
+      "stars": 9748,
+      "forks": 1096,
       "language": "C++",
       "topics": [
         "aarch64",
@@ -986,8 +986,8 @@
         "windows"
       ],
       "created_at": "2022-09-01T05:47:33Z",
-      "updated_at": "2026-01-13T17:33:28Z",
-      "pushed_at": "2026-01-13T08:26:18Z",
+      "updated_at": "2026-01-14T12:25:57Z",
+      "pushed_at": "2026-01-14T12:26:38Z",
       "open_issues": 506,
       "owner": {
         "login": "k2-fsa",
@@ -1002,8 +1002,8 @@
       "full_name": "k4yt3x/video2x",
       "description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",
       "html_url": "https://github.com/k4yt3x/video2x",
-      "stars": 16887,
-      "forks": 1494,
+      "stars": 16898,
+      "forks": 1496,
       "language": "C++",
       "topics": [
         "anime4k",
@@ -1018,7 +1018,7 @@
         "vulkan"
       ],
       "created_at": "2018-02-24T16:34:41Z",
-      "updated_at": "2026-01-14T00:55:22Z",
+      "updated_at": "2026-01-14T10:52:23Z",
       "pushed_at": "2025-11-23T00:40:57Z",
       "open_issues": 84,
       "owner": {
@@ -1034,12 +1034,12 @@
       "full_name": "cfenollosa/os-tutorial",
       "description": "How to create an OS from scratch",
       "html_url": "https://github.com/cfenollosa/os-tutorial",
-      "stars": 30057,
+      "stars": 30061,
       "forks": 3523,
       "language": "C",
       "topics": [],
       "created_at": "2014-09-29T08:39:34Z",
-      "updated_at": "2026-01-14T00:38:47Z",
+      "updated_at": "2026-01-14T10:38:48Z",
       "pushed_at": "2024-07-25T10:57:29Z",
       "open_issues": 128,
       "owner": {
@@ -1055,12 +1055,12 @@
       "full_name": "ankitects/anki",
       "description": "Anki is a smart spaced repetition flashcard program",
       "html_url": "https://github.com/ankitects/anki",
-      "stars": 25720,
+      "stars": 25730,
       "forks": 2691,
       "language": "Rust",
       "topics": [],
       "created_at": "2012-12-21T08:03:31Z",
-      "updated_at": "2026-01-13T23:46:44Z",
+      "updated_at": "2026-01-14T10:09:59Z",
       "pushed_at": "2026-01-11T11:50:16Z",
       "open_issues": 323,
       "owner": {
@@ -1076,7 +1076,7 @@
       "full_name": "safing/portmaster",
       "description": "🏔 Love Freedom - ❌ Block Mass Surveillance",
       "html_url": "https://github.com/safing/portmaster",
-      "stars": 11738,
+      "stars": 11743,
       "forks": 433,
       "language": "Go",
       "topics": [
@@ -1093,7 +1093,7 @@
         "privacy-tools"
       ],
       "created_at": "2018-11-13T15:31:45Z",
-      "updated_at": "2026-01-14T01:06:10Z",
+      "updated_at": "2026-01-14T11:28:55Z",
       "pushed_at": "2026-01-07T08:46:00Z",
       "open_issues": 89,
       "owner": {
@@ -1109,8 +1109,8 @@
       "full_name": "Zackriya-Solutions/meeting-minutes",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows.  ",
       "html_url": "https://github.com/Zackriya-Solutions/meeting-minutes",
-      "stars": 9198,
-      "forks": 784,
+      "stars": 9215,
+      "forks": 785,
       "language": "Rust",
       "topics": [
         "ai",
@@ -1134,9 +1134,9 @@
         "windows"
       ],
       "created_at": "2024-12-26T12:52:14Z",
-      "updated_at": "2026-01-13T23:04:36Z",
+      "updated_at": "2026-01-14T12:11:26Z",
       "pushed_at": "2026-01-12T07:01:38Z",
-      "open_issues": 108,
+      "open_issues": 110,
       "owner": {
         "login": "Zackriya-Solutions",
         "avatar_url": "https://avatars.githubusercontent.com/u/82556810?v=4"
@@ -1150,8 +1150,8 @@
       "full_name": "carthage-software/mago",
       "description": "Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.",
       "html_url": "https://github.com/carthage-software/mago",
-      "stars": 2652,
-      "forks": 106,
+      "stars": 2662,
+      "forks": 107,
       "language": "Rust",
       "topics": [
         "code-analyzer",
@@ -1166,9 +1166,9 @@
         "type-checker"
       ],
       "created_at": "2024-10-26T01:11:18Z",
-      "updated_at": "2026-01-13T23:51:59Z",
-      "pushed_at": "2026-01-13T13:03:11Z",
-      "open_issues": 63,
+      "updated_at": "2026-01-14T12:16:38Z",
+      "pushed_at": "2026-01-14T11:02:49Z",
+      "open_issues": 65,
       "owner": {
         "login": "carthage-software",
         "avatar_url": "https://avatars.githubusercontent.com/u/140348628?v=4"
@@ -1182,7 +1182,7 @@
       "full_name": "meshtastic/firmware",
       "description": "The official firmware for Meshtastic, an open-source, off-grid mesh communication system.",
       "html_url": "https://github.com/meshtastic/firmware",
-      "stars": 6549,
+      "stars": 6554,
       "forks": 1890,
       "language": "C++",
       "topics": [
@@ -1203,9 +1203,9 @@
         "ttgo-tbeam"
       ],
       "created_at": "2020-02-01T17:00:35Z",
-      "updated_at": "2026-01-14T00:21:33Z",
-      "pushed_at": "2026-01-13T21:59:50Z",
-      "open_issues": 400,
+      "updated_at": "2026-01-14T11:47:42Z",
+      "pushed_at": "2026-01-14T12:28:31Z",
+      "open_issues": 404,
       "owner": {
         "login": "meshtastic",
         "avatar_url": "https://avatars.githubusercontent.com/u/61627050?v=4"
@@ -1219,8 +1219,8 @@
       "full_name": "longbridge/gpui-component",
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "html_url": "https://github.com/longbridge/gpui-component",
-      "stars": 9750,
-      "forks": 416,
+      "stars": 9765,
+      "forks": 417,
       "language": "Rust",
       "topics": [
         "desktop-application",
@@ -1229,9 +1229,9 @@
         "uikit"
       ],
       "created_at": "2024-06-13T13:45:39Z",
-      "updated_at": "2026-01-14T00:29:42Z",
-      "pushed_at": "2026-01-13T16:20:38Z",
-      "open_issues": 58,
+      "updated_at": "2026-01-14T11:33:08Z",
+      "pushed_at": "2026-01-14T11:21:33Z",
+      "open_issues": 57,
       "owner": {
         "login": "longbridge",
         "avatar_url": "https://avatars.githubusercontent.com/u/68419756?v=4"
@@ -1245,7 +1245,7 @@
       "full_name": "fishjar/kiss-translator",
       "description": "A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)",
       "html_url": "https://github.com/fishjar/kiss-translator",
-      "stars": 8573,
+      "stars": 8576,
       "forks": 360,
       "language": "JavaScript",
       "topics": [
@@ -1257,8 +1257,8 @@
         "userscripts"
       ],
       "created_at": "2023-07-18T07:20:49Z",
-      "updated_at": "2026-01-13T23:04:53Z",
-      "pushed_at": "2026-01-13T16:15:09Z",
+      "updated_at": "2026-01-14T09:39:29Z",
+      "pushed_at": "2026-01-14T08:23:27Z",
       "open_issues": 46,
       "owner": {
         "login": "fishjar",
@@ -1273,7 +1273,7 @@
       "full_name": "reconurge/flowsint",
       "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
       "html_url": "https://github.com/reconurge/flowsint",
-      "stars": 1581,
+      "stars": 1593,
       "forks": 198,
       "language": "TypeScript",
       "topics": [
@@ -1283,7 +1283,7 @@
         "recon"
       ],
       "created_at": "2025-01-31T15:10:41Z",
-      "updated_at": "2026-01-14T01:04:31Z",
+      "updated_at": "2026-01-14T10:58:06Z",
       "pushed_at": "2026-01-13T08:21:21Z",
       "open_issues": 25,
       "owner": {
@@ -1299,14 +1299,14 @@
       "full_name": "tmux/tmux",
       "description": "tmux source code",
       "html_url": "https://github.com/tmux/tmux",
-      "stars": 40755,
-      "forks": 2359,
+      "stars": 40772,
+      "forks": 2361,
       "language": "C",
       "topics": [],
       "created_at": "2015-06-03T23:32:55Z",
-      "updated_at": "2026-01-13T23:43:11Z",
+      "updated_at": "2026-01-14T11:32:59Z",
       "pushed_at": "2026-01-13T20:29:29Z",
-      "open_issues": 25,
+      "open_issues": 26,
       "owner": {
         "login": "tmux",
         "avatar_url": "https://avatars.githubusercontent.com/u/12054114?v=4"
@@ -1320,8 +1320,8 @@
       "full_name": "coze-dev/coze-studio",
       "description": "An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.",
       "html_url": "https://github.com/coze-dev/coze-studio",
-      "stars": 19443,
-      "forks": 2763,
+      "stars": 19455,
+      "forks": 2762,
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -1343,7 +1343,7 @@
         "workflow"
       ],
       "created_at": "2025-06-26T02:19:21Z",
-      "updated_at": "2026-01-14T01:04:25Z",
+      "updated_at": "2026-01-14T12:02:55Z",
       "pushed_at": "2026-01-12T09:54:52Z",
       "open_issues": 439,
       "owner": {
@@ -1359,8 +1359,8 @@
       "full_name": "langchain4j/langchain4j",
       "description": "LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks.",
       "html_url": "https://github.com/langchain4j/langchain4j",
-      "stars": 10366,
-      "forks": 1895,
+      "stars": 10380,
+      "forks": 1897,
       "language": "Java",
       "topics": [
         "anthropic",
@@ -1385,9 +1385,9 @@
         "vector-database"
       ],
       "created_at": "2023-06-20T15:30:29Z",
-      "updated_at": "2026-01-14T01:03:59Z",
-      "pushed_at": "2026-01-13T13:00:07Z",
-      "open_issues": 655,
+      "updated_at": "2026-01-14T10:55:53Z",
+      "pushed_at": "2026-01-14T10:55:48Z",
+      "open_issues": 654,
       "owner": {
         "login": "langchain4j",
         "avatar_url": "https://avatars.githubusercontent.com/u/132277850?v=4"
@@ -1401,8 +1401,8 @@
       "full_name": "eloqdata/eloqstore",
       "description": "Hybrid-tier key-value storage engine built on object storage & local SSDs. Engineered for batch-write efficiency and read optimization with ultra-low tail latency.",
       "html_url": "https://github.com/eloqdata/eloqstore",
-      "stars": 125,
-      "forks": 9,
+      "stars": 135,
+      "forks": 10,
       "language": "C++",
       "topics": [
         "coroutines",
@@ -1414,9 +1414,9 @@
         "key-value-store"
       ],
       "created_at": "2025-07-30T08:53:40Z",
-      "updated_at": "2026-01-14T00:40:39Z",
-      "pushed_at": "2026-01-13T12:06:35Z",
-      "open_issues": 36,
+      "updated_at": "2026-01-14T11:38:36Z",
+      "pushed_at": "2026-01-14T12:19:06Z",
+      "open_issues": 29,
       "owner": {
         "login": "eloqdata",
         "avatar_url": "https://avatars.githubusercontent.com/u/173772865?v=4"
@@ -1430,8 +1430,8 @@
       "full_name": "ClickHouse/ClickHouse",
       "description": "ClickHouse® is a real-time analytics database management system",
       "html_url": "https://github.com/ClickHouse/ClickHouse",
-      "stars": 45152,
-      "forks": 7977,
+      "stars": 45169,
+      "forks": 7980,
       "language": "C++",
       "topics": [
         "ai",
@@ -1453,9 +1453,9 @@
         "sql"
       ],
       "created_at": "2016-06-02T08:28:18Z",
-      "updated_at": "2026-01-14T00:42:26Z",
-      "pushed_at": "2026-01-14T00:42:21Z",
-      "open_issues": 5612,
+      "updated_at": "2026-01-14T11:58:05Z",
+      "pushed_at": "2026-01-14T12:26:36Z",
+      "open_issues": 5616,
       "owner": {
         "login": "ClickHouse",
         "avatar_url": "https://avatars.githubusercontent.com/u/54801242?v=4"
@@ -1469,15 +1469,15 @@
       "full_name": "pgvector/pgvector",
       "description": "Open-source vector similarity search for Postgres",
       "html_url": "https://github.com/pgvector/pgvector",
-      "stars": 19231,
-      "forks": 1024,
+      "stars": 19237,
+      "forks": 1026,
       "language": "C",
       "topics": [
         "approximate-nearest-neighbor-search",
         "nearest-neighbor-search"
       ],
       "created_at": "2021-04-20T21:13:52Z",
-      "updated_at": "2026-01-13T22:44:41Z",
+      "updated_at": "2026-01-14T10:19:52Z",
       "pushed_at": "2026-01-05T21:02:11Z",
       "open_issues": 14,
       "owner": {
@@ -1493,8 +1493,8 @@
       "full_name": "exelban/stats",
       "description": "macOS system monitor in your menu bar",
       "html_url": "https://github.com/exelban/stats",
-      "stars": 35732,
-      "forks": 1142,
+      "stars": 35748,
+      "forks": 1141,
       "language": "Swift",
       "topics": [
         "battery",
@@ -1513,7 +1513,7 @@
         "temperature"
       ],
       "created_at": "2019-05-29T19:24:56Z",
-      "updated_at": "2026-01-13T23:34:38Z",
+      "updated_at": "2026-01-14T11:46:07Z",
       "pushed_at": "2026-01-11T14:45:42Z",
       "open_issues": 30,
       "owner": {
@@ -1529,7 +1529,7 @@
       "full_name": "TeamNewPipe/NewPipe",
       "description": "A libre lightweight streaming front-end for Android.",
       "html_url": "https://github.com/TeamNewPipe/NewPipe",
-      "stars": 36273,
+      "stars": 36278,
       "forks": 3377,
       "language": "Java",
       "topics": [
@@ -1546,9 +1546,9 @@
         "youtube-video"
       ],
       "created_at": "2015-09-03T23:39:26Z",
-      "updated_at": "2026-01-13T21:12:54Z",
+      "updated_at": "2026-01-14T10:45:00Z",
       "pushed_at": "2026-01-13T14:36:02Z",
-      "open_issues": 1362,
+      "open_issues": 1363,
       "owner": {
         "login": "TeamNewPipe",
         "avatar_url": "https://avatars.githubusercontent.com/u/22159318?v=4"
@@ -1562,8 +1562,8 @@
       "full_name": "projectdiscovery/nuclei",
       "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
       "html_url": "https://github.com/projectdiscovery/nuclei",
-      "stars": 26509,
-      "forks": 3047,
+      "stars": 26520,
+      "forks": 3048,
       "language": "Go",
       "topics": [
         "attack-surface",
@@ -1579,9 +1579,9 @@
         "vulnerability-scanner"
       ],
       "created_at": "2020-04-03T18:47:11Z",
-      "updated_at": "2026-01-14T00:54:31Z",
+      "updated_at": "2026-01-14T11:13:50Z",
       "pushed_at": "2026-01-12T13:07:26Z",
-      "open_issues": 198,
+      "open_issues": 199,
       "owner": {
         "login": "projectdiscovery",
         "avatar_url": "https://avatars.githubusercontent.com/u/50994705?v=4"
@@ -1595,7 +1595,7 @@
       "full_name": "wxxsfxyzm/InstallerX-Revived",
       "description": "More Expressive InstallerX !",
       "html_url": "https://github.com/wxxsfxyzm/InstallerX-Revived",
-      "stars": 3160,
+      "stars": 3165,
       "forks": 91,
       "language": "Kotlin",
       "topics": [
@@ -1609,7 +1609,7 @@
         "shizuku"
       ],
       "created_at": "2024-11-06T13:19:18Z",
-      "updated_at": "2026-01-13T22:27:48Z",
+      "updated_at": "2026-01-14T11:36:50Z",
       "pushed_at": "2026-01-13T20:29:32Z",
       "open_issues": 13,
       "owner": {
@@ -1625,14 +1625,14 @@
       "full_name": "permissionlesstech/bitchat",
       "description": "bluetooth mesh chat, IRC vibes",
       "html_url": "https://github.com/permissionlesstech/bitchat",
-      "stars": 23899,
-      "forks": 2234,
+      "stars": 23907,
+      "forks": 2235,
       "language": "Swift",
       "topics": [],
       "created_at": "2025-07-04T14:34:38Z",
-      "updated_at": "2026-01-14T00:38:47Z",
-      "pushed_at": "2026-01-13T23:07:52Z",
-      "open_issues": 218,
+      "updated_at": "2026-01-14T11:17:54Z",
+      "pushed_at": "2026-01-14T02:39:47Z",
+      "open_issues": 219,
       "owner": {
         "login": "permissionlesstech",
         "avatar_url": "https://avatars.githubusercontent.com/u/220183803?v=4"
@@ -1646,14 +1646,14 @@
       "full_name": "horsemail/yourtv",
       "description": "安卓电视直播APK：IPTV/網頁視頻支持X5，可自定義源(支持webview://格式)，IPTV支持畫中畫和熄屏播放。 Android TV Live APK: IPTV/web video supports X5, customizable sources (support webview:// format), IPTV supports picture-in-picture and off-screen playback.",
       "html_url": "https://github.com/horsemail/yourtv",
-      "stars": 894,
-      "forks": 101,
+      "stars": 901,
+      "forks": 105,
       "language": "Kotlin",
       "topics": [],
       "created_at": "2025-04-11T09:12:13Z",
-      "updated_at": "2026-01-13T12:48:50Z",
+      "updated_at": "2026-01-14T10:50:37Z",
       "pushed_at": "2026-01-11T12:34:13Z",
-      "open_issues": 13,
+      "open_issues": 14,
       "owner": {
         "login": "horsemail",
         "avatar_url": "https://avatars.githubusercontent.com/u/91647741?v=4"
@@ -1667,7 +1667,7 @@
       "full_name": "utmapp/UTM",
       "description": "Virtual machines for iOS and macOS",
       "html_url": "https://github.com/utmapp/UTM",
-      "stars": 32213,
+      "stars": 32221,
       "forks": 1624,
       "language": "Swift",
       "topics": [
@@ -1682,7 +1682,7 @@
         "vm"
       ],
       "created_at": "2019-04-12T16:09:24Z",
-      "updated_at": "2026-01-14T00:39:41Z",
+      "updated_at": "2026-01-14T12:09:24Z",
       "pushed_at": "2026-01-12T02:14:14Z",
       "open_issues": 972,
       "owner": {
@@ -1698,8 +1698,8 @@
       "full_name": "lvgl/lvgl",
       "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. ",
       "html_url": "https://github.com/lvgl/lvgl",
-      "stars": 22471,
-      "forks": 3987,
+      "stars": 22476,
+      "forks": 3989,
       "language": "C",
       "topics": [
         "c",
@@ -1711,9 +1711,9 @@
         "tft"
       ],
       "created_at": "2016-06-08T04:14:34Z",
-      "updated_at": "2026-01-13T23:38:23Z",
+      "updated_at": "2026-01-14T12:20:57Z",
       "pushed_at": "2026-01-13T12:05:25Z",
-      "open_issues": 137,
+      "open_issues": 140,
       "owner": {
         "login": "lvgl",
         "avatar_url": "https://avatars.githubusercontent.com/u/19811762?v=4"
@@ -1727,8 +1727,8 @@
       "full_name": "gotenberg/gotenberg",
       "description": "A developer-friendly API for converting numerous document formats into PDF files, and more!",
       "html_url": "https://github.com/gotenberg/gotenberg",
-      "stars": 10917,
-      "forks": 722,
+      "stars": 10930,
+      "forks": 723,
       "language": "Go",
       "topics": [
         "api",
@@ -1753,9 +1753,9 @@
         "word"
       ],
       "created_at": "2018-03-23T14:05:59Z",
-      "updated_at": "2026-01-14T00:57:55Z",
-      "pushed_at": "2026-01-13T22:39:14Z",
-      "open_issues": 51,
+      "updated_at": "2026-01-14T11:02:25Z",
+      "pushed_at": "2026-01-14T09:04:57Z",
+      "open_issues": 49,
       "owner": {
         "login": "gotenberg",
         "avatar_url": "https://avatars.githubusercontent.com/u/66820499?v=4"
@@ -1769,8 +1769,8 @@
       "full_name": "grab/cursor-talk-to-figma-mcp",
       "description": "TalkToFigma: MCP integration between Cursor and Figma, allowing Cursor Agentic AI to communicate with Figma for reading designs and modifying them programmatically.",
       "html_url": "https://github.com/grab/cursor-talk-to-figma-mcp",
-      "stars": 5903,
-      "forks": 632,
+      "stars": 5914,
+      "forks": 634,
       "language": "JavaScript",
       "topics": [
         "agent",
@@ -1789,7 +1789,7 @@
         "model-context-protocol"
       ],
       "created_at": "2025-03-16T16:45:37Z",
-      "updated_at": "2026-01-13T23:29:15Z",
+      "updated_at": "2026-01-14T11:41:07Z",
       "pushed_at": "2025-11-03T01:00:00Z",
       "open_issues": 72,
       "owner": {
@@ -1805,7 +1805,7 @@
       "full_name": "netdata/netdata",
       "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
       "html_url": "https://github.com/netdata/netdata",
-      "stars": 77331,
+      "stars": 77340,
       "forks": 6299,
       "language": "C",
       "topics": [
@@ -1831,9 +1831,9 @@
         "prometheus"
       ],
       "created_at": "2013-06-17T18:39:10Z",
-      "updated_at": "2026-01-14T00:34:41Z",
-      "pushed_at": "2026-01-14T00:17:21Z",
-      "open_issues": 241,
+      "updated_at": "2026-01-14T10:23:07Z",
+      "pushed_at": "2026-01-14T10:58:44Z",
+      "open_issues": 242,
       "owner": {
         "login": "netdata",
         "avatar_url": "https://avatars.githubusercontent.com/u/43390781?v=4"
@@ -1847,7 +1847,7 @@
       "full_name": "derailed/k9s",
       "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
       "html_url": "https://github.com/derailed/k9s",
-      "stars": 32449,
+      "stars": 32464,
       "forks": 2048,
       "language": "Go",
       "topics": [
@@ -1861,9 +1861,9 @@
         "kubernetes-clusters"
       ],
       "created_at": "2019-01-25T18:46:02Z",
-      "updated_at": "2026-01-14T00:21:36Z",
+      "updated_at": "2026-01-14T11:57:21Z",
       "pushed_at": "2026-01-13T03:18:35Z",
-      "open_issues": 277,
+      "open_issues": 274,
       "owner": {
         "login": "derailed",
         "avatar_url": "https://avatars.githubusercontent.com/u/4060?v=4"
@@ -1877,7 +1877,7 @@
       "full_name": "Beingpax/VoiceInk",
       "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
       "html_url": "https://github.com/Beingpax/VoiceInk",
-      "stars": 3151,
+      "stars": 3160,
       "forks": 385,
       "language": "Swift",
       "topics": [
@@ -1886,9 +1886,9 @@
         "swift"
       ],
       "created_at": "2024-10-20T15:11:17Z",
-      "updated_at": "2026-01-14T00:43:07Z",
+      "updated_at": "2026-01-14T12:02:45Z",
       "pushed_at": "2026-01-13T05:13:46Z",
-      "open_issues": 172,
+      "open_issues": 173,
       "owner": {
         "login": "Beingpax",
         "avatar_url": "https://avatars.githubusercontent.com/u/101010368?v=4"
@@ -1902,7 +1902,7 @@
       "full_name": "tansu-io/tansu",
       "description": "Apache Kafka® compatible broker with S3, PostgreSQL, SQLite, Apache Iceberg and Delta Lake",
       "html_url": "https://github.com/tansu-io/tansu",
-      "stars": 1204,
+      "stars": 1237,
       "forks": 48,
       "language": "Rust",
       "topics": [
@@ -1920,7 +1920,7 @@
         "sqlite"
       ],
       "created_at": "2024-08-21T14:47:15Z",
-      "updated_at": "2026-01-14T01:03:00Z",
+      "updated_at": "2026-01-14T12:27:57Z",
       "pushed_at": "2026-01-13T14:22:23Z",
       "open_issues": 58,
       "owner": {
@@ -1936,8 +1936,8 @@
       "full_name": "facebook/react-native",
       "description": "A framework for building native applications using React",
       "html_url": "https://github.com/facebook/react-native",
-      "stars": 125047,
-      "forks": 25047,
+      "stars": 125055,
+      "forks": 25048,
       "language": "C++",
       "topics": [
         "android",
@@ -1950,9 +1950,9 @@
         "react-native"
       ],
       "created_at": "2015-01-09T18:10:16Z",
-      "updated_at": "2026-01-14T00:48:12Z",
-      "pushed_at": "2026-01-14T00:12:09Z",
-      "open_issues": 1141,
+      "updated_at": "2026-01-14T12:19:01Z",
+      "pushed_at": "2026-01-14T12:18:54Z",
+      "open_issues": 1144,
       "owner": {
         "login": "facebook",
         "avatar_url": "https://avatars.githubusercontent.com/u/69631?v=4"
@@ -1966,8 +1966,8 @@
       "full_name": "nlohmann/json",
       "description": "JSON for Modern C++",
       "html_url": "https://github.com/nlohmann/json",
-      "stars": 48524,
-      "forks": 7285,
+      "stars": 48534,
+      "forks": 7284,
       "language": "C++",
       "topics": [
         "bson",
@@ -1991,7 +1991,7 @@
         "ubjson"
       ],
       "created_at": "2013-07-04T08:47:49Z",
-      "updated_at": "2026-01-13T21:20:20Z",
+      "updated_at": "2026-01-14T10:51:22Z",
       "pushed_at": "2026-01-13T16:19:39Z",
       "open_issues": 97,
       "owner": {
@@ -2007,12 +2007,12 @@
       "full_name": "Gar-b-age/CookLikeHOC",
       "description": "🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
       "html_url": "https://github.com/Gar-b-age/CookLikeHOC",
-      "stars": 22814,
-      "forks": 2300,
+      "stars": 22831,
+      "forks": 2302,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2024-04-10T15:01:12Z",
-      "updated_at": "2026-01-14T00:41:58Z",
+      "updated_at": "2026-01-14T12:11:18Z",
       "pushed_at": "2025-10-17T20:04:04Z",
       "open_issues": 135,
       "owner": {
@@ -2028,7 +2028,7 @@
       "full_name": "VictoriaMetrics/VictoriaMetrics",
       "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
       "html_url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
-      "stars": 15962,
+      "stars": 15979,
       "forks": 1536,
       "language": "Go",
       "topics": [
@@ -2047,8 +2047,8 @@
         "tsdb"
       ],
       "created_at": "2018-09-30T09:58:01Z",
-      "updated_at": "2026-01-14T01:04:21Z",
-      "pushed_at": "2026-01-13T19:34:42Z",
+      "updated_at": "2026-01-14T12:01:28Z",
+      "pushed_at": "2026-01-14T12:15:27Z",
       "open_issues": 771,
       "owner": {
         "login": "VictoriaMetrics",
@@ -2063,8 +2063,8 @@
       "full_name": "monero-project/monero",
       "description": "Monero: the secure, private, untraceable cryptocurrency",
       "html_url": "https://github.com/monero-project/monero",
-      "stars": 10219,
-      "forks": 3352,
+      "stars": 10222,
+      "forks": 3353,
       "language": "C++",
       "topics": [
         "blockchain",
@@ -2079,7 +2079,7 @@
         "security"
       ],
       "created_at": "2014-04-30T14:38:28Z",
-      "updated_at": "2026-01-13T18:55:48Z",
+      "updated_at": "2026-01-14T10:31:55Z",
       "pushed_at": "2026-01-09T16:10:08Z",
       "open_issues": 741,
       "owner": {
@@ -2095,8 +2095,8 @@
       "full_name": "gravitational/teleport",
       "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
       "html_url": "https://github.com/gravitational/teleport",
-      "stars": 19660,
-      "forks": 1974,
+      "stars": 19674,
+      "forks": 1975,
       "language": "Go",
       "topics": [
         "audit",
@@ -2121,9 +2121,9 @@
         "teleport-binaries"
       ],
       "created_at": "2015-03-02T19:36:00Z",
-      "updated_at": "2026-01-14T00:15:52Z",
-      "pushed_at": "2026-01-14T00:42:29Z",
-      "open_issues": 3020,
+      "updated_at": "2026-01-14T12:04:37Z",
+      "pushed_at": "2026-01-14T12:20:44Z",
+      "open_issues": 3024,
       "owner": {
         "login": "gravitational",
         "avatar_url": "https://avatars.githubusercontent.com/u/10781132?v=4"
@@ -2137,7 +2137,7 @@
       "full_name": "LGUG2Z/komorebi",
       "description": "A tiling window manager for Windows 🍉",
       "html_url": "https://github.com/LGUG2Z/komorebi",
-      "stars": 13781,
+      "stars": 13786,
       "forks": 297,
       "language": "Rust",
       "topics": [
@@ -2150,7 +2150,7 @@
         "windows"
       ],
       "created_at": "2021-07-29T23:20:15Z",
-      "updated_at": "2026-01-13T23:41:15Z",
+      "updated_at": "2026-01-14T11:55:18Z",
       "pushed_at": "2026-01-13T16:26:52Z",
       "open_issues": 88,
       "owner": {
@@ -2166,8 +2166,8 @@
       "full_name": "mufeedvh/code2prompt",
       "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.",
       "html_url": "https://github.com/mufeedvh/code2prompt",
-      "stars": 7010,
-      "forks": 395,
+      "stars": 7015,
+      "forks": 396,
       "language": "Rust",
       "topics": [
         "ai",
@@ -2185,7 +2185,7 @@
         "rust"
       ],
       "created_at": "2024-03-09T12:42:06Z",
-      "updated_at": "2026-01-14T00:37:42Z",
+      "updated_at": "2026-01-14T11:34:35Z",
       "pushed_at": "2026-01-12T22:37:38Z",
       "open_issues": 16,
       "owner": {
@@ -2201,7 +2201,7 @@
       "full_name": "deniscerri/ytdlnis",
       "description": "Full-featured audio/video downloader for Android using yt-dlp",
       "html_url": "https://github.com/deniscerri/ytdlnis",
-      "stars": 7293,
+      "stars": 7296,
       "forks": 300,
       "language": "Kotlin",
       "topics": [
@@ -2219,7 +2219,7 @@
         "yt-dlp-gui"
       ],
       "created_at": "2022-05-27T20:46:51Z",
-      "updated_at": "2026-01-14T00:15:19Z",
+      "updated_at": "2026-01-14T10:51:15Z",
       "pushed_at": "2026-01-10T08:15:26Z",
       "open_issues": 32,
       "owner": {
@@ -2235,8 +2235,8 @@
       "full_name": "spring-projects/spring-boot",
       "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
       "html_url": "https://github.com/spring-projects/spring-boot",
-      "stars": 79657,
-      "forks": 41798,
+      "stars": 79664,
+      "forks": 41800,
       "language": "Java",
       "topics": [
         "framework",
@@ -2245,8 +2245,8 @@
         "spring-boot"
       ],
       "created_at": "2012-10-19T15:02:57Z",
-      "updated_at": "2026-01-13T21:07:50Z",
-      "pushed_at": "2026-01-13T17:10:33Z",
+      "updated_at": "2026-01-14T11:27:43Z",
+      "pushed_at": "2026-01-14T11:27:34Z",
       "open_issues": 491,
       "owner": {
         "login": "spring-projects",
@@ -2261,14 +2261,14 @@
       "full_name": "permissionlesstech/bitchat-android",
       "description": "bluetooth mesh chat, IRC vibes",
       "html_url": "https://github.com/permissionlesstech/bitchat-android",
-      "stars": 4330,
-      "forks": 607,
+      "stars": 4334,
+      "forks": 608,
       "language": "Kotlin",
       "topics": [],
       "created_at": "2025-07-08T18:36:23Z",
-      "updated_at": "2026-01-14T00:56:03Z",
-      "pushed_at": "2026-01-13T23:09:59Z",
-      "open_issues": 206,
+      "updated_at": "2026-01-14T10:49:21Z",
+      "pushed_at": "2026-01-14T10:54:50Z",
+      "open_issues": 216,
       "owner": {
         "login": "permissionlesstech",
         "avatar_url": "https://avatars.githubusercontent.com/u/220183803?v=4"
@@ -2282,8 +2282,8 @@
       "full_name": "yawiii/ComfyUI-Prompt-Assistant",
       "description": "提示词小助手可以一键调用智谱、硅基流动、gemini、本地ollama、百度等大语言模型服务，实现提示词翻译、润色扩写、图片反推。支持提示词预设实现一键插入、历史提示词查找等功能。是一个全能型提示词插件。The Prompt Assistant enables one-click access to LLMs/VLMs for prompt translation, expansion, and image captioning. It also supports one-click preset insertion and historical prompt search.",
       "html_url": "https://github.com/yawiii/ComfyUI-Prompt-Assistant",
-      "stars": 1338,
-      "forks": 49,
+      "stars": 1345,
+      "forks": 50,
       "language": "JavaScript",
       "topics": [
         "comfyui",
@@ -2293,9 +2293,9 @@
         "translate"
       ],
       "created_at": "2025-06-06T03:10:12Z",
-      "updated_at": "2026-01-14T01:03:23Z",
+      "updated_at": "2026-01-14T12:18:25Z",
       "pushed_at": "2026-01-12T07:09:17Z",
-      "open_issues": 9,
+      "open_issues": 10,
       "owner": {
         "login": "yawiii",
         "avatar_url": "https://avatars.githubusercontent.com/u/82788731?v=4"
@@ -2309,8 +2309,8 @@
       "full_name": "docker/compose",
       "description": "Define and run multi-container applications with Docker",
       "html_url": "https://github.com/docker/compose",
-      "stars": 36795,
-      "forks": 5691,
+      "stars": 36801,
+      "forks": 5695,
       "language": "Go",
       "topics": [
         "docker",
@@ -2320,8 +2320,8 @@
         "orchestration"
       ],
       "created_at": "2013-12-09T11:40:58Z",
-      "updated_at": "2026-01-13T23:54:19Z",
-      "pushed_at": "2026-01-13T09:21:25Z",
+      "updated_at": "2026-01-14T11:04:56Z",
+      "pushed_at": "2026-01-14T06:56:25Z",
       "open_issues": 57,
       "owner": {
         "login": "docker",
@@ -2336,7 +2336,7 @@
       "full_name": "opencost/opencost",
       "description": "Cost monitoring for Kubernetes workloads and cloud costs",
       "html_url": "https://github.com/opencost/opencost",
-      "stars": 6254,
+      "stars": 6266,
       "forks": 719,
       "language": "Go",
       "topics": [
@@ -2354,7 +2354,7 @@
         "prometheus"
       ],
       "created_at": "2019-03-27T21:49:05Z",
-      "updated_at": "2026-01-13T23:10:23Z",
+      "updated_at": "2026-01-14T11:23:53Z",
       "pushed_at": "2026-01-13T20:20:03Z",
       "open_issues": 156,
       "owner": {
@@ -2370,7 +2370,7 @@
       "full_name": "openbao/openbao",
       "description": "OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
       "html_url": "https://github.com/openbao/openbao",
-      "stars": 5213,
+      "stars": 5218,
       "forks": 308,
       "language": "Go",
       "topics": [
@@ -2379,7 +2379,7 @@
         "security"
       ],
       "created_at": "2023-11-09T18:17:33Z",
-      "updated_at": "2026-01-14T01:06:13Z",
+      "updated_at": "2026-01-14T12:03:54Z",
       "pushed_at": "2026-01-14T00:09:57Z",
       "open_issues": 222,
       "owner": {
@@ -2395,7 +2395,7 @@
       "full_name": "komikku-app/komikku",
       "description": "Free and open source manga reader for Android",
       "html_url": "https://github.com/komikku-app/komikku",
-      "stars": 3082,
+      "stars": 3086,
       "forks": 121,
       "language": "Kotlin",
       "topics": [
@@ -2416,9 +2416,9 @@
         "tachiyomisy"
       ],
       "created_at": "2024-01-14T16:25:54Z",
-      "updated_at": "2026-01-13T16:16:57Z",
-      "pushed_at": "2026-01-13T08:45:48Z",
-      "open_issues": 311,
+      "updated_at": "2026-01-14T10:49:30Z",
+      "pushed_at": "2026-01-14T06:12:33Z",
+      "open_issues": 310,
       "owner": {
         "login": "komikku-app",
         "avatar_url": "https://avatars.githubusercontent.com/u/160299335?v=4"
@@ -2432,8 +2432,8 @@
       "full_name": "jenkinsci/jenkins",
       "description": "Jenkins automation server",
       "html_url": "https://github.com/jenkinsci/jenkins",
-      "stars": 24892,
-      "forks": 9311,
+      "stars": 24896,
+      "forks": 9313,
       "language": "Java",
       "topics": [
         "cicd",
@@ -2448,9 +2448,9 @@
         "pipelines-as-code"
       ],
       "created_at": "2010-11-22T21:21:23Z",
-      "updated_at": "2026-01-13T21:29:33Z",
-      "pushed_at": "2026-01-14T00:12:38Z",
-      "open_issues": 3544,
+      "updated_at": "2026-01-14T08:16:08Z",
+      "pushed_at": "2026-01-14T08:15:57Z",
+      "open_issues": 3543,
       "owner": {
         "login": "jenkinsci",
         "avatar_url": "https://avatars.githubusercontent.com/u/107424?v=4"
@@ -2464,14 +2464,14 @@
       "full_name": "espressif/esp-idf",
       "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
       "html_url": "https://github.com/espressif/esp-idf",
-      "stars": 17065,
-      "forks": 8061,
+      "stars": 17070,
+      "forks": 8063,
       "language": "C",
       "topics": [],
       "created_at": "2016-08-17T10:40:35Z",
-      "updated_at": "2026-01-13T22:59:21Z",
+      "updated_at": "2026-01-14T10:19:45Z",
       "pushed_at": "2026-01-14T00:16:56Z",
-      "open_issues": 1516,
+      "open_issues": 1518,
       "owner": {
         "login": "espressif",
         "avatar_url": "https://avatars.githubusercontent.com/u/9460735?v=4"
@@ -2485,8 +2485,8 @@
       "full_name": "novnc/noVNC",
       "description": "VNC client web application",
       "html_url": "https://github.com/novnc/noVNC",
-      "stars": 13311,
-      "forks": 2554,
+      "stars": 13314,
+      "forks": 2556,
       "language": "JavaScript",
       "topics": [
         "arraybuffer",
@@ -2502,7 +2502,7 @@
         "wss"
       ],
       "created_at": "2010-04-07T01:55:44Z",
-      "updated_at": "2026-01-13T22:15:19Z",
+      "updated_at": "2026-01-14T12:04:59Z",
       "pushed_at": "2026-01-10T23:45:47Z",
       "open_issues": 102,
       "owner": {
@@ -2518,7 +2518,7 @@
       "full_name": "launchbadge/sqlx",
       "description": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",
       "html_url": "https://github.com/launchbadge/sqlx",
-      "stars": 16336,
+      "stars": 16342,
       "forks": 1542,
       "language": "Rust",
       "topics": [
@@ -2533,7 +2533,7 @@
         "sqlite"
       ],
       "created_at": "2019-12-28T10:40:57Z",
-      "updated_at": "2026-01-14T00:30:53Z",
+      "updated_at": "2026-01-14T10:51:07Z",
       "pushed_at": "2026-01-05T03:24:48Z",
       "open_issues": 728,
       "owner": {
@@ -2549,8 +2549,8 @@
       "full_name": "charmbracelet/lipgloss",
       "description": "Style definitions for nice terminal layouts 👄",
       "html_url": "https://github.com/charmbracelet/lipgloss",
-      "stars": 10320,
-      "forks": 298,
+      "stars": 10328,
+      "forks": 299,
       "language": "Go",
       "topics": [
         "cli",
@@ -2562,7 +2562,7 @@
         "tui"
       ],
       "created_at": "2021-03-01T19:31:36Z",
-      "updated_at": "2026-01-14T01:05:53Z",
+      "updated_at": "2026-01-14T12:05:44Z",
       "pushed_at": "2026-01-12T11:55:31Z",
       "open_issues": 99,
       "owner": {
@@ -2578,7 +2578,7 @@
       "full_name": "InfinityLoop1308/PipePipe",
       "description": "An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely. ",
       "html_url": "https://github.com/InfinityLoop1308/PipePipe",
-      "stars": 4340,
+      "stars": 4344,
       "forks": 117,
       "language": "Kotlin",
       "topics": [
@@ -2591,9 +2591,9 @@
         "youtube"
       ],
       "created_at": "2022-05-11T06:30:25Z",
-      "updated_at": "2026-01-13T22:39:17Z",
-      "pushed_at": "2026-01-10T08:46:33Z",
-      "open_issues": 120,
+      "updated_at": "2026-01-14T08:41:27Z",
+      "pushed_at": "2026-01-14T06:58:40Z",
+      "open_issues": 119,
       "owner": {
         "login": "InfinityLoop1308",
         "avatar_url": "https://avatars.githubusercontent.com/u/96324692?v=4"
@@ -2607,7 +2607,7 @@
       "full_name": "UwUDev/ygege",
       "description": "High-performance indexer for YGG Torrent written in Rust",
       "html_url": "https://github.com/UwUDev/ygege",
-      "stars": 335,
+      "stars": 338,
       "forks": 26,
       "language": "Rust",
       "topics": [
@@ -2616,7 +2616,7 @@
         "yggtorrent"
       ],
       "created_at": "2025-04-15T12:30:39Z",
-      "updated_at": "2026-01-13T21:40:11Z",
+      "updated_at": "2026-01-14T11:12:57Z",
       "pushed_at": "2026-01-12T16:03:20Z",
       "open_issues": 10,
       "owner": {
@@ -2632,8 +2632,8 @@
       "full_name": "juspay/hyperswitch",
       "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
       "html_url": "https://github.com/juspay/hyperswitch",
-      "stars": 39288,
-      "forks": 4564,
+      "stars": 39289,
+      "forks": 4563,
       "language": "Rust",
       "topics": [
         "beginner-friendly",
@@ -2652,9 +2652,9 @@
         "works-with-react"
       ],
       "created_at": "2022-10-17T11:18:28Z",
-      "updated_at": "2026-01-14T00:39:51Z",
-      "pushed_at": "2026-01-14T00:39:48Z",
-      "open_issues": 1368,
+      "updated_at": "2026-01-14T11:24:56Z",
+      "pushed_at": "2026-01-14T12:02:57Z",
+      "open_issues": 1374,
       "owner": {
         "login": "juspay",
         "avatar_url": "https://avatars.githubusercontent.com/u/11497632?v=4"
@@ -2668,7 +2668,7 @@
       "full_name": "apache/doris",
       "description": "Apache Doris is an easy-to-use, high performance and unified analytics database.",
       "html_url": "https://github.com/apache/doris",
-      "stars": 14875,
+      "stars": 14877,
       "forks": 3681,
       "language": "Java",
       "topics": [
@@ -2692,9 +2692,9 @@
         "sql"
       ],
       "created_at": "2017-08-10T12:13:30Z",
-      "updated_at": "2026-01-13T13:31:43Z",
-      "pushed_at": "2026-01-13T15:38:59Z",
-      "open_issues": 770,
+      "updated_at": "2026-01-14T10:53:56Z",
+      "pushed_at": "2026-01-14T11:49:32Z",
+      "open_issues": 774,
       "owner": {
         "login": "apache",
         "avatar_url": "https://avatars.githubusercontent.com/u/47359?v=4"
@@ -2708,8 +2708,8 @@
       "full_name": "trinodb/trino",
       "description": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)",
       "html_url": "https://github.com/trinodb/trino",
-      "stars": 12410,
-      "forks": 3445,
+      "stars": 12415,
+      "forks": 3447,
       "language": "Java",
       "topics": [
         "analytics",
@@ -2733,9 +2733,9 @@
         "trino"
       ],
       "created_at": "2019-01-19T06:38:14Z",
-      "updated_at": "2026-01-13T20:30:04Z",
-      "pushed_at": "2026-01-14T00:16:44Z",
-      "open_issues": 2502,
+      "updated_at": "2026-01-14T11:34:55Z",
+      "pushed_at": "2026-01-14T11:20:02Z",
+      "open_issues": 2500,
       "owner": {
         "login": "trinodb",
         "avatar_url": "https://avatars.githubusercontent.com/u/34147222?v=4"
@@ -2749,14 +2749,14 @@
       "full_name": "microsoft/typescript-go",
       "description": "Staging repo for development of native port of TypeScript",
       "html_url": "https://github.com/microsoft/typescript-go",
-      "stars": 23725,
-      "forks": 790,
+      "stars": 23731,
+      "forks": 792,
       "language": "Go",
       "topics": [],
       "created_at": "2024-09-19T20:25:12Z",
-      "updated_at": "2026-01-14T01:04:10Z",
-      "pushed_at": "2026-01-14T00:08:43Z",
-      "open_issues": 263,
+      "updated_at": "2026-01-14T10:53:49Z",
+      "pushed_at": "2026-01-14T01:22:58Z",
+      "open_issues": 262,
       "owner": {
         "login": "microsoft",
         "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
@@ -2770,8 +2770,8 @@
       "full_name": "weaviate/weaviate",
       "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
       "html_url": "https://github.com/weaviate/weaviate",
-      "stars": 15392,
-      "forks": 1175,
+      "stars": 15397,
+      "forks": 1176,
       "language": "Go",
       "topics": [
         "approximate-nearest-neighbor-search",
@@ -2796,9 +2796,9 @@
         "weaviate"
       ],
       "created_at": "2016-03-30T15:03:17Z",
-      "updated_at": "2026-01-13T23:10:06Z",
-      "pushed_at": "2026-01-13T20:39:03Z",
-      "open_issues": 555,
+      "updated_at": "2026-01-14T12:19:46Z",
+      "pushed_at": "2026-01-14T12:19:44Z",
+      "open_issues": 564,
       "owner": {
         "login": "weaviate",
         "avatar_url": "https://avatars.githubusercontent.com/u/37794290?v=4"
@@ -2812,7 +2812,7 @@
       "full_name": "gyroflow/gyroflow",
       "description": "Video stabilization using gyroscope data",
       "html_url": "https://github.com/gyroflow/gyroflow",
-      "stars": 8151,
+      "stars": 8158,
       "forks": 380,
       "language": "Rust",
       "topics": [
@@ -2830,7 +2830,7 @@
         "video-processing"
       ],
       "created_at": "2021-11-11T22:55:00Z",
-      "updated_at": "2026-01-14T01:02:09Z",
+      "updated_at": "2026-01-14T12:24:12Z",
       "pushed_at": "2026-01-03T21:31:29Z",
       "open_issues": 50,
       "owner": {
@@ -2846,7 +2846,7 @@
       "full_name": "pointfreeco/sqlite-data",
       "description": "A fast, lightweight replacement for SwiftData, powered by SQL and supporting CloudKit synchronization.",
       "html_url": "https://github.com/pointfreeco/sqlite-data",
-      "stars": 1523,
+      "stars": 1524,
       "forks": 74,
       "language": "Swift",
       "topics": [
@@ -2861,8 +2861,8 @@
         "synchronization"
       ],
       "created_at": "2024-12-11T22:44:01Z",
-      "updated_at": "2026-01-14T00:10:17Z",
-      "pushed_at": "2026-01-13T22:01:54Z",
+      "updated_at": "2026-01-14T08:36:12Z",
+      "pushed_at": "2026-01-14T04:50:17Z",
       "open_issues": 15,
       "owner": {
         "login": "pointfreeco",
@@ -2877,8 +2877,8 @@
       "full_name": "google/filament",
       "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
       "html_url": "https://github.com/google/filament",
-      "stars": 19350,
-      "forks": 2091,
+      "stars": 19355,
+      "forks": 2092,
       "language": "C++",
       "topics": [
         "3d-graphics",
@@ -2896,7 +2896,7 @@
         "webgl"
       ],
       "created_at": "2018-08-03T17:26:00Z",
-      "updated_at": "2026-01-13T23:53:33Z",
+      "updated_at": "2026-01-14T09:01:42Z",
       "pushed_at": "2026-01-13T22:24:50Z",
       "open_issues": 195,
       "owner": {
@@ -2912,8 +2912,8 @@
       "full_name": "google/or-tools",
       "description": "Google's Operations Research tools:",
       "html_url": "https://github.com/google/or-tools",
-      "stars": 12973,
-      "forks": 2343,
+      "stars": 12978,
+      "forks": 2344,
       "language": "C++",
       "topics": [
         "combinatorial-optimization",
@@ -2923,7 +2923,7 @@
         "or-tools"
       ],
       "created_at": "2015-02-21T01:25:35Z",
-      "updated_at": "2026-01-13T18:16:12Z",
+      "updated_at": "2026-01-14T09:17:40Z",
       "pushed_at": "2026-01-13T20:11:19Z",
       "open_issues": 71,
       "owner": {
@@ -2939,7 +2939,7 @@
       "full_name": "clockworklabs/SpacetimeDB",
       "description": "Multiplayer at the speed of light",
       "html_url": "https://github.com/clockworklabs/SpacetimeDB",
-      "stars": 18804,
+      "stars": 18807,
       "forks": 668,
       "language": "Rust",
       "topics": [
@@ -2951,9 +2951,9 @@
         "smart-contracts"
       ],
       "created_at": "2023-06-17T07:28:29Z",
-      "updated_at": "2026-01-14T00:43:04Z",
-      "pushed_at": "2026-01-14T01:06:41Z",
-      "open_issues": 721,
+      "updated_at": "2026-01-14T10:40:06Z",
+      "pushed_at": "2026-01-14T12:17:54Z",
+      "open_issues": 722,
       "owner": {
         "login": "clockworklabs",
         "avatar_url": "https://avatars.githubusercontent.com/u/48072542?v=4"
@@ -2967,14 +2967,14 @@
       "full_name": "UZ-SLAMLab/ORB_SLAM3",
       "description": "ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM",
       "html_url": "https://github.com/UZ-SLAMLab/ORB_SLAM3",
-      "stars": 8179,
+      "stars": 8183,
       "forks": 2952,
       "language": "C++",
       "topics": [
         "slam-algorithms"
       ],
       "created_at": "2020-07-18T07:47:46Z",
-      "updated_at": "2026-01-13T23:14:37Z",
+      "updated_at": "2026-01-14T11:01:03Z",
       "pushed_at": "2024-07-24T08:41:52Z",
       "open_issues": 562,
       "owner": {
@@ -2990,7 +2990,7 @@
       "full_name": "MariaDB/server",
       "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.",
       "html_url": "https://github.com/MariaDB/server",
-      "stars": 6925,
+      "stars": 6933,
       "forks": 1926,
       "language": "C++",
       "topics": [
@@ -3011,8 +3011,8 @@
         "vector-database"
       ],
       "created_at": "2014-05-15T10:58:50Z",
-      "updated_at": "2026-01-13T20:41:33Z",
-      "pushed_at": "2026-01-14T00:51:49Z",
+      "updated_at": "2026-01-14T11:53:46Z",
+      "pushed_at": "2026-01-14T12:03:43Z",
       "open_issues": 250,
       "owner": {
         "login": "MariaDB",
@@ -3027,7 +3027,7 @@
       "full_name": "Ebullioscopic/Atoll",
       "description": "Dynamic Island for macOS",
       "html_url": "https://github.com/Ebullioscopic/Atoll",
-      "stars": 668,
+      "stars": 674,
       "forks": 46,
       "language": "Swift",
       "topics": [
@@ -3037,7 +3037,7 @@
         "macos"
       ],
       "created_at": "2024-11-01T05:06:09Z",
-      "updated_at": "2026-01-13T20:54:36Z",
+      "updated_at": "2026-01-14T09:08:59Z",
       "pushed_at": "2026-01-12T12:03:01Z",
       "open_issues": 31,
       "owner": {
@@ -3053,7 +3053,7 @@
       "full_name": "FortAwesome/Font-Awesome",
       "description": "The iconic SVG, font, and CSS toolkit",
       "html_url": "https://github.com/FortAwesome/Font-Awesome",
-      "stars": 76217,
+      "stars": 76216,
       "forks": 12247,
       "language": "JavaScript",
       "topics": [
@@ -3066,7 +3066,7 @@
         "webfont"
       ],
       "created_at": "2012-02-17T14:19:43Z",
-      "updated_at": "2026-01-14T00:33:15Z",
+      "updated_at": "2026-01-14T04:48:13Z",
       "pushed_at": "2025-12-12T16:04:31Z",
       "open_issues": 303,
       "owner": {
@@ -3082,14 +3082,14 @@
       "full_name": "rime/squirrel",
       "description": "【鼠鬚管】Rime for macOS",
       "html_url": "https://github.com/rime/squirrel",
-      "stars": 5618,
-      "forks": 458,
+      "stars": 5624,
+      "forks": 459,
       "language": "Swift",
       "topics": [],
       "created_at": "2012-03-20T16:17:18Z",
-      "updated_at": "2026-01-14T00:17:34Z",
+      "updated_at": "2026-01-14T10:39:25Z",
       "pushed_at": "2026-01-14T00:24:56Z",
-      "open_issues": 193,
+      "open_issues": 191,
       "owner": {
         "login": "rime",
         "avatar_url": "https://avatars.githubusercontent.com/u/10554324?v=4"
@@ -3103,8 +3103,8 @@
       "full_name": "daijro/camoufox",
       "description": "🦊 Anti-detect browser",
       "html_url": "https://github.com/daijro/camoufox",
-      "stars": 4749,
-      "forks": 444,
+      "stars": 4753,
+      "forks": 445,
       "language": "C++",
       "topics": [
         "antidetect",
@@ -3117,7 +3117,7 @@
         "webscraping"
       ],
       "created_at": "2024-07-26T11:31:27Z",
-      "updated_at": "2026-01-14T00:22:23Z",
+      "updated_at": "2026-01-14T09:49:07Z",
       "pushed_at": "2026-01-12T05:40:26Z",
       "open_issues": 185,
       "owner": {
@@ -3133,8 +3133,8 @@
       "full_name": "nkaz001/hftbacktest",
       "description": "Free, open source, a high frequency trading and market making backtesting and trading bot, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books(Level-2 and Level-3), with real-world crypto trading examples for Binance and Bybit",
       "html_url": "https://github.com/nkaz001/hftbacktest",
-      "stars": 3528,
-      "forks": 695,
+      "stars": 3529,
+      "forks": 696,
       "language": "Rust",
       "topics": [
         "algorithmic-trading",
@@ -3159,7 +3159,7 @@
         "tradingbot"
       ],
       "created_at": "2022-08-25T14:56:36Z",
-      "updated_at": "2026-01-13T22:12:56Z",
+      "updated_at": "2026-01-14T03:20:57Z",
       "pushed_at": "2025-12-23T15:57:58Z",
       "open_issues": 15,
       "owner": {
@@ -3175,8 +3175,8 @@
       "full_name": "f3d-app/f3d",
       "description": "Fast and minimalist 3D viewer.",
       "html_url": "https://github.com/f3d-app/f3d",
-      "stars": 4037,
-      "forks": 366,
+      "stars": 4042,
+      "forks": 367,
       "language": "C++",
       "topics": [
         "3d",
@@ -3200,9 +3200,9 @@
         "vtk"
       ],
       "created_at": "2020-02-17T18:26:59Z",
-      "updated_at": "2026-01-14T00:21:21Z",
-      "pushed_at": "2026-01-13T16:11:14Z",
-      "open_issues": 273,
+      "updated_at": "2026-01-14T11:37:07Z",
+      "pushed_at": "2026-01-14T02:09:56Z",
+      "open_issues": 274,
       "owner": {
         "login": "f3d-app",
         "avatar_url": "https://avatars.githubusercontent.com/u/93085409?v=4"
@@ -3216,16 +3216,16 @@
       "full_name": "apache/kafka",
       "description": "Mirror of Apache Kafka",
       "html_url": "https://github.com/apache/kafka",
-      "stars": 31703,
-      "forks": 14895,
+      "stars": 31704,
+      "forks": 14894,
       "language": "Java",
       "topics": [
         "kafka",
         "scala"
       ],
       "created_at": "2011-08-15T18:06:16Z",
-      "updated_at": "2026-01-14T00:50:38Z",
-      "pushed_at": "2026-01-13T17:08:56Z",
+      "updated_at": "2026-01-14T11:34:50Z",
+      "pushed_at": "2026-01-14T11:55:50Z",
       "open_issues": 254,
       "owner": {
         "login": "apache",
@@ -3240,8 +3240,8 @@
       "full_name": "MobSF/Mobile-Security-Framework-MobSF",
       "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
       "html_url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
-      "stars": 20175,
-      "forks": 3562,
+      "stars": 20181,
+      "forks": 3561,
       "language": "JavaScript",
       "topics": [
         "android-security",
@@ -3265,7 +3265,7 @@
         "windows-mobile-security"
       ],
       "created_at": "2015-01-31T04:36:01Z",
-      "updated_at": "2026-01-14T00:51:19Z",
+      "updated_at": "2026-01-14T10:52:47Z",
       "pushed_at": "2026-01-13T20:59:31Z",
       "open_issues": 24,
       "owner": {
@@ -3281,12 +3281,12 @@
       "full_name": "abseil/abseil-cpp",
       "description": "Abseil Common Libraries (C++)",
       "html_url": "https://github.com/abseil/abseil-cpp",
-      "stars": 16907,
+      "stars": 16915,
       "forks": 2947,
       "language": "C++",
       "topics": [],
       "created_at": "2017-09-20T15:10:30Z",
-      "updated_at": "2026-01-13T18:19:18Z",
+      "updated_at": "2026-01-14T10:23:00Z",
       "pushed_at": "2026-01-13T18:19:12Z",
       "open_issues": 212,
       "owner": {
@@ -3302,8 +3302,8 @@
       "full_name": "opensearch-project/OpenSearch",
       "description": "🔎 Open source distributed and RESTful search engine.",
       "html_url": "https://github.com/opensearch-project/OpenSearch",
-      "stars": 12198,
-      "forks": 2369,
+      "stars": 12202,
+      "forks": 2370,
       "language": "Java",
       "topics": [
         "analytics",
@@ -3314,9 +3314,9 @@
         "search-engine"
       ],
       "created_at": "2021-01-29T22:10:00Z",
-      "updated_at": "2026-01-14T00:39:46Z",
-      "pushed_at": "2026-01-13T18:27:56Z",
-      "open_issues": 2528,
+      "updated_at": "2026-01-14T10:05:32Z",
+      "pushed_at": "2026-01-14T05:56:49Z",
+      "open_issues": 2531,
       "owner": {
         "login": "opensearch-project",
         "avatar_url": "https://avatars.githubusercontent.com/u/80134844?v=4"
@@ -3330,7 +3330,7 @@
       "full_name": "MrKai77/Loop",
       "description": "Window management made elegant.",
       "html_url": "https://github.com/MrKai77/Loop",
-      "stars": 9886,
+      "stars": 9890,
       "forks": 211,
       "language": "Swift",
       "topics": [
@@ -3345,7 +3345,7 @@
         "window-management"
       ],
       "created_at": "2023-01-24T18:33:33Z",
-      "updated_at": "2026-01-13T23:40:03Z",
+      "updated_at": "2026-01-14T11:45:59Z",
       "pushed_at": "2026-01-13T20:38:26Z",
       "open_issues": 45,
       "owner": {
@@ -3373,7 +3373,7 @@
       "created_at": "2015-12-09T23:37:23Z",
       "updated_at": "2026-01-13T19:20:22Z",
       "pushed_at": "2026-01-10T17:27:32Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": {
         "login": "VREMSoftwareDevelopment",
         "avatar_url": "https://avatars.githubusercontent.com/u/6217364?v=4"
@@ -3387,12 +3387,12 @@
       "full_name": "Yuyz0112/claude-code-reverse",
       "description": "A Tool to Visualize Claude Code's LLM Interactions",
       "html_url": "https://github.com/Yuyz0112/claude-code-reverse",
-      "stars": 1925,
+      "stars": 1932,
       "forks": 343,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2025-02-25T16:12:21Z",
-      "updated_at": "2026-01-13T11:52:43Z",
+      "updated_at": "2026-01-14T11:35:34Z",
       "pushed_at": "2025-08-26T15:29:53Z",
       "open_issues": 5,
       "owner": {
@@ -3408,12 +3408,12 @@
       "full_name": "Encryqed/Dumper-7",
       "description": "Unreal Engine SDK Generator",
       "html_url": "https://github.com/Encryqed/Dumper-7",
-      "stars": 1578,
-      "forks": 365,
+      "stars": 1580,
+      "forks": 367,
       "language": "C",
       "topics": [],
       "created_at": "2022-07-09T19:23:46Z",
-      "updated_at": "2026-01-13T18:42:57Z",
+      "updated_at": "2026-01-14T01:27:48Z",
       "pushed_at": "2025-12-30T20:16:57Z",
       "open_issues": 18,
       "owner": {
@@ -3429,7 +3429,7 @@
       "full_name": "moby/moby",
       "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
       "html_url": "https://github.com/moby/moby",
-      "stars": 71345,
+      "stars": 71349,
       "forks": 18877,
       "language": "Go",
       "topics": [
@@ -3439,9 +3439,9 @@
         "golang"
       ],
       "created_at": "2013-01-18T18:10:57Z",
-      "updated_at": "2026-01-14T00:00:44Z",
+      "updated_at": "2026-01-14T11:07:52Z",
       "pushed_at": "2026-01-12T16:51:43Z",
-      "open_issues": 3775,
+      "open_issues": 3776,
       "owner": {
         "login": "moby",
         "avatar_url": "https://avatars.githubusercontent.com/u/27259197?v=4"
@@ -3455,12 +3455,12 @@
       "full_name": "remix-run/react-router",
       "description": "Declarative routing for React",
       "html_url": "https://github.com/remix-run/react-router",
-      "stars": 56112,
-      "forks": 10813,
+      "stars": 56116,
+      "forks": 10814,
       "language": "TypeScript",
       "topics": [],
       "created_at": "2014-05-16T22:22:51Z",
-      "updated_at": "2026-01-13T23:51:05Z",
+      "updated_at": "2026-01-14T11:48:47Z",
       "pushed_at": "2026-01-13T15:54:06Z",
       "open_issues": 141,
       "owner": {
@@ -3497,7 +3497,7 @@
         "xcode"
       ],
       "created_at": "2014-07-31T05:56:19Z",
-      "updated_at": "2026-01-13T20:56:40Z",
+      "updated_at": "2026-01-14T07:26:35Z",
       "pushed_at": "2025-12-20T07:34:46Z",
       "open_issues": 39,
       "owner": {
@@ -3513,8 +3513,8 @@
       "full_name": "flipperdevices/flipperzero-firmware",
       "description": "Flipper Zero firmware source code",
       "html_url": "https://github.com/flipperdevices/flipperzero-firmware",
-      "stars": 15392,
-      "forks": 3237,
+      "stars": 15393,
+      "forks": 3240,
       "language": "C",
       "topics": [
         "armv7m",
@@ -3530,7 +3530,7 @@
         "subghz"
       ],
       "created_at": "2020-07-31T21:43:20Z",
-      "updated_at": "2026-01-13T20:54:10Z",
+      "updated_at": "2026-01-14T01:40:15Z",
       "pushed_at": "2025-12-05T19:35:25Z",
       "open_issues": 224,
       "owner": {
@@ -3546,8 +3546,8 @@
       "full_name": "groue/GRDB.swift",
       "description": "A toolkit for SQLite databases, with a focus on application development",
       "html_url": "https://github.com/groue/GRDB.swift",
-      "stars": 8097,
-      "forks": 824,
+      "stars": 8098,
+      "forks": 826,
       "language": "Swift",
       "topics": [
         "database",
@@ -3560,7 +3560,7 @@
         "sqlite-databases"
       ],
       "created_at": "2015-06-30T11:17:06Z",
-      "updated_at": "2026-01-13T22:23:24Z",
+      "updated_at": "2026-01-14T03:00:05Z",
       "pushed_at": "2026-01-09T15:30:58Z",
       "open_issues": 11,
       "owner": {
@@ -3576,8 +3576,8 @@
       "full_name": "github/CopilotForXcode",
       "description": "AI coding assistant for Xcode",
       "html_url": "https://github.com/github/CopilotForXcode",
-      "stars": 5513,
-      "forks": 1681,
+      "stars": 5517,
+      "forks": 1682,
       "language": "Swift",
       "topics": [
         "ai-assistant",
@@ -3591,9 +3591,9 @@
         "xcode"
       ],
       "created_at": "2024-09-19T17:48:15Z",
-      "updated_at": "2026-01-13T22:23:47Z",
+      "updated_at": "2026-01-14T09:53:01Z",
       "pushed_at": "2026-01-07T04:07:17Z",
-      "open_issues": 186,
+      "open_issues": 187,
       "owner": {
         "login": "github",
         "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
@@ -3612,8 +3612,8 @@
       "language": "Java",
       "topics": [],
       "created_at": "2024-06-13T14:39:25Z",
-      "updated_at": "2026-01-13T20:53:21Z",
-      "pushed_at": "2026-01-13T20:53:17Z",
+      "updated_at": "2026-01-14T05:41:07Z",
+      "pushed_at": "2026-01-14T05:41:03Z",
       "open_issues": 350,
       "owner": {
         "login": "unitycatalog",
@@ -3628,7 +3628,7 @@
       "full_name": "chsbuffer/ReVancedXposed",
       "description": "ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback",
       "html_url": "https://github.com/chsbuffer/ReVancedXposed",
-      "stars": 1959,
+      "stars": 1960,
       "forks": 84,
       "language": "Kotlin",
       "topics": [
@@ -3639,7 +3639,7 @@
         "youtube-music"
       ],
       "created_at": "2024-06-16T13:36:30Z",
-      "updated_at": "2026-01-13T23:40:33Z",
+      "updated_at": "2026-01-14T07:06:13Z",
       "pushed_at": "2026-01-11T12:06:02Z",
       "open_issues": 15,
       "owner": {
@@ -3655,8 +3655,8 @@
       "full_name": "datahub-project/datahub",
       "description": "The Metadata Platform for your Data and AI Stack",
       "html_url": "https://github.com/datahub-project/datahub",
-      "stars": 11425,
-      "forks": 3332,
+      "stars": 11426,
+      "forks": 3334,
       "language": "Java",
       "topics": [
         "data-catalog",
@@ -3667,9 +3667,9 @@
         "metadata"
       ],
       "created_at": "2015-11-18T05:47:40Z",
-      "updated_at": "2026-01-13T22:26:21Z",
-      "pushed_at": "2026-01-13T23:46:44Z",
-      "open_issues": 681,
+      "updated_at": "2026-01-14T08:31:49Z",
+      "pushed_at": "2026-01-14T12:01:25Z",
+      "open_issues": 685,
       "owner": {
         "login": "datahub-project",
         "avatar_url": "https://avatars.githubusercontent.com/u/78121374?v=4"
@@ -3683,7 +3683,7 @@
       "full_name": "pointfreeco/swift-composable-architecture",
       "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
       "html_url": "https://github.com/pointfreeco/swift-composable-architecture",
-      "stars": 14253,
+      "stars": 14255,
       "forks": 1624,
       "language": "Swift",
       "topics": [
@@ -3695,7 +3695,7 @@
         "uikit"
       ],
       "created_at": "2020-05-03T23:18:40Z",
-      "updated_at": "2026-01-13T20:27:02Z",
+      "updated_at": "2026-01-14T08:25:24Z",
       "pushed_at": "2025-12-30T21:38:44Z",
       "open_issues": 23,
       "owner": {
@@ -3711,7 +3711,7 @@
       "full_name": "jart/cosmopolitan",
       "description": "build-once run-anywhere c library",
       "html_url": "https://github.com/jart/cosmopolitan",
-      "stars": 20374,
+      "stars": 20377,
       "forks": 733,
       "language": "C",
       "topics": [
@@ -3729,7 +3729,7 @@
         "zip"
       ],
       "created_at": "2020-06-15T14:16:13Z",
-      "updated_at": "2026-01-13T21:49:44Z",
+      "updated_at": "2026-01-14T09:08:11Z",
       "pushed_at": "2025-12-02T08:37:54Z",
       "open_issues": 197,
       "owner": {
@@ -3745,8 +3745,8 @@
       "full_name": "frappe/gantt",
       "description": "Open Source Javascript Gantt",
       "html_url": "https://github.com/frappe/gantt",
-      "stars": 5796,
-      "forks": 1249,
+      "stars": 5799,
+      "forks": 1248,
       "language": "JavaScript",
       "topics": [
         "frappe-gantt",
@@ -3756,7 +3756,7 @@
         "javascript-gantt"
       ],
       "created_at": "2016-08-26T12:17:58Z",
-      "updated_at": "2026-01-13T20:03:15Z",
+      "updated_at": "2026-01-14T11:24:47Z",
       "pushed_at": "2025-10-31T09:32:00Z",
       "open_issues": 70,
       "owner": {
@@ -3772,12 +3772,12 @@
       "full_name": "aaa1115910/bv",
       "description": "哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili.",
       "html_url": "https://github.com/aaa1115910/bv",
-      "stars": 3643,
-      "forks": 455,
+      "stars": 3648,
+      "forks": 456,
       "language": "Kotlin",
       "topics": [],
       "created_at": "2022-11-28T17:50:33Z",
-      "updated_at": "2026-01-14T00:21:02Z",
+      "updated_at": "2026-01-14T09:02:31Z",
       "pushed_at": "2025-12-08T16:08:45Z",
       "open_issues": 29,
       "owner": {
@@ -3793,7 +3793,7 @@
       "full_name": "kafbat/kafka-ui",
       "description": "Open-Source Web UI for managing Apache Kafka clusters",
       "html_url": "https://github.com/kafbat/kafka-ui",
-      "stars": 1914,
+      "stars": 1917,
       "forks": 236,
       "language": "Java",
       "topics": [
@@ -3818,9 +3818,9 @@
         "web-ui"
       ],
       "created_at": "2024-01-22T13:38:08Z",
-      "updated_at": "2026-01-13T20:36:11Z",
+      "updated_at": "2026-01-14T12:17:24Z",
       "pushed_at": "2026-01-13T17:07:55Z",
-      "open_issues": 260,
+      "open_issues": 261,
       "owner": {
         "login": "kafbat",
         "avatar_url": "https://avatars.githubusercontent.com/u/98461227?v=4"
@@ -3834,7 +3834,7 @@
       "full_name": "Mahmud0808/ColorBlendr",
       "description": "An Android app for customizing Material You colors on devices with Android 12+. It lets you tweak accent colors, background saturation, and more for a personalized look.",
       "html_url": "https://github.com/Mahmud0808/ColorBlendr",
-      "stars": 1837,
+      "stars": 1839,
       "forks": 36,
       "language": "Kotlin",
       "topics": [
@@ -3845,7 +3845,7 @@
         "theme-ui"
       ],
       "created_at": "2023-12-06T13:20:16Z",
-      "updated_at": "2026-01-14T00:18:36Z",
+      "updated_at": "2026-01-14T12:27:16Z",
       "pushed_at": "2026-01-13T10:00:33Z",
       "open_issues": 10,
       "owner": {
@@ -3861,7 +3861,7 @@
       "full_name": "taosdata/TDengine",
       "description": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
       "html_url": "https://github.com/taosdata/TDengine",
-      "stars": 24664,
+      "stars": 24667,
       "forks": 4990,
       "language": "C",
       "topics": [
@@ -3884,9 +3884,9 @@
         "tsdb"
       ],
       "created_at": "2019-07-11T08:33:48Z",
-      "updated_at": "2026-01-13T23:14:40Z",
-      "pushed_at": "2026-01-14T01:05:03Z",
-      "open_issues": 480,
+      "updated_at": "2026-01-14T11:32:34Z",
+      "pushed_at": "2026-01-14T12:21:26Z",
+      "open_issues": 482,
       "owner": {
         "login": "taosdata",
         "avatar_url": "https://avatars.githubusercontent.com/u/48876650?v=4"
@@ -3900,8 +3900,8 @@
       "full_name": "catchorg/Catch2",
       "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
       "html_url": "https://github.com/catchorg/Catch2",
-      "stars": 20105,
-      "forks": 3180,
+      "stars": 20109,
+      "forks": 3181,
       "language": "C++",
       "topics": [
         "bdd",
@@ -3914,7 +3914,7 @@
         "testing"
       ],
       "created_at": "2010-11-08T18:22:56Z",
-      "updated_at": "2026-01-14T00:37:51Z",
+      "updated_at": "2026-01-14T11:24:20Z",
       "pushed_at": "2026-01-13T08:10:07Z",
       "open_issues": 414,
       "owner": {
@@ -3930,12 +3930,12 @@
       "full_name": "kubernetes/dashboard",
       "description": "General-purpose web UI for Kubernetes clusters",
       "html_url": "https://github.com/kubernetes/dashboard",
-      "stars": 15419,
-      "forks": 4290,
+      "stars": 15424,
+      "forks": 4291,
       "language": "Go",
       "topics": [],
       "created_at": "2015-10-15T23:09:14Z",
-      "updated_at": "2026-01-13T23:23:16Z",
+      "updated_at": "2026-01-14T11:35:09Z",
       "pushed_at": "2026-01-05T10:50:31Z",
       "open_issues": 164,
       "owner": {
@@ -3952,7 +3952,7 @@
       "description": "Apache Cassandra®",
       "html_url": "https://github.com/apache/cassandra",
       "stars": 9582,
-      "forks": 3823,
+      "forks": 3822,
       "language": "Java",
       "topics": [
         "cassandra",
@@ -3976,14 +3976,14 @@
       "full_name": "google/benchmark",
       "description": "A microbenchmark support library",
       "html_url": "https://github.com/google/benchmark",
-      "stars": 9945,
+      "stars": 9946,
       "forks": 1727,
       "language": "C++",
       "topics": [
         "benchmark"
       ],
       "created_at": "2013-12-12T00:10:48Z",
-      "updated_at": "2026-01-13T13:45:58Z",
+      "updated_at": "2026-01-14T09:58:20Z",
       "pushed_at": "2026-01-13T10:28:23Z",
       "open_issues": 178,
       "owner": {
@@ -3999,14 +3999,14 @@
       "full_name": "jackc/pgx",
       "description": "PostgreSQL driver and toolkit for Go",
       "html_url": "https://github.com/jackc/pgx",
-      "stars": 13159,
-      "forks": 982,
+      "stars": 13163,
+      "forks": 983,
       "language": "Go",
       "topics": [],
       "created_at": "2013-03-30T19:06:26Z",
-      "updated_at": "2026-01-13T18:44:13Z",
+      "updated_at": "2026-01-14T11:01:10Z",
       "pushed_at": "2026-01-10T11:25:48Z",
-      "open_issues": 254,
+      "open_issues": 255,
       "owner": {
         "login": "jackc",
         "avatar_url": "https://avatars.githubusercontent.com/u/94130?v=4"
@@ -4020,12 +4020,12 @@
       "full_name": "microsoft/mimalloc",
       "description": "mimalloc is a compact general purpose allocator with excellent performance.",
       "html_url": "https://github.com/microsoft/mimalloc",
-      "stars": 12353,
+      "stars": 12356,
       "forks": 1044,
       "language": "C",
       "topics": [],
       "created_at": "2019-06-19T21:14:44Z",
-      "updated_at": "2026-01-13T22:31:27Z",
+      "updated_at": "2026-01-14T05:24:54Z",
       "pushed_at": "2026-01-12T21:52:30Z",
       "open_issues": 413,
       "owner": {
@@ -4041,7 +4041,7 @@
       "full_name": "junit-team/junit-framework",
       "description": "✅ The programmer-friendly testing framework for Java and the JVM",
       "html_url": "https://github.com/junit-team/junit-framework",
-      "stars": 6947,
+      "stars": 6949,
       "forks": 1637,
       "language": "Java",
       "topics": [
@@ -4055,7 +4055,7 @@
         "test-framework"
       ],
       "created_at": "2015-01-11T19:06:10Z",
-      "updated_at": "2026-01-13T20:38:06Z",
+      "updated_at": "2026-01-14T06:33:27Z",
       "pushed_at": "2026-01-14T00:25:22Z",
       "open_issues": 122,
       "owner": {
@@ -4071,7 +4071,7 @@
       "full_name": "apache/calcite",
       "description": "Apache Calcite",
       "html_url": "https://github.com/apache/calcite",
-      "stars": 5040,
+      "stars": 5041,
       "forks": 2457,
       "language": "Java",
       "topics": [
@@ -4083,9 +4083,9 @@
         "sql"
       ],
       "created_at": "2014-06-25T07:00:07Z",
-      "updated_at": "2026-01-13T22:58:47Z",
-      "pushed_at": "2026-01-13T22:58:41Z",
-      "open_issues": 324,
+      "updated_at": "2026-01-14T08:37:26Z",
+      "pushed_at": "2026-01-14T08:37:21Z",
+      "open_issues": 322,
       "owner": {
         "login": "apache",
         "avatar_url": "https://avatars.githubusercontent.com/u/47359?v=4"
@@ -4117,9 +4117,9 @@
         "openshift"
       ],
       "created_at": "2016-05-06T08:52:33Z",
-      "updated_at": "2026-01-13T16:30:16Z",
-      "pushed_at": "2026-01-13T11:15:29Z",
-      "open_issues": 134,
+      "updated_at": "2026-01-14T11:51:52Z",
+      "pushed_at": "2026-01-14T11:51:47Z",
+      "open_issues": 132,
       "owner": {
         "login": "strimzi",
         "avatar_url": "https://avatars.githubusercontent.com/u/34767428?v=4"
@@ -4133,7 +4133,7 @@
       "full_name": "DataDog/datadog-agent",
       "description": "Main repository for Datadog Agent",
       "html_url": "https://github.com/DataDog/datadog-agent",
-      "stars": 3472,
+      "stars": 3473,
       "forks": 1369,
       "language": "Go",
       "topics": [
@@ -4152,9 +4152,9 @@
         "tracing"
       ],
       "created_at": "2016-01-19T17:40:41Z",
-      "updated_at": "2026-01-13T23:12:04Z",
-      "pushed_at": "2026-01-14T01:02:50Z",
-      "open_issues": 1008,
+      "updated_at": "2026-01-14T11:21:45Z",
+      "pushed_at": "2026-01-14T12:21:08Z",
+      "open_issues": 1005,
       "owner": {
         "login": "DataDog",
         "avatar_url": "https://avatars.githubusercontent.com/u/365230?v=4"
@@ -4168,7 +4168,7 @@
       "full_name": "home-assistant/android",
       "description": "Home Assistant Companion for Android",
       "html_url": "https://github.com/home-assistant/android",
-      "stars": 3305,
+      "stars": 3307,
       "forks": 861,
       "language": "Kotlin",
       "topics": [
@@ -4183,9 +4183,9 @@
         "wear"
       ],
       "created_at": "2019-04-02T05:52:50Z",
-      "updated_at": "2026-01-13T21:43:32Z",
-      "pushed_at": "2026-01-13T21:43:29Z",
-      "open_issues": 349,
+      "updated_at": "2026-01-14T10:28:21Z",
+      "pushed_at": "2026-01-14T11:04:21Z",
+      "open_issues": 346,
       "owner": {
         "login": "home-assistant",
         "avatar_url": "https://avatars.githubusercontent.com/u/13844975?v=4"
@@ -4199,7 +4199,7 @@
       "full_name": "home-assistant/iOS",
       "description": ":iphone: Home Assistant for Apple platforms",
       "html_url": "https://github.com/home-assistant/iOS",
-      "stars": 2068,
+      "stars": 2070,
       "forks": 407,
       "language": "Swift",
       "topics": [
@@ -4212,8 +4212,8 @@
         "swift"
       ],
       "created_at": "2016-04-03T08:28:34Z",
-      "updated_at": "2026-01-13T15:06:08Z",
-      "pushed_at": "2026-01-13T16:51:31Z",
+      "updated_at": "2026-01-14T11:43:54Z",
+      "pushed_at": "2026-01-14T11:43:51Z",
       "open_issues": 177,
       "owner": {
         "login": "home-assistant",
@@ -4228,7 +4228,7 @@
       "full_name": "komikku-app/anikku",
       "description": "Free and open source anime watcher for Android",
       "html_url": "https://github.com/komikku-app/anikku",
-      "stars": 609,
+      "stars": 610,
       "forks": 22,
       "language": "Kotlin",
       "topics": [
@@ -4241,7 +4241,7 @@
         "kotlin"
       ],
       "created_at": "2025-01-08T19:27:30Z",
-      "updated_at": "2026-01-13T15:29:14Z",
+      "updated_at": "2026-01-14T03:35:38Z",
       "pushed_at": "2025-12-17T18:11:09Z",
       "open_issues": 63,
       "owner": {
@@ -4257,7 +4257,7 @@
       "full_name": "cailab-tamu/scTenifoldKnk",
       "description": " R/MATLAB package to perform virtual knockout experiments on single-cell gene regulatory networks.",
       "html_url": "https://github.com/cailab-tamu/scTenifoldKnk",
-      "stars": 122,
+      "stars": 124,
       "forks": 13,
       "language": "R",
       "topics": [
@@ -4268,7 +4268,7 @@
         "virtual-knockout-experiments"
       ],
       "created_at": "2020-03-20T19:31:03Z",
-      "updated_at": "2026-01-13T11:23:16Z",
+      "updated_at": "2026-01-14T11:18:08Z",
       "pushed_at": "2025-09-16T19:17:04Z",
       "open_issues": 23,
       "owner": {
@@ -4284,8 +4284,8 @@
       "full_name": "apache/shardingsphere",
       "description": "Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.",
       "html_url": "https://github.com/apache/shardingsphere",
-      "stars": 20622,
-      "forks": 6911,
+      "stars": 20624,
+      "forks": 6913,
       "language": "Java",
       "topics": [
         "bigdata",
@@ -4306,9 +4306,9 @@
         "sql"
       ],
       "created_at": "2016-01-18T12:49:26Z",
-      "updated_at": "2026-01-13T21:27:09Z",
-      "pushed_at": "2026-01-13T21:27:01Z",
-      "open_issues": 372,
+      "updated_at": "2026-01-14T09:43:43Z",
+      "pushed_at": "2026-01-14T09:43:35Z",
+      "open_issues": 376,
       "owner": {
         "login": "apache",
         "avatar_url": "https://avatars.githubusercontent.com/u/47359?v=4"
@@ -4322,8 +4322,8 @@
       "full_name": "v8/v8",
       "description": "The official mirror of the V8 Git repository",
       "html_url": "https://github.com/v8/v8",
-      "stars": 24769,
-      "forks": 4205,
+      "stars": 24772,
+      "forks": 4206,
       "language": "C++",
       "topics": [
         "compiler",
@@ -4333,8 +4333,8 @@
         "virtual-machine"
       ],
       "created_at": "2014-09-24T15:24:30Z",
-      "updated_at": "2026-01-14T00:07:09Z",
-      "pushed_at": "2026-01-14T00:06:44Z",
+      "updated_at": "2026-01-14T12:12:05Z",
+      "pushed_at": "2026-01-14T12:11:46Z",
       "open_issues": 6,
       "owner": {
         "login": "v8",
@@ -4349,7 +4349,7 @@
       "full_name": "questdb/questdb",
       "description": "QuestDB is a high performance, open-source, time-series database",
       "html_url": "https://github.com/questdb/questdb",
-      "stars": 16555,
+      "stars": 16558,
       "forks": 1527,
       "language": "Java",
       "topics": [
@@ -4375,9 +4375,9 @@
         "tsdb"
       ],
       "created_at": "2014-04-28T23:29:15Z",
-      "updated_at": "2026-01-14T00:48:55Z",
-      "pushed_at": "2026-01-14T00:42:44Z",
-      "open_issues": 802,
+      "updated_at": "2026-01-14T10:52:31Z",
+      "pushed_at": "2026-01-14T12:22:53Z",
+      "open_issues": 803,
       "owner": {
         "login": "questdb",
         "avatar_url": "https://avatars.githubusercontent.com/u/52297642?v=4"
@@ -4391,8 +4391,8 @@
       "full_name": "JetBrains/ideavim",
       "description": "IdeaVim – A Vim engine for JetBrains IDEs",
       "html_url": "https://github.com/JetBrains/ideavim",
-      "stars": 10100,
-      "forks": 808,
+      "stars": 10102,
+      "forks": 807,
       "language": "Kotlin",
       "topics": [
         "ideavim",
@@ -4406,9 +4406,9 @@
         "vim"
       ],
       "created_at": "2011-03-09T15:22:27Z",
-      "updated_at": "2026-01-13T09:03:32Z",
-      "pushed_at": "2026-01-13T10:37:25Z",
-      "open_issues": 18,
+      "updated_at": "2026-01-14T08:47:51Z",
+      "pushed_at": "2026-01-14T09:03:43Z",
+      "open_issues": 19,
       "owner": {
         "login": "JetBrains",
         "avatar_url": "https://avatars.githubusercontent.com/u/878437?v=4"
@@ -4422,7 +4422,7 @@
       "full_name": "projectcalico/calico",
       "description": "Cloud native networking and network security",
       "html_url": "https://github.com/projectcalico/calico",
-      "stars": 6995,
+      "stars": 6998,
       "forks": 1526,
       "language": "Go",
       "topics": [
@@ -4445,9 +4445,9 @@
         "xdp"
       ],
       "created_at": "2016-07-21T15:45:54Z",
-      "updated_at": "2026-01-13T11:27:13Z",
-      "pushed_at": "2026-01-13T18:02:25Z",
-      "open_issues": 185,
+      "updated_at": "2026-01-14T12:02:46Z",
+      "pushed_at": "2026-01-14T09:44:26Z",
+      "open_issues": 183,
       "owner": {
         "login": "projectcalico",
         "avatar_url": "https://avatars.githubusercontent.com/u/12304728?v=4"
@@ -4461,12 +4461,12 @@
       "full_name": "sqlcipher/sqlcipher",
       "description": "SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.",
       "html_url": "https://github.com/sqlcipher/sqlcipher",
-      "stars": 6963,
+      "stars": 6965,
       "forks": 1357,
       "language": "C",
       "topics": [],
       "created_at": "2008-07-30T17:20:41Z",
-      "updated_at": "2026-01-13T21:42:41Z",
+      "updated_at": "2026-01-14T04:22:13Z",
       "pushed_at": "2025-12-08T15:25:58Z",
       "open_issues": 7,
       "owner": {
@@ -4482,7 +4482,7 @@
       "full_name": "vespa-engine/vespa",
       "description": "AI + Data, online. https://vespa.ai",
       "html_url": "https://github.com/vespa-engine/vespa",
-      "stars": 6720,
+      "stars": 6721,
       "forks": 692,
       "language": "Java",
       "topics": [
@@ -4502,9 +4502,9 @@
         "vespa"
       ],
       "created_at": "2016-06-03T20:54:20Z",
-      "updated_at": "2026-01-13T23:32:47Z",
-      "pushed_at": "2026-01-13T23:32:43Z",
-      "open_issues": 229,
+      "updated_at": "2026-01-14T11:58:25Z",
+      "pushed_at": "2026-01-14T12:00:54Z",
+      "open_issues": 230,
       "owner": {
         "login": "vespa-engine",
         "avatar_url": "https://avatars.githubusercontent.com/u/29299694?v=4"
@@ -4518,8 +4518,8 @@
       "full_name": "apache/nuttx",
       "description": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
       "html_url": "https://github.com/apache/nuttx",
-      "stars": 3630,
-      "forks": 1450,
+      "stars": 3631,
+      "forks": 1451,
       "language": "C",
       "topics": [
         "embedded",
@@ -4530,9 +4530,9 @@
         "rtos"
       ],
       "created_at": "2019-12-14T23:27:55Z",
-      "updated_at": "2026-01-13T21:56:43Z",
-      "pushed_at": "2026-01-13T21:56:39Z",
-      "open_issues": 767,
+      "updated_at": "2026-01-14T10:38:26Z",
+      "pushed_at": "2026-01-14T01:56:04Z",
+      "open_issues": 781,
       "owner": {
         "login": "apache",
         "avatar_url": "https://avatars.githubusercontent.com/u/47359?v=4"
@@ -4546,7 +4546,7 @@
       "full_name": "cloud-hypervisor/cloud-hypervisor",
       "description": "A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",
       "html_url": "https://github.com/cloud-hypervisor/cloud-hypervisor",
-      "stars": 5157,
+      "stars": 5160,
       "forks": 566,
       "language": "Rust",
       "topics": [
@@ -4556,9 +4556,9 @@
         "virtualization"
       ],
       "created_at": "2019-04-30T22:49:03Z",
-      "updated_at": "2026-01-13T15:28:09Z",
-      "pushed_at": "2026-01-13T21:45:51Z",
-      "open_issues": 151,
+      "updated_at": "2026-01-14T12:19:34Z",
+      "pushed_at": "2026-01-14T11:51:23Z",
+      "open_issues": 149,
       "owner": {
         "login": "cloud-hypervisor",
         "avatar_url": "https://avatars.githubusercontent.com/u/50487650?v=4"
@@ -4572,14 +4572,14 @@
       "full_name": "publicsuffix/list",
       "description": "The Public Suffix List",
       "html_url": "https://github.com/publicsuffix/list",
-      "stars": 2700,
-      "forks": 1479,
+      "stars": 2702,
+      "forks": 1481,
       "language": "Go",
       "topics": [],
       "created_at": "2015-05-19T15:12:26Z",
-      "updated_at": "2026-01-13T21:23:42Z",
+      "updated_at": "2026-01-14T09:44:01Z",
       "pushed_at": "2026-01-13T11:09:54Z",
-      "open_issues": 33,
+      "open_issues": 35,
       "owner": {
         "login": "publicsuffix",
         "avatar_url": "https://avatars.githubusercontent.com/u/2463634?v=4"
@@ -4619,7 +4619,7 @@
       "full_name": "android/nav3-recipes",
       "description": "Implement common use cases with Jetpack Navigation 3",
       "html_url": "https://github.com/android/nav3-recipes",
-      "stars": 1100,
+      "stars": 1102,
       "forks": 116,
       "language": "Kotlin",
       "topics": [
@@ -4628,7 +4628,7 @@
         "navigation"
       ],
       "created_at": "2025-05-13T05:23:51Z",
-      "updated_at": "2026-01-13T07:38:35Z",
+      "updated_at": "2026-01-14T10:21:32Z",
       "pushed_at": "2026-01-12T18:14:19Z",
       "open_issues": 56,
       "owner": {
@@ -4644,7 +4644,7 @@
       "full_name": "Arturo254/OpenTune",
       "description": "Un cliente de YouTube Music con Material Design 3, para Android",
       "html_url": "https://github.com/Arturo254/OpenTune",
-      "stars": 1103,
+      "stars": 1104,
       "forks": 82,
       "language": "Kotlin",
       "topics": [
@@ -4657,9 +4657,9 @@
         "youtubemusic"
       ],
       "created_at": "2023-12-25T00:23:00Z",
-      "updated_at": "2026-01-13T11:17:15Z",
+      "updated_at": "2026-01-14T08:41:50Z",
       "pushed_at": "2026-01-12T03:38:50Z",
-      "open_issues": 243,
+      "open_issues": 244,
       "owner": {
         "login": "Arturo254",
         "avatar_url": "https://avatars.githubusercontent.com/u/87346871?v=4"
@@ -4673,8 +4673,8 @@
       "full_name": "onevcat/Kingfisher",
       "description": "A lightweight, pure-Swift library for downloading and caching images from the web.",
       "html_url": "https://github.com/onevcat/Kingfisher",
-      "stars": 24234,
-      "forks": 2744,
+      "stars": 24236,
+      "forks": 2745,
       "language": "Swift",
       "topics": [
         "cache",
@@ -4688,7 +4688,7 @@
         "xcode"
       ],
       "created_at": "2015-04-06T14:26:21Z",
-      "updated_at": "2026-01-13T19:22:58Z",
+      "updated_at": "2026-01-14T12:27:02Z",
       "pushed_at": "2026-01-05T14:19:51Z",
       "open_issues": 172,
       "owner": {
@@ -4715,9 +4715,9 @@
         "tls"
       ],
       "created_at": "2012-11-14T13:13:13Z",
-      "updated_at": "2026-01-13T23:41:02Z",
-      "pushed_at": "2026-01-13T23:40:56Z",
-      "open_issues": 1563,
+      "updated_at": "2026-01-14T09:15:08Z",
+      "pushed_at": "2026-01-14T09:15:02Z",
+      "open_issues": 1562,
       "owner": {
         "login": "Mbed-TLS",
         "avatar_url": "https://avatars.githubusercontent.com/u/97226525?v=4"
@@ -4731,7 +4731,7 @@
       "full_name": "tidyverse/ggplot2",
       "description": "An implementation of the Grammar of Graphics in R",
       "html_url": "https://github.com/tidyverse/ggplot2",
-      "stars": 6853,
+      "stars": 6854,
       "forks": 2117,
       "language": "R",
       "topics": [
@@ -4740,9 +4740,9 @@
         "visualisation"
       ],
       "created_at": "2008-05-25T01:21:32Z",
-      "updated_at": "2026-01-13T19:24:38Z",
+      "updated_at": "2026-01-14T08:20:54Z",
       "pushed_at": "2025-12-18T13:22:01Z",
-      "open_issues": 92,
+      "open_issues": 91,
       "owner": {
         "login": "tidyverse",
         "avatar_url": "https://avatars.githubusercontent.com/u/22032646?v=4"
@@ -4756,7 +4756,7 @@
       "full_name": "harfbuzz/harfbuzz",
       "description": "HarfBuzz text shaping engine",
       "html_url": "https://github.com/harfbuzz/harfbuzz",
-      "stars": 5280,
+      "stars": 5281,
       "forks": 708,
       "language": "C++",
       "topics": [
@@ -4773,7 +4773,7 @@
         "variable-fonts"
       ],
       "created_at": "2012-07-14T19:50:26Z",
-      "updated_at": "2026-01-14T00:21:12Z",
+      "updated_at": "2026-01-14T11:37:05Z",
       "pushed_at": "2026-01-12T20:41:22Z",
       "open_issues": 86,
       "owner": {
@@ -4801,7 +4801,7 @@
       "created_at": "2017-07-07T03:38:51Z",
       "updated_at": "2026-01-13T15:28:50Z",
       "pushed_at": "2025-11-17T17:51:33Z",
-      "open_issues": 194,
+      "open_issues": 195,
       "owner": {
         "login": "pointfreeco",
         "avatar_url": "https://avatars.githubusercontent.com/u/29466629?v=4"
@@ -4841,7 +4841,7 @@
       "full_name": "prebid/Prebid.js",
       "description": "Setup and manage header bidding advertising partners without writing code or confusing line items. Prebid.js is open source and free.",
       "html_url": "https://github.com/prebid/Prebid.js",
-      "stars": 1526,
+      "stars": 1527,
       "forks": 2294,
       "language": "JavaScript",
       "topics": [
@@ -4850,7 +4850,7 @@
         "prebid"
       ],
       "created_at": "2015-07-19T03:26:23Z",
-      "updated_at": "2026-01-13T21:10:49Z",
+      "updated_at": "2026-01-14T01:28:33Z",
       "pushed_at": "2026-01-13T21:10:45Z",
       "open_issues": 142,
       "owner": {
@@ -4866,7 +4866,7 @@
       "full_name": "kubernetes-sigs/kueue",
       "description": "Kubernetes-native Job Queueing",
       "html_url": "https://github.com/kubernetes-sigs/kueue",
-      "stars": 2253,
+      "stars": 2255,
       "forks": 505,
       "language": "Go",
       "topics": [
@@ -4875,8 +4875,8 @@
         "kubernetes"
       ],
       "created_at": "2022-02-16T05:52:19Z",
-      "updated_at": "2026-01-13T20:54:54Z",
-      "pushed_at": "2026-01-13T21:45:36Z",
+      "updated_at": "2026-01-14T12:15:58Z",
+      "pushed_at": "2026-01-14T11:53:35Z",
       "open_issues": 354,
       "owner": {
         "login": "kubernetes-sigs",
@@ -4900,8 +4900,8 @@
       ],
       "created_at": "2016-03-08T17:42:37Z",
       "updated_at": "2026-01-13T19:12:12Z",
-      "pushed_at": "2026-01-13T22:29:41Z",
-      "open_issues": 2539,
+      "pushed_at": "2026-01-14T06:31:45Z",
+      "open_issues": 2542,
       "owner": {
         "login": "sonic-net",
         "avatar_url": "https://avatars.githubusercontent.com/u/102750714?v=4"
@@ -4937,7 +4937,7 @@
       "description": "R for data science: a book",
       "html_url": "https://github.com/hadley/r4ds",
       "stars": 4967,
-      "forks": 4390,
+      "forks": 4392,
       "language": "R",
       "topics": [
         "book",
@@ -5041,9 +5041,9 @@
         "websockets"
       ],
       "created_at": "2011-07-14T01:11:57Z",
-      "updated_at": "2026-01-14T00:43:30Z",
-      "pushed_at": "2026-01-13T23:09:27Z",
-      "open_issues": 262,
+      "updated_at": "2026-01-14T02:26:19Z",
+      "pushed_at": "2026-01-14T02:26:14Z",
+      "open_issues": 261,
       "owner": {
         "login": "jetty",
         "avatar_url": "https://avatars.githubusercontent.com/u/143739000?v=4"
@@ -5057,7 +5057,7 @@
       "full_name": "open62541/open62541",
       "description": "Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0",
       "html_url": "https://github.com/open62541/open62541",
-      "stars": 2997,
+      "stars": 2999,
       "forks": 1381,
       "language": "C",
       "topics": [
@@ -5075,9 +5075,9 @@
         "tsn"
       ],
       "created_at": "2013-12-20T08:45:05Z",
-      "updated_at": "2026-01-13T15:18:29Z",
+      "updated_at": "2026-01-14T11:15:32Z",
       "pushed_at": "2026-01-13T15:18:08Z",
-      "open_issues": 864,
+      "open_issues": 865,
       "owner": {
         "login": "open62541",
         "avatar_url": "https://avatars.githubusercontent.com/u/16096536?v=4"
@@ -5091,14 +5091,14 @@
       "full_name": "DefiLlama/DefiLlama-Adapters",
       "description": null,
       "html_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
-      "stars": 1105,
-      "forks": 6816,
+      "stars": 1107,
+      "forks": 6818,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2020-11-14T00:41:54Z",
-      "updated_at": "2026-01-13T20:04:12Z",
-      "pushed_at": "2026-01-13T16:47:52Z",
-      "open_issues": 186,
+      "updated_at": "2026-01-14T10:50:55Z",
+      "pushed_at": "2026-01-14T10:50:50Z",
+      "open_issues": 181,
       "owner": {
         "login": "DefiLlama",
         "avatar_url": "https://avatars.githubusercontent.com/u/82048198?v=4"
@@ -5112,7 +5112,7 @@
       "full_name": "element-hq/element-x-android",
       "description": "Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose",
       "html_url": "https://github.com/element-hq/element-x-android",
-      "stars": 1770,
+      "stars": 1771,
       "forks": 372,
       "language": "Kotlin",
       "topics": [
@@ -5120,9 +5120,9 @@
         "matrix"
       ],
       "created_at": "2022-10-06T07:59:24Z",
-      "updated_at": "2026-01-13T22:19:05Z",
-      "pushed_at": "2026-01-13T17:19:09Z",
-      "open_issues": 548,
+      "updated_at": "2026-01-14T12:26:48Z",
+      "pushed_at": "2026-01-14T12:26:43Z",
+      "open_issues": 546,
       "owner": {
         "login": "element-hq",
         "avatar_url": "https://avatars.githubusercontent.com/u/13446337?v=4"
@@ -5362,12 +5362,12 @@
       "full_name": "mattt/AnyLanguageModel",
       "description": "An API-compatible, drop-in replacement for Apple's Foundation Models framework with support for custom language model providers.",
       "html_url": "https://github.com/mattt/AnyLanguageModel",
-      "stars": 649,
+      "stars": 651,
       "forks": 45,
       "language": "Swift",
       "topics": [],
       "created_at": "2025-10-05T12:32:00Z",
-      "updated_at": "2026-01-13T21:05:57Z",
+      "updated_at": "2026-01-14T11:22:31Z",
       "pushed_at": "2026-01-05T17:03:39Z",
       "open_issues": 17,
       "owner": {
@@ -5445,5 +5445,5 @@
       "stars_today": 0
     }
   ],
-  "created_at": "2026-01-14T01:08:16.397107802Z"
+  "created_at": "2026-01-14T12:30:28.378505591Z"
 }
