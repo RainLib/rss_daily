@@ -4,11 +4,11 @@
 
 ## 📋 Overview
 
-**10** 个项目 | **235808** ⭐ | **21758** 🍴
+**10** 个项目 | **131340** ⭐ | **14090** 🍴
 
-**热门语言:** `TypeScript` (4) · `Rust` (3) · `JavaScript` (1)
+**热门语言:** `TypeScript` (3) · `Go` (3) · `Rust` (2)
 
-**更新时间:** 2026-01-15 01:05 UTC
+**更新时间:** 2026-01-15 12:31 UTC
 
 **分类分布:**
 
@@ -18,116 +18,115 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [opencode](https://github.com/anomalyco/opencode)
+### 1. [datahaven](https://github.com/datahaven-xyz/datahaven)
 
 > 🤖 **推荐理由**  
-> *OpenCode is an open-source AI coding agent designed to enhance development workflows. It features two built-in agents: a full-access "build" agent for coding tasks and a read-only "plan" agent for code exploration. With support for multiple platforms (Windows, macOS, Linux), it offers a seamless installation process and a desktop app. OpenCode is provider-agnostic, allowing integration with various AI models. Unique for its terminal-focused user interface, it aims to maximize terminal capabilities. Join the community on Discord for support and collaboration.*
+> *DataHaven is an AI-first decentralized storage network built on an EVM-compatible Substrate chain, leveraging StorageHub and secured by EigenLayer's restaking protocol. It offers verifiable, production-scale storage with features like chunked file storage, cryptographic proofs, and a two-tier provider network comprising Main and Backup Storage Providers. DataHaven supports Ethereum smart contracts, enabling seamless integration with existing Web3 tools. Key highlights include trustless cross-chain messaging via Snowbridge, ensuring data integrity and redundancy for AI training data and Web3 applications.*
 
-- ⭐ 69321 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-01-15
-
-![opencode](2026-01-15_daily-top_opencode.png)
-
-### 2. [datahaven](https://github.com/datahaven-xyz/datahaven)
-
-> 🤖 **推荐理由**  
-> *DataHaven is an EVM-compatible decentralized storage network, leveraging StorageHub and secured by EigenLayer. It offers verifiable, production-scale storage for AI training data and Web3 applications. Key features include cryptographic proof of data integrity through Merkle trees, a two-tier storage provider model (Main and Backup Storage Providers), Ethereum restaking for validator security, and a trustless cross-chain bridge via Snowbridge. DataHaven supports smart contracts and is designed for applications requiring tamper-proof data storage, such as AI, IoT, and real-world asset management.*
-
-- ⭐ 3073 stars
+- ⭐ 3281 stars
 - 💻 Rust
 - 📅 Updated: 2026-01-15
 
 ![datahaven](2026-01-15_daily-top_datahaven.png)
 
-### 3. [onlook](https://github.com/onlook-dev/onlook)
+### 2. [eigent](https://github.com/eigent-ai/eigent)
 
 > 🤖 **推荐理由**  
-> *Onlook is an open-source, AI-first design tool that empowers designers to visually build and edit React applications using Next.js and TailwindCSS. With features like a Figma-like UI for real-time editing, instant app creation from templates, and an integrated code editor, users can seamlessly manage brand assets and collaborate in real-time. Onlook supports deploying apps quickly, offers AI-driven capabilities for enhanced functionality, and is actively seeking contributors to expand its features. Explore more at [onlook.com](https://onlook.com).*
+> *Eigent is an open-source cowork desktop application designed to enhance productivity through a customizable AI workforce. Key features include zero setup, multi-agent coordination for complex workflows, and support for local deployment, ensuring data privacy. It integrates with various tools via the Model Context Protocol (MCP) and supports custom models. Ideal for both individual and enterprise users, Eigent also offers a cloud-hosted option for managed infrastructure. With a focus on transparency and community involvement, Eigent is built on the CAMEL-AI framework and fosters innovation in task automation.*
 
-- ⭐ 24355 stars
+- ⭐ 5134 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-15
 
-![onlook](2026-01-15_daily-top_onlook.png)
+![eigent](2026-01-15_daily-top_eigent.png)
 
-### 4. [frigate](https://github.com/blakeblackshear/frigate)
+### 3. [daytona](https://github.com/daytonaio/daytona)
 
 > 🤖 **推荐理由**  
-> *Frigate is a powerful NVR solution designed for IP cameras, featuring real-time local object detection using AI with OpenCV and TensorFlow. It integrates seamlessly with Home Assistant, optimizing resource usage by detecting objects only when necessary. Key features include GPU support for enhanced performance, low-overhead motion detection, MQTT communication for easy integration, and versatile recording options. Frigate also offers a user-friendly live dashboard, streamlined review workflow, and built-in editing tools for masks and zones. The project is open-source under the MIT License.*
+> *Daytona is a secure and elastic infrastructure designed for running AI-generated code, boasting over 46,500 stars on GitHub. Key features include lightning-fast sandbox creation (under 90ms), isolated runtime execution to safeguard infrastructure, and support for massive parallelization of AI workflows. Daytona offers programmatic control through various APIs and unlimited sandbox persistence. It supports OCI/Docker images and provides SDKs for both Python and TypeScript, making it accessible for developers. For detailed documentation, visit [daytona.io](https://www.daytona.io/docs).*
 
-- ⭐ 29190 stars
+- ⭐ 46564 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-15
 
-![frigate](2026-01-15_daily-top_frigate.png)
+![daytona](2026-01-15_daily-top_daytona.png)
 
-### 5. [cc-switch](https://github.com/farion1231/cc-switch)
-
-> 🤖 **推荐理由**  
-> *cc-switch is a cross-platform desktop assistant tool designed for Claude Code, Codex, and Gemini CLI, built in Rust. With over 11,000 stars, it offers seamless provider management with one-click switching, a user-friendly interface, and integrated skills and prompts management. Key features include SQLite-based data storage, multi-language support (English, Chinese, Japanese), and auto-launch capabilities. The app also supports cloud sync, API latency testing, and a user-friendly MCP server management system. Sponsored by Z.ai, PackyCode, and AIGoCode, it enhances the AI coding experience for developers.*
-
-- ⭐ 11256 stars
-- 💻 Rust
-- 📅 Updated: 2026-01-15
-
-![cc-switch](2026-01-15_daily-top_cc-switch.png)
-
-### 6. [memos](https://github.com/usememos/memos)
+### 4. [awesome-copilot](https://github.com/github/awesome-copilot)
 
 > 🤖 **推荐理由**  
-> *Memos is an open-source, self-hosted note-taking service designed for privacy and control, ensuring no tracking, ads, or subscription fees. Built with Go and React, it offers lightning-fast performance and supports full markdown for easy note-taking. Key features include complete data ownership, zero telemetry, a simple one-line Docker installation, and extensive REST and gRPC APIs for developers. Memos is ideal for personal notes, team wikis, and knowledge management. Try the live demo or explore documentation to get started.*
+> *Awesome Copilot is a community-driven repository designed to enhance your GitHub Copilot experience. It offers specialized agents, prompts, and instructions tailored for various programming languages and workflows. Key features include Awesome Agents for enhanced capabilities, task-specific Awesome Prompts for generating code and documentation, and comprehensive Awesome Instructions that establish coding standards. With curated collections and an MCP Server for easy integration, users can quickly access resources to boost productivity and maintain best practices in software development.*
 
-- ⭐ 54124 stars
-- 💻 Go
-- 📅 Updated: 2026-01-15
-
-![memos](2026-01-15_daily-top_memos.png)
-
-### 7. [awesome-copilot](https://github.com/github/awesome-copilot)
-
-> 🤖 **推荐理由**  
-> *Awesome Copilot is a community-driven repository designed to enhance your GitHub Copilot experience with a collection of custom agents, prompts, and instructions. Key features include specialized agents for specific workflows, task-specific prompts for code generation and documentation, comprehensive coding standards, and curated collections organized by themes. The MCP Server facilitates easy integration of these resources into various editors. With over 17,500 stars, this project is a valuable toolkit for improving productivity and access to best practices in coding.*
-
-- ⭐ 17564 stars
+- ⭐ 17630 stars
 - 💻 JavaScript
 - 📅 Updated: 2026-01-15
 
 ![awesome-copilot](2026-01-15_daily-top_awesome-copilot.png)
 
-### 8. [FossFLOW](https://github.com/stan-smith/FossFLOW)
+### 5. [FossFLOW](https://github.com/stan-smith/FossFLOW)
 
 > 🤖 **推荐理由**  
-> *FossFLOW is an open-source Progressive Web App for creating stunning isometric infrastructure diagrams, built with TypeScript and React. It features multilingual support in 9 languages, a user-friendly interface, and an improved connector tool for easy diagram creation. Users can save diagrams locally, export/import as JSON, and enjoy offline functionality. Quick deployment is available via Docker. The project is actively maintained, with a roadmap for future enhancements. Join the community and contribute to this innovative diagramming tool!*
+> *FossFLOW is an open-source Progressive Web App for creating stunning isometric infrastructure diagrams. Built with TypeScript and React, it offers offline support and a multilingual interface in nine languages. Key features include a user-friendly component library, click-based connector tool for easy item connections, and various storage options (session, JSON export/import). FossFLOW also supports Docker deployment for quick setup. With 16,335 stars on GitHub, it invites contributions and fosters collaboration, ensuring open access to diagramming capabilities.*
 
-- ⭐ 16313 stars
+- ⭐ 16335 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-15
 
 ![FossFLOW](2026-01-15_daily-top_FossFLOW.png)
 
-### 9. [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects)
+### 6. [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects)
 
 > 🤖 **推荐理由**  
-> *DevOps-Projects is a comprehensive GitHub repository designed for aspiring DevOps engineers, offering hands-on learning through real-world projects. Spanning beginner to advanced levels, it covers key DevOps concepts such as automated deployment, CI/CD pipelines, and infrastructure as code using AWS services like EC2 and RDS. The repository features detailed guides, practical solutions, and a modern showcase website built with Next.js. Additionally, it integrates DevOps with technologies like machine learning and containerization, fostering community engagement and collaboration.*
+> *DevOps-Projects is a comprehensive GitHub repository designed for aspiring DevOps engineers, offering hands-on projects ranging from beginner to advanced levels. Key features include detailed guides for deploying scalable systems on AWS, use of CI/CD pipelines, and integration with various technologies such as Docker and machine learning. Projects cover automated deployment, monitoring, and security practices, making it a valuable learning hub. The repository fosters community engagement and contributions, encouraging users to enhance their skills through real-world applications.*
 
-- ⭐ 3204 stars
+- ⭐ 3224 stars
 - 💻 Java
 - 📅 Updated: 2026-01-15
 
 ![DevOps-Projects](2026-01-15_daily-top_DevOps-Projects.png)
 
-### 10. [tailspin](https://github.com/bensadeh/tailspin)
+### 7. [convex-backend](https://github.com/get-convex/convex-backend)
 
 > 🤖 **推荐理由**  
-> *🌀 A log file highlighter. popular project, actively maintained, recently updated*
+> *Convex is an open-source reactive database designed for web app developers, enabling data fetching and business logic execution with strong consistency through pure TypeScript. It features a cloud platform with a generous free tier, facilitating the development of dynamic, live-updating applications without infrastructure concerns. Convex also supports self-hosting with features like a dashboard, CLI, and compatibility with various tools. Community support is available through Discord, and contributions are welcomed. Explore more in the documentation at convex.dev.*
 
-- ⭐ 7408 stars
-- 🍴 126 forks
+- ⭐ 9362 stars
 - 💻 Rust
 - 📅 Updated: 2026-01-15
 
-![tailspin](2026-01-15_daily-top_tailspin.png)
+![convex-backend](2026-01-15_daily-top_convex-backend.png)
+
+### 8. [go-concurrency-exercises](https://github.com/loong/go-concurrency-exercises)
+
+> 🤖 **推荐理由**  
+> *The "go-concurrency-exercises" repository offers hands-on exercises designed to teach Go concurrency patterns through practical application. With 1,704 stars, it provides real-life challenges such as Producer-Consumer, race condition scenarios, and graceful SIGINT handling. Users are guided to edit `main.go` to solve problems, with test cases available for validation. The project emphasizes a "learning by doing" approach, encouraging community interaction via Discord and Slack for support and code reviews.*
+
+- ⭐ 1704 stars
+- 💻 Go
+- 📅 Updated: 2026-01-15
+
+![go-concurrency-exercises](2026-01-15_daily-top_go-concurrency-exercises.png)
+
+### 9. [WeKnora](https://github.com/Tencent/WeKnora)
+
+> 🤖 **推荐理由**  
+> *WeKnora is an LLM-powered framework designed for deep document understanding and semantic retrieval, utilizing the Retrieval-Augmented Generation (RAG) paradigm. Key features include Agent Mode for intelligent Q&A, support for multiple knowledge base types, and advanced document parsing from various formats. It offers customizable retrieval strategies, web search integration, and flexible deployment options. WeKnora enhances knowledge management across sectors such as enterprise, research, and medical fields, ensuring secure, context-aware user interactions.*
+
+- ⭐ 11806 stars
+- 💻 Go
+- 📅 Updated: 2026-01-15
+
+![WeKnora](2026-01-15_daily-top_WeKnora.png)
+
+### 10. [waveterm](https://github.com/wavetermdev/waveterm)
+
+> 🤖 **推荐理由**  
+> *WaveTerm is an open-source, cross-platform terminal designed to enhance workflows by integrating graphical capabilities directly within the terminal environment. Key features include a drag-and-drop interface for organizing terminal blocks and tools, a built-in code editor with syntax highlighting, and a rich file preview system. Wave AI, a context-aware assistant, helps with debugging and file operations. It supports seamless remote connections, secure secret storage, and a powerful command management system. Available on macOS, Linux, and Windows, WaveTerm aims to streamline modern development tasks efficiently.*
+
+- ⭐ 16300 stars
+- 💻 Go
+- 📅 Updated: 2026-01-15
+
+![waveterm](2026-01-15_daily-top_waveterm.png)
 
 ---
 
@@ -141,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-15 01:05:00 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-15 12:31:16 UTC
