@@ -4,11 +4,11 @@
 
 ## 📋 Overview
 
-**10** 个项目 | **164767** ⭐ | **16079** 🍴
+**10** 个项目 | **113322** ⭐ | **9606** 🍴
 
-**热门语言:** `Go` (4) · `TypeScript` (3) · `JavaScript` (2)
+**热门语言:** `TypeScript` (4) · `Go` (4) · `Rust` (1)
 
-**更新时间:** 2026-01-16 01:07 UTC
+**更新时间:** 2026-01-16 12:29 UTC
 
 **分类分布:**
 
@@ -21,112 +21,112 @@
 ### 1. [eigent](https://github.com/eigent-ai/eigent)
 
 > 🤖 **推荐理由**  
-> *Eigent is an open-source cowork desktop application designed to enhance productivity through a customizable AI workforce. Key features include a multi-agent system for parallel task execution, zero setup requirements, local deployment for data privacy, and enterprise-level functionalities like SSO and access control. It supports comprehensive model integration and offers seamless MCP tools for enhanced capabilities. Ideal for automating complex workflows, Eigent fosters a transparent, community-driven ecosystem, ensuring users can build and deploy their unique AI solutions efficiently.*
+> *Eigent is an open-source cowork desktop application designed to enhance productivity through a customizable AI workforce. It features a Multi-Agent Coordination system for parallel task execution, zero setup requirements, and local deployment for data privacy. Key highlights include comprehensive model support, integration with Model Context Protocol (MCP) tools, and a Human-in-the-Loop mechanism for task management. Ideal for enterprises, Eigent supports SSO and access control, making it a versatile solution for automating complex workflows efficiently.*
 
-- ⭐ 6020 stars
+- ⭐ 7229 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-16
 
 ![eigent](2026-01-16_daily-top_eigent.png)
 
-### 2. [datahaven](https://github.com/datahaven-xyz/datahaven)
+### 2. [Handy](https://github.com/cjpais/Handy)
 
 > 🤖 **推荐理由**  
-> *DataHaven is an AI-first decentralized storage network built on an EVM-compatible Substrate chain, leveraging StorageHub and secured by EigenLayer's restaking protocol. Key features include verifiable storage through Merkle trees, a dual provider network with Main Storage Providers (MSPs) and Backup Storage Providers (BSPs), and robust security mechanisms with slashing for misbehavior. It supports Ethereum smart contracts, offers trustless cross-chain bridging via Snowbridge, and is suitable for AI, IoT, and Real World Asset applications.*
+> *Handy is a free, open-source speech-to-text application that operates offline, prioritizing privacy and extensibility. Built with Tauri (Rust + React/TypeScript), it allows users to transcribe speech directly into any text field using customizable keyboard shortcuts. Key features include local processing with Whisper and Parakeet models, support for multiple platforms (Windows, macOS, Linux), and a simple interface designed for ease of use. The project actively encourages community contributions and offers detailed documentation for setup and development.*
 
-- ⭐ 3515 stars
-- 💻 Rust
+- ⭐ 11573 stars
+- 💻 TypeScript
 - 📅 Updated: 2026-01-16
 
-![datahaven](2026-01-16_daily-top_datahaven.png)
+![Handy](2026-01-16_daily-top_Handy.png)
 
 ### 3. [LocalAI](https://github.com/mudler/LocalAI)
 
 > 🤖 **推荐理由**  
-> *LocalAI is an open-source, self-hosted AI platform designed as a free alternative to OpenAI, Claude, and others, functioning seamlessly on consumer-grade hardware without the need for a GPU. It supports multiple model families, including text, audio, image, and video generation, alongside voice cloning and decentralized inference. Key features include a drop-in replacement for OpenAI's API, support for various AI backends, and a user-friendly WebUI. With over 41,000 stars on GitHub, LocalAI fosters a strong community and offers extensive documentation for quick setup and integration.*
+> *LocalAI is a free, open-source alternative to OpenAI, enabling local AI inference on consumer-grade hardware without requiring a GPU. It serves as a drop-in REST API replacement, supporting text, audio, video, and image generation, along with voice cloning and decentralized P2P inference. Key features include a variety of backends for LLMs, audio processing, and image generation, alongside advanced capabilities like Model Context Protocol (MCP) for agentic functionalities. LocalAI integrates seamlessly into existing workflows, offering a comprehensive suite of AI tools.*
 
-- ⭐ 41913 stars
+- ⭐ 42070 stars
 - 💻 Go
 - 📅 Updated: 2026-01-16
 
 ![LocalAI](2026-01-16_daily-top_LocalAI.png)
 
-### 4. [daytona](https://github.com/daytonaio/daytona)
+### 4. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **推荐理由**  
-> *Daytona is a secure, elastic infrastructure designed for executing AI-generated code, built with TypeScript. Key features include lightning-fast sandbox creation (under 90ms), isolated runtimes to ensure security, massive parallelization for concurrent workflows, and programmatic control via APIs. It supports OCI/Docker images, allowing for extensive customization. Users can easily create and manage sandboxes using the Python or TypeScript SDKs. With over 46,000 stars on GitHub, Daytona offers a robust solution for developers looking to safely run AI-driven applications.*
+> *cc-switch is a cross-platform All-in-One assistant tool for Claude Code, Codex, and Gemini CLI, built with Rust and Tauri. It features a dual-layer SQLite + JSON architecture for data management, a redesigned UI, and support for multiple languages. Key capabilities include seamless provider switching, skills and prompts management, and synchronization across devices. Users benefit from integration with services like PackyCode and AIGoCode for reliable API access. With over 11,700 stars, cc-switch offers a robust solution for efficient AI coding workflows.*
 
-- ⭐ 46773 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-01-15
+- ⭐ 11717 stars
+- 💻 Rust
+- 📅 Updated: 2026-01-16
 
-![daytona](2026-01-16_daily-top_daytona.png)
+![cc-switch](2026-01-16_daily-top_cc-switch.png)
 
 ### 5. [AionUi](https://github.com/iOfficeAI/AionUi)
 
 > 🤖 **推荐理由**  
-> *AionUi is a free, open-source platform designed for seamless collaboration with command-line AI tools like Gemini CLI, Claude Code, Codex, and more. It features a user-friendly graphical interface, automatic detection of installed CLI tools, and robust local data security. Key highlights include multi-agent support, smart file management, real-time previews for various formats, and the ability to run multiple tasks in parallel. AionUi also offers a WebUI mode for remote access, ensuring flexibility and efficiency in AI-driven workflows across macOS, Windows, and Linux.*
+> *AionUi is a free, open-source coworking platform for command-line AI tools like Gemini CLI, Claude Code, and Codex, supporting macOS, Windows, and Linux. With a user-friendly graphical interface, it offers features such as multi-agent support, local data security, smart file management, and real-time previews for various document formats. AionUi enables efficient batch processing, intelligent organization of files, and remote access via WebUI. This unified platform enhances workflow by allowing multiple simultaneous sessions and flexible model switching, making it ideal for AI office automation.*
 
-- ⭐ 3887 stars
+- ⭐ 3974 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-16
 
 ![AionUi](2026-01-16_daily-top_AionUi.png)
 
-### 6. [WeKnora](https://github.com/Tencent/WeKnora)
+### 6. [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC)
 
 > 🤖 **推荐理由**  
-> *WeKnora is a powerful LLM-based framework designed for deep document understanding and semantic retrieval using the Retrieval-Augmented Generation (RAG) paradigm. Key features include a versatile Agent Mode for intelligent Q&A, support for multi-type knowledge bases, and precise document parsing from various formats. It employs hybrid retrieval strategies, integrates web search, and offers customizable components for enhanced flexibility. With robust security measures and user-friendly interfaces, WeKnora is ideal for applications in enterprise knowledge management, academic research, and technical support.*
+> *SpotiFLAC is a free tool that allows users to download Spotify tracks in true FLAC format from Tidal, Qobuz, and Amazon Music without needing an account. Built in TypeScript, it has garnered over 3,130 stars on GitHub. Core features include easy audio fetching via third-party APIs, compatibility with Windows, macOS, and Linux, and no risk of account suspension as it operates independently of Spotify. The project is intended for educational and private use only and emphasizes user compliance with local laws and platform terms.*
 
-- ⭐ 11832 stars
+- ⭐ 3130 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-01-16
+
+![SpotiFLAC](2026-01-16_daily-top_SpotiFLAC.png)
+
+### 7. [juicefs](https://github.com/juicedata/juicefs)
+
+> 🤖 **推荐理由**  
+> *JuiceFS is a high-performance, distributed POSIX file system built on Redis and S3, designed for cloud-native environments. It provides seamless integration with big data and AI platforms, enabling massive cloud storage to function like local storage. Key features include full POSIX and Hadoop compatibility, an S3-compatible interface, strong consistency, and global file locks. JuiceFS supports various object storage solutions, offers robust performance metrics, data encryption, and compression. It is production-ready, with extensive documentation and community support available.*
+
+- ⭐ 12932 stars
+- 💻 Go
+- 📅 Updated: 2026-01-16
+
+![juicefs](2026-01-16_daily-top_juicefs.png)
+
+### 8. [WeKnora](https://github.com/Tencent/WeKnora)
+
+> 🤖 **推荐理由**  
+> *WeKnora is an LLM-powered framework for deep document understanding and semantic retrieval, leveraging the RAG paradigm for context-aware answers. Key features include an Agent Mode for advanced interactions, support for multiple knowledge base types, efficient hybrid retrieval strategies, and integration with web search engines. It supports various document formats and offers intuitive UI, RESTful APIs, and secure deployment options. Ideal for enterprise knowledge management, academic research, and technical support, WeKnora enhances knowledge discovery and user engagement.*
+
+- ⭐ 11979 stars
 - 💻 Go
 - 📅 Updated: 2026-01-16
 
 ![WeKnora](2026-01-16_daily-top_WeKnora.png)
 
-### 7. [cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp)
+### 9. [cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp)
 
 > 🤖 **推荐理由**  
-> *Cursor Talk to Figma MCP integrates Cursor AI with Figma, enabling programmatic design manipulation. Key features include a TypeScript MCP server, a Figma plugin for seamless communication, and a WebSocket server for real-time interaction. Users can perform tasks like bulk text replacement, propagate instance overrides, and modify designs through various MCP tools. The project supports automatic layout adjustments, style modifications, and advanced prototyping features. With over 6,100 stars, it streamlines design workflows and enhances collaboration between AI and design tools.*
+> *Cursor Talk to Figma MCP integrates Cursor AI with Figma, enabling programmatic design manipulation and reading. Key features include a TypeScript MCP server, a Figma plugin for communication, and a WebSocket server facilitating real-time interaction. Notable capabilities include bulk text replacement, instance override propagation, and comprehensive document and selection tools. The project supports efficient design automation, annotations, prototyping, and styling operations, significantly enhancing workflow efficiency for designers. With over 6,120 stars, it is a valuable asset for design automation.*
 
-- ⭐ 6113 stars
+- ⭐ 6120 stars
 - 💻 JavaScript
 - 📅 Updated: 2026-01-16
 
 ![cursor-talk-to-figma-mcp](2026-01-16_daily-top_cursor-talk-to-figma-mcp.png)
 
-### 8. [rancher](https://github.com/rancher/rancher)
+### 10. [Acontext](https://github.com/memodb-io/Acontext)
 
 > 🤖 **推荐理由**  
-> *Rancher is an open-source container management platform designed for organizations deploying containers in production. It simplifies running Kubernetes across various environments, meeting IT requirements while empowering DevOps teams. Key features include easy installation, support for multiple operating systems, and a comprehensive documentation resource. With over 25,000 stars on GitHub, Rancher fosters community engagement through forums and Slack. The project is maintained under the Apache License 2.0 and provides a robust solution for modern container orchestration needs.*
+> *Acontext is a powerful data platform designed for context engineering, enabling the development of cloud-native AI agents. It offers unified message storage across various modalities, built-in context editing, and robust task observation to enhance agent performance. Key features include self-learning capabilities through experience agents, a comprehensive dashboard for monitoring agent success rates, and persistent storage options using PostgreSQL, Redis, and S3. Acontext streamlines agent management and empowers users to build scalable, efficient AI solutions. Join the community at https://discord.acontext.io.*
 
-- ⭐ 25245 stars
+- ⭐ 2598 stars
 - 💻 Go
-- 📅 Updated: 2026-01-15
-
-![rancher](2026-01-16_daily-top_rancher.png)
-
-### 9. [awesome-copilot](https://github.com/github/awesome-copilot)
-
-> 🤖 **推荐理由**  
-> *Awesome Copilot is a community-driven repository designed to enhance the GitHub Copilot experience with tailored instructions, prompts, and configurations. It features specialized agents for various workflows, task-specific prompts for coding and documentation, and coding standards to ensure best practices. Key highlights include curated collections of related prompts and instructions, as well as an MCP Server for easy integration into development environments. With over 17,000 stars, it serves as a valuable resource for developers seeking to maximize productivity and leverage AI capabilities effectively.*
-
-- ⭐ 17715 stars
-- 💻 JavaScript
 - 📅 Updated: 2026-01-16
 
-![awesome-copilot](2026-01-16_daily-top_awesome-copilot.png)
-
-### 10. [go-concurrency-exercises](https://github.com/loong/go-concurrency-exercises)
-
-> 🤖 **推荐理由**  
-> *The "go-concurrency-exercises" project offers hands-on exercises to study and practice Go concurrency patterns through a practical approach. Users can solve challenges by editing `main.go` and verify solutions with provided test cases. Key exercises include limiting crawlers, implementing producer-consumer models, handling race conditions, and gracefully managing service interruptions. With 1,754 stars, this repository emphasizes learning by doing, making it an invaluable resource for Go developers. Join the community on Discord or Slack for support and code reviews.*
-
-- ⭐ 1754 stars
-- 💻 Go
-- 📅 Updated: 2026-01-15
-
-![go-concurrency-exercises](2026-01-16_daily-top_go-concurrency-exercises.png)
+![Acontext](2026-01-16_daily-top_Acontext.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-16 01:07:43 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-16 12:29:42 UTC
