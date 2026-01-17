@@ -4,11 +4,11 @@
 
 ## 📋 Overview
 
-**10** 个项目 | **123982** ⭐ | **9196** 🍴
+**10** 个项目 | **134860** ⭐ | **10579** 🍴
 
-**热门语言:** `TypeScript` (5) · `Go` (4) · `Rust` (1)
+**热门语言:** `TypeScript` (6) · `Go` (3) · `Rust` (1)
 
-**更新时间:** 2026-01-17 01:04 UTC
+**更新时间:** 2026-01-17 12:26 UTC
 
 **分类分布:**
 
@@ -21,112 +21,112 @@
 ### 1. [eigent](https://github.com/eigent-ai/eigent)
 
 > 🤖 **推荐理由**  
-> *Eigent is an open-source cowork desktop application designed to enhance productivity by enabling users to build, manage, and deploy a custom AI workforce. Key features include a multi-agent coordination system for handling complex workflows, local deployment for data privacy, and support for custom models. Eigent supports zero setup, integrates with Model Context Protocol (MCP) tools, and offers enterprise features like SSO and access control. It operates with a focus on transparency and community-driven development, making it an ideal solution for automated task execution.*
+> *Eigent is an open-source cowork desktop application designed to enhance productivity through a customizable AI workforce. Key features include zero-setup local deployment, multi-agent coordination for complex workflows, and enterprise-level security with SSO access control. It supports various AI models and integrates with tools like Notion and Google Suite via the Model Context Protocol (MCP). With human-in-the-loop capabilities, Eigent ensures seamless task execution while prioritizing user privacy. Join the community and unlock exceptional productivity with Eigent.*
 
-- ⭐ 7518 stars
+- ⭐ 7942 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-17
 
 ![eigent](2026-01-17_daily-top_eigent.png)
 
-### 2. [puck](https://github.com/puckeditor/puck)
+### 2. [AionUi](https://github.com/iOfficeAI/AionUi)
 
 > 🤖 **推荐理由**  
-> *Puck is an open-source visual editor for React.js, designed to create custom drag-and-drop experiences using React components. With over 11,000 stars, it integrates seamlessly into various React environments, including Next.js, without vendor lock-in. Key features include modularity, ownership of data, and an easy setup with `npm` or `create-puck-app`. Puck supports extensive customization through configuration and offers community resources on Discord and GitHub. Licensed under MIT, it’s suitable for both internal and commercial applications.*
+> *AionUi is a free, open-source coworking platform designed for seamless integration with command-line AI tools like Gemini CLI, Claude Code, and Codex. Featuring a user-friendly graphical interface, it supports multi-agent collaboration, local data security, and intelligent file management. Key highlights include real-time previews across 9+ formats, parallel processing for multiple tasks, and a customizable WebUI for remote access. AionUi is cross-platform, available on macOS, Windows, and Linux, making it an ideal choice for enhancing AI office automation workflows.*
 
-- ⭐ 11049 stars
+- ⭐ 4559 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-17
 
-![puck](2026-01-17_daily-top_puck.png)
+![AionUi](2026-01-17_daily-top_AionUi.png)
 
 ### 3. [Handy](https://github.com/cjpais/Handy)
 
 > 🤖 **推荐理由**  
-> *Handy is a free, open-source speech-to-text application that operates entirely offline, prioritizing user privacy. Built with Tauri (Rust + React/TypeScript), it offers seamless transcription by pressing a customizable keyboard shortcut, speaking, and automatically pasting the text into any application. Key features include local processing with Whisper and Parakeet models, voice activity detection, and compatibility across Windows, macOS, and Linux. Handy encourages extensibility and community contributions, aiming to provide an adaptable tool for diverse user needs.*
+> *Handy is a free, open-source speech-to-text application designed for offline use, built with Tauri (Rust + React/TypeScript). It prioritizes privacy by processing audio locally, ensuring users' voices remain on their devices. Key features include configurable keyboard shortcuts, support for Whisper and Parakeet models for transcription, and compatibility across Windows, macOS, and Linux. Handy aims to be an extensible tool, allowing users to contribute and customize their experience while providing a straightforward interface for seamless transcription into any text field.*
 
-- ⭐ 11824 stars
+- ⭐ 11998 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-17
 
 ![Handy](2026-01-17_daily-top_Handy.png)
 
-### 4. [cc-switch](https://github.com/farion1231/cc-switch)
+### 4. [puck](https://github.com/puckeditor/puck)
 
 > 🤖 **推荐理由**  
-> *cc-switch is a cross-platform desktop assistant tool for Claude Code, Codex, and Gemini CLI, built with Rust and Tauri, boasting over 11,700 stars. Key features include seamless provider management, skills and prompts systems, and a new SQLite + JSON architecture for data storage. Users benefit from quick switching between AI configurations, auto-scan capabilities for skills, and a unified MCP server management interface. Supported on Windows, macOS, and Linux, cc-switch enhances coding efficiency with integrated API services and multilingual support.*
+> *Puck is an open-source visual editor for React.js, designed to create modular and customizable drag-and-drop experiences without vendor lock-in. Built with TypeScript, it seamlessly integrates into various React environments, including Next.js. Key features include a flexible component system, real-time editing, and easy data management. Puck offers quick-start recipes for popular frameworks, a supportive community on Discord, and extensive documentation. Licensed under MIT, it is suitable for both commercial and internal applications.*
 
-- ⭐ 11771 stars
+- ⭐ 11191 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-01-17
+
+![puck](2026-01-17_daily-top_puck.png)
+
+### 5. [cc-switch](https://github.com/farion1231/cc-switch)
+
+> 🤖 **推荐理由**  
+> *cc-switch is a cross-platform desktop assistant tool for Claude Code, Codex, and Gemini CLI, built with Rust and Tauri. It offers seamless provider management, allowing users to switch between AI APIs effortlessly. Key features include an upgraded SQLite + JSON architecture, skills and prompts management, and a redesigned UI with multilingual support. The tool integrates with various API relay services like PackyCode and AIGoCode, providing users with enhanced coding experiences. With over 11,000 stars, cc-switch is a robust solution for developers seeking flexibility and efficiency in AI coding.*
+
+- ⭐ 11873 stars
 - 💻 Rust
 - 📅 Updated: 2026-01-17
 
 ![cc-switch](2026-01-17_daily-top_cc-switch.png)
 
-### 5. [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC)
+### 6. [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC)
 
 > 🤖 **推荐理由**  
-> *SpotiFLAC is a free tool that allows users to download Spotify tracks in high-quality FLAC format from Tidal, Qobuz, and Amazon Music without needing an account. The project, developed in TypeScript, boasts over 3,200 stars on GitHub and provides a straightforward interface for audio retrieval via third-party APIs. It is compatible with Windows, macOS, and Linux. SpotiFLAC operates independently of Spotify accounts, ensuring user privacy. The software is intended for educational purposes and is not affiliated with any streaming service.*
+> *SpotiFLAC is a free, open-source tool that allows users to download Spotify tracks in true FLAC format from Tidal, Qobuz, and Amazon Music without requiring an account. Built in TypeScript, it supports Windows, macOS, and Linux. Key features include reverse engineering of the Spotify Web Player for track retrieval, and fetching audio through third-party APIs. It's designed for educational and private use, with a focus on user privacy. The project has gained significant traction with over 3,338 stars on GitHub, highlighting its popularity and utility in the music downloading community.*
 
-- ⭐ 3258 stars
+- ⭐ 3338 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-17
 
 ![SpotiFLAC](2026-01-17_daily-top_SpotiFLAC.png)
 
-### 6. [LocalAI](https://github.com/mudler/LocalAI)
+### 7. [LocalAI](https://github.com/mudler/LocalAI)
 
 > 🤖 **推荐理由**  
-> *LocalAI is a free, open-source alternative to OpenAI, designed for local-first, self-hosted AI inference on consumer-grade hardware without the need for GPUs. It offers a comprehensive range of features, including text generation, audio and video synthesis, image generation, voice cloning, and decentralized P2P inference. Compatible with various model families, LocalAI supports a drop-in replacement for OpenAI's API. Its modular architecture allows for easy backend installation and customization, making it a versatile tool for developers seeking to leverage AI technologies.*
+> *LocalAI is a free, open-source alternative to OpenAI, designed for self-hosting on consumer-grade hardware without requiring a GPU. It serves as a drop-in replacement for OpenAI API, supporting various model families for text, audio, video, and image generation. Key features include text generation, voice cloning, decentralized P2P inference, and a user-friendly WebUI. LocalAI supports multiple backends like llama.cpp and transformers, enabling versatile AI applications. With over 42,100 stars on GitHub, it's a robust solution for local AI inferencing.*
 
-- ⭐ 42089 stars
+- ⭐ 42100 stars
 - 💻 Go
-- 📅 Updated: 2026-01-16
+- 📅 Updated: 2026-01-17
 
 ![LocalAI](2026-01-17_daily-top_LocalAI.png)
 
-### 7. [juicefs](https://github.com/juicedata/juicefs)
+### 8. [claude-flow](https://github.com/ruvnet/claude-flow)
 
 > 🤖 **推荐理由**  
-> *JuiceFS is a high-performance, distributed POSIX file system built on Redis and S3, designed for cloud-native environments. It supports seamless integration with big data and AI platforms while maintaining POSIX and Hadoop compatibility. Key features include strong consistency, low latency, global file locks, data encryption, and support for various object storage services like AWS S3 and Google Cloud Storage. JuiceFS allows scalable, shareable storage that can be utilized as local storage without code modifications, making it ideal for production environments.*
+> *Claude-Flow is a premier agent orchestration platform that enables the deployment of intelligent multi-agent swarms for autonomous workflows and conversational AI systems. Key features include over 54 specialized agents for various tasks, enterprise-grade security, fault-tolerant consensus mechanisms, and seamless integration with Claude Code via the MCP protocol. It offers self-learning capabilities through the ReasoningBank, allowing agents to adapt and improve over time. With high performance, extensibility, and support for multiple LLM providers, Claude-Flow is ideal for complex software engineering tasks.*
 
-- ⭐ 12978 stars
+- ⭐ 12287 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-01-17
+
+![claude-flow](2026-01-17_daily-top_claude-flow.png)
+
+### 9. [juicefs](https://github.com/juicedata/juicefs)
+
+> 🤖 **推荐理由**  
+> *JuiceFS is a high-performance distributed POSIX file system built on Redis and S3, designed for cloud-native environments. It offers full POSIX and Hadoop compatibility, an S3-compatible interface, and a Kubernetes CSI Driver, enabling seamless integration with existing applications. Key features include strong consistency, data encryption, global file locks, and support for multiple object storage services. JuiceFS allows efficient use of massive cloud storage for big data and AI applications, achieving low latency and high throughput. With over 12,900 stars on GitHub, it is production-ready and widely adopted.*
+
+- ⭐ 12987 stars
 - 💻 Go
 - 📅 Updated: 2026-01-17
 
 ![juicefs](2026-01-17_daily-top_juicefs.png)
 
-### 8. [waveterm](https://github.com/wavetermdev/waveterm)
+### 10. [waveterm](https://github.com/wavetermdev/waveterm)
 
 > 🤖 **推荐理由**  
-> *WaveTerm is an open-source, cross-platform terminal designed for seamless workflows, combining traditional terminal functions with graphical capabilities. Key features include a flexible drag-and-drop interface, built-in editor, rich file previews, a context-aware AI assistant, and customizable command blocks. It supports quick remote connections and secure secret storage, enhancing productivity across macOS, Linux, and Windows. The Wave AI assistant reads terminal output and facilitates file operations, making it an invaluable tool for developers seeking efficient command line management.*
+> *WaveTerm is an open-source, cross-platform terminal designed to enhance workflows by integrating traditional terminal functionalities with graphical capabilities like file previews and AI assistance. Key features include a flexible drag-and-drop interface, built-in code editor, rich file previews, context-aware AI assistance, and secure secret storage. It supports seamless file management and remote connections, running on macOS, Linux, and Windows. With a focus on improving developer efficiency, WaveTerm centralizes tools to minimize context switching. Explore more at www.waveterm.dev.*
 
-- ⭐ 16575 stars
+- ⭐ 16585 stars
 - 💻 Go
 - 📅 Updated: 2026-01-17
 
 ![waveterm](2026-01-17_daily-top_waveterm.png)
-
-### 9. [Acontext](https://github.com/memodb-io/Acontext)
-
-> 🤖 **推荐理由**  
-> *Acontext is a Go-based context data platform designed for building cloud-native AI agents. It offers robust context engineering features, including unified message storage across various modalities, context editing, and seamless artifact management. Acontext enables real-time observation of agent tasks and user feedback while facilitating self-learning through experience agents. Key highlights include a comprehensive dashboard for monitoring agent performance, easy integration with PostgreSQL, Redis, and S3, and a supportive community on Discord. Join the evolution of AI agents at Acontext.io.*
-
-- ⭐ 2627 stars
-- 💻 Go
-- 📅 Updated: 2026-01-17
-
-![Acontext](2026-01-17_daily-top_Acontext.png)
-
-### 10. [AionUi](https://github.com/iOfficeAI/AionUi)
-
-> 🤖 **推荐理由**  
-> *AionUi is a free, open-source platform designed for seamless collaboration with CLI AI agents like Gemini CLI, Claude Code, and Codex. With over 4,293 stars on GitHub, it offers a user-friendly graphical interface, multi-model support, and local data security. Key features include multi-agent mode, smart file management, real-time previews for various formats, and AI image generation. AionUi also supports remote access via a WebUI, ensuring easy operation across devices. It's compatible with macOS, Windows, and Linux, making it a versatile tool for AI-driven office automation.*
-
-- ⭐ 4293 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-01-17
-
-![AionUi](2026-01-17_daily-top_AionUi.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-17 01:04:39 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-17 12:26:52 UTC
