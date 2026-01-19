@@ -4,11 +4,11 @@
 
 ## 📋 Overview
 
-**10** 个项目 | **121279** ⭐ | **11084** 🍴
+**10** 个项目 | **170437** ⭐ | **23719** 🍴
 
-**热门语言:** `TypeScript` (6) · `Rust` (2) · `Go` (1)
+**热门语言:** `TypeScript` (5) · `C` (2) · `C++` (1)
 
-**更新时间:** 2026-01-19 01:10 UTC
+**更新时间:** 2026-01-19 12:33 UTC
 
 **分类分布:**
 
@@ -18,116 +18,116 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [eigent](https://github.com/eigent-ai/eigent)
+### 1. [AionUi](https://github.com/iOfficeAI/AionUi)
 
 > 🤖 **推荐理由**  
-> *Eigent is an open-source cowork desktop application designed to enhance productivity through a customizable AI workforce. Key features include zero setup for local deployment, multi-agent coordination for complex workflows, and robust enterprise capabilities like SSO and access control. Users can employ specialized agents for tasks ranging from coding to document management, ensuring efficient parallel execution. With comprehensive model support and integration of Model Context Protocol (MCP) tools, Eigent fosters automation while prioritizing data privacy. Engage with a community-driven ecosystem and explore limitless use cases.*
+> *AionUi is a free, open-source coworking platform for command-line AI tools like Gemini CLI, Claude Code, and Codex, boasting over 6,389 stars on GitHub. Key features include a unified graphical interface for multi-agent collaboration, local data security, and smart file management. Users can enjoy real-time previews for various document formats and AI image generation. AionUi supports cross-platform use on macOS, Windows, and Linux, allowing for seamless remote access via WebUI. Enhance your AI experience with AionUi's intuitive design and powerful capabilities.*
 
-- ⭐ 9281 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-01-19
-
-![eigent](2026/01-19/2026-01-19_daily-top_eigent.png)
-
-### 2. [AionUi](https://github.com/iOfficeAI/AionUi)
-
-> 🤖 **推荐理由**  
-> *AionUi is a free, open-source coworking platform designed for seamless interaction with multiple AI command-line tools like Gemini CLI, Claude Code, and Codex. It features a user-friendly graphical interface, multi-agent support, and local data security. Key highlights include automatic detection of CLI tools, smart file management, real-time preview of AI-generated content across various formats, and WebUI mode for remote access. AionUi enhances productivity with independent session management, multi-model switching, and customizable interfaces, making it a robust solution for AI office automation.*
-
-- ⭐ 5619 stars
+- ⭐ 6389 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-19
 
 ![AionUi](2026/01-19/2026-01-19_daily-top_AionUi.png)
 
-### 3. [gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager)
+### 2. [nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
+
+> 🤖 **推荐理由**  
+> *NautilusTrader is a high-performance, open-source algorithmic trading platform built in Rust, designed for quantitative traders. It features an event-driven backtester, allowing users to backtest and deploy automated trading strategies with identical code for both environments. Key offerings include support for multiple asset classes, advanced order types, and customizable components via modular adapters. The platform prioritizes reliability and safety, ensuring consistent performance across Linux, macOS, and Windows. Integration with various trading venues and data providers enhances its versatility for high-frequency trading strategies.*
+
+- ⭐ 17868 stars
+- 💻 Rust
+- 📅 Updated: 2026-01-19
+
+![nautilus_trader](2026/01-19/2026-01-19_daily-top_nautilus_trader.png)
+
+### 3. [tambo](https://github.com/tambo-ai/tambo)
+
+> 🤖 **推荐理由**  
+> *Tambo is a generative UI SDK for React that enables the creation of adaptive applications tailored to user needs. Leveraging AI, it dynamically selects and renders components based on natural language input, enhancing user experience for both novices and experts. Key features include support for generative and interactable components, seamless integration with various MCPs, and the ability to utilize local tools. Tambo offers both a free cloud service and self-hosting options, along with a comprehensive documentation and pre-built component library to accelerate development.*
+
+- ⭐ 2474 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-01-19
+
+![tambo](2026/01-19/2026-01-19_daily-top_tambo.png)
+
+### 4. [gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager)
 
 > 🤖 **推荐理由**  
 > *An all-in-one enhancement suite for Google Gemini - timeline navigation, folder management, prompt library, and chat export in one powerful extension.. popular project, recently updated*
 
-- ⭐ 1381 stars
-- 🍴 47 forks
+- ⭐ 1717 stars
+- 🍴 53 forks
 - 💻 TypeScript
 - 📅 Updated: 2026-01-19
 
 ![gemini-voyager](2026/01-19/2026-01-19_daily-top_gemini-voyager.png)
 
-### 4. [puck](https://github.com/puckeditor/puck)
+### 5. [TaskExplorer](https://github.com/DavidXanatos/TaskExplorer)
 
 > 🤖 **推荐理由**  
-> *Puck is a powerful, open-source visual editor for React.js that streamlines the creation of custom drag-and-drop experiences. With seamless integration across React environments, including Next.js, it ensures data ownership with no vendor lock-in. Key features include modular components, easy installation, and a rich community for support and extensions. Puck is licensed under MIT, making it suitable for both internal and commercial use. Explore its capabilities through the [documentation](https://puckeditor.com/docs) and [demo](https://demo.puckeditor.com/edit).*
+> *TaskExplorer is a powerful task management tool designed for real-time monitoring and analysis of running applications. It features an intuitive UI with accessible panels, including a Thread Panel for stack traces, a Memory Panel for process memory editing, and a Handles Panel for viewing open handles. Network activity can be monitored via the Socket Panel, while the Modules Panel lists loaded DLLs. Users benefit from dynamic data refresh, robust system monitoring graphs, and the ability to manage system services. Built on the Qt Framework, it aims for cross-platform compatibility, with future Linux support planned.*
 
-- ⭐ 11565 stars
-- 💻 TypeScript
+- ⭐ 2319 stars
+- 💻 C
 - 📅 Updated: 2026-01-19
 
-![puck](2026/01-19/2026-01-19_daily-top_puck.png)
-
-### 5. [hyperswitch](https://github.com/juspay/hyperswitch)
-
-> 🤖 **推荐理由**  
-> *Hyperswitch is an open-source payments switch built in Rust, designed to enhance payment processing with speed, reliability, and cost-efficiency. With over 39,000 stars, it offers a modular architecture that allows businesses to integrate essential payment modules like cost observability, revenue recovery, and intelligent routing without vendor lock-in. Key features include a PCI-compliant vault for secure payment storage, automated reconciliation, and support for multiple payment methods. Hyperswitch enables seamless integration and developer-friendly customization, making it a versatile solution for modern payment infrastructures.*
-
-- ⭐ 39739 stars
-- 💻 Rust
-- 📅 Updated: 2026-01-19
-
-![hyperswitch](2026/01-19/2026-01-19_daily-top_hyperswitch.png)
+![TaskExplorer](2026/01-19/2026-01-19_daily-top_TaskExplorer.png)
 
 ### 6. [Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
 
 > 🤖 **推荐理由**  
-> *Personal_AI_Infrastructure (PAI) is an open-source project designed to empower individuals by providing a personalized AI platform that continuously learns and adapts to users' goals and preferences. Key features include persistent memory, customizable skills, a modular architecture with 23 Packs for various capabilities, and a focus on user-centric design. PAI aids in self-discovery, enhances productivity for individuals and teams, and ensures accessibility to advanced AI tools. With over 5,100 stars on GitHub, PAI is a comprehensive solution for maximizing human potential through AI.*
+> *Personal AI Infrastructure (PAI) is an open-source platform designed to enhance human capabilities through personalized AI. Key features include continuous learning, goal-oriented functionality, and a modular architecture with 23 self-contained Packs for various tasks. PAI captures user preferences and history, enabling tailored interactions and improved decision-making. It serves a wide audience—small businesses, creatives, and developers—by providing a customizable AI assistant that evolves with user needs. With 5 infrastructure Packs and 18 skill Packs, PAI aims to democratize access to advanced AI technology.*
 
-- ⭐ 5144 stars
+- ⭐ 5207 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-19
 
 ![Personal_AI_Infrastructure](2026/01-19/2026-01-19_daily-top_Personal_AI_Infrastructure.png)
 
-### 7. [snow-shot](https://github.com/mg-chao/snow-shot)
+### 7. [Sandboxie](https://github.com/sandboxie-plus/Sandboxie)
 
 > 🤖 **推荐理由**  
-> *Snow Shot is a versatile screenshot tool designed for ease of use and efficiency, available on Windows and macOS. Key features include a plugin system for added functionalities like video recording and AI interactions, a variety of annotation tools (shapes, text, mosaics), smart window recognition for precise captures, customizable shortcuts for quick access, and multiple saving options (local, clipboard, pinned). As an open-source project with an active community, it is regularly updated based on user feedback. Visit [Snow Shot](https://snowshot.top) for downloads and more information.*
+> *Sandboxie is a sandbox-based isolation software for Windows that enables users to run applications in a secure, virtual environment without altering the host system. It features two editions: Plus, with a modern Qt UI and advanced functionalities like Snapshot Manager, a network firewall per sandbox, and enhanced privacy controls, and Classic, which offers a more basic interface. Key highlights include unlimited sandbox creation, customizable restrictions, encrypted storage, and integration with Windows components. This community-driven fork builds upon the legacy of the original Sandboxie, focusing on security and usability.*
 
-- ⭐ 3601 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-01-19
-
-![snow-shot](2026/01-19/2026-01-19_daily-top_snow-shot.png)
-
-### 8. [harper](https://github.com/Automattic/harper)
-
-> 🤖 **推荐理由**  
-> *Harper is a fast, offline, and privacy-focused grammar checker built with Rust. Designed to overcome the limitations of competitors like Grammarly and LanguageTool, Harper provides quick document linting with minimal memory usage, ensuring user privacy by processing data locally. Currently supporting English, it offers extensibility for additional languages. Harper integrates seamlessly with various editors, including Visual Studio Code and Neovim, and can even run via WebAssembly. With over 9,400 stars on GitHub, it’s an open-source solution for efficient grammar checking.*
-
-- ⭐ 9424 stars
-- 💻 Rust
-- 📅 Updated: 2026-01-18
-
-![harper](2026/01-19/2026-01-19_daily-top_harper.png)
-
-### 9. [Sandboxie](https://github.com/sandboxie-plus/Sandboxie)
-
-> 🤖 **推荐理由**  
-> *Sandboxie is a sandbox-based isolation software for Windows that enables secure execution of applications without altering the host system. It offers two editions, Plus and Classic, with Plus featuring a modern UI and enhanced functionalities such as Snapshot Manager, privacy protection, customizable restrictions, and a network firewall per sandbox. Users can create unlimited sandboxes, control system access, and utilize various tools to enhance functionality. With over 17,000 stars on GitHub, Sandboxie is a community-driven project that prioritizes security and user customization.*
-
-- ⭐ 17159 stars
+- ⭐ 17194 stars
 - 💻 C
 - 📅 Updated: 2026-01-19
 
 ![Sandboxie](2026/01-19/2026-01-19_daily-top_Sandboxie.png)
 
-### 10. [crush](https://github.com/charmbracelet/crush)
+### 8. [vuls](https://github.com/future-architect/vuls)
 
 > 🤖 **推荐理由**  
-> *Crush is a terminal-based coding assistant designed for seamless integration with various LLMs via OpenAI and Anthropic APIs. Key features include multi-model support, context preservation during sessions, and extensibility through Model Context Protocols (MCPs). It enhances coding workflows with Language Server Protocol (LSP) support and operates across multiple platforms, including Windows, macOS, and Linux. Built on the robust Charm ecosystem, Crush is ideal for developers seeking a flexible, powerful tool to streamline their coding processes.*
+> *Vuls is an agent-less vulnerability scanner for Linux, FreeBSD, and various applications, including Docker containers and WordPress, developed in Go. It automates vulnerability detection, integrates with multiple security databases, and provides high-quality scanning with minimal server load. Key features include remote and local scan modes, dynamic analysis, and support for non-OS packages. Vuls generates regular reports, offers Slack notifications, and facilitates CI/CD integration, making it an efficient solution for system administrators to manage vulnerabilities without manual oversight.*
 
-- ⭐ 18366 stars
+- ⭐ 11986 stars
 - 💻 Go
 - 📅 Updated: 2026-01-19
 
-![crush](2026/01-19/2026-01-19_daily-top_crush.png)
+![vuls](2026/01-19/2026-01-19_daily-top_vuls.png)
+
+### 9. [n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
+
+> 🤖 **推荐理由**  
+> *n8n-mcp is a Model Context Protocol (MCP) server designed to enhance AI assistants' interaction with n8n's workflow automation platform. Key features include access to 1,084 nodes (537 core and 547 community), detailed node properties and operations, and a library of 2,709 workflow templates. The tool offers smart node search, real-world examples, and comprehensive validation for configurations. Users can deploy n8n-mcp easily via hosted services or self-hosting options like Docker. It serves as a vital bridge, ensuring AI-driven workflows are efficient and reliable.*
+
+- ⭐ 11996 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-01-19
+
+![n8n-mcp](2026/01-19/2026-01-19_daily-top_n8n-mcp.png)
+
+### 10. [llama.cpp](https://github.com/ggml-org/llama.cpp)
+
+> 🤖 **推荐理由**  
+> *llama.cpp is a high-performance C/C++ library for large language model (LLM) inference, boasting over 93,000 stars on GitHub. It supports various architectures, including ARM, x86, and RISC-V, with optimizations for both CPUs and GPUs. Key features include support for multiple quantization formats for efficient inference, a REST API server for model deployment, and integration with Hugging Face for model management. The project also provides a user-friendly CLI and extensive documentation, making it accessible for developers to run and experiment with various LLMs locally or in the cloud.*
+
+- ⭐ 93287 stars
+- 💻 C++
+- 📅 Updated: 2026-01-19
+
+![llama.cpp](2026/01-19/2026-01-19_daily-top_llama.cpp.png)
 
 ---
 
@@ -141,4 +141,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-19 01:10:54 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-19 12:33:27 UTC
