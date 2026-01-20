@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-01-19
+# 📊 🌟 GitHub Trending Daily - 2026-01-20
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **170437** ⭐ | **23719** 🍴
+**10** 个项目 | **176832** ⭐ | **23593** 🍴
 
-**热门语言:** `TypeScript` (5) · `C` (2) · `C++` (1)
+**热门语言:** `TypeScript` (5) · `Swift` (1) · `C` (1)
 
-**更新时间:** 2026-01-19 12:33 UTC
+**更新时间:** 2026-01-20 01:05 UTC
 
 **分类分布:**
 
@@ -21,113 +21,113 @@
 ### 1. [AionUi](https://github.com/iOfficeAI/AionUi)
 
 > 🤖 **推荐理由**  
-> *AionUi is a free, open-source coworking platform for command-line AI tools like Gemini CLI, Claude Code, and Codex, boasting over 6,389 stars on GitHub. Key features include a unified graphical interface for multi-agent collaboration, local data security, and smart file management. Users can enjoy real-time previews for various document formats and AI image generation. AionUi supports cross-platform use on macOS, Windows, and Linux, allowing for seamless remote access via WebUI. Enhance your AI experience with AionUi's intuitive design and powerful capabilities.*
+> *AionUi is a free, open-source coworking platform for command-line AI tools like Gemini CLI, Claude Code, and Codex, featuring a user-friendly interface and multi-model support. With over 6,800 stars, it offers local data security, multi-session chat, smart file management, and real-time preview for various formats. Users can access AionUi remotely via WebUI mode, enabling seamless control from any device. It supports macOS, Windows, and Linux, making it a versatile solution for enhancing AI-driven workflows and automation tasks.*
 
-- ⭐ 6389 stars
+- ⭐ 6821 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-19
+- 📅 Updated: 2026-01-20
 
-![AionUi](2026/01-19/2026-01-19_daily-top_AionUi.png)
+![AionUi](2026/01-20/2026-01-20_daily-top_AionUi.png)
 
-### 2. [nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
-
-> 🤖 **推荐理由**  
-> *NautilusTrader is a high-performance, open-source algorithmic trading platform built in Rust, designed for quantitative traders. It features an event-driven backtester, allowing users to backtest and deploy automated trading strategies with identical code for both environments. Key offerings include support for multiple asset classes, advanced order types, and customizable components via modular adapters. The platform prioritizes reliability and safety, ensuring consistent performance across Linux, macOS, and Windows. Integration with various trading venues and data providers enhances its versatility for high-frequency trading strategies.*
-
-- ⭐ 17868 stars
-- 💻 Rust
-- 📅 Updated: 2026-01-19
-
-![nautilus_trader](2026/01-19/2026-01-19_daily-top_nautilus_trader.png)
-
-### 3. [tambo](https://github.com/tambo-ai/tambo)
-
-> 🤖 **推荐理由**  
-> *Tambo is a generative UI SDK for React that enables the creation of adaptive applications tailored to user needs. Leveraging AI, it dynamically selects and renders components based on natural language input, enhancing user experience for both novices and experts. Key features include support for generative and interactable components, seamless integration with various MCPs, and the ability to utilize local tools. Tambo offers both a free cloud service and self-hosting options, along with a comprehensive documentation and pre-built component library to accelerate development.*
-
-- ⭐ 2474 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-01-19
-
-![tambo](2026/01-19/2026-01-19_daily-top_tambo.png)
-
-### 4. [gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager)
+### 2. [gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager)
 
 > 🤖 **推荐理由**  
 > *An all-in-one enhancement suite for Google Gemini - timeline navigation, folder management, prompt library, and chat export in one powerful extension.. popular project, recently updated*
 
-- ⭐ 1717 stars
-- 🍴 53 forks
+- ⭐ 1950 stars
+- 🍴 58 forks
 - 💻 TypeScript
-- 📅 Updated: 2026-01-19
+- 📅 Updated: 2026-01-20
 
-![gemini-voyager](2026/01-19/2026-01-19_daily-top_gemini-voyager.png)
+![gemini-voyager](2026/01-20/2026-01-20_daily-top_gemini-voyager.png)
+
+### 3. [nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
+
+> 🤖 **推荐理由**  
+> *NautilusTrader is a high-performance, open-source algorithmic trading platform built in Rust, designed for quantitative traders. It features an event-driven backtesting engine, allowing simultaneous testing of multiple strategies across various asset classes, including FX, equities, and crypto, with nanosecond resolution. Key highlights include seamless integration with diverse APIs, customizable components, and identical strategy code for backtesting and live trading. The platform prioritizes safety and performance, making it suitable for mission-critical trading applications.*
+
+- ⭐ 18050 stars
+- 💻 Rust
+- 📅 Updated: 2026-01-20
+
+![nautilus_trader](2026/01-20/2026-01-20_daily-top_nautilus_trader.png)
+
+### 4. [tambo](https://github.com/tambo-ai/tambo)
+
+> 🤖 **推荐理由**  
+> *Tambo is a generative UI SDK for React that enables dynamic app development tailored to user needs. With a focus on adaptability, Tambo uses AI to determine which components to display based on user interactions. Key features include generative and interactable components, seamless MCP integrations, and support for multiple LLM providers. Developers can choose between Tambo Cloud, a hosted backend, or self-hosting options. Its pre-built component library and templates facilitate rapid deployment, making it ideal for creating intuitive user experiences.*
+
+- ⭐ 2656 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-01-20
+
+![tambo](2026/01-20/2026-01-20_daily-top_tambo.png)
 
 ### 5. [TaskExplorer](https://github.com/DavidXanatos/TaskExplorer)
 
 > 🤖 **推荐理由**  
-> *TaskExplorer is a powerful task management tool designed for real-time monitoring and analysis of running applications. It features an intuitive UI with accessible panels, including a Thread Panel for stack traces, a Memory Panel for process memory editing, and a Handles Panel for viewing open handles. Network activity can be monitored via the Socket Panel, while the Modules Panel lists loaded DLLs. Users benefit from dynamic data refresh, robust system monitoring graphs, and the ability to manage system services. Built on the Qt Framework, it aims for cross-platform compatibility, with future Linux support planned.*
+> *TaskExplorer is a powerful task management tool designed for deep insights into running applications. It features a user-friendly interface that displays real-time process data without clutter, including Threads, Memory, Handles, and Sockets panels. Users can view detailed process information, edit memory, and monitor system performance via dynamic graphs. Built on the Qt Framework, it supports Windows 7 and above, with plans for a Linux version. TaskExplorer leverages the Process Hacker library for robust monitoring, making it ideal for developers and power users.*
 
-- ⭐ 2319 stars
+- ⭐ 2452 stars
 - 💻 C
-- 📅 Updated: 2026-01-19
+- 📅 Updated: 2026-01-20
 
-![TaskExplorer](2026/01-19/2026-01-19_daily-top_TaskExplorer.png)
+![TaskExplorer](2026/01-20/2026-01-20_daily-top_TaskExplorer.png)
 
 ### 6. [Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
 
 > 🤖 **推荐理由**  
-> *Personal AI Infrastructure (PAI) is an open-source platform designed to enhance human capabilities through personalized AI. Key features include continuous learning, goal-oriented functionality, and a modular architecture with 23 self-contained Packs for various tasks. PAI captures user preferences and history, enabling tailored interactions and improved decision-making. It serves a wide audience—small businesses, creatives, and developers—by providing a customizable AI assistant that evolves with user needs. With 5 infrastructure Packs and 18 skill Packs, PAI aims to democratize access to advanced AI technology.*
+> *Personal AI Infrastructure (PAI) is an open-source project aimed at enhancing human capabilities through personalized AI systems. Built in TypeScript, it focuses on activating individual potential by offering an Agentic AI that learns from user interactions and preferences. Key features include continuous learning, goal-oriented task execution, and a modular architecture with 23 self-contained Packs. PAI supports users from small business owners to developers, ensuring that advanced AI tools are accessible to everyone. With over 5,600 stars on GitHub, PAI represents a significant shift towards democratizing AI.*
 
-- ⭐ 5207 stars
+- ⭐ 5267 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-19
+- 📅 Updated: 2026-01-20
 
-![Personal_AI_Infrastructure](2026/01-19/2026-01-19_daily-top_Personal_AI_Infrastructure.png)
+![Personal_AI_Infrastructure](2026/01-20/2026-01-20_daily-top_Personal_AI_Infrastructure.png)
 
-### 7. [Sandboxie](https://github.com/sandboxie-plus/Sandboxie)
-
-> 🤖 **推荐理由**  
-> *Sandboxie is a sandbox-based isolation software for Windows that enables users to run applications in a secure, virtual environment without altering the host system. It features two editions: Plus, with a modern Qt UI and advanced functionalities like Snapshot Manager, a network firewall per sandbox, and enhanced privacy controls, and Classic, which offers a more basic interface. Key highlights include unlimited sandbox creation, customizable restrictions, encrypted storage, and integration with Windows components. This community-driven fork builds upon the legacy of the original Sandboxie, focusing on security and usability.*
-
-- ⭐ 17194 stars
-- 💻 C
-- 📅 Updated: 2026-01-19
-
-![Sandboxie](2026/01-19/2026-01-19_daily-top_Sandboxie.png)
-
-### 8. [vuls](https://github.com/future-architect/vuls)
+### 7. [bitchat](https://github.com/permissionlesstech/bitchat)
 
 > 🤖 **推荐理由**  
-> *Vuls is an agent-less vulnerability scanner for Linux, FreeBSD, and various applications, including Docker containers and WordPress, developed in Go. It automates vulnerability detection, integrates with multiple security databases, and provides high-quality scanning with minimal server load. Key features include remote and local scan modes, dynamic analysis, and support for non-OS packages. Vuls generates regular reports, offers Slack notifications, and facilitates CI/CD integration, making it an efficient solution for system administrators to manage vulnerabilities without manual oversight.*
+> *bitchat is a decentralized peer-to-peer messaging app that combines Bluetooth mesh networks for offline communication with the Nostr protocol for global connectivity. Key features include intelligent message routing, location-based channels using geohash coordinates, and end-to-end encryption for privacy. With no accounts or central servers, it offers an IRC-style command interface for ease of use. Designed for both iOS and macOS, bitchat prioritizes user privacy and supports emergency data wipe. The app is ideal for local communication and community engagement, even in disaster scenarios.*
 
-- ⭐ 11986 stars
+- ⭐ 24364 stars
+- 💻 Swift
+- 📅 Updated: 2026-01-20
+
+![bitchat](2026/01-20/2026-01-20_daily-top_bitchat.png)
+
+### 8. [n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
+
+> 🤖 **推荐理由**  
+> *n8n-MCP is a Model Context Protocol server designed to enhance AI assistants like Claude by providing structured access to n8n's extensive workflow automation capabilities. Key features include documentation and properties for 1,084 n8n nodes, comprehensive validation tools, and a library of 2,709 workflow templates. Users can quickly deploy n8n-MCP via hosted services, Docker, or local installation. It ensures robust workflow management, AI tool validation, and a focus on safety with best practices for production workflows, making automation seamless and efficient.*
+
+- ⭐ 12170 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-01-20
+
+![n8n-mcp](2026/01-20/2026-01-20_daily-top_n8n-mcp.png)
+
+### 9. [gatus](https://github.com/TwiN/gatus)
+
+> 🤖 **推荐理由**  
+> *Gatus is a developer-oriented automated status page for monitoring services, offering support for HTTP, ICMP, TCP, and DNS queries. Key features include customizable health checks with conditions, flexible alerting through integrations like Slack, PagerDuty, and Twilio, and a user-friendly dashboard. It allows for easy deployment via Docker and Kubernetes, with support for TLS encryption and metrics for Prometheus. Gatus is designed for proactive monitoring, ensuring you can address issues before they impact users. With over 9,700 stars on GitHub, it’s a popular choice for service monitoring.*
+
+- ⭐ 9782 stars
 - 💻 Go
-- 📅 Updated: 2026-01-19
+- 📅 Updated: 2026-01-20
 
-![vuls](2026/01-19/2026-01-19_daily-top_vuls.png)
-
-### 9. [n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
-
-> 🤖 **推荐理由**  
-> *n8n-mcp is a Model Context Protocol (MCP) server designed to enhance AI assistants' interaction with n8n's workflow automation platform. Key features include access to 1,084 nodes (537 core and 547 community), detailed node properties and operations, and a library of 2,709 workflow templates. The tool offers smart node search, real-world examples, and comprehensive validation for configurations. Users can deploy n8n-mcp easily via hosted services or self-hosting options like Docker. It serves as a vital bridge, ensuring AI-driven workflows are efficient and reliable.*
-
-- ⭐ 11996 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-01-19
-
-![n8n-mcp](2026/01-19/2026-01-19_daily-top_n8n-mcp.png)
+![gatus](2026/01-20/2026-01-20_daily-top_gatus.png)
 
 ### 10. [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
 > 🤖 **推荐理由**  
-> *llama.cpp is a high-performance C/C++ library for large language model (LLM) inference, boasting over 93,000 stars on GitHub. It supports various architectures, including ARM, x86, and RISC-V, with optimizations for both CPUs and GPUs. Key features include support for multiple quantization formats for efficient inference, a REST API server for model deployment, and integration with Hugging Face for model management. The project also provides a user-friendly CLI and extensive documentation, making it accessible for developers to run and experiment with various LLMs locally or in the cloud.*
+> *llama.cpp is a high-performance library for large language model (LLM) inference implemented in C/C++. It supports diverse hardware, including Apple Silicon and various GPU architectures, offering integer quantization for optimized memory usage. Key features include a simple CLI for model interaction, a lightweight REST API server, and support for numerous models like LLaMA and Mistral. Additionally, it enables multimodal capabilities and integrates with platforms like Hugging Face for model hosting. With over 93,320 stars, it stands as a prominent tool in the AI development landscape.*
 
-- ⭐ 93287 stars
+- ⭐ 93320 stars
 - 💻 C++
-- 📅 Updated: 2026-01-19
+- 📅 Updated: 2026-01-20
 
-![llama.cpp](2026/01-19/2026-01-19_daily-top_llama.cpp.png)
+![llama.cpp](2026/01-20/2026-01-20_daily-top_llama.cpp.png)
 
 ---
 
@@ -141,4 +141,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-19 12:33:27 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-20 01:05:55 UTC
