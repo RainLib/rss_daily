@@ -4,11 +4,11 @@
 
 ## 📋 Overview
 
-**10** 个项目 | **115351** ⭐ | **10170** 🍴
+**10** 个项目 | **115760** ⭐ | **10203** 🍴
 
 **热门语言:** `Rust` (3) · `TypeScript` (3) · `C++` (1)
 
-**更新时间:** 2026-01-20 12:33 UTC
+**更新时间:** 2026-01-20 15:08 UTC
 
 **分类分布:**
 
@@ -21,9 +21,9 @@
 ### 1. [AionUi](https://github.com/iOfficeAI/AionUi)
 
 > 🤖 **推荐理由**  
-> *AionUi is a free, open-source coworking platform for command-line AI tools like Gemini CLI, Claude Code, and Codex. With over 7,352 stars, it offers a user-friendly graphical interface, multi-agent support, and local data security. Key features include auto-detection of CLI tools, multi-session chat with independent contexts, smart file management, real-time previews for various formats, and AI-powered image generation. AionUi supports macOS, Windows, and Linux, making it a versatile choice for enhancing AI workflows while ensuring data remains local and secure.*
+> *AionUi is a free, open-source coworking platform designed for command-line AI tools like Gemini CLI, Claude Code, and Codex. With over 7,500 stars on GitHub, it features a user-friendly graphical interface, multi-agent support, and local data security. Key highlights include auto-detection of CLI tools, smart file management, real-time preview of AI-generated content in 9+ formats, and web UI access from any device. AionUi ensures efficient workflows while maintaining data privacy, making it ideal for enhancing productivity in AI-driven tasks.*
 
-- ⭐ 7352 stars
+- ⭐ 7502 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-20
 
@@ -34,8 +34,8 @@
 > 🤖 **推荐理由**  
 > *An all-in-one enhancement suite for Google Gemini - timeline navigation, folder management, prompt library, and chat export in one powerful extension.. popular project, recently updated*
 
-- ⭐ 2202 stars
-- 🍴 62 forks
+- ⭐ 2265 stars
+- 🍴 63 forks
 - 💻 TypeScript
 - 📅 Updated: 2026-01-20
 
@@ -44,9 +44,9 @@
 ### 3. [vibe-kanban](https://github.com/BloopAI/vibe-kanban)
 
 > 🤖 **推荐理由**  
-> *Vibe Kanban is a Rust-based project designed to enhance productivity with AI coding agents like Claude Code and Codex. With 17,693 stars, it allows users to seamlessly switch between coding agents, orchestrate their tasks in parallel or sequence, and track project statuses efficiently. Key features include remote SSH access for project management, centralized agent configuration, and quick task reviews. Vibe Kanban aims to streamline the coding process, enabling developers to focus more on orchestration and planning. Comprehensive documentation is available for installation and usage.*
+> *Vibe Kanban is an innovative Rust-based tool designed to enhance productivity with AI coding agents like Claude Code and Codex. With 17,754 stars, it allows users to seamlessly switch between coding agents, orchestrate tasks in parallel, and track project statuses. Key features include easy project reviews, centralized configuration management, and remote SSH access for project editing. Vibe Kanban streamlines the coding process, making it easier to manage and maximize the efficiency of multiple agents. Comprehensive documentation is available on the official website.*
 
-- ⭐ 17693 stars
+- ⭐ 17754 stars
 - 💻 Rust
 - 📅 Updated: 2026-01-20
 
@@ -55,9 +55,9 @@
 ### 4. [tambo](https://github.com/tambo-ai/tambo)
 
 > 🤖 **推荐理由**  
-> *Tambo is a Generative UI SDK for React, enabling developers to create adaptive applications that respond to user needs through natural language interactions. With over 2,765 stars on GitHub, it supports both generative and interactable components, allowing seamless integration of AI-driven interfaces. Key features include Tambo Cloud for hosted solutions, self-hosting options, MCP integration for tools and prompts, and support for multiple LLM providers. Tambo's innovative design minimizes user friction, offering tailored experiences for both novices and experts.*
+> *Tambo is a generative UI SDK for React, enabling the creation of adaptive applications that respond dynamically to user input. With 2,810 stars on GitHub, it offers features like AI-driven component selection, persistent interactable components, and integration with various LLM providers. Tambo supports both cloud and self-hosted solutions, allowing for flexibility in deployment. Key highlights include MCP integration, local tools for browser functions, and a rich component library. Its user-friendly approach simplifies workflows, making it ideal for diverse user needs.*
 
-- ⭐ 2765 stars
+- ⭐ 2810 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-20
 
@@ -66,9 +66,9 @@
 ### 5. [nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
 
 > 🤖 **推荐理由**  
-> *NautilusTrader is a high-performance algorithmic trading platform built in Rust, featuring an event-driven backtester and live trading capabilities. It supports diverse asset classes, including FX, equities, futures, options, crypto, and DeFi, allowing seamless operations across multiple venues. Key features include high-speed execution, modular API integration, advanced order types, and robust backtesting with nanosecond precision. The platform prioritizes safety and correctness, enabling Python-native strategy development and deployment without code changes, making it ideal for quantitative traders.*
+> *NautilusTrader is a high-performance, open-source algorithmic trading platform designed in Rust, enabling quantitative traders to backtest and deploy automated strategies seamlessly in a Python-native environment. Key features include fast, reliable event-driven architecture, support for multiple asset classes, advanced execution types, and a flexible modular design for API integrations. It offers robust backtesting capabilities with nanosecond resolution and identical strategy code for live trading. With a focus on safety and performance, NautilusTrader is ideal for professional trading firms.*
 
-- ⭐ 18240 stars
+- ⭐ 18246 stars
 - 💻 Rust
 - 📅 Updated: 2026-01-20
 
@@ -77,9 +77,9 @@
 ### 6. [TaskExplorer](https://github.com/DavidXanatos/TaskExplorer)
 
 > 🤖 **推荐理由**  
-> *TaskExplorer is a powerful task management tool designed for real-time monitoring and analysis of running applications. With an intuitive interface, it consolidates critical information into accessible panels, including Thread, Memory, Handles, and Socket Panels for in-depth insights. Features like dynamic data refresh, detailed process information, and dedicated performance panels for CPU, Memory, Disk I/O, and Network optimize system monitoring. Built on the Qt Framework, it supports Windows 7+ and aims for future Linux compatibility. TaskExplorer has garnered 2,643 stars on GitHub, reflecting its robust capabilities.*
+> *TaskExplorer is a powerful task management tool designed to monitor and analyze running applications with real-time data. Its efficient interface consolidates information into accessible panels, including detailed views on threads, memory, handles, sockets, and modules. Users can diagnose performance issues, edit process memory, and monitor system resources through robust performance graphs. Compatible with Windows 7 and above, TaskExplorer is built on the Qt Framework and aims for future Linux support. With 2,671 stars on GitHub, it offers comprehensive insights for optimizing system performance.*
 
-- ⭐ 2643 stars
+- ⭐ 2671 stars
 - 💻 C
 - 📅 Updated: 2026-01-20
 
@@ -88,9 +88,9 @@
 ### 7. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **推荐理由**  
-> *cc-switch is a cross-platform desktop assistant tool for managing Claude Code, Codex, and Gemini CLI, built with Rust and Tauri. Key features include a dual-layer SQLite + JSON architecture for data management, a redesigned user interface, and support for multiple languages (English, Chinese, Japanese). It offers one-click provider switching, skills management, and a comprehensive prompt system. Additionally, it integrates with various API relay services like PackyCode and AIGoCode for enhanced performance, making it a versatile tool for AI coding. The project has gained 12,477 stars.*
+> *cc-switch is a cross-platform desktop assistant tool for Claude Code, Codex, and Gemini CLI, built with Rust and Tauri. With over 12,500 stars, it offers seamless provider management, skill and prompt management systems, and robust API endpoint testing. Key features include a dual-layer data architecture for enhanced sync capabilities, a user-friendly interface supporting English, Chinese, and Japanese, and auto-launch on startup. Sponsored by Z.ai and partners, cc-switch provides access to advanced AI coding tools and services, ensuring efficient coding experiences for developers.*
 
-- ⭐ 12477 stars
+- ⭐ 12500 stars
 - 💻 Rust
 - 📅 Updated: 2026-01-20
 
@@ -99,9 +99,9 @@
 ### 8. [video2x](https://github.com/k4yt3x/video2x)
 
 > 🤖 **推荐理由**  
-> *Video2X is a powerful machine learning-based video super resolution and frame interpolation framework, established in 2018. With over 17,000 stars on GitHub, it offers a complete rewrite in C/C++ for enhanced speed and efficiency. Key features include cross-platform support, improved output quality using Anime4K, Real-ESRGAN, and RIFE models, and a user-friendly GUI for Windows. Video2X supports both upscaling and frame interpolation, requires minimal disk space during processing, and is accessible via Docker and Google Colab for users without powerful GPUs. Comprehensive documentation is available.*
+> *Video2X is a powerful machine learning framework for video super resolution and frame interpolation, established in 2018. Its latest version (6.0.0) features a complete rewrite in C/C++, ensuring faster performance and enhanced output quality. Key highlights include cross-platform support for Windows and Linux, a new GUI for easy installation, and support for advanced models like Anime4K, Real-ESRGAN, and RIFE. Users can also leverage Docker for easy deployment or use Google Colab for access to powerful GPUs. Comprehensive documentation is available for guidance.*
 
-- ⭐ 17154 stars
+- ⭐ 17158 stars
 - 💻 C++
 - 📅 Updated: 2026-01-20
 
@@ -110,9 +110,9 @@
 ### 9. [bitchat](https://github.com/permissionlesstech/bitchat)
 
 > 🤖 **推荐理由**  
-> *Bitchat is a decentralized peer-to-peer messaging app that combines Bluetooth mesh networks for offline communication and the Nostr protocol for global messaging. Key features include intelligent message routing, location-based channels using geohash, and end-to-end encryption for privacy. With no accounts or central servers, users can connect locally or globally while maintaining confidentiality. The app supports IRC-style commands, offers emergency data wipe, and is optimized for iOS and macOS. Bitchat is designed for secure, flexible communication in various scenarios, including emergencies and community events.*
+> *bitchat is a decentralized peer-to-peer messaging app featuring a dual transport architecture that combines local Bluetooth mesh networks for offline communication with the Nostr protocol for global connectivity. Key features include location-based channels, intelligent message routing, end-to-end encryption, and an IRC-style command interface. The app prioritizes user privacy by eliminating accounts and identifiers. Available for iOS and macOS, bitchat supports emergency data wipe and offers performance optimizations, making it ideal for use in remote areas and disaster scenarios.*
 
-- ⭐ 24417 stars
+- ⭐ 24433 stars
 - 💻 Swift
 - 📅 Updated: 2026-01-20
 
@@ -121,9 +121,9 @@
 ### 10. [bentopdf](https://github.com/alam00000/bentopdf)
 
 > 🤖 **推荐理由**  
-> *BentoPDF is a privacy-first, client-side PDF toolkit that enables users to manipulate, edit, merge, and process PDF files directly in their browser without server-side processing. Key features include merging, splitting, and organizing PDFs, as well as editing capabilities like annotations, form creation, and file conversion. With over 50 tools available, BentoPDF ensures high performance and security, promoting user privacy. It is self-hostable, open-source, and offers dual licensing options, making it suitable for both personal and commercial use.*
+> *BentoPDF is a powerful, privacy-first PDF toolkit that runs entirely client-side, ensuring your files remain secure. With over 50 tools, users can manipulate, edit, merge, and convert PDFs directly in the browser without server-side processing. Key features include merging, splitting, and organizing PDFs, creating fillable forms, and extensive conversion options (e.g., images and documents to PDF). It supports self-hosting and offers dual licensing (AGPL-3.0 and commercial). Join the community on Discord for support and contributions.*
 
-- ⭐ 10408 stars
+- ⭐ 10421 stars
 - 💻 JavaScript
 - 📅 Updated: 2026-01-20
 
@@ -141,4 +141,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-20 12:33:48 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-20 15:08:55 UTC
