@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-01-21
+# 📊 🌟 GitHub Trending Daily - 2026-01-22
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **100688** ⭐ | **8869** 🍴
+**10** Projects | **104098** ⭐ | **9524** 🍴
 
-**Top Languages:** `Rust` (4) · `TypeScript` (3) · `C` (1)
+**Top Languages:** `TypeScript` (6) · `Rust` (2) · `Go` (1)
 
-**Updated:** 2026-01-21 02:22 UTC
+**Updated:** 2026-01-22 02:22 UTC
 
 **Categories:**
 
@@ -21,113 +21,113 @@
 ### 1. [AionUi](https://github.com/iOfficeAI/AionUi)
 
 > 🤖 **Why Recommend**  
-> *AionUi is a free, open-source coworking platform for command-line AI tools like Gemini CLI, Claude Code, and Codex. With 7,877 stars on GitHub, it features a unified graphical interface, multi-model support, and local data security. Key highlights include multi-session chat with independent context, smart file management, real-time preview for 9+ formats, and AI image generation. AionUi is cross-platform, compatible with macOS, Windows, and Linux, and supports remote access via WebUI, making it an ideal choice for enhancing AI productivity and collaboration.*
+> *AionUi is an open-source, cross-platform coworking tool designed for seamless interaction with command-line AI agents like Gemini CLI, Claude Code, and Codex. Key features include a unified graphical interface, multi-agent support, local data security, and smart file management. Users can engage in multiple independent sessions, utilize real-time previews for various file formats, and access the platform remotely via WebUI. AionUi is free to use and enhances productivity by simplifying AI workflows and automating tasks, making it an ideal choice for users seeking efficient AI collaboration.*
 
-- ⭐ 7877 stars
+- ⭐ 8722 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-21
+- 📅 Updated: 2026-01-22
 
-![AionUi](2026/01-21/2026-01-21_daily-top_AionUi.png)
+![AionUi](2026/01-22/2026-01-22_daily-top_AionUi.png)
 
-### 2. [vibe-kanban](https://github.com/BloopAI/vibe-kanban)
+### 2. [dexter](https://github.com/virattt/dexter)
 
 > 🤖 **Why Recommend**  
-> *Vibe Kanban is an innovative tool designed to enhance productivity with AI coding agents like Claude Code and Codex. It allows seamless switching and orchestration of multiple agents, enabling parallel or sequential execution. Key features include task status tracking, centralized configuration management, and remote project access via SSH. With over 17,934 stars on GitHub, Vibe Kanban streamlines the development workflow, making it easier to manage coding tasks efficiently. For installation and documentation, visit [vibekanban.com](https://vibekanban.com).*
+> *Dexter is an autonomous financial research agent designed to analyze complex financial queries through intelligent task planning and real-time market data. Key features include automated decomposition of tasks, self-execution using various financial data tools, and self-validation to refine results for confidence in outputs. It accesses critical financial statements and incorporates safety features like loop detection. Built with TypeScript, Dexter requires a Bun runtime and API keys for optimal performance. With over 8,000 stars, it's a powerful tool for deep financial analysis.*
 
-- ⭐ 17934 stars
+- ⭐ 8045 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-01-22
+
+![dexter](2026/01-22/2026-01-22_daily-top_dexter.png)
+
+### 3. [go2rtc](https://github.com/AlexxIT/go2rtc)
+
+> 🤖 **Why Recommend**  
+> *go2rtc is a powerful camera streaming application built in Go, supporting protocols like RTSP, WebRTC, HTTP-FLV, and more. With over 11,800 stars, it offers zero-dependency, low-latency streaming from various sources, including USB cameras and HomeKit devices. Key features include on-the-fly transcoding via FFmpeg, multi-source codec negotiation for two-way audio, and integration capabilities with smart home platforms. Users can publish streams to popular services like YouTube and Telegram, making go2rtc a versatile solution for real-time video applications.*
+
+- ⭐ 11810 stars
+- 💻 Go
+- 📅 Updated: 2026-01-22
+
+![go2rtc](2026/01-22/2026-01-22_daily-top_go2rtc.png)
+
+### 4. [mastra](https://github.com/mastra-ai/mastra)
+
+> 🤖 **Why Recommend**  
+> *Mastra is a powerful framework for building AI-powered applications and agents using a modern TypeScript stack. Key features include model routing for 40+ providers, autonomous agent creation for complex tasks, and a graph-based workflow engine for orchestrating multi-step processes. Mastra also supports human-in-the-loop functionality, context management, and seamless integration with React and Node.js. With built-in observability and evaluation tools, it facilitates the development of reliable AI products. Start your journey with easy setup and comprehensive documentation.*
+
+- ⭐ 19935 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-01-22
+
+![mastra](2026/01-22/2026-01-22_daily-top_mastra.png)
+
+### 5. [goose](https://github.com/block/goose)
+
+> 🤖 **Why Recommend**  
+> *goose is an open-source AI agent designed to automate engineering tasks, enhancing developer productivity. Built in Rust, it offers capabilities beyond simple code suggestions, including project creation, code execution, debugging, and workflow orchestration. Compatible with any LLM and supporting multi-model configurations, goose integrates seamlessly with MCP servers. Available as a desktop app and CLI, it adapts to various workflows, making it ideal for prototyping and managing complex pipelines. Join the community on Discord and explore extensive documentation and tutorials.*
+
+- ⭐ 26798 stars
 - 💻 Rust
-- 📅 Updated: 2026-01-21
+- 📅 Updated: 2026-01-22
 
-![vibe-kanban](2026/01-21/2026-01-21_daily-top_vibe-kanban.png)
+![goose](2026/01-22/2026-01-22_daily-top_goose.png)
 
-### 3. [gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager)
+### 6. [vibe-kanban](https://github.com/BloopAI/vibe-kanban)
+
+> 🤖 **Why Recommend**  
+> *Vibe Kanban is a powerful tool designed to enhance productivity by leveraging AI coding agents like Claude Code and Codex. Key features include seamless switching between agents, orchestration of parallel or sequential tasks, and centralized configuration management. Users can easily review work, track task statuses, and launch development servers. The platform supports remote project access via SSH and offers extensive documentation for setup and usage. With 18,254 stars on GitHub, Vibe Kanban is a valuable asset for developers aiming to streamline their coding workflows.*
+
+- ⭐ 18254 stars
+- 💻 Rust
+- 📅 Updated: 2026-01-22
+
+![vibe-kanban](2026/01-22/2026-01-22_daily-top_vibe-kanban.png)
+
+### 7. [polymarket-copy-trading-bot](https://github.com/vladmeer/polymarket-copy-trading-bot)
+
+> 🤖 **Why Recommend**  
+> *The Polymarket Copy Trading Bot is an automated trading solution that replicates the trades of top Polymarket performers in real-time. Key features include smart position sizing, multi-trader support, real-time execution, and performance tracking via MongoDB. The bot monitors trader activity continuously, executes orders based on calculated sizes, and provides integrated risk management. It supports multiple configurations for users and leverages APIs for efficient trade monitoring. An advanced version offers enhanced features like real-time data streaming and automated trade management.*
+
+- ⭐ 1607 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-01-22
+
+![polymarket-copy-trading-bot](2026/01-22/2026-01-22_daily-top_polymarket-copy-trading-bot.png)
+
+### 8. [TaskExplorer](https://github.com/DavidXanatos/TaskExplorer)
+
+> 🤖 **Why Recommend**  
+> *TaskExplorer is a powerful task management tool that provides in-depth insights into running applications. With a user-friendly interface, it offers real-time data on processes without clutter. Key features include a Thread Panel for stack traces, a Memory Panel for editing process memory, and a Handles Panel for monitoring open handles. It also includes a Socket Panel for network connections and various performance monitoring tools. Built with the Qt Framework, it supports Windows 7 and above, with plans for a Linux version, making it a versatile choice for system performance optimization.*
+
+- ⭐ 2958 stars
+- 💻 C
+- 📅 Updated: 2026-01-22
+
+![TaskExplorer](2026/01-22/2026-01-22_daily-top_TaskExplorer.png)
+
+### 9. [gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager)
 
 > 🤖 **Why Recommend**  
 > *An all-in-one enhancement suite for Google Gemini - timeline navigation, folder management, prompt library, and chat export in one powerful extension.. popular project, recently updated*
 
-- ⭐ 2360 stars
-- 🍴 64 forks
+- ⭐ 2637 stars
+- 🍴 72 forks
 - 💻 TypeScript
-- 📅 Updated: 2026-01-21
+- 📅 Updated: 2026-01-22
 
-![gemini-voyager](2026/01-21/2026-01-21_daily-top_gemini-voyager.png)
+![gemini-voyager](2026/01-22/2026-01-22_daily-top_gemini-voyager.png)
 
-### 4. [nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
-
-> 🤖 **Why Recommend**  
-> *NautilusTrader is a high-performance, open-source algorithmic trading platform built in Rust, with a focus on safety and speed. It enables quantitative traders to backtest and deploy automated trading strategies seamlessly in a Python-native environment. Key features include an event-driven architecture, support for diverse asset classes, advanced order types, and multi-venue capabilities for high-frequency trading. The platform integrates with various APIs, offers customizable components, and is designed for both backtesting and live trading, ensuring consistency and reduced operational risk.*
-
-- ⭐ 18268 stars
-- 💻 Rust
-- 📅 Updated: 2026-01-21
-
-![nautilus_trader](2026/01-21/2026-01-21_daily-top_nautilus_trader.png)
-
-### 5. [TaskExplorer](https://github.com/DavidXanatos/TaskExplorer)
+### 10. [tambo](https://github.com/tambo-ai/tambo)
 
 > 🤖 **Why Recommend**  
-> *TaskExplorer is a powerful task management tool designed to provide in-depth insights into running applications. It features a streamlined interface that displays real-time data on processes, memory, threads, and handles in accessible panels. Key functionalities include a detailed Thread Panel for diagnosing issues, a Memory Panel for editing process memory, and a Socket Panel for monitoring network connections. Users can also view system resource usage with performance graphs. Built on the Qt Framework, TaskExplorer is compatible with Windows 7 and higher, with plans for a Linux version.*
+> *Tambo is a generative UI SDK for React that enables developers to create adaptive applications using AI-driven components. With Tambo, components render dynamically based on user input, allowing both novice and experienced users to interact seamlessly. Core features include support for generative and interactable components, easy integrations with tools like Linear and Slack, and a choice between Tambo Cloud or self-hosted solutions. Developers can leverage existing templates, a pre-built component library, and local tool execution for enhanced functionality. Tambo supports multiple LLM providers and offers a free tier for users.*
 
-- ⭐ 2771 stars
-- 💻 C
-- 📅 Updated: 2026-01-21
-
-![TaskExplorer](2026/01-21/2026-01-21_daily-top_TaskExplorer.png)
-
-### 6. [tambo](https://github.com/tambo-ai/tambo)
-
-> 🤖 **Why Recommend**  
-> *Tambo is a generative UI SDK for React, enabling developers to create adaptive applications that respond to user needs through natural language interactions. Key features include AI-driven component selection, support for generative and interactable components, and seamless integration with various LLM providers. Tambo offers both a free cloud backend and self-hosting options, along with built-in MCP integrations for enhanced functionality. Developers can leverage a pre-built component library and customizable templates to expedite app development while ensuring a tailored user experience.*
-
-- ⭐ 2916 stars
+- ⭐ 3332 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-21
+- 📅 Updated: 2026-01-22
 
-![tambo](2026/01-21/2026-01-21_daily-top_tambo.png)
-
-### 7. [cc-switch](https://github.com/farion1231/cc-switch)
-
-> 🤖 **Why Recommend**  
-> *cc-switch is a cross-platform desktop assistant tool designed for managing Claude Code, Codex, and Gemini CLI interfaces. Built with Rust and Tauri, it offers seamless provider management, skills and prompts systems, and MCP server management. Key features include a dual-layer architecture for data persistence, auto-launch on startup, multi-language support, and an intuitive UI with enhanced visual hierarchy. With over 12,500 stars, it supports Windows, macOS, and Linux, and integrates with multiple API relay services for optimal coding experiences.*
-
-- ⭐ 12554 stars
-- 💻 Rust
-- 📅 Updated: 2026-01-21
-
-![cc-switch](2026/01-21/2026-01-21_daily-top_cc-switch.png)
-
-### 8. [bitchat](https://github.com/permissionlesstech/bitchat)
-
-> 🤖 **Why Recommend**  
-> *bitchat is a decentralized peer-to-peer messaging app utilizing a dual transport architecture, combining Bluetooth mesh networks for offline communication and the Nostr protocol for global connectivity. Key features include intelligent message routing, location-based channels, end-to-end encryption, and an IRC-style command interface. The app prioritizes privacy with no accounts or phone numbers, and offers a universal experience for both iOS and macOS. It's designed for situations like protests and emergencies, functioning without internet access while maintaining robust features for global chat.*
-
-- ⭐ 24497 stars
-- 💻 Swift
-- 📅 Updated: 2026-01-21
-
-![bitchat](2026/01-21/2026-01-21_daily-top_bitchat.png)
-
-### 9. [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator)
-
-> 🤖 **Why Recommend**  
-> *Ralph Orchestrator is a Rust-based orchestration framework designed for autonomous AI agent task completion using the Ralph Wiggum technique. Key features include two operation modes (Traditional for simple loops and Hat-Based for structured workflows with specialized personas), multi-backend support (e.g., Claude Code, Kiro), an event-driven coordination model, and over 20 pre-configured workflow presets. Additional highlights are an interactive TUI for real-time monitoring and session recording for debugging. Ralph Orchestrator is actively developed and aims to streamline complex automation tasks.*
-
-- ⭐ 1064 stars
-- 💻 Rust
-- 📅 Updated: 2026-01-21
-
-![ralph-orchestrator](2026/01-21/2026-01-21_daily-top_ralph-orchestrator.png)
-
-### 10. [bentopdf](https://github.com/alam00000/bentopdf)
-
-> 🤖 **Why Recommend**  
-> *BentoPDF is a privacy-first, client-side PDF toolkit that allows users to manipulate, edit, merge, and process PDF files directly in the browser without server-side processing. Key features include merging, splitting, and organizing PDFs, as well as converting various formats to and from PDF. The toolkit supports over 50 tools and is fully self-hostable via Docker or static hosting. With a focus on security and performance, BentoPDF offers a dual licensing model: a free AGPL option and a commercial license for proprietary use.*
-
-- ⭐ 10447 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-01-21
-
-![bentopdf](2026/01-21/2026-01-21_daily-top_bentopdf.png)
+![tambo](2026/01-22/2026-01-22_daily-top_tambo.png)
 
 ---
 
@@ -141,4 +141,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-21 02:22:26 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-22 02:22:55 UTC
