@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-01-22
+# 📊 🌟 GitHub Trending Daily - 2026-01-23
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **104098** ⭐ | **9524** 🍴
+**10** Projects | **149832** ⭐ | **11345** 🍴
 
-**Top Languages:** `TypeScript` (6) · `Rust` (2) · `Go` (1)
+**Top Languages:** `TypeScript` (6) · `Rust` (3) · `JavaScript` (1)
 
-**Updated:** 2026-01-22 02:22 UTC
+**Updated:** 2026-01-23 02:13 UTC
 
 **Categories:**
 
@@ -18,116 +18,115 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [AionUi](https://github.com/iOfficeAI/AionUi)
+### 1. [tambo](https://github.com/tambo-ai/tambo)
 
 > 🤖 **Why Recommend**  
-> *AionUi is an open-source, cross-platform coworking tool designed for seamless interaction with command-line AI agents like Gemini CLI, Claude Code, and Codex. Key features include a unified graphical interface, multi-agent support, local data security, and smart file management. Users can engage in multiple independent sessions, utilize real-time previews for various file formats, and access the platform remotely via WebUI. AionUi is free to use and enhances productivity by simplifying AI workflows and automating tasks, making it an ideal choice for users seeking efficient AI collaboration.*
+> *Tambo is a generative UI SDK for React, enabling developers to create adaptive applications that respond to user requests through natural language. Key features include generative and interactable components, seamless integration with various LLM providers, and support for MCP protocols. Tambo offers a hosted backend (Tambo Cloud) or self-hosted options, with an easy setup process. Developers can leverage pre-built templates, integrate local tools, and customize user experiences with context-aware suggestions. With over 3,600 stars on GitHub, Tambo is designed for dynamic, user-friendly interfaces.*
 
-- ⭐ 8722 stars
+- ⭐ 3667 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-22
+- 📅 Updated: 2026-01-23
 
-![AionUi](2026/01-22/2026-01-22_daily-top_AionUi.png)
+![tambo](2026/01-23/2026-01-23_daily-top_tambo.png)
 
-### 2. [dexter](https://github.com/virattt/dexter)
+### 2. [AionUi](https://github.com/iOfficeAI/AionUi)
 
 > 🤖 **Why Recommend**  
-> *Dexter is an autonomous financial research agent designed to analyze complex financial queries through intelligent task planning and real-time market data. Key features include automated decomposition of tasks, self-execution using various financial data tools, and self-validation to refine results for confidence in outputs. It accesses critical financial statements and incorporates safety features like loop detection. Built with TypeScript, Dexter requires a Bun runtime and API keys for optimal performance. With over 8,000 stars, it's a powerful tool for deep financial analysis.*
+> *AionUi is a free, open-source coworking platform for command-line AI tools like Gemini CLI, Claude Code, and Codex. Key features include a user-friendly graphical interface, multi-model support, and local data security. It offers auto-detection of installed CLI tools, multi-session chat capabilities, smart file management, and real-time previews for various formats. AionUi also supports remote access via WebUI, allowing users to control AI tools from any device on the network. Available on macOS, Windows, and Linux, it enhances AI productivity and collaboration.*
 
-- ⭐ 8045 stars
+- ⭐ 9283 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-22
+- 📅 Updated: 2026-01-23
 
-![dexter](2026/01-22/2026-01-22_daily-top_dexter.png)
+![AionUi](2026/01-23/2026-01-23_daily-top_AionUi.png)
 
-### 3. [go2rtc](https://github.com/AlexxIT/go2rtc)
-
-> 🤖 **Why Recommend**  
-> *go2rtc is a powerful camera streaming application built in Go, supporting protocols like RTSP, WebRTC, HTTP-FLV, and more. With over 11,800 stars, it offers zero-dependency, low-latency streaming from various sources, including USB cameras and HomeKit devices. Key features include on-the-fly transcoding via FFmpeg, multi-source codec negotiation for two-way audio, and integration capabilities with smart home platforms. Users can publish streams to popular services like YouTube and Telegram, making go2rtc a versatile solution for real-time video applications.*
-
-- ⭐ 11810 stars
-- 💻 Go
-- 📅 Updated: 2026-01-22
-
-![go2rtc](2026/01-22/2026-01-22_daily-top_go2rtc.png)
-
-### 4. [mastra](https://github.com/mastra-ai/mastra)
+### 3. [remotion](https://github.com/remotion-dev/remotion)
 
 > 🤖 **Why Recommend**  
-> *Mastra is a powerful framework for building AI-powered applications and agents using a modern TypeScript stack. Key features include model routing for 40+ providers, autonomous agent creation for complex tasks, and a graph-based workflow engine for orchestrating multi-step processes. Mastra also supports human-in-the-loop functionality, context management, and seamless integration with React and Node.js. With built-in observability and evaluation tools, it facilitates the development of reliable AI products. Start your journey with easy setup and comprehensive documentation.*
+> *Remotion is a powerful framework for programmatically creating videos using React. With over 27,000 stars on GitHub, it enables developers to leverage web technologies like CSS, Canvas, and WebGL, along with the programming capabilities of React such as reusable components and powerful composition. Notable projects made with Remotion include dynamic year-in-review videos and custom animations. Getting started is simple with the command `npx create-video@latest`. Comprehensive documentation is available at remotion.dev/docs.*
 
-- ⭐ 19935 stars
+- ⭐ 27110 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-22
+- 📅 Updated: 2026-01-23
 
-![mastra](2026/01-22/2026-01-22_daily-top_mastra.png)
+![remotion](2026/01-23/2026-01-23_daily-top_remotion.png)
 
-### 5. [goose](https://github.com/block/goose)
+### 4. [goose](https://github.com/block/goose)
 
 > 🤖 **Why Recommend**  
-> *goose is an open-source AI agent designed to automate engineering tasks, enhancing developer productivity. Built in Rust, it offers capabilities beyond simple code suggestions, including project creation, code execution, debugging, and workflow orchestration. Compatible with any LLM and supporting multi-model configurations, goose integrates seamlessly with MCP servers. Available as a desktop app and CLI, it adapts to various workflows, making it ideal for prototyping and managing complex pipelines. Join the community on Discord and explore extensive documentation and tutorials.*
+> *Goose is an open-source AI agent designed to automate engineering tasks, enabling developers to build, execute, debug, and manage projects autonomously. With support for any LLM and multi-model configurations, it optimizes performance and cost. Goose integrates seamlessly with MCP servers and is accessible as both a desktop app and CLI. Key features include project prototyping, code refinement, and workflow orchestration, making it an essential tool for developers focused on innovation. Join the community on Discord and explore comprehensive documentation for setup and tutorials.*
 
-- ⭐ 26798 stars
+- ⭐ 27180 stars
 - 💻 Rust
-- 📅 Updated: 2026-01-22
+- 📅 Updated: 2026-01-23
 
-![goose](2026/01-22/2026-01-22_daily-top_goose.png)
+![goose](2026/01-23/2026-01-23_daily-top_goose.png)
 
-### 6. [vibe-kanban](https://github.com/BloopAI/vibe-kanban)
+### 5. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **Why Recommend**  
-> *Vibe Kanban is a powerful tool designed to enhance productivity by leveraging AI coding agents like Claude Code and Codex. Key features include seamless switching between agents, orchestration of parallel or sequential tasks, and centralized configuration management. Users can easily review work, track task statuses, and launch development servers. The platform supports remote project access via SSH and offers extensive documentation for setup and usage. With 18,254 stars on GitHub, Vibe Kanban is a valuable asset for developers aiming to streamline their coding workflows.*
+> *cc-switch is a cross-platform desktop assistant tool (Windows, macOS, Linux) for managing Claude Code, Codex, and Gemini CLI interfaces, built with Rust and Tauri. Key features include seamless provider management, skills and prompts systems, and a dual-layer architecture for data storage. Users benefit from enhanced UI, multi-language support, and auto-launch capabilities. The tool supports various API configurations, offers speed testing, and integrates with multiple API relay services. With over 13,000 stars, it provides a robust, efficient coding experience for developers.*
 
-- ⭐ 18254 stars
+- ⭐ 13058 stars
 - 💻 Rust
-- 📅 Updated: 2026-01-22
+- 📅 Updated: 2026-01-23
 
-![vibe-kanban](2026/01-22/2026-01-22_daily-top_vibe-kanban.png)
+![cc-switch](2026/01-23/2026-01-23_daily-top_cc-switch.png)
 
-### 7. [polymarket-copy-trading-bot](https://github.com/vladmeer/polymarket-copy-trading-bot)
+### 6. [VidBee](https://github.com/nexmoe/VidBee)
 
 > 🤖 **Why Recommend**  
-> *The Polymarket Copy Trading Bot is an automated trading solution that replicates the trades of top Polymarket performers in real-time. Key features include smart position sizing, multi-trader support, real-time execution, and performance tracking via MongoDB. The bot monitors trader activity continuously, executes orders based on calculated sizes, and provides integrated risk management. It supports multiple configurations for users and leverages APIs for efficient trade monitoring. An advanced version offers enhanced features like real-time data streaming and automated trade management.*
+> *VidBee is an open-source video downloader that enables users to download videos and audios from over 1000 websites globally, including platforms like YouTube, TikTok, and Instagram. Built with Electron and powered by yt-dlp, it features a modern interface with intuitive controls, real-time progress tracking, and robust download queue management. Key functionality includes RSS auto-download, which allows automatic subscriptions to feeds for seamless downloads from favorite creators. Actively developed and user-friendly, VidBee is ideal for efficient video management.*
 
-- ⭐ 1607 stars
+- ⭐ 4684 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-22
+- 📅 Updated: 2026-01-23
 
-![polymarket-copy-trading-bot](2026/01-22/2026-01-22_daily-top_polymarket-copy-trading-bot.png)
+![VidBee](2026/01-23/2026-01-23_daily-top_VidBee.png)
 
-### 8. [TaskExplorer](https://github.com/DavidXanatos/TaskExplorer)
-
-> 🤖 **Why Recommend**  
-> *TaskExplorer is a powerful task management tool that provides in-depth insights into running applications. With a user-friendly interface, it offers real-time data on processes without clutter. Key features include a Thread Panel for stack traces, a Memory Panel for editing process memory, and a Handles Panel for monitoring open handles. It also includes a Socket Panel for network connections and various performance monitoring tools. Built with the Qt Framework, it supports Windows 7 and above, with plans for a Linux version, making it a versatile choice for system performance optimization.*
-
-- ⭐ 2958 stars
-- 💻 C
-- 📅 Updated: 2026-01-22
-
-![TaskExplorer](2026/01-22/2026-01-22_daily-top_TaskExplorer.png)
-
-### 9. [gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager)
+### 7. [dexter](https://github.com/virattt/dexter)
 
 > 🤖 **Why Recommend**  
-> *An all-in-one enhancement suite for Google Gemini - timeline navigation, folder management, prompt library, and chat export in one powerful extension.. popular project, recently updated*
+> *Dexter is an autonomous financial research agent designed to analyze complex financial queries through intelligent task planning and real-time market data. With features like autonomous execution, self-validation, and access to essential financial statements, Dexter generates clear, step-by-step research plans. It iterates on its outputs until confident results are achieved, enhanced by built-in safety mechanisms. Key requirements include the Bun runtime and various API keys. With over 8,400 stars on GitHub, Dexter represents a significant advancement in financial research automation.*
 
-- ⭐ 2637 stars
-- 🍴 72 forks
+- ⭐ 8437 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-22
+- 📅 Updated: 2026-01-23
 
-![gemini-voyager](2026/01-22/2026-01-22_daily-top_gemini-voyager.png)
+![dexter](2026/01-23/2026-01-23_daily-top_dexter.png)
 
-### 10. [tambo](https://github.com/tambo-ai/tambo)
+### 8. [mastra](https://github.com/mastra-ai/mastra)
 
 > 🤖 **Why Recommend**  
-> *Tambo is a generative UI SDK for React that enables developers to create adaptive applications using AI-driven components. With Tambo, components render dynamically based on user input, allowing both novice and experienced users to interact seamlessly. Core features include support for generative and interactable components, easy integrations with tools like Linear and Slack, and a choice between Tambo Cloud or self-hosted solutions. Developers can leverage existing templates, a pre-built component library, and local tool execution for enhanced functionality. Tambo supports multiple LLM providers and offers a free tier for users.*
+> *Mastra is a TypeScript framework for developing AI-powered applications, created by the team behind Gatsby. With over 20,000 stars, it offers seamless integration with frameworks like React and Node.js, enabling developers to build production-ready applications. Key features include model routing to 40+ providers, autonomous agents for complex tasks, a graph-based workflow engine, human-in-the-loop capabilities, and context management. Mastra also supports integrations, MCP servers for resource exposure, and built-in observability tools for ongoing refinement, making it ideal for creating reliable AI solutions.*
 
-- ⭐ 3332 stars
+- ⭐ 20181 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-22
+- 📅 Updated: 2026-01-23
 
-![tambo](2026/01-22/2026-01-22_daily-top_tambo.png)
+![mastra](2026/01-23/2026-01-23_daily-top_mastra.png)
+
+### 9. [ratatui](https://github.com/ratatui/ratatui)
+
+> 🤖 **Why Recommend**  
+> *Ratatui is a Rust crate designed for building terminal user interfaces (TUIs), allowing developers to create interactive console applications easily. With over 17,670 stars, it offers templates for quick project setup using `cargo-generate`, extensive documentation, and a variety of widget examples. Key features include a modular architecture, support for custom rendering, and an active community forum for discussions. Ratatui is an excellent choice for developing command-line applications and dashboards, making it a prominent alternative to other TUI libraries like Cursive and iocraft.*
+
+- ⭐ 17670 stars
+- 💻 Rust
+- 📅 Updated: 2026-01-23
+
+![ratatui](2026/01-23/2026-01-23_daily-top_ratatui.png)
+
+### 10. [awesome-copilot](https://github.com/github/awesome-copilot)
+
+> 🤖 **Why Recommend**  
+> *Awesome Copilot is a community-driven repository designed to enhance your GitHub Copilot experience. It features a variety of resources, including specialized agents for specific workflows, task-specific prompts, comprehensive coding instructions, and curated collections organized by themes. Key highlights include the MCP Server for easy installation of customizations, and extensive documentation that supports productivity and best practices. With over 18,500 stars, it serves as a powerful toolkit for developers looking to optimize their coding processes.*
+
+- ⭐ 18562 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-01-23
+
+![awesome-copilot](2026/01-23/2026-01-23_daily-top_awesome-copilot.png)
 
 ---
 
@@ -141,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-22 02:22:55 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-23 02:13:22 UTC
