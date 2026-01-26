@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-01-25
+# 📊 🌟 GitHub Trending Daily - 2026-01-26
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **225832** ⭐ | **20039** 🍴
+**10** 个项目 | **390253** ⭐ | **34198** 🍴
 
-**热门语言:** `TypeScript` (3) · `Rust` (3) · `C` (1)
+**热门语言:** `Rust` (5) · `TypeScript` (2) · `Go` (2)
 
-**更新时间:** 2026-01-25 02:29 UTC
+**更新时间:** 2026-01-26 02:29 UTC
 
 **分类分布:**
 
@@ -21,113 +21,112 @@
 ### 1. [remotion](https://github.com/remotion-dev/remotion)
 
 > 🤖 **推荐理由**  
-> *Remotion is a powerful framework for programmatically creating videos using React, allowing developers to leverage web technologies like CSS, Canvas, and SVG. Key features include reusable components, fast refresh, and access to a rich package ecosystem. Users can harness programming logic for dynamic video creation, integrating APIs and algorithms for unique effects. Notable projects include "GitHub Unwrapped" and various showcase videos. With extensive documentation and a supportive community, Remotion empowers developers to innovate in video production. Get started easily with `npx create-video@latest`.*
+> *Remotion is a powerful framework for programmatically creating videos using React and TypeScript, boasting over 30,000 stars on GitHub. It allows developers to leverage web technologies like CSS, Canvas, and SVG alongside React's component-based architecture to craft dynamic video content. Key features include reusable components, fast refresh, and integration with existing APIs. Users can easily get started with `npx create-video@latest`. Explore creations like GitHub Unwrapped and more in the Remotion Showcase. Documentation is available at remotion.dev/docs.*
 
-- ⭐ 29598 stars
+- ⭐ 30749 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-25
+- 📅 Updated: 2026-01-26
 
-![remotion](2026/01-25/2026-01-25_daily-top_remotion.png)
+![remotion](2026/01-26/2026-01-26_daily-top_remotion.png)
 
 ### 2. [goose](https://github.com/block/goose)
 
 > 🤖 **推荐理由**  
-> *Goose is an open-source AI agent designed to automate complex engineering tasks. Beyond mere code suggestions, it can build, execute, and debug projects autonomously while interacting with external APIs. Its flexible architecture supports any LLM, optimizing for performance and cost. Available as both a desktop app and CLI, Goose seamlessly integrates with existing workflows, making it ideal for developers looking to enhance productivity. Key features include multi-model configuration, workflow orchestration, and comprehensive documentation and tutorials. Join the community on Discord and explore its capabilities!*
+> *Goose is an open-source AI agent designed to automate engineering tasks, offering capabilities beyond mere code suggestions. Built in Rust, it can autonomously build projects, execute and debug code, orchestrate workflows, and interact with APIs. Goose supports any LLM, allowing for multi-model configurations to optimize performance and costs. Available as both a desktop app and CLI, it seamlessly integrates with MCP servers. Ideal for developers looking to enhance productivity, Goose provides a flexible, extensible solution for various development needs.*
 
-- ⭐ 28393 stars
+- ⭐ 28891 stars
 - 💻 Rust
-- 📅 Updated: 2026-01-25
+- 📅 Updated: 2026-01-26
 
-![goose](2026/01-25/2026-01-25_daily-top_goose.png)
+![goose](2026/01-26/2026-01-26_daily-top_goose.png)
 
-### 3. [VidBee](https://github.com/nexmoe/VidBee)
-
-> 🤖 **推荐理由**  
-> *VidBee is an open-source video downloader that enables users to download videos and audio from over 1000 websites globally, including popular platforms like YouTube, TikTok, and Instagram. Built with Electron and powered by yt-dlp, it features a modern, intuitive interface with one-click operations, real-time progress tracking, and comprehensive download queue management. A standout feature is the RSS auto-download, allowing users to automatically subscribe to feeds and download new content from favorite creators effortlessly. Join the vibrant open-source community and enhance your downloading experience with VidBee.*
-
-- ⭐ 5548 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-01-25
-
-![VidBee](2026/01-25/2026-01-25_daily-top_VidBee.png)
-
-### 4. [res-downloader](https://github.com/putyy/res-downloader)
+### 3. [res-downloader](https://github.com/putyy/res-downloader)
 
 > 🤖 **推荐理由**  
-> *res-downloader is a cross-platform resource downloader built with Go and Wails, featuring a user-friendly interface. It supports a variety of media types including videos, audio, images, m3u8 streams, and live broadcasts. Compatible with platforms such as WeChat, Douyin, Kuaishou, and QQ Music, it offers proxy settings for accessing restricted content. Key highlights include easy installation, multi-platform support (Windows, macOS, Linux), and efficient resource management. The tool is designed for educational purposes and aims to simplify the resource downloading process for users.*
+> *res-downloader is a cross-platform resource downloading tool built with Go and Wails, supporting Windows, macOS, and Linux. It allows users to easily download various types of content, including videos, audio, images, and live streams, from popular platforms like Douyin, Kuaishou, and QQ Music. Key features include a user-friendly interface, proxy settings for restricted access, and extensive resource type support. The tool is designed for simplicity, making resource extraction accessible to all users, while adhering to legal usage guidelines.*
 
-- ⭐ 14386 stars
+- ⭐ 14518 stars
 - 💻 Go
-- 📅 Updated: 2026-01-25
+- 📅 Updated: 2026-01-26
 
-![res-downloader](2026/01-25/2026-01-25_daily-top_res-downloader.png)
+![res-downloader](2026/01-26/2026-01-26_daily-top_res-downloader.png)
+
+### 4. [cc-switch](https://github.com/farion1231/cc-switch)
+
+> 🤖 **推荐理由**  
+> *cc-switch is a cross-platform desktop assistant tool for Claude Code, Codex, and Gemini CLI, built with Rust and Tauri. It features a dual-layer architecture for data management, a redesigned UI, and multi-language support (English, Chinese, Japanese). Key functionalities include seamless provider switching, skills and prompts management, and MCP server integration. Users benefit from API latency testing, auto-sync capabilities, and cloud sync setup. The project is actively supported by various partners, ensuring efficient AI coding experiences. With over 13,690 stars, it demonstrates strong community engagement.*
+
+- ⭐ 13690 stars
+- 💻 Rust
+- 📅 Updated: 2026-01-26
+
+![cc-switch](2026/01-26/2026-01-26_daily-top_cc-switch.png)
 
 ### 5. [codex](https://github.com/openai/codex)
 
 > 🤖 **推荐理由**  
-> *Codex is a lightweight coding agent from OpenAI that operates directly in your terminal, built in Rust. With over 57,000 stars on GitHub, it allows seamless code generation and debugging. Users can install it globally using npm or Homebrew and run it with a simple command. Codex can also be integrated into popular IDEs like VS Code. For those using ChatGPT, signing in enhances its functionality as part of various subscription plans. Comprehensive documentation and community support are available, making it a valuable tool for developers.*
+> *Codex is a lightweight coding agent from OpenAI that operates locally in your terminal, designed for efficient coding assistance. With over 57,000 stars on GitHub, it can be easily installed via npm or Homebrew. Key features include integration with popular IDEs like VS Code, and the option to use it alongside your ChatGPT plan for enhanced functionality. Codex is written in Rust, ensuring performance and reliability. For cloud-based services, users can explore Codex Web at chatgpt.com/codex. Comprehensive documentation and contribution guidelines are available.*
 
-- ⭐ 57178 stars
+- ⭐ 57466 stars
 - 💻 Rust
-- 📅 Updated: 2026-01-25
+- 📅 Updated: 2026-01-26
 
-![codex](2026/01-25/2026-01-25_daily-top_codex.png)
+![codex](2026/01-26/2026-01-26_daily-top_codex.png)
 
-### 6. [cc-switch](https://github.com/farion1231/cc-switch)
+### 6. [supermemory](https://github.com/supermemoryai/supermemory)
 
 > 🤖 **推荐理由**  
-> *cc-switch is a cross-platform All-in-One assistant tool for Claude Code, Codex, and Gemini CLI, developed in Rust. With over 13,000 stars, it offers seamless provider management, skills and prompts management systems, and enhanced MCP server management. Key features include a dual-layer storage architecture, auto-launch on startup, and multi-language support (English, Chinese, Japanese). It integrates with various API relay services, providing users with fast, stable AI coding experiences. The application supports Windows, macOS, and Linux, ensuring broad accessibility for developers.*
+> *Supermemory is a fast and scalable memory engine designed as an AI second brain for organizing and saving crucial information. Key features include the ability to add memories from various formats (URLs, PDFs, text), chat with stored content, and seamless integration with major AI tools via Supermemory MCP. The project offers a browser extension for direct memory saving and a Raycast extension for efficient memory management. With over 14,736 stars on GitHub, Supermemory supports self-hosting and provides extensive API access for developers.*
 
-- ⭐ 13473 stars
-- 💻 Rust
-- 📅 Updated: 2026-01-25
-
-![cc-switch](2026/01-25/2026-01-25_daily-top_cc-switch.png)
-
-### 7. [context7](https://github.com/upstash/context7)
-
-> 🤖 **推荐理由**  
-> *Context7 is an MCP Server designed to provide up-to-date code documentation for LLMs and AI code editors. With over 43,000 stars on GitHub, it ensures accurate, version-specific code examples directly in your prompts, eliminating outdated or hallucinated information. Core features include seamless integration with various IDEs, support for multiple languages, and tools to resolve library IDs and query documentation efficiently. Users can enhance their coding experience by adding rules for automatic context retrieval and leveraging OAuth for secure access.*
-
-- ⭐ 43364 stars
+- ⭐ 14736 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-25
+- 📅 Updated: 2026-01-26
 
-![context7](2026/01-25/2026-01-25_daily-top_context7.png)
+![supermemory](2026/01-26/2026-01-26_daily-top_supermemory.png)
 
-### 8. [awesome-copilot](https://github.com/github/awesome-copilot)
+### 7. [ollama](https://github.com/ollama/ollama)
 
 > 🤖 **推荐理由**  
-> *Awesome Copilot is a community-driven repository that enhances GitHub Copilot functionality through a collection of custom agents, prompts, and instructions. With over 18,000 stars, it offers specialized tools across various programming languages and workflows, including curated collections for specific tasks, best practices, and coding standards. Key features include Awesome Agents for specific workflows, task-specific Awesome Prompts, and comprehensive coding guidelines. An MCP Server simplifies the installation and management of these resources, optimizing the Copilot experience for developers.*
+> *Ollama is a powerful framework for running and managing large language models locally, including OpenAI GLM-4.7, DeepSeek, gpt-oss, and more. With seamless installation across macOS, Windows, and Linux, it supports a wide range of models through simple commands. Key features include model customization via Modelfiles, a REST API for integration, and community libraries such as ollama-python and ollama-js. Ollama also offers extensive community support, Docker compatibility, and various integrations, making it ideal for developers and researchers working with AI models.*
 
-- ⭐ 18825 stars
+- ⭐ 160586 stars
+- 💻 Go
+- 📅 Updated: 2026-01-26
+
+![ollama](2026/01-26/2026-01-26_daily-top_ollama.png)
+
+### 8. [mise](https://github.com/jdx/mise)
+
+> 🤖 **推荐理由**  
+> *Mise is a powerful development tool written in Rust, designed to streamline environment management, task execution, and tool installation. With over 23,600 stars on GitHub, it allows users to manage multiple programming languages and tools like Node.js, Python, and Terraform, similar to asdf or nvm. Mise also simplifies environment variable management per project directory, akin to direnv, and provides a task runner for building and testing projects. Its user-friendly features and robust documentation make it an essential tool for developers seeking efficiency in their workflows.*
+
+- ⭐ 23616 stars
+- 💻 Rust
+- 📅 Updated: 2026-01-26
+
+![mise](2026/01-26/2026-01-26_daily-top_mise.png)
+
+### 9. [cs249r_book](https://github.com/harvard-edge/cs249r_book)
+
+> 🤖 **推荐理由**  
+> *The cs249r_book project is an open-source resource for learning AI engineering, focusing on the design and deployment of machine learning systems. It features an interactive textbook, TinyTorch framework for building ML applications, and hands-on hardware kits for real-world deployment on devices like Arduino and Raspberry Pi. With over 17,000 stars, the project emphasizes practical learning through co-labs and benchmarking, aiming to establish AI engineering as a foundational discipline. A hardcopy edition is expected in 2026, further expanding its educational reach.*
+
+- ⭐ 17398 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-01-25
+- 📅 Updated: 2026-01-26
 
-![awesome-copilot](2026/01-25/2026-01-25_daily-top_awesome-copilot.png)
+![cs249r_book](2026/01-26/2026-01-26_daily-top_cs249r_book.png)
 
-### 9. [FlashMLA](https://github.com/deepseek-ai/FlashMLA)
-
-> 🤖 **推荐理由**  
-> *FlashMLA is a high-performance library of optimized attention kernels by DeepSeek, designed to enhance the efficiency of multi-head latent attention mechanisms. It features both sparse and dense attention kernels for prefill and decoding stages, achieving up to 660 TFlops on advanced GPU architectures. Key highlights include token-level sparse attention with FP8 KV caching and dense MHA operations. The library supports CUDA 12.8 and above, ensuring compatibility with modern deep learning frameworks like PyTorch 2.0. FlashMLA is instrumental for developers leveraging attention models in AI applications.*
-
-- ⭐ 12369 stars
-- 💻 C++
-- 📅 Updated: 2026-01-25
-
-![FlashMLA](2026/01-25/2026-01-25_daily-top_FlashMLA.png)
-
-### 10. [pg_textsearch](https://github.com/timescale/pg_textsearch)
+### 10. [czkawka](https://github.com/qarmin/czkawka)
 
 > 🤖 **推荐理由**  
-> *PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.. popular project, recently updated*
+> *Czkawka is a powerful, multi-functional app designed in Rust to efficiently find and remove unnecessary files, including duplicates, empty folders, and similar images. With over 28,600 stars, it offers a memory-safe and fast solution across multiple platforms (Linux, Windows, macOS, FreeBSD). Core features include a user-friendly GUI (Krokiet), a CLI for automation, multilingual support, and various tools for file management, such as video optimization and Exif metadata removal. It prioritizes user privacy by not collecting any data and is open-source and free from ads.*
 
-- ⭐ 2698 stars
-- 🍴 66 forks
-- 💻 C
-- 📅 Updated: 2026-01-25
+- ⭐ 28603 stars
+- 💻 Rust
+- 📅 Updated: 2026-01-26
 
-![pg_textsearch](2026/01-25/2026-01-25_daily-top_pg_textsearch.png)
+![czkawka](2026/01-26/2026-01-26_daily-top_czkawka.png)
 
 ---
 
@@ -141,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-25 02:29:59 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-26 02:29:24 UTC
