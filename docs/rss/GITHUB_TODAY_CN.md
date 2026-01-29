@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-01-28
+# 📊 🌟 GitHub Trending Daily - 2026-01-29
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **418058** ⭐ | **44665** 🍴
+**10** 个项目 | **227993** ⭐ | **28485** 🍴
 
-**热门语言:** `TypeScript` (5) · `Rust` (2) · `Go` (1)
+**热门语言:** `TypeScript` (5) · `JavaScript` (2) · `C++` (1)
 
-**更新时间:** 2026-01-28 02:15 UTC
+**更新时间:** 2026-01-29 02:37 UTC
 
 **分类分布:**
 
@@ -18,115 +18,115 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [remotion](https://github.com/remotion-dev/remotion)
+### 1. [moltbot](https://github.com/moltbot/moltbot)
 
 > 🤖 **推荐理由**  
-> *Remotion is a powerful framework for programmatically creating videos using React, allowing developers to leverage web technologies like CSS, Canvas, and WebGL. Key features include reusable components, programming capabilities for dynamic effects, and a rich package ecosystem. Users can easily get started with `npx create-video@latest`. Notable projects made with Remotion include GitHub Unwrapped and videos by Fireship. Comprehensive documentation is available at remotion.dev. Note that Remotion has a special licensing requirement for commercial use.*
+> *Moltbot is a versatile personal AI assistant designed to operate across various platforms and messaging channels, including WhatsApp, Telegram, Discord, and more. With a local-first architecture, it ensures fast, always-on performance, customizable via an onboarding wizard. Key features include multi-channel support, voice interaction on macOS/iOS/Android, and an integrated live canvas for visual tasks. It supports various AI models, including OpenAI and Anthropic, enabling tailored responses. Ideal for users seeking a personal, secure, and powerful assistant experience.*
 
-- ⭐ 32894 stars
+- ⭐ 90298 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-28
+- 📅 Updated: 2026-01-29
 
-![remotion](2026/01-28/2026-01-28_daily-top_remotion.png)
+![moltbot](2026/01-29/2026-01-29_daily-top_moltbot.png)
 
-### 2. [supermemory](https://github.com/supermemoryai/supermemory)
+### 2. [pi-mono](https://github.com/badlogic/pi-mono)
 
 > 🤖 **推荐理由**  
-> *Supermemory is a fast, scalable memory engine and app designed for the AI era, allowing users to save and organize important information effortlessly. Key features include adding memories from various content types (URLs, PDFs, text), natural language interaction with stored memories, and seamless integration with major AI tools via Supermemory MCP. The project offers a browser extension for easy saving directly from web pages, a Raycast extension for quick access, and self-hosting options for enterprise use. With over 15,596 stars, it provides robust documentation and developer support.*
+> *pi-mono is an AI agent toolkit featuring a coding agent CLI, unified LLM API, and libraries for TUI and web UI development. Key components include a multi-provider LLM API, an interactive coding agent CLI, a Slack bot for message delegation, and tools for managing vLLM deployments on GPU pods. With over 3,161 stars on GitHub, this TypeScript project facilitates building and deploying advanced AI agents, providing essential tools for developers and enhancing AI interactions through both terminal and web interfaces.*
 
-- ⭐ 15596 stars
+- ⭐ 3161 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-28
+- 📅 Updated: 2026-01-29
 
-![supermemory](2026/01-28/2026-01-28_daily-top_supermemory.png)
+![pi-mono](2026/01-29/2026-01-29_daily-top_pi-mono.png)
 
-### 3. [video2x](https://github.com/k4yt3x/video2x)
+### 3. [PS2Recomp](https://github.com/ran-j/PS2Recomp)
 
 > 🤖 **推荐理由**  
-> *Video2X is a machine learning-based framework for video super resolution and frame interpolation, established in 2018. With over 18,000 stars, its latest version (6.0.0) features a complete C/C++ rewrite, enhancing speed and output quality. It supports Windows and Linux, offering modes for filtering and interpolation with advanced models like Anime4K, Real-ESRGAN, and RIFE. Users can easily install via a GUI or Docker, and even utilize Google Colab for free GPU access. Comprehensive documentation is available for setup and usage.*
+> *PS2Recomp is an experimental static recompiler for PlayStation 2 ELF binaries, enabling native PC ports without traditional emulation. Key features include translating MIPS R5900 instructions to C++, support for 128-bit MMI instructions, and configurable output via TOML files. It parses ELF files, decodes instructions, and generates runnable C++ code with options for function stubbing and skipping. Users can create custom configurations for input files and patches. A basic runtime for memory management and system calls is provided, though support for some PS2 features remains limited.*
 
-- ⭐ 18294 stars
+- ⭐ 1491 stars
 - 💻 C++
-- 📅 Updated: 2026-01-28
+- 📅 Updated: 2026-01-29
 
-![video2x](2026/01-28/2026-01-28_daily-top_video2x.png)
+![PS2Recomp](2026/01-29/2026-01-29_daily-top_PS2Recomp.png)
 
-### 4. [cc-switch](https://github.com/farion1231/cc-switch)
-
-> 🤖 **推荐理由**  
-> *cc-switch is a cross-platform desktop assistant tool for Claude Code, Codex, and Gemini CLI, built with Rust. It offers seamless provider management, allowing users to switch between AI configurations effortlessly. Key features include a revamped SQLite + JSON architecture for data persistence, a new user-friendly interface, multi-language support (Chinese, English, Japanese), and automated skills and prompts management. The tool enables latency testing, backup/restore capabilities, and supports cloud sync for cross-device configuration. With over 14,000 stars, it integrates multiple API services for enhanced coding experiences.*
-
-- ⭐ 14254 stars
-- 💻 Rust
-- 📅 Updated: 2026-01-28
-
-![cc-switch](2026/01-28/2026-01-28_daily-top_cc-switch.png)
-
-### 5. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+### 4. [supermemory](https://github.com/supermemoryai/supermemory)
 
 > 🤖 **推荐理由**  
-> *The "system_prompts_leaks" project is a comprehensive collection of extracted system prompts from leading chatbots like ChatGPT, Claude, and Gemini. With over 25,600 stars, this JavaScript-based repository serves as a valuable resource for developers and researchers interested in understanding chatbot behaviors and functionalities. Key highlights include community contributions through pull requests and a visual star history chart that tracks its popularity over time. This project promotes transparency in AI interactions and encourages collaborative enhancement.*
+> *Supermemory is a fast, scalable memory engine and app designed for the AI era, offering an intuitive platform for saving and organizing important information. Key features include the ability to add memories from various formats (URLs, PDFs, text), interact with stored content through natural language chat, and seamless integration with AI tools via Supermemory MCP. Users can enhance their experience with a browser extension for direct saving from web pages and a Raycast extension for quick access. The project encourages contributions and provides extensive documentation for developers.*
 
-- ⭐ 25663 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-01-28
-
-![system_prompts_leaks](2026/01-28/2026-01-28_daily-top_system_prompts_leaks.png)
-
-### 6. [dify](https://github.com/langgenius/dify)
-
-> 🤖 **推荐理由**  
-> *Dify is a production-ready, open-source platform designed for agentic workflow development in LLM applications. Key features include a visual workflow builder, comprehensive model support for various LLMs, an intuitive prompt IDE, robust RAG pipelines, and extensive agent capabilities with over 50 built-in tools. Dify offers both a cloud service and a self-hosted community edition, enabling easy integration via APIs. The platform emphasizes observability with LLMOps and backend-as-a-service features, making it suitable for both individual developers and enterprises.*
-
-- ⭐ 127607 stars
+- ⭐ 15816 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-28
+- 📅 Updated: 2026-01-29
 
-![dify](2026/01-28/2026-01-28_daily-top_dify.png)
+![supermemory](2026/01-29/2026-01-29_daily-top_supermemory.png)
 
-### 7. [iptv](https://github.com/iptv-org/iptv)
-
-> 🤖 **推荐理由**  
-> *The IPTV project is a comprehensive collection of publicly available Internet Protocol television (IPTV) channels from around the globe, boasting over 110,000 stars on GitHub. Users can easily access channels by pasting playlist links into compatible video players. The repository includes a main playlist, Electronic Program Guide (EPG) utilities, and an API for developers. It emphasizes community contributions, offers resources for further exploration, and provides a legal disclaimer regarding the nature of the content, ensuring compliance with copyright laws.*
-
-- ⭐ 110582 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-01-28
-
-![iptv](2026/01-28/2026-01-28_daily-top_iptv.png)
-
-### 8. [codex](https://github.com/openai/codex)
+### 5. [vault](https://github.com/hashicorp/vault)
 
 > 🤖 **推荐理由**  
-> *Codex is a lightweight coding agent from OpenAI, designed to run locally in your terminal. With over 57,000 stars on GitHub, it offers seamless integration with code editors like VS Code and supports cloud usage via Codex Web. Users can install it globally using npm or Homebrew and can sign in with their ChatGPT account for enhanced features. Codex is built in Rust, ensuring performance and reliability. Comprehensive documentation is available for installation, usage, and contributions, making it accessible for developers at all levels.*
+> *Vault is a powerful tool for managing secrets, encryption, and privileged access. Key features include secure secret storage with encryption, dynamic secrets generation on-demand (e.g., AWS credentials), and comprehensive audit logging. Vault also offers lease management and automatic revocation of secrets, enhancing security. It supports various backend storage options and provides extensive documentation, tutorials, and certification exams for users. With over 34,000 stars on GitHub, Vault is widely recognized for its robust capabilities in security automation.*
 
-- ⭐ 57869 stars
-- 💻 Rust
-- 📅 Updated: 2026-01-28
-
-![codex](2026/01-28/2026-01-28_daily-top_codex.png)
-
-### 9. [WeKnora](https://github.com/Tencent/WeKnora)
-
-> 🤖 **推荐理由**  
-> *WeKnora is an LLM-powered framework for deep document understanding and semantic retrieval, utilizing the RAG (Retrieval-Augmented Generation) paradigm. Key features include Agent Mode for intelligent Q&A, support for multi-type knowledge bases, precise content extraction from various formats, and flexible retrieval strategies. The framework enables efficient integration with web search engines and MCP tools, offering a user-friendly interface for knowledge management. Ideal for scenarios like enterprise knowledge management and academic research, WeKnora ensures secure local deployment and data sovereignty.*
-
-- ⭐ 12548 stars
+- ⭐ 34398 stars
 - 💻 Go
-- 📅 Updated: 2026-01-28
+- 📅 Updated: 2026-01-29
 
-![WeKnora](2026/01-28/2026-01-28_daily-top_WeKnora.png)
+![vault](2026/01-29/2026-01-29_daily-top_vault.png)
 
-### 10. [pi-mono](https://github.com/badlogic/pi-mono)
+### 6. [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
 
 > 🤖 **推荐理由**  
-> *Pi-mono is an AI agent toolkit designed for building and managing AI agents and LLM deployments. Key features include a unified multi-provider LLM API for various platforms (OpenAI, Anthropic, Google), an interactive coding agent CLI, and a Slack bot for message delegation. The project also offers a terminal UI library with differential rendering and web components for AI chat interfaces. With 2,751 stars on GitHub, it provides essential tools for developers to create and manage AI solutions efficiently.*
+> *Next AI Draw.io is a Next.js web application that enhances draw.io diagrams with AI capabilities. Users can create, modify, and visualize diagrams using natural language commands. Key features include LLM-powered diagram generation, image-based replication, PDF and text file uploads, and AI reasoning display. It supports cloud architecture diagrams for AWS, GCP, and Azure, and offers animated connectors for dynamic visuals. The app allows real-time interaction with AI and provides comprehensive version control. Multi-provider support ensures flexibility in AI usage.*
 
-- ⭐ 2751 stars
+- ⭐ 20112 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-28
+- 📅 Updated: 2026-01-29
 
-![pi-mono](2026/01-28/2026-01-28_daily-top_pi-mono.png)
+![next-ai-draw-io](2026/01-29/2026-01-29_daily-top_next-ai-draw-io.png)
+
+### 7. [cc-switch](https://github.com/farion1231/cc-switch)
+
+> 🤖 **推荐理由**  
+> *cc-switch is a powerful cross-platform desktop assistant tool built in Rust, supporting Claude Code, Codex, and Gemini CLI. With over 14,500 stars, it features a dual-layer architecture using SQLite and JSON for data management, enabling cloud sync functionality. Key highlights include a redesigned UI, skills and prompts management systems, and easy provider switching. The tool integrates multiple API configurations, offers speed testing, and supports multiple languages. It is backed by various sponsors, ensuring robust performance and reliability for developers.*
+
+- ⭐ 14569 stars
+- 💻 Rust
+- 📅 Updated: 2026-01-29
+
+![cc-switch](2026/01-29/2026-01-29_daily-top_cc-switch.png)
+
+### 8. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+
+> 🤖 **推荐理由**  
+> *System Prompts Leaks is a JavaScript project that hosts a collection of extracted system prompts from popular chatbots, including ChatGPT, Claude, and Gemini. With 26,689 stars, it serves as a valuable resource for developers and researchers interested in understanding the internal dialogues of these AI systems. The project encourages community contributions through pull requests, fostering collaboration and expansion of the prompt collection. Key highlights include a comprehensive archive of system messages and a visual star history chart to track its popularity over time.*
+
+- ⭐ 26689 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-01-29
+
+![system_prompts_leaks](2026/01-29/2026-01-29_daily-top_system_prompts_leaks.png)
+
+### 9. [compressO](https://github.com/codeforreal1/compressO)
+
+> 🤖 **推荐理由**  
+> *CompressO is a free, open-source video compression app designed for Linux, Windows, and MacOS. Powered by FFmpeg, it allows users to convert videos into significantly smaller sizes while working entirely offline. Key features include drag-and-drop functionality, video muting, and a user-friendly interface. It’s built using Tauri and Vite, ensuring cross-platform compatibility. The app includes various installation options for different systems and offers ongoing updates, with future plans for batch compression. Available under the AGPL 3.0 License.*
+
+- ⭐ 2086 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-01-29
+
+![compressO](2026/01-29/2026-01-29_daily-top_compressO.png)
+
+### 10. [awesome-copilot](https://github.com/github/awesome-copilot)
+
+> 🤖 **推荐理由**  
+> *Awesome Copilot is a community-driven repository offering custom instructions, prompts, and configurations to enhance your GitHub Copilot experience. Key features include specialized agents for various workflows, task-specific prompts for coding and documentation, coding standards instructions, and curated collections of resources. The MCP Server allows easy installation of these enhancements directly into your editor. With over 19,000 stars, it empowers developers to improve productivity, adopt best practices, and access expert-level guidance tailored to their needs. Contributions are welcomed to expand this collaborative resource.*
+
+- ⭐ 19373 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-01-29
+
+![awesome-copilot](2026/01-29/2026-01-29_daily-top_awesome-copilot.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-28 02:15:40 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-29 02:37:20 UTC
