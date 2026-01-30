@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-01-29
+# 📊 🌟 GitHub Trending Daily - 2026-01-30
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **227993** ⭐ | **28485** 🍴
+**10** Projects | **266367** ⭐ | **40562** 🍴
 
-**Top Languages:** `TypeScript` (5) · `JavaScript` (2) · `C++` (1)
+**Top Languages:** `TypeScript` (4) · `C++` (2) · `Swift` (1)
 
-**Updated:** 2026-01-29 02:37 UTC
+**Updated:** 2026-01-30 02:38 UTC
 
 **Categories:**
 
@@ -21,112 +21,112 @@
 ### 1. [moltbot](https://github.com/moltbot/moltbot)
 
 > 🤖 **Why Recommend**  
-> *Moltbot is a versatile personal AI assistant designed to operate across various platforms and messaging channels, including WhatsApp, Telegram, Discord, and more. With a local-first architecture, it ensures fast, always-on performance, customizable via an onboarding wizard. Key features include multi-channel support, voice interaction on macOS/iOS/Android, and an integrated live canvas for visual tasks. It supports various AI models, including OpenAI and Anthropic, enabling tailored responses. Ideal for users seeking a personal, secure, and powerful assistant experience.*
+> *Moltbot is a personal AI assistant that operates on any platform or OS, designed for seamless interaction across channels like WhatsApp, Telegram, Discord, and more. With features including a local-first gateway, multi-channel inbox, voice wake capabilities, and live canvas, it provides a fast, always-on experience. Users can manage subscriptions to models from Anthropic and OpenAI. The onboarding wizard simplifies setup, while companion apps enhance functionality on macOS, iOS, and Android. Ideal for those seeking a customizable, efficient AI assistant.*
 
-- ⭐ 90298 stars
+- ⭐ 104984 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-29
+- 📅 Updated: 2026-01-30
 
-![moltbot](2026/01-29/2026-01-29_daily-top_moltbot.png)
+![moltbot](2026/01-30/2026-01-30_daily-top_moltbot.png)
 
-### 2. [pi-mono](https://github.com/badlogic/pi-mono)
+### 2. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 
 > 🤖 **Why Recommend**  
-> *pi-mono is an AI agent toolkit featuring a coding agent CLI, unified LLM API, and libraries for TUI and web UI development. Key components include a multi-provider LLM API, an interactive coding agent CLI, a Slack bot for message delegation, and tools for managing vLLM deployments on GPU pods. With over 3,161 stars on GitHub, this TypeScript project facilitates building and deploying advanced AI agents, providing essential tools for developers and enhancing AI interactions through both terminal and web interfaces.*
+> *system_prompts_leaks is a popular GitHub repository featuring a comprehensive collection of extracted system prompts from leading chatbots like ChatGPT, Claude, and Gemini. With over 27,700 stars, this project allows users to explore and contribute to a diverse range of system messages and developer prompts. Key highlights include an open invitation for pull requests, fostering community collaboration, and a visual star history chart to track its popularity. This JavaScript-based project serves as a valuable resource for developers and researchers in the AI chatbot domain.*
 
-- ⭐ 3161 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-01-29
+- ⭐ 27715 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-01-30
 
-![pi-mono](2026/01-29/2026-01-29_daily-top_pi-mono.png)
+![system_prompts_leaks](2026/01-30/2026-01-30_daily-top_system_prompts_leaks.png)
 
-### 3. [PS2Recomp](https://github.com/ran-j/PS2Recomp)
+### 3. [archestra](https://github.com/archestra-ai/archestra)
 
 > 🤖 **Why Recommend**  
-> *PS2Recomp is an experimental static recompiler for PlayStation 2 ELF binaries, enabling native PC ports without traditional emulation. Key features include translating MIPS R5900 instructions to C++, support for 128-bit MMI instructions, and configurable output via TOML files. It parses ELF files, decodes instructions, and generates runnable C++ code with options for function stubbing and skipping. Users can create custom configurations for input files and patches. A basic runtime for memory management and system calls is provided, though support for some PS2 features remains limited.*
+> *Archestra is a secure, MCP-native AI platform designed to streamline AI utilization in organizations. Key features include a centralized MCP orchestrator for managing servers, a private MCP registry for secure sharing, and robust observability tools for monitoring usage and performance. It offers dynamic cost optimization, reducing AI expenses by up to 96%. With built-in security measures to prevent data exfiltration and prompt injections, Archestra ensures safe deployment for developers while providing management with comprehensive visibility into AI adoption.*
 
-- ⭐ 1491 stars
+- ⭐ 2176 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-01-30
+
+![archestra](2026/01-30/2026-01-30_daily-top_archestra.png)
+
+### 4. [pi-mono](https://github.com/badlogic/pi-mono)
+
+> 🤖 **Why Recommend**  
+> *pi-mono is an AI agent toolkit featuring a coding agent CLI, a unified LLM API, and various UI libraries for both terminal and web applications. Key components include the multi-provider LLM API for seamless integration with platforms like OpenAI and Google, a Slack bot for message delegation, and a CLI for managing vLLM deployments on GPU pods. With robust tools for agent runtime and state management, pi-mono facilitates efficient AI agent development and deployment. The project, built in TypeScript, has garnered 3,483 stars on GitHub.*
+
+- ⭐ 3483 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-01-30
+
+![pi-mono](2026/01-30/2026-01-30_daily-top_pi-mono.png)
+
+### 5. [lobehub](https://github.com/lobehub/lobehub)
+
+> 🤖 **Why Recommend**  
+> *LobeHub is an innovative platform designed for seamless collaboration between humans and AI agents, allowing users to find, build, and work with personalized agent teams. Key features include the Agent Builder for easy team creation, Agent Groups for collaborative workflows, and Personal Memory for tailored interactions. Additional services encompass a plugin system, multi-model support, and real-time internet access. LobeHub aims to redefine productivity with its robust infrastructure, enabling users to manage projects, schedule tasks, and engage in dynamic conversations, all while ensuring privacy and customization.*
+
+- ⭐ 71237 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-01-30
+
+![lobehub](2026/01-30/2026-01-30_daily-top_lobehub.png)
+
+### 6. [PS2Recomp](https://github.com/ran-j/PS2Recomp)
+
+> 🤖 **Why Recommend**  
+> *PS2Recomp is a PlayStation 2 static recompiler designed to convert PS2 ELF binaries into C++ code for native execution on modern platforms. Key features include translation of MIPS R5900 instructions, support for 128-bit MMI instructions, configurable output options via TOML files, and function stubbing. The tool parses ELF files, decodes instructions, and generates a runtime for execution. It requires CMake and a C++20 compatible compiler. While still experimental, PS2Recomp enables the development of PC ports without traditional emulation.*
+
+- ⭐ 1808 stars
 - 💻 C++
-- 📅 Updated: 2026-01-29
+- 📅 Updated: 2026-01-30
 
-![PS2Recomp](2026/01-29/2026-01-29_daily-top_PS2Recomp.png)
-
-### 4. [supermemory](https://github.com/supermemoryai/supermemory)
-
-> 🤖 **Why Recommend**  
-> *Supermemory is a fast, scalable memory engine and app designed for the AI era, offering an intuitive platform for saving and organizing important information. Key features include the ability to add memories from various formats (URLs, PDFs, text), interact with stored content through natural language chat, and seamless integration with AI tools via Supermemory MCP. Users can enhance their experience with a browser extension for direct saving from web pages and a Raycast extension for quick access. The project encourages contributions and provides extensive documentation for developers.*
-
-- ⭐ 15816 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-01-29
-
-![supermemory](2026/01-29/2026-01-29_daily-top_supermemory.png)
-
-### 5. [vault](https://github.com/hashicorp/vault)
-
-> 🤖 **Why Recommend**  
-> *Vault is a powerful tool for managing secrets, encryption, and privileged access. Key features include secure secret storage with encryption, dynamic secrets generation on-demand (e.g., AWS credentials), and comprehensive audit logging. Vault also offers lease management and automatic revocation of secrets, enhancing security. It supports various backend storage options and provides extensive documentation, tutorials, and certification exams for users. With over 34,000 stars on GitHub, Vault is widely recognized for its robust capabilities in security automation.*
-
-- ⭐ 34398 stars
-- 💻 Go
-- 📅 Updated: 2026-01-29
-
-![vault](2026/01-29/2026-01-29_daily-top_vault.png)
-
-### 6. [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
-
-> 🤖 **Why Recommend**  
-> *Next AI Draw.io is a Next.js web application that enhances draw.io diagrams with AI capabilities. Users can create, modify, and visualize diagrams using natural language commands. Key features include LLM-powered diagram generation, image-based replication, PDF and text file uploads, and AI reasoning display. It supports cloud architecture diagrams for AWS, GCP, and Azure, and offers animated connectors for dynamic visuals. The app allows real-time interaction with AI and provides comprehensive version control. Multi-provider support ensures flexibility in AI usage.*
-
-- ⭐ 20112 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-01-29
-
-![next-ai-draw-io](2026/01-29/2026-01-29_daily-top_next-ai-draw-io.png)
+![PS2Recomp](2026/01-30/2026-01-30_daily-top_PS2Recomp.png)
 
 ### 7. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **Why Recommend**  
-> *cc-switch is a powerful cross-platform desktop assistant tool built in Rust, supporting Claude Code, Codex, and Gemini CLI. With over 14,500 stars, it features a dual-layer architecture using SQLite and JSON for data management, enabling cloud sync functionality. Key highlights include a redesigned UI, skills and prompts management systems, and easy provider switching. The tool integrates multiple API configurations, offers speed testing, and supports multiple languages. It is backed by various sponsors, ensuring robust performance and reliability for developers.*
+> *cc-switch is a cross-platform desktop assistant tool designed for Claude Code, Codex, and Gemini CLI, built with Rust and Tauri. It boasts an intuitive UI, SQLite + JSON dual-layer architecture, and robust provider management, enabling seamless switching between AI configurations. Key features include Gemini CLI integration, skills and prompts management, and an MCP management system. With support for multiple languages and extensive customization options, cc-switch enhances coding efficiency. The project is actively maintained and sponsored by various AI service providers.*
 
-- ⭐ 14569 stars
+- ⭐ 14844 stars
 - 💻 Rust
-- 📅 Updated: 2026-01-29
+- 📅 Updated: 2026-01-30
 
-![cc-switch](2026/01-29/2026-01-29_daily-top_cc-switch.png)
+![cc-switch](2026/01-30/2026-01-30_daily-top_cc-switch.png)
 
-### 8. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
-
-> 🤖 **Why Recommend**  
-> *System Prompts Leaks is a JavaScript project that hosts a collection of extracted system prompts from popular chatbots, including ChatGPT, Claude, and Gemini. With 26,689 stars, it serves as a valuable resource for developers and researchers interested in understanding the internal dialogues of these AI systems. The project encourages community contributions through pull requests, fostering collaboration and expansion of the prompt collection. Key highlights include a comprehensive archive of system messages and a visual star history chart to track its popularity over time.*
-
-- ⭐ 26689 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-01-29
-
-![system_prompts_leaks](2026/01-29/2026-01-29_daily-top_system_prompts_leaks.png)
-
-### 9. [compressO](https://github.com/codeforreal1/compressO)
+### 8. [vault](https://github.com/hashicorp/vault)
 
 > 🤖 **Why Recommend**  
-> *CompressO is a free, open-source video compression app designed for Linux, Windows, and MacOS. Powered by FFmpeg, it allows users to convert videos into significantly smaller sizes while working entirely offline. Key features include drag-and-drop functionality, video muting, and a user-friendly interface. It’s built using Tauri and Vite, ensuring cross-platform compatibility. The app includes various installation options for different systems and offers ongoing updates, with future plans for batch compression. Available under the AGPL 3.0 License.*
+> *Vault is a robust tool for secrets management, encryption as a service, and privileged access management, developed in Go with over 34,600 stars on GitHub. It securely stores secrets like API keys and passwords, offers dynamic secret generation, and provides data encryption capabilities. Key features include lease management for secrets, automatic revocation, and detailed audit logs for access tracking. Vault is ideal for modern applications requiring secure access to multiple secrets, enhancing security and simplifying compliance. Comprehensive documentation and tutorials are available on its website.*
 
-- ⭐ 2086 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-01-29
+- ⭐ 34633 stars
+- 💻 Go
+- 📅 Updated: 2026-01-30
 
-![compressO](2026/01-29/2026-01-29_daily-top_compressO.png)
+![vault](2026/01-30/2026-01-30_daily-top_vault.png)
 
-### 10. [awesome-copilot](https://github.com/github/awesome-copilot)
+### 9. [Peekaboo](https://github.com/steipete/Peekaboo)
 
 > 🤖 **Why Recommend**  
-> *Awesome Copilot is a community-driven repository offering custom instructions, prompts, and configurations to enhance your GitHub Copilot experience. Key features include specialized agents for various workflows, task-specific prompts for coding and documentation, coding standards instructions, and curated collections of resources. The MCP Server allows easy installation of these enhancements directly into your editor. With over 19,000 stars, it empowers developers to improve productivity, adopt best practices, and access expert-level guidance tailored to their needs. Contributions are welcomed to expand this collaborative resource.*
+> *Peekaboo is a powerful macOS CLI and optional MCP server designed for AI-driven automation and screen capture. It enables pixel-accurate screenshots of applications or the entire system, supports natural-language commands for complete GUI automation, and integrates multiple AI models, including GPT-5.1 and Claude 4.x. Key features include menu discovery, structured JSON outputs, and configurable workflows, making it suitable for advanced macOS users. With version 3 in beta, Peekaboo enhances multi-screen support and native agent flows, streamlining automation tasks with precision.*
 
-- ⭐ 19373 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-01-29
+- ⭐ 1560 stars
+- 💻 Swift
+- 📅 Updated: 2026-01-30
 
-![awesome-copilot](2026/01-29/2026-01-29_daily-top_awesome-copilot.png)
+![Peekaboo](2026/01-30/2026-01-30_daily-top_Peekaboo.png)
+
+### 10. [BambuStudio](https://github.com/bambulab/BambuStudio)
+
+> 🤖 **Why Recommend**  
+> *BambuStudio is an advanced slicing software designed for BambuLab and other 3D printers, featuring a user-friendly interface and optimized slicing algorithms. Key functionalities include basic slicing and GCode viewing, multi-plate management, remote monitoring, and advanced cooling logic. It supports multiple material printing, customized supports, and offers global and object-level slicing parameters. BambuStudio is available for Windows, macOS, and Linux, with comprehensive documentation and a community-driven approach. The software is based on PrusaSlicer and licensed under the GNU Affero General Public License.*
+
+- ⭐ 3927 stars
+- 💻 C++
+- 📅 Updated: 2026-01-30
+
+![BambuStudio](2026/01-30/2026-01-30_daily-top_BambuStudio.png)
 
 ---
 
@@ -140,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-29 02:37:20 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-30 02:38:04 UTC
