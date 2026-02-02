@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-02-01
+# 📊 🌟 GitHub Trending Daily - 2026-02-02
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **322383** ⭐ | **51169** 🍴
+**10** 个项目 | **384303** ⭐ | **40794** 🍴
 
-**热门语言:** `TypeScript` (4) · `JavaScript` (2) · `Go` (1)
+**热门语言:** `TypeScript` (6) · `Go` (1) · `Rust` (1)
 
-**更新时间:** 2026-02-01 02:59 UTC
+**更新时间:** 2026-02-02 02:47 UTC
 
 **分类分布:**
 
@@ -21,112 +21,114 @@
 ### 1. [openclaw](https://github.com/openclaw/openclaw)
 
 > 🤖 **推荐理由**  
-> *OpenClaw is a versatile personal AI assistant that operates across multiple platforms, including WhatsApp, Telegram, Slack, and Discord. It features a local-first Gateway for managing sessions and channels, multi-channel inbox capabilities, and voice interaction modes for macOS, iOS, and Android. Key highlights include voice wake functionality, a live Canvas for visual tasks, and integration with various AI models like Anthropic and OpenAI. The onboarding wizard simplifies setup across devices, making it a fast, always-on assistant tailored for individual use.*
+> *OpenClaw is a versatile personal AI assistant designed to run on any operating system and platform. With support for multiple messaging channels like WhatsApp, Telegram, Slack, and Discord, it provides a seamless experience for communication. Key features include a local-first Gateway, multi-channel inbox, voice wake capabilities, and a live Canvas for enhanced interaction. Users can set up and manage skills through an intuitive onboarding wizard, while optional companion apps for macOS, iOS, and Android enhance functionality. OpenClaw prioritizes security and customization, making it ideal for personalized AI interactions.*
 
-- ⭐ 133368 stars
+- ⭐ 143093 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-01
+- 📅 Updated: 2026-02-02
 
-![openclaw](2026/02-01/2026-02-01_daily-top_openclaw.png)
+![openclaw](2026/02-02/2026-02-02_daily-top_openclaw.png)
 
-### 2. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
-
-> 🤖 **推荐理由**  
-> *The "system_prompts_leaks" project is a curated collection of extracted system prompts from leading chatbots, including ChatGPT, Claude, and Gemini. With over 29,000 stars, this JavaScript-based repository invites contributions through pull requests, fostering community engagement. Key features include easy access to developer messages and system prompts, enabling developers and researchers to study chatbot behaviors and functionalities. The project also showcases a star history chart, reflecting its growing popularity and user interest.*
-
-- ⭐ 29073 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-02-01
-
-![system_prompts_leaks](2026/02-01/2026-02-01_daily-top_system_prompts_leaks.png)
-
-### 3. [lobehub](https://github.com/lobehub/lobehub)
+### 2. [pi-mono](https://github.com/badlogic/pi-mono)
 
 > 🤖 **推荐理由**  
-> *LobeHub is an innovative platform for collaborative work, enabling users to create and interact with AI agents as team members. Key features include multi-agent collaboration, a user-friendly Agent Builder, and a marketplace for plugins that enhance functionality. LobeHub supports local and remote databases, voice interactions (TTS/STT), text-to-image generation, and personalized agent memory. The platform emphasizes seamless integration and user experience with a desktop app, mobile adaptation, and PWA support, making it a versatile tool for both developers and users.*
+> *pi-mono is an AI agent toolkit designed for building and managing LLM deployments. Key features include a unified multi-provider LLM API, an interactive coding agent CLI, a Slack bot for message delegation, and TUI/Web UI libraries for AI chat interfaces. It also offers CLI tools for managing vLLM deployments on GPU pods. With over 5000 stars, pi-mono supports developers in creating sophisticated AI agents efficiently. The project is built in TypeScript and follows an open-source model under the MIT license.*
 
-- ⭐ 71764 stars
+- ⭐ 5007 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-01
+- 📅 Updated: 2026-02-02
 
-![lobehub](2026/02-01/2026-02-01_daily-top_lobehub.png)
+![pi-mono](2026/02-02/2026-02-02_daily-top_pi-mono.png)
 
-### 4. [Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
+### 3. [daytona](https://github.com/daytonaio/daytona)
 
 > 🤖 **推荐理由**  
-> *Antigravity-Manager is a professional account management tool for Antigravity services, enabling seamless one-click account switching. Built with Tauri and React, it supports OAuth 2.0 authorization, intelligent account monitoring, and real-time quota management. Key features include smart dashboard analytics, API proxy capabilities for protocol conversion, multi-account support with OAuth, and advanced model routing for optimized API calls. With over 20,000 stars on GitHub, it is designed for developers and AI enthusiasts seeking efficient local AI gateways.*
+> *Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code. popular project, actively maintained, recently updated*
 
-- ⭐ 20018 stars
+- ⭐ 52347 stars
+- 🍴 4739 forks
+- 💻 TypeScript
+- 📅 Updated: 2026-02-02
+
+![daytona](2026/02-02/2026-02-02_daily-top_daytona.png)
+
+### 4. [flowsint](https://github.com/reconurge/flowsint)
+
+> 🤖 **推荐理由**  
+> *Flowsint is a modern, open-source OSINT graph exploration tool for cybersecurity analysts and investigators, designed for ethical and transparent investigations. It features a visual graph interface that enables users to explore relationships between entities through various enrichers, including domain, IP, social media, cryptocurrency, and email enrichers. Flowsint prioritizes user privacy, storing all data locally. The platform is modular, built with TypeScript, and integrates seamlessly with Docker. It encourages community contributions and adheres to strict ethical guidelines for responsible usage.*
+
+- ⭐ 2365 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-02-02
+
+![flowsint](2026/02-02/2026-02-02_daily-top_flowsint.png)
+
+### 5. [just](https://github.com/casey/just)
+
+> 🤖 **推荐理由**  
+> *`just` is a command runner written in Rust, designed to streamline the execution of project-specific commands through a simple syntax in a `justfile`. Key features include support for Linux, macOS, and Windows; enhanced error reporting; command line argument handling; environment variable loading from `.env` files; and the ability to execute recipes in various programming languages. It offers static error resolution, shell completion scripts, and can run from any subdirectory. With over 30,000 stars on GitHub, `just` simplifies task automation while avoiding the complexities of traditional build systems like `make`.*
+
+- ⭐ 30593 stars
 - 💻 Rust
-- 📅 Updated: 2026-02-01
+- 📅 Updated: 2026-02-02
 
-![Antigravity-Manager](2026/02-01/2026-02-01_daily-top_Antigravity-Manager.png)
+![just](2026/02-02/2026-02-02_daily-top_just.png)
 
-### 5. [pi-mono](https://github.com/badlogic/pi-mono)
+### 6. [firecrawl](https://github.com/firecrawl/firecrawl)
 
 > 🤖 **推荐理由**  
-> *pi-mono is an AI agent toolkit designed for building and managing AI agents and LLM deployments. Core features include a unified LLM API supporting various providers (OpenAI, Anthropic, Google), an interactive coding agent CLI, a Slack bot for message delegation, and libraries for terminal and web UIs. The toolkit also offers CLI support for managing vLLM deployments on GPU pods. With over 4,100 stars on GitHub, pi-mono is a versatile solution for developers looking to integrate AI capabilities into their applications.*
+> *Firecrawl is a powerful web data API that transforms entire websites into LLM-ready markdown or structured data. Key features include advanced scraping, crawling, and extraction of data from any URL without needing a sitemap. It supports various output formats, including markdown and HTML, and offers customizable options for proxies, dynamic content, and media parsing. Users can batch scrape multiple URLs, perform web searches, and track content changes over time. Firecrawl is open source, with a hosted cloud version for enhanced capabilities.*
 
-- ⭐ 4142 stars
+- ⭐ 78981 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-01
+- 📅 Updated: 2026-02-02
 
-![pi-mono](2026/02-01/2026-02-01_daily-top_pi-mono.png)
+![firecrawl](2026/02-02/2026-02-02_daily-top_firecrawl.png)
 
-### 6. [ext-apps](https://github.com/modelcontextprotocol/ext-apps)
+### 7. [claude-mem](https://github.com/thedotmack/claude-mem)
 
 > 🤖 **推荐理由**  
-> *The ext-apps project is the official repository for the MCP Apps protocol, providing a standard for integrating interactive UIs within AI chatbots on MCP servers. With over 1,100 stars, it offers an SDK in TypeScript that enables app developers to create UI elements like charts and forms that render inline in conversations. Key features include bi-directional communication, tool definitions for UI resources, and support for various frameworks through React hooks. The project includes examples demonstrating real-world applications and offers installation instructions for both app and host developers.*
+> *Claude-Mem is a powerful TypeScript plugin that enhances Claude Code by preserving context across coding sessions. With features like persistent memory, skill-based search, and a web viewer UI, it automatically captures and summarizes tool usage, ensuring continuity of knowledge. Key highlights include privacy controls, automatic operation, and a beta channel for experimental features. Users can easily install the plugin and configure it for optimal performance. With 16,498 stars, Claude-Mem is a valuable asset for developers seeking efficient project management.*
 
-- ⭐ 1148 stars
+- ⭐ 16498 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-01
+- 📅 Updated: 2026-02-02
 
-![ext-apps](2026/02-01/2026-02-01_daily-top_ext-apps.png)
+![claude-mem](2026/02-02/2026-02-02_daily-top_claude-mem.png)
 
-### 7. [vault](https://github.com/hashicorp/vault)
+### 8. [mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii)
 
 > 🤖 **推荐理由**  
-> *Vault is a powerful tool for secrets management, encryption as a service, and privileged access management, built in Go. With over 34,000 stars, it provides secure secret storage, dynamic secret generation, data encryption, leasing, and revocation features. Vault enables tight access control, detailed audit logs, and on-demand secret generation for various systems like AWS. It simplifies managing secrets for modern applications while ensuring security and compliance. Comprehensive documentation, tutorials, and certification exams are available to support users and developers.*
+> *Render Mermaid graphs inside your terminal. recently updated*
 
-- ⭐ 34912 stars
+- ⭐ 948 stars
+- 🍴 41 forks
 - 💻 Go
-- 📅 Updated: 2026-02-01
+- 📅 Updated: 2026-02-02
 
-![vault](2026/02-01/2026-02-01_daily-top_vault.png)
+![mermaid-ascii](2026/02-02/2026-02-02_daily-top_mermaid-ascii.png)
 
-### 8. [PS2Recomp](https://github.com/ran-j/PS2Recomp)
-
-> 🤖 **推荐理由**  
-> *PS2Recomp is an experimental static recompiler for PlayStation 2 ELF binaries, transforming them into C++ code for native PC ports. Key features include the translation of MIPS R5900 instructions, support for PS2-specific 128-bit MMI instructions, and configurable output options using TOML files. The tool parses ELF files, decodes functions, and generates runnable C++ code, enabling PS2 games to run without traditional emulation. A basic runtime is provided to manage memory and system calls. Limitations include partial support for VU1 microcode and certain hardware components.*
-
-- ⭐ 2240 stars
-- 💻 C++
-- 📅 Updated: 2026-02-01
-
-![PS2Recomp](2026/02-01/2026-02-01_daily-top_PS2Recomp.png)
-
-### 9. [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+### 9. [termux-app](https://github.com/termux/termux-app)
 
 > 🤖 **推荐理由**  
-> *whatsapp-web.js is a powerful Node.js library that enables developers to integrate WhatsApp functionalities through the WhatsApp Web browser app. With over 21,000 stars on GitHub, it supports multi-device capabilities, message handling (sending/receiving text, media, and stickers), group management, and user interactions like mentions and reactions. The library uses Puppeteer for a stable connection but warns that using it may lead to account blocking, as WhatsApp prohibits unofficial clients. Comprehensive documentation and an active community on Discord enhance user support.*
+> *Termux is a terminal emulator for Android that provides a Linux environment, allowing users to run command-line utilities and scripts. With over 49,600 stars on GitHub, it supports various plugins like Termux:API, Termux:Boot, and Termux:Styling for enhanced functionality. The app is compatible with Android 7 and above, offering package management via `apt`. Key features include a customizable terminal interface, extensive community support, and a focus on security. Termux is actively developed, with ongoing support for updates and user contributions.*
 
-- ⭐ 21009 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-02-01
+- ⭐ 49619 stars
+- 💻 Java
+- 📅 Updated: 2026-02-02
 
-![whatsapp-web.js](2026/02-01/2026-02-01_daily-top_whatsapp-web.js.png)
+![termux-app](2026/02-02/2026-02-02_daily-top_termux-app.png)
 
 ### 10. [runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks)
 
 > 🤖 **推荐理由**  
-> *RunAnywhere is a production-ready toolkit for integrating on-device AI into mobile applications, allowing features like LLM chat, speech-to-text, and text-to-speech to run locally without cloud dependency. Key highlights include support for various models (e.g., Llama, Whisper), fast performance, and enhanced privacy. The SDKs are available for Swift (iOS/macOS), Kotlin (Android), React Native, and Flutter. With over 4,700 stars on GitHub, RunAnywhere empowers developers to create responsive, privacy-focused AI applications effortlessly.*
+> *RunAnywhere is a production-ready toolkit for integrating on-device AI into mobile apps, enabling local execution of large language models (LLMs), speech-to-text, and text-to-speech functionalities. Key features include fast, private, and offline AI processing with no data leaving the device. The toolkit supports iOS (Swift), Android (Kotlin), React Native, and Flutter, offering SDKs for easy integration. Users can leverage models like SmolLM2 and Whisper for seamless communication. With over 4,800 stars on GitHub, RunAnywhere is a robust solution for enhancing mobile applications with advanced AI capabilities.*
 
-- ⭐ 4709 stars
+- ⭐ 4852 stars
 - 💻 Kotlin
-- 📅 Updated: 2026-02-01
+- 📅 Updated: 2026-02-02
 
-![runanywhere-sdks](2026/02-01/2026-02-01_daily-top_runanywhere-sdks.png)
+![runanywhere-sdks](2026/02-02/2026-02-02_daily-top_runanywhere-sdks.png)
 
 ---
 
@@ -140,4 +142,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-02-01 02:59:12 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-02-02 02:47:42 UTC
