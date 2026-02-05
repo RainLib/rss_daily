@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-02-03
+# 📊 🌟 GitHub Trending Daily - 2026-02-05
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **233859** ⭐ | **28253** 🍴
+**10** Projects | **168768** ⭐ | **15765** 🍴
 
-**Top Languages:** `TypeScript` (6) · `Kotlin` (1) · `Swift` (1)
+**Top Languages:** `TypeScript` (6) · `Rust` (3) · `Kotlin` (1)
 
-**Updated:** 2026-02-03 02:44 UTC
+**Updated:** 2026-02-05 02:41 UTC
 
 **Categories:**
 
@@ -18,115 +18,115 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [openclaw](https://github.com/openclaw/openclaw)
+### 1. [claude-mem](https://github.com/thedotmack/claude-mem)
 
 > 🤖 **Why Recommend**  
-> *OpenClaw is a versatile personal AI assistant that runs on any device across multiple platforms, including macOS, iOS, Android, and more. It integrates with popular messaging services like WhatsApp, Telegram, Slack, and Discord, enabling seamless communication. Key features include a local-first control plane, multi-channel inbox, voice activation, and a live Canvas for interactive tasks. The onboarding wizard simplifies setup, while robust tools and skills management ensure customizable user experiences. With impressive community support, OpenClaw fosters a collaborative environment for AI innovation.*
+> *Claude-Mem is a TypeScript-based plugin for Claude Code that captures and compresses coding session data, enhancing continuity in future sessions. Key features include persistent memory for context retention, a skill-based search tool for querying project history, and a web viewer UI for real-time memory access. It offers privacy controls, automatic operation, and citations for past observations. With 22,640 stars, it supports various languages and provides a beta channel for experimental features. Ideal for developers seeking efficient memory management in coding workflows.*
 
-- ⭐ 152217 stars
+- ⭐ 22640 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-03
+- 📅 Updated: 2026-02-05
 
-![openclaw](2026/02-03/2026-02-03_daily-top_openclaw.png)
+![claude-mem](2026/02-05/2026-02-05_daily-top_claude-mem.png)
 
-### 2. [claude-mem](https://github.com/thedotmack/claude-mem)
+### 2. [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
 
 > 🤖 **Why Recommend**  
-> *Claude-Mem is a TypeScript plugin for Claude Code that automatically captures and compresses coding session activities, enhancing contextual continuity for future sessions. Key features include persistent memory storage, skill-based search, a web viewer for real-time memory streaming, and privacy controls to manage sensitive data. It operates without manual intervention, making knowledge retention seamless. With over 18,000 stars, Claude-Mem supports advanced features like progressive disclosure and a beta channel for experimental modes, significantly improving developer workflow and project management.*
+> *UI-TARS-desktop is an open-source multimodal AI agent stack designed to enhance user interaction through advanced AI models. With over 26,000 stars on GitHub, it offers a native GUI agent that supports natural language control, visual recognition, and precise mouse/keyboard operations across platforms (Windows, MacOS, Browser). Key features include one-click CLI execution, hybrid browser control, event stream integration, and real-time feedback. The project also includes local and remote operators for seamless automation, making it ideal for various applications in task completion and GUI management.*
 
-- ⭐ 18238 stars
+- ⭐ 26196 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-03
+- 📅 Updated: 2026-02-05
 
-![claude-mem](2026/02-03/2026-02-03_daily-top_claude-mem.png)
+![UI-TARS-desktop](2026/02-05/2026-02-05_daily-top_UI-TARS-desktop.png)
 
 ### 3. [pi-mono](https://github.com/badlogic/pi-mono)
 
 > 🤖 **Why Recommend**  
-> *pi-mono is an AI agent toolkit designed for building and managing AI agents and LLM deployments. Key features include a unified LLM API supporting multiple providers, an interactive coding agent CLI, and a Slack bot for message delegation. The toolkit also offers a terminal UI library with differential rendering and web components for AI chat interfaces. With over 5,600 stars on GitHub, pi-mono provides essential tools for developers looking to integrate AI functionalities into their applications efficiently.*
+> *pi-mono is an AI agent toolkit designed for building and managing AI agents and LLM deployments. Key features include a unified LLM API supporting multiple providers (OpenAI, Anthropic, Google, etc.), an interactive coding agent CLI, Slack bot integration for message delegation, and UI libraries for terminal and web applications. The toolkit also offers CLI management for vLLM deployments on GPU pods. With over 6,700 stars on GitHub, pi-mono is a robust solution for developers looking to leverage AI capabilities efficiently.*
 
-- ⭐ 5626 stars
+- ⭐ 6722 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-03
+- 📅 Updated: 2026-02-05
 
-![pi-mono](2026/02-03/2026-02-03_daily-top_pi-mono.png)
+![pi-mono](2026/02-05/2026-02-05_daily-top_pi-mono.png)
 
-### 4. [CodexBar](https://github.com/steipete/CodexBar)
-
-> 🤖 **Why Recommend**  
-> *CodexBar is a lightweight macOS 14+ menu bar app that displays usage statistics for AI code assistants like OpenAI Codex, Claude, and others, without requiring login. It features session and weekly usage meters for multiple providers, with a merge icons mode for streamlined viewing. Users can customize settings, track usage, and monitor limits with dynamic icons. The app supports CLI usage, prioritizes privacy by parsing data on-device, and offers a simple installation via Homebrew. CodexBar enhances productivity by keeping essential AI resource metrics at your fingertips.*
-
-- ⭐ 4317 stars
-- 💻 Swift
-- 📅 Updated: 2026-02-03
-
-![CodexBar](2026/02-03/2026-02-03_daily-top_CodexBar.png)
-
-### 5. [netbird](https://github.com/netbirdio/netbird)
+### 4. [dexter](https://github.com/virattt/dexter)
 
 > 🤖 **Why Recommend**  
-> *NetBird is an open-source project that simplifies the creation of secure WireGuard®-based overlay networks for devices. Key features include automatic peer-to-peer connections, centralized management via an intuitive web UI, and robust security with SSO, MFA, and granular access controls. NetBird supports multiple platforms, offers public API integration, and facilitates self-hosting. With over 21,000 stars, it streamlines secure remote access while maintaining user-friendly management and comprehensive logging. Join the NetBird community for support and collaboration.*
+> *Dexter is an autonomous financial research agent designed to analyze complex financial questions through intelligent task planning and real-time market data. It autonomously executes research steps, validates its findings, and refines results for accuracy. Key features include structured research plans, access to financial datasets, and built-in safety measures to prevent runaway execution. With support for real-time data and debugging capabilities, Dexter aims to deliver confident, data-backed financial insights efficiently. This TypeScript project has garnered over 10,487 stars on GitHub.*
 
-- ⭐ 21997 stars
-- 💻 Go
-- 📅 Updated: 2026-02-03
-
-![netbird](2026/02-03/2026-02-03_daily-top_netbird.png)
-
-### 6. [Maestro](https://github.com/pedramamini/Maestro)
-
-> 🤖 **Why Recommend**  
-> *Maestro is a powerful cross-platform desktop app designed for orchestrating multiple AI agents and projects efficiently. Key features include parallel agent management, Auto Run for automated task execution, Git integration, and a group chat for coordinated discussions. It offers a keyboard-first design for enhanced productivity, mobile remote control, and a comprehensive analytics dashboard. With support for agents like Claude Code and OpenAI Codex, Maestro empowers users to streamline workflows and maximize coding efficiency. Join the community on Discord for support and collaboration.*
-
-- ⭐ 1308 stars
+- ⭐ 10487 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-03
+- 📅 Updated: 2026-02-05
 
-![Maestro](2026/02-03/2026-02-03_daily-top_Maestro.png)
+![dexter](2026/02-05/2026-02-05_daily-top_dexter.png)
 
-### 7. [runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks)
+### 5. [runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks)
 
 > 🤖 **Why Recommend**  
-> *RunAnywhere is a production-ready toolkit for integrating on-device AI features into mobile applications. It supports local execution of LLMs, speech-to-text, and text-to-speech, ensuring privacy and minimal latency. Key features include a comprehensive SDK for Swift, Kotlin, React Native, and Flutter, along with demo applications for iOS and Android. Users can leverage various models like Llama and Whisper, all while maintaining data security. With over 5,300 stars on GitHub, it's an invaluable resource for developers seeking efficient AI solutions.*
+> *RunAnywhere is a production-ready toolkit for implementing on-device AI in mobile apps, allowing users to run large language models (LLMs), speech-to-text, and text-to-speech functionalities locally—ensuring privacy and speed. With stable SDKs for Swift (iOS/macOS) and Kotlin (Android), as well as beta support for React Native and Flutter, developers can easily integrate AI capabilities without relying on cloud services. Key features include a voice assistant pipeline and multiple model support, enabling seamless AI interactions in various applications.*
 
-- ⭐ 5321 stars
+- ⭐ 5938 stars
 - 💻 Kotlin
-- 📅 Updated: 2026-02-03
+- 📅 Updated: 2026-02-05
 
-![runanywhere-sdks](2026/02-03/2026-02-03_daily-top_runanywhere-sdks.png)
+![runanywhere-sdks](2026/02-05/2026-02-05_daily-top_runanywhere-sdks.png)
 
-### 8. [vibetunnel](https://github.com/amantus-ai/vibetunnel)
+### 6. [vm0](https://github.com/vm0-ai/vm0)
 
 > 🤖 **Why Recommend**  
-> *VibeTunnel is an innovative tool that transforms any browser into a terminal, allowing users to control their Mac terminals remotely. Key features include zero-configuration access, AI agent monitoring, real-time session activity tracking, and Git follow mode for seamless development. It supports multiple authentication methods and offers high performance with minimal resource usage. The project is designed for macOS (Apple Silicon) and Linux, with a responsive web interface for mobile access. With 3,717 stars on GitHub, VibeTunnel is a powerful solution for terminal management on the go.*
+> *VM0 is an innovative platform that enables users to automate natural language-described workflows in a secure cloud sandbox environment. Key features include seamless integration with over 35,000 skills and 70+ SaaS applications, ensuring versatility for various tasks. Users can easily onboard and manage workflows with persistence, allowing for session continuation and versioning. VM0 provides observability through logs and metrics, facilitating performance monitoring. With a quick setup process, users can be operational in minutes. For more details, visit the documentation at docs.vm0.ai.*
 
-- ⭐ 3717 stars
+- ⭐ 927 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-03
+- 📅 Updated: 2026-02-05
 
-![vibetunnel](2026/02-03/2026-02-03_daily-top_vibetunnel.png)
+![vm0](2026/02-05/2026-02-05_daily-top_vm0.png)
 
-### 9. [prek](https://github.com/j178/prek)
+### 7. [niri](https://github.com/YaLTeR/niri)
 
 > 🤖 **Why Recommend**  
-> *prek is a Rust-based alternative to the popular pre-commit framework, designed for faster, dependency-free operation. Key features include a single binary with no external dependencies, improved performance, compatibility with existing pre-commit configurations, and built-in support for monorepos. It enhances user experience with features like parallel execution of hooks, automatic Python environment management, and better command usability. Already adopted by projects like CPython and Apache Airflow, prek aims to streamline development workflows while minimizing resource usage.*
+> *Niri is a scrollable-tiling Wayland compositor built in Rust, offering a unique approach to window management with dynamic workspaces and an infinite horizontal layout. Key features include independent monitor management, a comprehensive overview, built-in screenshot tools, and customizable layouts with gradient borders and animations. Niri supports multi-monitor setups, touchpad gestures, and accessibility features. Ideal for users seeking a modern, efficient, and visually appealing Wayland experience, Niri has garnered 19,144 stars on GitHub, indicating its popularity and robust community support.*
 
-- ⭐ 4402 stars
+- ⭐ 19144 stars
 - 💻 Rust
-- 📅 Updated: 2026-02-03
+- 📅 Updated: 2026-02-05
 
-![prek](2026/02-03/2026-02-03_daily-top_prek.png)
+![niri](2026/02-05/2026-02-05_daily-top_niri.png)
 
-### 10. [agents.md](https://github.com/agentsmd/agents.md)
+### 8. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **Why Recommend**  
-> *AGENTS.md is an open format designed to guide coding agents in projects, serving as a structured README for AI assistance. It provides essential instructions for development environments, testing, and pull requests, ensuring agents operate efficiently. Key features include streamlined commands for package management and testing, along with a simple setup for creating new projects with TypeScript and React. The project also includes a Next.js website (https://agents.md/) that outlines its objectives and showcases examples. With over 16,700 stars on GitHub, it’s a valuable resource for developers.*
+> *cc-switch is a cross-platform desktop assistant tool designed for Claude Code, Codex, and Gemini CLI, built with Rust and Tauri. It boasts over 16,000 stars on GitHub and features a dual-layer storage architecture using SQLite and JSON, enabling cloud sync capabilities. Key highlights include multi-provider management, prompt and skills management systems, and a redesigned user interface with Japanese support. The application supports Windows, macOS, and Linux, and offers fast API endpoint testing, auto-launch on startup, and a system tray for quick provider switching.*
 
-- ⭐ 16716 stars
+- ⭐ 16086 stars
+- 💻 Rust
+- 📅 Updated: 2026-02-05
+
+![cc-switch](2026/02-05/2026-02-05_daily-top_cc-switch.png)
+
+### 9. [codex](https://github.com/openai/codex)
+
+> 🤖 **Why Recommend**  
+> *Codex is a lightweight coding agent from OpenAI that operates directly in your terminal, designed to enhance coding efficiency. With over 58,960 stars on GitHub, it supports installation via npm or Homebrew, allowing easy setup. Users can sign in with their ChatGPT account for enhanced functionality as part of various subscription plans. Codex also integrates with popular IDEs like VS Code. For cloud-based solutions, users can access Codex Web at chatgpt.com/codex. Comprehensive documentation and contribution guidelines are available for developers.*
+
+- ⭐ 58960 stars
+- 💻 Rust
+- 📅 Updated: 2026-02-05
+
+![codex](2026/02-05/2026-02-05_daily-top_codex.png)
+
+### 10. [Maestro](https://github.com/pedramamini/Maestro)
+
+> 🤖 **Why Recommend**  
+> *Maestro is a cross-platform desktop app designed for orchestrating AI agents and managing multiple projects simultaneously. Key features include parallel agent management, Auto Run for task automation, and a collaborative group chat for coordinating AI discussions. It supports major coding assistants like Claude Code and OpenAI Codex, with a focus on a keyboard-first design and powerful integrations like Git. Additional functionalities include a command-line interface, mobile remote control, and analytics dashboards for usage tracking. Join the community on Discord for support and updates.*
+
+- ⭐ 1668 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-03
+- 📅 Updated: 2026-02-05
 
-![agents.md](2026/02-03/2026-02-03_daily-top_agents.md.png)
+![Maestro](2026/02-05/2026-02-05_daily-top_Maestro.png)
 
 ---
 
@@ -140,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-02-03 02:44:10 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-02-05 02:41:04 UTC
