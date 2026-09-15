@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-08-19
+# 📊 🌟 GitHub Trending Daily - 2026-09-15
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **379736** ⭐ | **39412** 🍴
+**10** Projects | **285175** ⭐ | **36912** 🍴
 
-**Top Languages:** `TypeScript` (4) · `Rust` (4) · `JavaScript` (1)
+**Top Languages:** `Rust` (3) · `Go` (2) · `JavaScript` (2)
 
-**Updated:** 2026-08-19 01:42 UTC
+**Updated:** 2026-09-15 04:27 UTC
 
 **Categories:**
 
@@ -18,115 +18,116 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [career-ops](https://github.com/santifer/career-ops)
+### 1. [colibri](https://github.com/JustVugg/colibri)
 
 > 🤖 **Why Recommend**  
-> *career-ops is an open-source AI job search tool that transforms any AI coding CLI into a comprehensive job application pipeline. Key features include automatic job listing scanning, an A-F evaluation system scoring offers based on structured criteria, and tailored ATS-optimized CV generation. Users can track applications, generate cover letters, and find contacts at target companies. With batch processing, the system ensures users focus on high-value opportunities while maintaining control over application submissions. Ideal for managing job searches efficiently.*
+> *Colibrì is a lightweight inference engine designed to run frontier Mixture-of-Experts (MoE) models (744B to 2.8T parameters) on consumer hardware using pure C, with zero dependencies. Key features include treating VRAM, RAM, and storage as a unified memory hierarchy, enabling seamless expert streaming from disk. It supports nine model families, including GLM-5.2 and Kimi K3, all accessed via a single front end. Colibrì emphasizes performance optimization, reproducibility, and accessibility, allowing users to run large models without relying on expensive hardware. The project fosters open research and experimentation in AI inference.*
 
-- ⭐ 65349 stars
+- ⭐ 32359 stars
+- 💻 C
+- 📅 Updated: 2026-09-15
+
+![colibri](2026/09-15/2026-09-15_daily-top_colibri.png)
+
+### 2. [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+
+> 🤖 **Why Recommend**  
+> *God's Eye View is an open-source spy satellite simulator that runs in your browser, offering real-time spatial intelligence on a photorealistic 3D globe. Key features include live tracking of aircraft, ships, satellites, and earthquakes, enhanced with hands-free voice control powered by AI. Users can explore public data from various layers, such as live traffic and CCTV feeds, without needing API keys. The platform supports interactive cockpit views, voice annotations, and cinematic scene capture, making it an invaluable tool for geospatial exploration and analysis.*
+
+- ⭐ 33784 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-08-19
+- 📅 Updated: 2026-09-15
 
-![career-ops](2026/08-19/2026-08-19_daily-top_career-ops.png)
+![gods-eye-view](2026/09-15/2026-09-15_daily-top_gods-eye-view.png)
 
-### 2. [ai-memory](https://github.com/akitaonrails/ai-memory)
-
-> 🤖 **Why Recommend**  
-> *ai-memory is a Rust-based long-term memory solution for AI coding agents, enabling seamless transitions between different agents like Claude Code and OpenAI Codex without losing context. Key features include zero-friction lifecycle capture, cross-agent handoffs, and a markdown-based wiki for easy retrieval and management of project knowledge. It supports multiple platforms (Linux, macOS, Windows via WSL2) and integrates with various agents and LLM providers. The system offers enhanced continuity through managed workstreams and entity-assisted recall, ensuring efficient knowledge transfer and project collaboration.*
-
-- ⭐ 2749 stars
-- 💻 Rust
-- 📅 Updated: 2026-08-19
-
-![ai-memory](2026/08-19/2026-08-19_daily-top_ai-memory.png)
-
-### 3. [Motrix](https://github.com/agalwood/Motrix)
+### 3. [open-code-review](https://github.com/alibaba/open-code-review)
 
 > 🤖 **Why Recommend**  
-> *Motrix is a modern, full-featured download manager built with TypeScript, supporting HTTP, FTP, BitTorrent, and magnet links. Key features include a clean interface with dark mode, customizable dashboards, and built-in tracker management. It offers both a desktop app for macOS, Windows, and Linux, and a headless server option via Docker, allowing remote access. The app supports browser extensions, a command-line client, and an extensible plugin system. With robust session management and system notifications, Motrix provides a seamless downloading experience.*
+> *Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comme. popular project, actively maintained, recently updated*
 
-- ⭐ 53699 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-08-19
-
-![Motrix](2026/08-19/2026-08-19_daily-top_Motrix.png)
-
-### 4. [cordis](https://github.com/cordiverse/cordis)
-
-> 🤖 **Why Recommend**  
-> *Cordis is a meta-framework designed for spatiotemporal composability, currently under active development with an evolving API. It facilitates the integration and manipulation of spatial and temporal data, enabling developers to create complex applications with ease. Key features include a comprehensive documentation guide (cordis-primer) and a foundational research paper outlining its programming paradigm. With over 6,100 stars on GitHub, Cordis aims to revolutionize how developers interact with spatiotemporal constructs in their projects.*
-
-- ⭐ 6117 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-08-19
-
-![cordis](2026/08-19/2026-08-19_daily-top_cordis.png)
-
-### 5. [llmfit](https://github.com/AlexsJones/llmfit)
-
-> 🤖 **Why Recommend**  
-> *llmfit is a Rust-based terminal tool designed to optimize large language model (LLM) performance on your hardware. It scores hundreds of models based on memory fit, speed, quality, and context, ensuring ideal selections for your system's RAM, CPU, and GPU. Key features include an interactive TUI, multi-GPU support, dynamic quantization, and real-time benchmarking. Users can contribute performance data to improve estimates for others. With support for various runtime providers like Ollama and Docker, llmfit streamlines model management for AI applications.*
-
-- ⭐ 32739 stars
-- 💻 Rust
-- 📅 Updated: 2026-08-19
-
-![llmfit](2026/08-19/2026-08-19_daily-top_llmfit.png)
-
-### 6. [genlayer-project-boilerplate](https://github.com/genlayerlabs/genlayer-project-boilerplate)
-
-> 🤖 **Why Recommend**  
-> *The genlayer-project-boilerplate is a TypeScript-based boilerplate for implementing GenLayer intelligent contracts, specifically for a football betting game. It features an example contract with web access and LLM integration, direct mode and integration tests, static contract linting, and a CI pipeline using GitHub Actions. The project includes a production-ready Next.js 15 frontend and deployment scripts. Key capabilities include fast in-memory testing, robust error checking, and seamless deployment to GenLayer Studio. Community support is available via Discord and Telegram.*
-
-- ⭐ 15966 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-08-19
-
-![genlayer-project-boilerplate](2026/08-19/2026-08-19_daily-top_genlayer-project-boilerplate.png)
-
-### 7. [nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
-
-> 🤖 **Why Recommend**  
-> *NautilusTrader is a production-grade, Rust-native trading engine designed for multi-asset, multi-venue trading systems. It features a deterministic event-driven architecture that integrates research, backtesting, and live execution seamlessly. Core capabilities include high performance, type safety, and modular integration with various trading venues via REST and WebSocket APIs. Python serves as the control plane for strategy development, enabling easy transitions from research to live trading. Key highlights include advanced order types, backtesting with nanosecond precision, and AI training support. The project is open-source and actively maintained, fostering community contributions.*
-
-- ⭐ 26259 stars
-- 💻 Rust
-- 📅 Updated: 2026-08-19
-
-![nautilus_trader](2026/08-19/2026-08-19_daily-top_nautilus_trader.png)
-
-### 8. [munder-difflin](https://github.com/chaitanyagiri/munder-difflin)
-
-> 🤖 **Why Recommend**  
-> *Munder Difflin is a powerful open-source multi-agent harness designed to emulate an office of clones, enabling seamless collaboration among various AI agents. Key features include real terminal integration for agents like Claude Code and OpenAI Codex, a visual office floor where agents work as avatars, and a central orchestrating agent (Michael) for task routing and management. Enhanced with instant memory recall, semantic indexing, and a robust command center, it supports Slack integrations, custom API keys, and local LLMs. Available on macOS, Windows, and Linux, it aims to optimize productivity while keeping users in control.*
-
-- ⭐ 2059 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-08-19
-
-![munder-difflin](2026/08-19/2026-08-19_daily-top_munder-difflin.png)
-
-### 9. [multica](https://github.com/multica-ai/multica)
-
-> 🤖 **Why Recommend**  
-> *Multica is an open-source platform that enables teams to assign coding tasks to AI agents, such as Claude Code and Codex, as if they were teammates. It supports 20 agent CLIs, allowing seamless integration and collaboration. Key features include issue assignment, real-time progress tracking, execution logs, and self-hosting capabilities. Users can manage agents, create squads, and utilize skills for efficient task handling. Multica promotes a streamlined workflow by connecting agents and human teammates in a single workspace, enhancing productivity without vendor lock-in.*
-
-- ⭐ 46703 stars
+- ⭐ 26190 stars
+- 🍴 1890 forks
 - 💻 Go
-- 📅 Updated: 2026-08-19
+- 📅 Updated: 2026-09-15
 
-![multica](2026/08-19/2026-08-19_daily-top_multica.png)
+![open-code-review](2026/09-15/2026-09-15_daily-top_open-code-review.png)
 
-### 10. [cc-switch](https://github.com/farion1231/cc-switch)
+### 4. [ever-gauzy](https://github.com/ever-co/ever-gauzy)
 
 > 🤖 **Why Recommend**  
-> *CC Switch is a cross-platform desktop assistant designed to streamline the management of AI coding tools, including Claude Code, Codex, and Gemini CLI. With over 50 built-in provider presets, it eliminates the need for manual configuration, enabling one-click switching between APIs. Key features include unified MCP and Skills management, a local proxy for seamless failover, and cloud sync options. The app supports Windows, macOS, and Linux, providing a robust interface for developers to optimize their coding workflows efficiently. Visit ccswitch.io for more information.*
+> *Ever® Gauzy™ is an open-source Business Management Platform designed for collaborative and on-demand economies, featuring robust modules for Enterprise Resource Planning (ERP), Customer Relationship Management (CRM), Human Resource Management (HRM), Applicant Tracking, and Project Management. Key highlights include comprehensive time-tracking, financial management, and multi-organization capabilities, alongside a headless API for seamless integration. With an active community and extensive documentation, it serves businesses of all sizes, providing tools for HR, sales, and productivity management. Explore more at gauzy.co.*
 
-- ⭐ 128096 stars
+- ⭐ 6084 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-09-15
+
+![ever-gauzy](2026/09-15/2026-09-15_daily-top_ever-gauzy.png)
+
+### 5. [atlas](https://github.com/pacifio/atlas)
+
+> 🤖 **Why Recommend**  
+> *Atlas is a source control platform for coding agents, enabling users to track changes, manage multi-agent sessions, and query past interactions seamlessly. Key features include detailed checkpoint recording that links commits to agent sessions, shared memory across agents for context continuity, and local resolution of project components. It supports agents like Claude Code and Codex running in parallel, ensuring efficient collaboration. With a focus on privacy, all data remains on-device unless users opt for synchronization. The project is built in Rust and is primarily designed for macOS.*
+
+- ⭐ 4435 stars
 - 💻 Rust
-- 📅 Updated: 2026-08-19
+- 📅 Updated: 2026-09-15
 
-![cc-switch](2026/08-19/2026-08-19_daily-top_cc-switch.png)
+![atlas](2026/09-15/2026-09-15_daily-top_atlas.png)
+
+### 6. [omniget](https://github.com/tonhowtf/omniget)
+
+> 🤖 **Why Recommend**  
+> *OmniGet is a free, open-source desktop app for Windows, macOS, and Linux, enabling users to download content from over 1,800 sites, including Udemy, Hotmart, YouTube, and more. Key features include a built-in course player, PDF/EPUB reader, and music library, all powered by yt-dlp. Users can seamlessly download courses, videos, and audio without terminal commands. The app supports advanced tools for transcription, conversion, and organization of media, ensuring all files remain locally stored without ads or telemetry.*
+
+- ⭐ 12326 stars
+- 💻 Rust
+- 📅 Updated: 2026-09-15
+
+![omniget](2026/09-15/2026-09-15_daily-top_omniget.png)
+
+### 7. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+
+> 🤖 **Why Recommend**  
+> *The "system_prompts_leaks" GitHub project provides a comprehensive repository of leaked system prompts from major AI models, including Anthropic's Claude, OpenAI's ChatGPT, Google's Gemini, and xAI's Grok. With over 66,900 stars, it features verbatim captures of hidden instructions that guide AI interactions. Regular updates ensure access to the latest prompts across various models and integrations, facilitating insights into AI behavior. Notable applications include interactive storytelling and live dashboards, making it a valuable resource for developers and researchers in AI.*
+
+- ⭐ 66907 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-09-15
+
+![system_prompts_leaks](2026/09-15/2026-09-15_daily-top_system_prompts_leaks.png)
+
+### 8. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
+
+> 🤖 **Why Recommend**  
+> *Ghidra is a powerful open-source software reverse engineering (SRE) framework developed by the NSA. It offers a comprehensive suite of tools for analyzing compiled code across various platforms, including disassembly, decompilation, and graphing. Ghidra supports multiple processor instruction sets and executable formats, enabling both interactive and automated analysis. Users can extend its functionality with custom scripts in Java or Python. Designed to facilitate complex SRE tasks, Ghidra enhances cybersecurity efforts by providing deep insights into potential vulnerabilities.*
+
+- ⭐ 75981 stars
+- 💻 Java
+- 📅 Updated: 2026-09-15
+
+![ghidra](2026/09-15/2026-09-15_daily-top_ghidra.png)
+
+### 9. [pentagi](https://github.com/vxcontrol/pentagi)
+
+> 🤖 **Why Recommend**  
+> *PentAGI is a cutting-edge, fully autonomous AI agent system designed for complex penetration testing tasks. Key features include a secure and isolated Docker environment, a built-in suite of 20+ professional security tools, and powerful LLM integration with support for multiple providers. The system offers advanced memory management, detailed reporting, and comprehensive monitoring through Grafana and Prometheus. With scalable microservices architecture, PentAGI enables efficient task execution, real-time observation, and a modern web interface, making it ideal for security professionals and researchers.*
+
+- ⭐ 24431 stars
+- 💻 Go
+- 📅 Updated: 2026-09-15
+
+![pentagi](2026/09-15/2026-09-15_daily-top_pentagi.png)
+
+### 10. [OpenResearch](https://github.com/alphaXiv/OpenResearch)
+
+> 🤖 **Why Recommend**  
+> *OpenResearch is a Rust-based platform designed to transform coding agents into research agents capable of literature review, hypothesis development, and experimental execution. Key features include parallel exploration with independent agent sessions, reproducible experiments tracked in a git-native structure, and flexible compute options—running locally or via managed services. It supports various coding agents like Claude Code and Codex, ensuring local ownership of projects and data. Autonomously, OpenResearch can propose ideas, execute experiments, and analyze results, enhancing research efficiency.*
+
+- ⭐ 2678 stars
+- 💻 Rust
+- 📅 Updated: 2026-09-15
+
+![OpenResearch](2026/09-15/2026-09-15_daily-top_OpenResearch.png)
 
 ---
 
@@ -140,4 +141,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-08-19 01:42:19 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-09-15 04:27:38 UTC

@@ -27,7 +27,7 @@
 - 💻 C
 - 📅 Updated: 2026-09-15
 
-![colibri](2026/09-15/2026-09-15_daily-top_colibri.png)
+![colibri](2026-09-15_daily-top_colibri.png)
 
 ### 2. [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
 
@@ -38,7 +38,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-15
 
-![gods-eye-view](2026/09-15/2026-09-15_daily-top_gods-eye-view.png)
+![gods-eye-view](2026-09-15_daily-top_gods-eye-view.png)
 
 ### 3. [open-code-review](https://github.com/alibaba/open-code-review)
 
@@ -50,7 +50,7 @@
 - 💻 Go
 - 📅 Updated: 2026-09-15
 
-![open-code-review](2026/09-15/2026-09-15_daily-top_open-code-review.png)
+![open-code-review](2026-09-15_daily-top_open-code-review.png)
 
 ### 4. [ever-gauzy](https://github.com/ever-co/ever-gauzy)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-15
 
-![ever-gauzy](2026/09-15/2026-09-15_daily-top_ever-gauzy.png)
+![ever-gauzy](2026-09-15_daily-top_ever-gauzy.png)
 
 ### 5. [atlas](https://github.com/pacifio/atlas)
 
@@ -72,7 +72,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-09-15
 
-![atlas](2026/09-15/2026-09-15_daily-top_atlas.png)
+![atlas](2026-09-15_daily-top_atlas.png)
 
 ### 6. [omniget](https://github.com/tonhowtf/omniget)
 
@@ -83,7 +83,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-09-15
 
-![omniget](2026/09-15/2026-09-15_daily-top_omniget.png)
+![omniget](2026-09-15_daily-top_omniget.png)
 
 ### 7. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 
@@ -94,7 +94,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-15
 
-![system_prompts_leaks](2026/09-15/2026-09-15_daily-top_system_prompts_leaks.png)
+![system_prompts_leaks](2026-09-15_daily-top_system_prompts_leaks.png)
 
 ### 8. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
 
@@ -105,7 +105,7 @@
 - 💻 Java
 - 📅 Updated: 2026-09-15
 
-![ghidra](2026/09-15/2026-09-15_daily-top_ghidra.png)
+![ghidra](2026-09-15_daily-top_ghidra.png)
 
 ### 9. [pentagi](https://github.com/vxcontrol/pentagi)
 
@@ -116,7 +116,7 @@
 - 💻 Go
 - 📅 Updated: 2026-09-15
 
-![pentagi](2026/09-15/2026-09-15_daily-top_pentagi.png)
+![pentagi](2026-09-15_daily-top_pentagi.png)
 
 ### 10. [OpenResearch](https://github.com/alphaXiv/OpenResearch)
 
@@ -127,7 +127,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-09-15
 
-![OpenResearch](2026/09-15/2026-09-15_daily-top_OpenResearch.png)
+![OpenResearch](2026-09-15_daily-top_OpenResearch.png)
 
 ---
 
