@@ -27,7 +27,7 @@
 - 💻 Go
 - 📅 Updated: 2026-09-16
 
-![open-code-review](2026/09-16/2026-09-16_daily-top_open-code-review.png)
+![open-code-review](2026-09-16_daily-top_open-code-review.png)
 
 ### 2. [colibri](https://github.com/JustVugg/colibri)
 
@@ -38,7 +38,7 @@
 - 💻 C
 - 📅 Updated: 2026-09-16
 
-![colibri](2026/09-16/2026-09-16_daily-top_colibri.png)
+![colibri](2026-09-16_daily-top_colibri.png)
 
 ### 3. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 
@@ -50,7 +50,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-16
 
-![security-audit-skill](2026/09-16/2026-09-16_daily-top_security-audit-skill.png)
+![security-audit-skill](2026-09-16_daily-top_security-audit-skill.png)
 
 ### 4. [archify](https://github.com/tt-a1i/archify)
 
@@ -61,7 +61,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-16
 
-![archify](2026/09-16/2026-09-16_daily-top_archify.png)
+![archify](2026-09-16_daily-top_archify.png)
 
 ### 5. [tinycast](https://github.com/abue-ammar/tinycast)
 
@@ -72,7 +72,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-09-16
 
-![tinycast](2026/09-16/2026-09-16_daily-top_tinycast.png)
+![tinycast](2026-09-16_daily-top_tinycast.png)
 
 ### 6. [vphone-cli](https://github.com/Lakr233/vphone-cli)
 
@@ -83,7 +83,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-09-16
 
-![vphone-cli](2026/09-16/2026-09-16_daily-top_vphone-cli.png)
+![vphone-cli](2026-09-16_daily-top_vphone-cli.png)
 
 ### 7. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
 
@@ -94,7 +94,7 @@
 - 💻 Java
 - 📅 Updated: 2026-09-16
 
-![ghidra](2026/09-16/2026-09-16_daily-top_ghidra.png)
+![ghidra](2026-09-16_daily-top_ghidra.png)
 
 ### 8. [WeKnora](https://github.com/Tencent/WeKnora)
 
@@ -105,7 +105,7 @@
 - 💻 Go
 - 📅 Updated: 2026-09-16
 
-![WeKnora](2026/09-16/2026-09-16_daily-top_WeKnora.png)
+![WeKnora](2026-09-16_daily-top_WeKnora.png)
 
 ### 9. [ever-gauzy](https://github.com/ever-co/ever-gauzy)
 
@@ -116,7 +116,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-16
 
-![ever-gauzy](2026/09-16/2026-09-16_daily-top_ever-gauzy.png)
+![ever-gauzy](2026-09-16_daily-top_ever-gauzy.png)
 
 ### 10. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 
@@ -127,7 +127,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-16
 
-![system_prompts_leaks](2026/09-16/2026-09-16_daily-top_system_prompts_leaks.png)
+![system_prompts_leaks](2026-09-16_daily-top_system_prompts_leaks.png)
 
 ---
 
