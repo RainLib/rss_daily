@@ -27,7 +27,7 @@
 - 💻 Go
 - 📅 Updated: 2026-09-17
 
-![open-code-review](2026/09-17/2026-09-17_daily-top_open-code-review.png)
+![open-code-review](2026-09-17_daily-top_open-code-review.png)
 
 ### 2. [colibri](https://github.com/JustVugg/colibri)
 
@@ -38,7 +38,7 @@
 - 💻 C
 - 📅 Updated: 2026-09-17
 
-![colibri](2026/09-17/2026-09-17_daily-top_colibri.png)
+![colibri](2026-09-17_daily-top_colibri.png)
 
 ### 3. [WeKnora](https://github.com/Tencent/WeKnora)
 
@@ -49,7 +49,7 @@
 - 💻 Go
 - 📅 Updated: 2026-09-17
 
-![WeKnora](2026/09-17/2026-09-17_daily-top_WeKnora.png)
+![WeKnora](2026-09-17_daily-top_WeKnora.png)
 
 ### 4. [tinycast](https://github.com/abue-ammar/tinycast)
 
@@ -60,7 +60,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-09-17
 
-![tinycast](2026/09-17/2026-09-17_daily-top_tinycast.png)
+![tinycast](2026-09-17_daily-top_tinycast.png)
 
 ### 5. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
 
@@ -71,7 +71,7 @@
 - 💻 Java
 - 📅 Updated: 2026-09-17
 
-![ghidra](2026/09-17/2026-09-17_daily-top_ghidra.png)
+![ghidra](2026-09-17_daily-top_ghidra.png)
 
 ### 6. [ECC](https://github.com/affaan-m/ECC)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-17
 
-![ECC](2026/09-17/2026-09-17_daily-top_ECC.png)
+![ECC](2026-09-17_daily-top_ECC.png)
 
 ### 7. [OpenResearch](https://github.com/alphaXiv/OpenResearch)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-09-17
 
-![OpenResearch](2026/09-17/2026-09-17_daily-top_OpenResearch.png)
+![OpenResearch](2026-09-17_daily-top_OpenResearch.png)
 
 ### 8. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 
@@ -105,7 +105,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-17
 
-![security-audit-skill](2026/09-17/2026-09-17_daily-top_security-audit-skill.png)
+![security-audit-skill](2026-09-17_daily-top_security-audit-skill.png)
 
 ### 9. [omniget](https://github.com/tonhowtf/omniget)
 
@@ -116,7 +116,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-09-17
 
-![omniget](2026/09-17/2026-09-17_daily-top_omniget.png)
+![omniget](2026-09-17_daily-top_omniget.png)
 
 ### 10. [ever-gauzy](https://github.com/ever-co/ever-gauzy)
 
@@ -127,7 +127,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-17
 
-![ever-gauzy](2026/09-17/2026-09-17_daily-top_ever-gauzy.png)
+![ever-gauzy](2026-09-17_daily-top_ever-gauzy.png)
 
 ---
 

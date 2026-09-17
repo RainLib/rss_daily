@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-09-16
+# 📊 🌟 GitHub Trending Daily - 2026-09-17
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **325366** ⭐ | **35822** 🍴
+**10** Projects | **470462** ⭐ | **60325** 🍴
 
-**Top Languages:** `JavaScript` (3) · `Swift` (2) · `Go` (2)
+**Top Languages:** `JavaScript` (2) · `Rust` (2) · `Go` (2)
 
-**Updated:** 2026-09-16 04:22 UTC
+**Updated:** 2026-09-17 04:29 UTC
 
 **Categories:**
 
@@ -21,113 +21,113 @@
 ### 1. [open-code-review](https://github.com/alibaba/open-code-review)
 
 > 🤖 **Why Recommend**  
-> *Open Code Review is an AI-powered code review tool developed by Alibaba, designed for efficiency and precision. It features deterministic pipelines combined with an LLM agent for generating detailed line-level comments. Supporting multiple languages and built-in rules for issues like NPE and SQL injection, it provides both diff and full-file reviews. Open Code Review excels in precision, consuming fewer tokens while delivering faster results compared to general-purpose agents. With CLI integration and comprehensive documentation, it's ideal for developers seeking robust code quality assurance.*
+> *Open Code Review is an AI-powered code review tool developed by Alibaba, designed for efficient, scalable code analysis. Key features include deterministic pipelines for precise line-level feedback, a built-in multi-language ruleset (covering NPE, thread-safety, XSS, SQL injection), and compatibility with OpenAI and Anthropic models. The tool excels in generating structured comments and auditing entire files, significantly enhancing review quality while reducing false positives. With a focus on hybrid architecture, Open Code Review is battle-tested for large-scale applications and is open-source for community use.*
 
-- ⭐ 29072 stars
+- ⭐ 32437 stars
 - 💻 Go
-- 📅 Updated: 2026-09-16
+- 📅 Updated: 2026-09-17
 
-![open-code-review](2026/09-16/2026-09-16_daily-top_open-code-review.png)
+![open-code-review](2026/09-17/2026-09-17_daily-top_open-code-review.png)
 
 ### 2. [colibri](https://github.com/JustVugg/colibri)
 
 > 🤖 **Why Recommend**  
-> *Colibri is a lightweight inference engine designed to run cutting-edge Mixture-of-Experts (MoE) models, ranging from 744B to 2.8T parameters, on existing hardware with zero dependencies. Built in pure C, it optimizes memory usage by treating VRAM, RAM, and storage as a multitier hierarchy, enabling efficient model loading and execution. Key features include support for multiple MoE families, real-time expert routing, a web dashboard for live metrics, and an open research platform for experimentation. Colibri emphasizes accessibility, allowing users to run large models without relying on expensive hardware.*
+> *Colibrì is a lightweight inference engine designed to run frontier Mixture-of-Experts (MoE) models, ranging from 744 billion to 2.8 trillion parameters, on consumer-grade hardware without dependencies. It utilizes a unique memory multitiering approach, treating VRAM, RAM, and storage as a unified hierarchy, optimizing performance and accessibility. The engine supports multiple model families, including GLM-5.2 and Kimi K3, and provides a web dashboard for real-time monitoring. Its focus on reproducible experiments fosters an open research environment for inference optimization.*
 
-- ⭐ 34055 stars
+- ⭐ 35146 stars
 - 💻 C
-- 📅 Updated: 2026-09-16
+- 📅 Updated: 2026-09-17
 
-![colibri](2026/09-16/2026-09-16_daily-top_colibri.png)
+![colibri](2026/09-17/2026-09-17_daily-top_colibri.png)
 
-### 3. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+### 3. [WeKnora](https://github.com/Tencent/WeKnora)
+
+> 🤖 **Why Recommend**  
+> *WeKnora is an open-source LLM knowledge platform designed for enterprise document understanding and autonomous reasoning. Key features include a RAG-based Q&A system, a ReAct agent for orchestrating multi-step tasks, and a self-maintaining Wiki Mode that generates interlinked markdown knowledge bases. It supports document ingestion from multiple sources, handles various file formats, and offers extensive integrations with 20+ LLM providers. With enterprise-ready RBAC, cross-session memory, and a modular architecture, WeKnora transforms scattered documents into a dynamic, queryable knowledge asset.*
+
+- ⭐ 25548 stars
+- 💻 Go
+- 📅 Updated: 2026-09-17
+
+![WeKnora](2026/09-17/2026-09-17_daily-top_WeKnora.png)
+
+### 4. [tinycast](https://github.com/abue-ammar/tinycast)
+
+> 🤖 **Why Recommend**  
+> *Tinycast is a lightweight, fully native macOS launcher designed for efficiency, utilizing under 100 MB of RAM. Key features include a global hotkey for quick access, fuzzy app and file search, clipboard history, and customizable snippets. Users can manage windows, execute shell commands, and access calendar events seamlessly. Tinycast also supports AI chat, integrates with Apple Shortcuts, and offers Raycast extension compatibility without third-party dependencies. Open-source and free, it prioritizes user privacy with no telemetry.*
+
+- ⭐ 5709 stars
+- 💻 Swift
+- 📅 Updated: 2026-09-17
+
+![tinycast](2026/09-17/2026-09-17_daily-top_tinycast.png)
+
+### 5. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
+
+> 🤖 **Why Recommend**  
+> *Ghidra is a powerful software reverse engineering (SRE) framework developed by the NSA, designed for analyzing compiled code across multiple platforms, including Windows, macOS, and Linux. Key features include disassembly, decompilation, scripting capabilities, and support for various processor instruction sets and executable formats. Ghidra allows users to create custom extensions and scripts using Java or Python. With a focus on cybersecurity, it provides deep insights into vulnerabilities, making it a vital tool for SRE analysts. The project is open source and supports collaborative development.*
+
+- ⭐ 77956 stars
+- 💻 Java
+- 📅 Updated: 2026-09-17
+
+![ghidra](2026/09-17/2026-09-17_daily-top_ghidra.png)
+
+### 6. [ECC](https://github.com/affaan-m/ECC)
+
+> 🤖 **Why Recommend**  
+> *ECC is a performance optimization system for coding agents like Claude Code and Codex, designed to enhance development workflows. Key features include 68 specialized agents for planning, reviewing, and security, alongside 292 reusable skills and 94 command shims. ECC automates processes with hooks for memory persistence and context management, enabling continuous learning and security scanning through AgentShield. It supports guided installation across various platforms, with a focus on optimizing context usage and improving coding practices.*
+
+- ⭐ 260447 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-09-17
+
+![ECC](2026/09-17/2026-09-17_daily-top_ECC.png)
+
+### 7. [OpenResearch](https://github.com/alphaXiv/OpenResearch)
+
+> 🤖 **Why Recommend**  
+> *OpenResearch is a local-first workspace designed to transform coding agents like Claude Code, Codex, OpenCode, and Cursor into research agents. With features like parallel exploration, reproducible experiments, and evidence tracking, it enables users to conduct autonomous research loops, from idea generation to experimentation. The platform supports local and remote compute options, ensuring ownership of research artifacts. Additionally, it offers a CLI for easy integration and management of projects, providing a robust environment for innovative research without compromising data privacy.*
+
+- ⭐ 4538 stars
+- 💻 Rust
+- 📅 Updated: 2026-09-17
+
+![OpenResearch](2026/09-17/2026-09-17_daily-top_OpenResearch.png)
+
+### 8. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 
 > 🤖 **Why Recommend**  
 > *A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings. popular project, actively maintained, recently updated*
 
-- ⭐ 5196 stars
-- 🍴 319 forks
+- ⭐ 7683 stars
+- 🍴 436 forks
 - 💻 JavaScript
-- 📅 Updated: 2026-09-16
+- 📅 Updated: 2026-09-17
 
-![security-audit-skill](2026/09-16/2026-09-16_daily-top_security-audit-skill.png)
+![security-audit-skill](2026/09-17/2026-09-17_daily-top_security-audit-skill.png)
 
-### 4. [archify](https://github.com/tt-a1i/archify)
-
-> 🤖 **Why Recommend**  
-> *Archify is a powerful Node.js agent skill designed for creating interactive, polished architecture diagrams directly within chat interfaces. Its core features include support for five diagram types, snapshot comparisons of architecture changes, and a self-contained HTML output for easy sharing. Archify utilizes typed JSON IR for deterministic rendering and validation, ensuring accuracy and trust in generated artifacts. Key highlights include built-in brand marks, dark/light themes, and detailed tracing of system interactions. Ideal for visualizing workflows, sequences, data flows, and lifecycles, Archify enhances communication around system architectures.*
-
-- ⭐ 63819 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-09-16
-
-![archify](2026/09-16/2026-09-16_daily-top_archify.png)
-
-### 5. [tinycast](https://github.com/abue-ammar/tinycast)
+### 9. [omniget](https://github.com/tonhowtf/omniget)
 
 > 🤖 **Why Recommend**  
-> *Tinycast is a lightweight, native macOS launcher that offers powerful features under 100 MB of RAM. With over 4,800 stars on GitHub, it provides a global hotkey for quick access, fuzzy-search for launching apps, and clipboard history for text and images. Additional functionalities include file search, customizable snippets, window management, calendar integration, and AI chat capabilities. Built using SwiftUI with no third-party dependencies, Tinycast ensures privacy and efficiency. It supports native Raycast extensions and is free and open source.*
+> *OmniGet is a free, open-source desktop app for Windows, macOS, and Linux that allows users to download content from over 1,800 sites, including Udemy, Hotmart, YouTube, and more, without needing a terminal. Key features include a built-in media player, PDF/EPUB reader, and a music library. Users can easily paste links, manage downloads with advanced options, and utilize tools for transcription, conversion, and study aids. With no ads or telemetry, OmniGet prioritizes user privacy while offering extensive functionality through plugins and a robust tools section.*
 
-- ⭐ 4873 stars
-- 💻 Swift
-- 📅 Updated: 2026-09-16
+- ⭐ 13611 stars
+- 💻 Rust
+- 📅 Updated: 2026-09-17
 
-![tinycast](2026/09-16/2026-09-16_daily-top_tinycast.png)
+![omniget](2026/09-17/2026-09-17_daily-top_omniget.png)
 
-### 6. [vphone-cli](https://github.com/Lakr233/vphone-cli)
-
-> 🤖 **Why Recommend**  
-> *vphone-cli is a Swift-based project that allows users to boot a virtual iPhone using Apple's Virtualization.framework, primarily on Apple Silicon Macs running macOS 15+. It offers an end-to-end command to create and launch VMs with various firmware variants, including jailbreak options. Key features include VM management commands, downloading and patching firmware, and SSH/VNC connectivity for interaction. The project supports extensive automation through a control socket for programmatic actions, making it ideal for developers and researchers in iOS virtualization. With over 13,000 stars, it has gained significant community interest.*
-
-- ⭐ 13037 stars
-- 💻 Swift
-- 📅 Updated: 2026-09-16
-
-![vphone-cli](2026/09-16/2026-09-16_daily-top_vphone-cli.png)
-
-### 7. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
+### 10. [ever-gauzy](https://github.com/ever-co/ever-gauzy)
 
 > 🤖 **Why Recommend**  
-> *Ghidra is a powerful software reverse engineering (SRE) framework developed by the NSA, designed for analyzing compiled code across multiple platforms, including Windows, macOS, and Linux. With features like disassembly, decompilation, graphing, and scripting in Java or Python, Ghidra supports various processor instruction sets and executable formats. It enables both interactive and automated analysis and allows users to create custom extensions. Ghidra is open-source and aims to enhance cybersecurity efforts by providing deep insights into vulnerabilities and malicious code.*
+> *Ever® Gauzy™ is an open business management platform designed for collaborative and on-demand economies, encompassing ERP, CRM, HRM, ATS, and project management features. Key highlights include employee time tracking, financial and cost management, inventory control, and comprehensive reporting. The platform offers headless APIs for easy integration, a customizable dashboard, and multi-currency support. It’s built with TypeScript, leveraging modern technologies like Angular and NestJS. Available as a SaaS solution and for self-hosting, it caters to various organizational needs. Explore more at gauzy.co.*
 
-- ⭐ 76860 stars
-- 💻 Java
-- 📅 Updated: 2026-09-16
-
-![ghidra](2026/09-16/2026-09-16_daily-top_ghidra.png)
-
-### 8. [WeKnora](https://github.com/Tencent/WeKnora)
-
-> 🤖 **Why Recommend**  
-> *WeKnora is an open-source LLM-powered knowledge platform designed for enterprise document understanding and autonomous reasoning. It features RAG-based quick Q&A, a ReAct agent for complex task orchestration, and a self-maintaining Wiki mode that distills documents into interlinked markdown entries. Key highlights include cross-session long-term memory, multi-source ingestion, and support for over 10 document formats. It integrates with 20+ LLM providers, offers extensive API capabilities, and allows for local/private deployment, ensuring data sovereignty and flexibility for users.*
-
-- ⭐ 24456 stars
-- 💻 Go
-- 📅 Updated: 2026-09-16
-
-![WeKnora](2026/09-16/2026-09-16_daily-top_WeKnora.png)
-
-### 9. [ever-gauzy](https://github.com/ever-co/ever-gauzy)
-
-> 🤖 **Why Recommend**  
-> *Ever® Gauzy™ is an open-source Business Management Platform designed for collaborative economies. It offers comprehensive features including Enterprise Resource Planning (ERP), Customer Relationship Management (CRM), Human Resource Management (HRM), Applicant Tracking System (ATS), and Project Management (PM). Key highlights include time tracking, financial management, inventory control, and analytics. With headless APIs and a user-friendly dashboard, it supports multiple organizations and integrates with tools like Upwork and Hubstaff. Explore more at https://gauzy.co.*
-
-- ⭐ 6763 stars
+- ⭐ 7387 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-09-16
+- 📅 Updated: 2026-09-17
 
-![ever-gauzy](2026/09-16/2026-09-16_daily-top_ever-gauzy.png)
-
-### 10. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
-
-> 🤖 **Why Recommend**  
-> *The system_prompts_leaks GitHub project compiles verbatim system prompts from various AI models, including Anthropic's Claude, OpenAI's ChatGPT, and Google's Gemini. With over 67,000 stars, it serves as a valuable repository for understanding the hidden instructions guiding AI interactions. Regular updates ensure access to the latest prompts from multiple platforms, including Codex and Grok. Notable applications of the project include interactive stories and live data dashboards, making it a crucial resource for AI developers and researchers.*
-
-- ⭐ 67235 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-09-16
-
-![system_prompts_leaks](2026/09-16/2026-09-16_daily-top_system_prompts_leaks.png)
+![ever-gauzy](2026/09-17/2026-09-17_daily-top_ever-gauzy.png)
 
 ---
 
@@ -141,4 +141,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-09-16 04:22:56 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-09-17 04:29:11 UTC
