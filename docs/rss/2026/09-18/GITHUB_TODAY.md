@@ -28,7 +28,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-18
 
-![security-audit-skill](2026/09-18/2026-09-18_daily-top_security-audit-skill.png)
+![security-audit-skill](2026-09-18_daily-top_security-audit-skill.png)
 
 ### 2. [open-code-review](https://github.com/alibaba/open-code-review)
 
@@ -39,7 +39,7 @@
 - 💻 Go
 - 📅 Updated: 2026-09-18
 
-![open-code-review](2026/09-18/2026-09-18_daily-top_open-code-review.png)
+![open-code-review](2026-09-18_daily-top_open-code-review.png)
 
 ### 3. [BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
@@ -50,7 +50,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-18
 
-![BrowserSkill](2026/09-18/2026-09-18_daily-top_BrowserSkill.png)
+![BrowserSkill](2026-09-18_daily-top_BrowserSkill.png)
 
 ### 4. [ECC](https://github.com/affaan-m/ECC)
 
@@ -61,7 +61,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-18
 
-![ECC](2026/09-18/2026-09-18_daily-top_ECC.png)
+![ECC](2026-09-18_daily-top_ECC.png)
 
 ### 5. [WeKnora](https://github.com/Tencent/WeKnora)
 
@@ -72,7 +72,7 @@
 - 💻 Go
 - 📅 Updated: 2026-09-18
 
-![WeKnora](2026/09-18/2026-09-18_daily-top_WeKnora.png)
+![WeKnora](2026-09-18_daily-top_WeKnora.png)
 
 ### 6. [ponytail](https://github.com/DietrichGebert/ponytail)
 
@@ -83,7 +83,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-18
 
-![ponytail](2026/09-18/2026-09-18_daily-top_ponytail.png)
+![ponytail](2026-09-18_daily-top_ponytail.png)
 
 ### 7. [OpenResearch](https://github.com/alphaXiv/OpenResearch)
 
@@ -94,7 +94,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-09-18
 
-![OpenResearch](2026/09-18/2026-09-18_daily-top_OpenResearch.png)
+![OpenResearch](2026-09-18_daily-top_OpenResearch.png)
 
 ### 8. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
 
@@ -105,7 +105,7 @@
 - 💻 Java
 - 📅 Updated: 2026-09-18
 
-![ghidra](2026/09-18/2026-09-18_daily-top_ghidra.png)
+![ghidra](2026-09-18_daily-top_ghidra.png)
 
 ### 9. [colibri](https://github.com/JustVugg/colibri)
 
@@ -116,7 +116,7 @@
 - 💻 C
 - 📅 Updated: 2026-09-18
 
-![colibri](2026/09-18/2026-09-18_daily-top_colibri.png)
+![colibri](2026-09-18_daily-top_colibri.png)
 
 ### 10. [tinycast](https://github.com/abue-ammar/tinycast)
 
@@ -127,7 +127,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-09-18
 
-![tinycast](2026/09-18/2026-09-18_daily-top_tinycast.png)
+![tinycast](2026-09-18_daily-top_tinycast.png)
 
 ---
 
