@@ -28,7 +28,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-19
 
-![security-audit-skill](2026/09-19/2026-09-19_daily-top_security-audit-skill.png)
+![security-audit-skill](2026-09-19_daily-top_security-audit-skill.png)
 
 ### 2. [open-code-review](https://github.com/alibaba/open-code-review)
 
@@ -39,7 +39,7 @@
 - 💻 Go
 - 📅 Updated: 2026-09-19
 
-![open-code-review](2026/09-19/2026-09-19_daily-top_open-code-review.png)
+![open-code-review](2026-09-19_daily-top_open-code-review.png)
 
 ### 3. [BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
@@ -50,7 +50,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-19
 
-![BrowserSkill](2026/09-19/2026-09-19_daily-top_BrowserSkill.png)
+![BrowserSkill](2026-09-19_daily-top_BrowserSkill.png)
 
 ### 4. [ECC](https://github.com/affaan-m/ECC)
 
@@ -61,7 +61,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-19
 
-![ECC](2026/09-19/2026-09-19_daily-top_ECC.png)
+![ECC](2026-09-19_daily-top_ECC.png)
 
 ### 5. [hister](https://github.com/asciimoo/hister)
 
@@ -72,7 +72,7 @@
 - 💻 Go
 - 📅 Updated: 2026-09-19
 
-![hister](2026/09-19/2026-09-19_daily-top_hister.png)
+![hister](2026-09-19_daily-top_hister.png)
 
 ### 6. [WeKnora](https://github.com/Tencent/WeKnora)
 
@@ -83,7 +83,7 @@
 - 💻 Go
 - 📅 Updated: 2026-09-19
 
-![WeKnora](2026/09-19/2026-09-19_daily-top_WeKnora.png)
+![WeKnora](2026-09-19_daily-top_WeKnora.png)
 
 ### 7. [orca](https://github.com/stablyai/orca)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-19
 
-![orca](2026/09-19/2026-09-19_daily-top_orca.png)
+![orca](2026-09-19_daily-top_orca.png)
 
 ### 8. [agent-skills](https://github.com/addyosmani/agent-skills)
 
@@ -105,7 +105,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-19
 
-![agent-skills](2026/09-19/2026-09-19_daily-top_agent-skills.png)
+![agent-skills](2026-09-19_daily-top_agent-skills.png)
 
 ### 9. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
 
@@ -116,7 +116,7 @@
 - 💻 Java
 - 📅 Updated: 2026-09-19
 
-![ghidra](2026/09-19/2026-09-19_daily-top_ghidra.png)
+![ghidra](2026-09-19_daily-top_ghidra.png)
 
 ### 10. [n8n](https://github.com/n8n-io/n8n)
 
@@ -127,7 +127,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-19
 
-![n8n](2026/09-19/2026-09-19_daily-top_n8n.png)
+![n8n](2026-09-19_daily-top_n8n.png)
 
 ---
 
