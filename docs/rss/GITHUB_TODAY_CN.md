@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-09-19
+# 📊 🌟 GitHub Trending Daily - 2026-09-20
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **803242** ⭐ | **131239** 🍴
+**10** 个项目 | **633150** ⭐ | **84514** 🍴
 
-**热门语言:** `TypeScript` (3) · `JavaScript` (3) · `Go` (3)
+**热门语言:** `TypeScript` (4) · `JavaScript` (3) · `Go` (3)
 
-**更新时间:** 2026-09-19 04:10 UTC
+**更新时间:** 2026-09-20 04:29 UTC
 
 **分类分布:**
 
@@ -23,111 +23,111 @@
 > 🤖 **推荐理由**  
 > *A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings. popular project, actively maintained, recently updated*
 
-- ⭐ 14024 stars
-- 🍴 757 forks
+- ⭐ 16663 stars
+- 🍴 914 forks
 - 💻 JavaScript
-- 📅 Updated: 2026-09-19
+- 📅 Updated: 2026-09-20
 
-![security-audit-skill](2026/09-19/2026-09-19_daily-top_security-audit-skill.png)
+![security-audit-skill](2026/09-20/2026-09-20_daily-top_security-audit-skill.png)
 
-### 2. [open-code-review](https://github.com/alibaba/open-code-review)
-
-> 🤖 **推荐理由**  
-> *OpenCodeReview is a robust AI-powered code review tool developed by Alibaba, designed for secure and efficient performance at scale. It features deterministic pipelines combined with a powerful LLM agent, providing precise line-level comments and a built-in multi-language ruleset to detect issues like NPE, thread-safety, XSS, and SQL injection. The tool supports various platforms and integrates with OpenAI and Anthropic models. Key highlights include structured feedback, auditing capabilities for entire files, and superior precision in code defect detection, making it ideal for developers seeking comprehensive code quality assurance.*
-
-- ⭐ 36813 stars
-- 💻 Go
-- 📅 Updated: 2026-09-19
-
-![open-code-review](2026/09-19/2026-09-19_daily-top_open-code-review.png)
-
-### 3. [BrowserSkill](https://github.com/Tencent/BrowserSkill)
+### 2. [ECC](https://github.com/affaan-m/ECC)
 
 > 🤖 **推荐理由**  
-> *BrowserSkill is a TypeScript project enabling AI agents to operate within your existing, logged-in browser without disrupting your workflow. It connects various agents like Cursor, Claude Code, and Codex through a CLI and browser extension. Key features include the ability to reuse real login states, uninterrupted browsing (tasks run in a visible Agent Window), and built-in human-in-loop support for tasks requiring user intervention. Compatible with macOS, Linux, and Windows, it supports Chrome and Edge, with plans for Firefox. BrowserSkill streamlines automation across diverse AI agents, enhancing productivity and user experience.*
+> *ECC is an advanced performance optimization system designed for coding agents like Claude Code, Codex, and others. It offers 68 specialized agents, 292 reusable skills, and 94 command shims, facilitating workflows like test-driven development, security reviews, and code refactoring. ECC enhances coding efficiency through memory persistence, continuous learning, and integrated security scanning via AgentShield. It supports various platforms, including Claude Code and Codex, ensuring a seamless integration experience. The project is open-source and actively maintained, with a strong community and sponsorship model.*
 
-- ⭐ 5397 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-09-19
-
-![BrowserSkill](2026/09-19/2026-09-19_daily-top_BrowserSkill.png)
-
-### 4. [ECC](https://github.com/affaan-m/ECC)
-
-> 🤖 **推荐理由**  
-> *ECC is a powerful performance optimization system designed for coding agents like Claude Code, Codex, and more. It features 68 specialized agents, 292 skills, and 94 commands for tasks such as planning, code review, and security auditing. ECC ensures a structured workflow through hooks and rules while enabling continuous learning and memory persistence. With tools like AgentShield for security scanning, it enhances coding efficiency and quality. The system supports various platforms, offering guided installations and a comprehensive developer experience for enhanced code management.*
-
-- ⭐ 262162 stars
+- ⭐ 263042 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-09-19
+- 📅 Updated: 2026-09-20
 
-![ECC](2026/09-19/2026-09-19_daily-top_ECC.png)
+![ECC](2026/09-20/2026-09-20_daily-top_ECC.png)
 
-### 5. [hister](https://github.com/asciimoo/hister)
+### 3. [open-code-review](https://github.com/alibaba/open-code-review)
 
 > 🤖 **推荐理由**  
-> *Hister is a private search engine enabling users to index and search the contents of visited web pages and local files. Key features include full-text indexing, automatic browser integration through Chrome and Firefox extensions, and powerful query capabilities with optional semantic search. Hister prioritizes user privacy with no telemetry or mandatory cloud services, allowing local or controlled infrastructure usage. Accessible via a web interface, terminal, or AI assistant, it supports multi-user environments, making it ideal for personal and shared document management.*
+> *Open Code Review is a hybrid AI-powered code review tool developed by Alibaba, designed for security, speed, and efficiency. It combines deterministic pipelines with a large language model (LLM) agent for precise line-level feedback. Key features include a built-in multi-language ruleset (covering NPE, thread-safety, XSS, SQL injection), the ability to read Git diffs, and comprehensive review capabilities, including full-file scans. With over 37,760 stars, it supports multiple platforms and integrates with popular AI coding agents like Claude and Codex, optimizing code quality at scale.*
 
-- ⭐ 4995 stars
+- ⭐ 37760 stars
 - 💻 Go
-- 📅 Updated: 2026-09-19
+- 📅 Updated: 2026-09-20
 
-![hister](2026/09-19/2026-09-19_daily-top_hister.png)
+![open-code-review](2026/09-20/2026-09-20_daily-top_open-code-review.png)
 
-### 6. [WeKnora](https://github.com/Tencent/WeKnora)
-
-> 🤖 **推荐理由**  
-> *WeKnora is an open-source LLM-powered knowledge platform designed for enterprise document understanding and semantic retrieval. Key features include RAG-based quick Q&A, an autonomous ReAct agent for multi-step reasoning, and a self-maintaining Wiki mode for turning raw documents into an interlinked markdown knowledge base. It supports multi-source ingestion, long-term memory, and extensive integrations with 20+ LLM providers and various document formats. WeKnora offers a modular architecture, enabling flexible deployments and comprehensive observability, making it a robust tool for knowledge management.*
-
-- ⭐ 27064 stars
-- 💻 Go
-- 📅 Updated: 2026-09-19
-
-![WeKnora](2026/09-19/2026-09-19_daily-top_WeKnora.png)
-
-### 7. [orca](https://github.com/stablyai/orca)
+### 4. [BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
 > 🤖 **推荐理由**  
-> *Orca is an advanced development environment (ADE) designed for managing a fleet of parallel coding agents across desktop, mobile, and remote platforms. Key features include parallel worktrees for running multiple agents simultaneously, a mobile companion app for monitoring tasks on-the-go, and integrated terminal splits. Users can drag files directly into prompts, utilize design mode for UI interactions, and manage GitHub tasks within the app. With support for various CLI agents, Orca streamlines workflows and enhances productivity for developers.*
+> *BrowserSkill is a powerful tool that allows AI agents to utilize your logged-in browser seamlessly without disrupting your workflow. This TypeScript-based project supports a variety of AI agents, including Cursor and Claude Code, through its CLI and browser extension. Key features include reuse of existing login states, uninterrupted user experience with tasks running in a separate Agent Window, and built-in human-in-the-loop capabilities for handling complex interactions like CAPTCHAs. Compatible with macOS, Linux, and Windows, it enhances automation while maintaining user control.*
 
-- ⭐ 72063 stars
+- ⭐ 5825 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-09-19
+- 📅 Updated: 2026-09-20
 
-![orca](2026/09-19/2026-09-19_daily-top_orca.png)
+![BrowserSkill](2026/09-20/2026-09-20_daily-top_BrowserSkill.png)
 
-### 8. [agent-skills](https://github.com/addyosmani/agent-skills)
+### 5. [json-render](https://github.com/vercel-labs/json-render)
 
 > 🤖 **推荐理由**  
-> *Agent Skills is a JavaScript project providing production-grade engineering skills for AI coding agents, boasting 96,478 stars. It encodes senior engineers' workflows, quality gates, and best practices into structured skills, allowing agents to execute tasks consistently across the development lifecycle. Key features include 25 skills covering defining, planning, building, verifying, reviewing, and shipping software, along with automated processes like `/build auto`. The project supports integration with various AI agents and emphasizes verification, clarity, and best practices to enhance software quality.*
+> *json-render is a powerful Generative UI framework that enables the creation of dynamic, personalized user interfaces from natural language prompts while ensuring reliability. Key features include guardrailed AI component usage, predictable JSON output, and cross-platform compatibility (React, Vue, Svelte, Solid, and React Native). With 36 pre-built components, it supports diverse applications such as web, mobile, video, PDF, and email. Its streaming capabilities allow for progressive rendering, making it a versatile tool for developers seeking to enhance UI efficiency and creativity.*
 
-- ⭐ 96478 stars
+- ⭐ 16884 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-09-20
+
+![json-render](2026/09-20/2026-09-20_daily-top_json-render.png)
+
+### 6. [agent-skills](https://github.com/addyosmani/agent-skills)
+
+> 🤖 **推荐理由**  
+> *Agent-skills is a cutting-edge JavaScript project designed to enhance AI coding agents with production-grade engineering skills. With over 97,000 stars, it stands out for its robust features that enable seamless integration of AI capabilities into coding workflows. Key highlights include advanced code generation, error handling, and optimization techniques, making it an invaluable resource for developers aiming to leverage AI in software development. This project provides essential tools and services that streamline coding processes, fostering innovation and efficiency in programming practices.*
+
+- ⭐ 97146 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-09-19
+- 📅 Updated: 2026-09-20
 
-![agent-skills](2026/09-19/2026-09-19_daily-top_agent-skills.png)
+![agent-skills](2026/09-20/2026-09-20_daily-top_agent-skills.png)
 
-### 9. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
-
-> 🤖 **推荐理由**  
-> *Ghidra is a powerful software reverse engineering (SRE) framework developed by the NSA, featuring a suite of advanced tools for analyzing compiled code across Windows, macOS, and Linux. Key capabilities include disassembly, decompilation, graphing, and extensive scripting support in Java and Python. Ghidra is customizable and extensible, allowing users to create their own extensions and scripts. It addresses complex SRE challenges, aiding in the analysis of malicious code and enhancing cybersecurity efforts. With over 78,000 stars on GitHub, Ghidra is a leading tool in the SRE community.*
-
-- ⭐ 78937 stars
-- 💻 Java
-- 📅 Updated: 2026-09-19
-
-![ghidra](2026/09-19/2026-09-19_daily-top_ghidra.png)
-
-### 10. [n8n](https://github.com/n8n-io/n8n)
+### 7. [claude-code](https://github.com/anthropics/claude-code)
 
 > 🤖 **推荐理由**  
-> *n8n is a fair-code workflow automation platform that empowers users to build and deploy AI agents and workflows with ease. It combines a visual interface with custom coding capabilities, supports self-hosting or cloud deployment, and offers over 1500 integrations. Key features include AI-native automation, model flexibility without vendor lock-in, enterprise-ready security, and extensive workflow templates. With n8n, users can operationalize complex AI workflows and leverage existing systems seamlessly, making it an ideal solution for both prototyping and production.*
+> *Claude Code is an innovative coding tool designed for terminal use, enhancing developer productivity by executing routine tasks, explaining complex code, and managing git workflows through natural language commands. With over 146,000 stars, it supports custom plugins for extended functionality. Claude Code offers seamless installation on various platforms and fosters community engagement through a dedicated Discord channel. Key features include error reporting via the `/bug` command and strict data privacy measures, ensuring user feedback is handled securely.*
 
-- ⭐ 205309 stars
+- ⭐ 146776 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-09-19
+- 📅 Updated: 2026-09-20
 
-![n8n](2026/09-19/2026-09-19_daily-top_n8n.png)
+![claude-code](2026/09-20/2026-09-20_daily-top_claude-code.png)
+
+### 8. [WeKnora](https://github.com/Tencent/WeKnora)
+
+> 🤖 **推荐理由**  
+> *WeKnora is an open-source LLM-powered knowledge platform designed for enterprise document understanding and autonomous reasoning. Key features include RAG-based quick Q&A, a ReAct agent for multi-step tasks, and a self-maintaining Wiki Mode that converts raw documents into interlinked markdown pages. It supports cross-session long-term memory, multi-source document ingestion, and over 20 LLM integrations, enabling seamless Q&A via IM channels. WeKnora is modular, self-hostable, and offers extensive observability, making it ideal for transforming scattered documents into a dynamic knowledge asset.*
+
+- ⭐ 27570 stars
+- 💻 Go
+- 📅 Updated: 2026-09-20
+
+![WeKnora](2026/09-20/2026-09-20_daily-top_WeKnora.png)
+
+### 9. [OpenStock](https://github.com/Open-Dev-Society/OpenStock)
+
+> 🤖 **推荐理由**  
+> *OpenStock is an open-source stock market tracking platform, providing a free alternative to costly market services. Key features include real-time price tracking, personalized alerts, and comprehensive company insights. Built with Next.js and TypeScript, it offers user authentication, a customizable watchlist, and detailed market data through Finnhub and TradingView integration. OpenStock supports 30+ international exchanges and emphasizes community-driven development. It's designed for accessibility, ensuring everyone can utilize its robust financial tools without barriers.*
+
+- ⭐ 16193 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-09-20
+
+![OpenStock](2026/09-20/2026-09-20_daily-top_OpenStock.png)
+
+### 10. [hister](https://github.com/asciimoo/hister)
+
+> 🤖 **推荐理由**  
+> *Hister is a private search engine that indexes the full content of web pages and local files, allowing users to search through their own data via a web interface, terminal, or AI assistant. Key features include privacy-focused operation with no telemetry, full-text indexing, automatic page indexing through browser extensions, and powerful querying capabilities. Hister supports semantic search, multi-user setups, and offers various installation methods like Docker and Homebrew. It prioritizes user control, enabling personalized search without reliance on third-party services.*
+
+- ⭐ 5291 stars
+- 💻 Go
+- 📅 Updated: 2026-09-20
+
+![hister](2026/09-20/2026-09-20_daily-top_hister.png)
 
 ---
 
@@ -141,4 +141,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-09-19 04:10:55 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-09-20 04:29:21 UTC

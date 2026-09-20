@@ -28,7 +28,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-20
 
-![security-audit-skill](2026/09-20/2026-09-20_daily-top_security-audit-skill.png)
+![security-audit-skill](2026-09-20_daily-top_security-audit-skill.png)
 
 ### 2. [ECC](https://github.com/affaan-m/ECC)
 
@@ -39,7 +39,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-20
 
-![ECC](2026/09-20/2026-09-20_daily-top_ECC.png)
+![ECC](2026-09-20_daily-top_ECC.png)
 
 ### 3. [open-code-review](https://github.com/alibaba/open-code-review)
 
@@ -50,7 +50,7 @@
 - 💻 Go
 - 📅 Updated: 2026-09-20
 
-![open-code-review](2026/09-20/2026-09-20_daily-top_open-code-review.png)
+![open-code-review](2026-09-20_daily-top_open-code-review.png)
 
 ### 4. [BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-20
 
-![BrowserSkill](2026/09-20/2026-09-20_daily-top_BrowserSkill.png)
+![BrowserSkill](2026-09-20_daily-top_BrowserSkill.png)
 
 ### 5. [json-render](https://github.com/vercel-labs/json-render)
 
@@ -72,7 +72,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-20
 
-![json-render](2026/09-20/2026-09-20_daily-top_json-render.png)
+![json-render](2026-09-20_daily-top_json-render.png)
 
 ### 6. [agent-skills](https://github.com/addyosmani/agent-skills)
 
@@ -83,7 +83,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-20
 
-![agent-skills](2026/09-20/2026-09-20_daily-top_agent-skills.png)
+![agent-skills](2026-09-20_daily-top_agent-skills.png)
 
 ### 7. [claude-code](https://github.com/anthropics/claude-code)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-20
 
-![claude-code](2026/09-20/2026-09-20_daily-top_claude-code.png)
+![claude-code](2026-09-20_daily-top_claude-code.png)
 
 ### 8. [WeKnora](https://github.com/Tencent/WeKnora)
 
@@ -105,7 +105,7 @@
 - 💻 Go
 - 📅 Updated: 2026-09-20
 
-![WeKnora](2026/09-20/2026-09-20_daily-top_WeKnora.png)
+![WeKnora](2026-09-20_daily-top_WeKnora.png)
 
 ### 9. [OpenStock](https://github.com/Open-Dev-Society/OpenStock)
 
@@ -116,7 +116,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-20
 
-![OpenStock](2026/09-20/2026-09-20_daily-top_OpenStock.png)
+![OpenStock](2026-09-20_daily-top_OpenStock.png)
 
 ### 10. [hister](https://github.com/asciimoo/hister)
 
@@ -127,7 +127,7 @@
 - 💻 Go
 - 📅 Updated: 2026-09-20
 
-![hister](2026/09-20/2026-09-20_daily-top_hister.png)
+![hister](2026-09-20_daily-top_hister.png)
 
 ---
 
