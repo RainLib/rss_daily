@@ -28,7 +28,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-21
 
-![security-audit-skill](2026/09-21/2026-09-21_daily-top_security-audit-skill.png)
+![security-audit-skill](2026-09-21_daily-top_security-audit-skill.png)
 
 ### 2. [ECC](https://github.com/affaan-m/ECC)
 
@@ -39,7 +39,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-21
 
-![ECC](2026/09-21/2026-09-21_daily-top_ECC.png)
+![ECC](2026-09-21_daily-top_ECC.png)
 
 ### 3. [OpenStock](https://github.com/Open-Dev-Society/OpenStock)
 
@@ -50,7 +50,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-21
 
-![OpenStock](2026/09-21/2026-09-21_daily-top_OpenStock.png)
+![OpenStock](2026-09-21_daily-top_OpenStock.png)
 
 ### 4. [agent-skills](https://github.com/addyosmani/agent-skills)
 
@@ -61,7 +61,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-21
 
-![agent-skills](2026/09-21/2026-09-21_daily-top_agent-skills.png)
+![agent-skills](2026-09-21_daily-top_agent-skills.png)
 
 ### 5. [claude-code](https://github.com/anthropics/claude-code)
 
@@ -72,7 +72,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-21
 
-![claude-code](2026/09-21/2026-09-21_daily-top_claude-code.png)
+![claude-code](2026-09-21_daily-top_claude-code.png)
 
 ### 6. [everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)
 
@@ -83,7 +83,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-21
 
-![everyone-can-use-english](2026/09-21/2026-09-21_daily-top_everyone-can-use-english.png)
+![everyone-can-use-english](2026-09-21_daily-top_everyone-can-use-english.png)
 
 ### 7. [coder](https://github.com/coder/coder)
 
@@ -94,7 +94,7 @@
 - 💻 Go
 - 📅 Updated: 2026-09-21
 
-![coder](2026/09-21/2026-09-21_daily-top_coder.png)
+![coder](2026-09-21_daily-top_coder.png)
 
 ### 8. [BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
@@ -105,7 +105,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-21
 
-![BrowserSkill](2026/09-21/2026-09-21_daily-top_BrowserSkill.png)
+![BrowserSkill](2026-09-21_daily-top_BrowserSkill.png)
 
 ### 9. [json-render](https://github.com/vercel-labs/json-render)
 
@@ -116,7 +116,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-21
 
-![json-render](2026/09-21/2026-09-21_daily-top_json-render.png)
+![json-render](2026-09-21_daily-top_json-render.png)
 
 ### 10. [hister](https://github.com/asciimoo/hister)
 
@@ -127,7 +127,7 @@
 - 💻 Go
 - 📅 Updated: 2026-09-21
 
-![hister](2026/09-21/2026-09-21_daily-top_hister.png)
+![hister](2026-09-21_daily-top_hister.png)
 
 ---
 
