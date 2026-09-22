@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-09-21
+# 📊 🌟 GitHub Trending Daily - 2026-09-22
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **627378** ⭐ | **85387** 🍴
+**10** Projects | **599123** ⭐ | **68051** 🍴
 
-**Top Languages:** `TypeScript` (5) · `JavaScript` (3) · `Go` (2)
+**Top Languages:** `TypeScript` (6) · `Go` (2) · `Rust` (1)
 
-**Updated:** 2026-09-21 04:27 UTC
+**Updated:** 2026-09-22 04:23 UTC
 
 **Categories:**
 
@@ -18,116 +18,115 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+### 1. [OpenStock](https://github.com/Open-Dev-Society/OpenStock)
 
 > 🤖 **Why Recommend**  
-> *A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings. popular project, actively maintained, recently updated*
+> *OpenStock is a free, open-source stock market platform that provides real-time price tracking, personalized alerts, and in-depth company insights. Built with Next.js and TypeScript, it features email/password authentication, a user-friendly watchlist, and robust market data integration via the Finnhub API and TradingView widgets. Users enjoy a polished UI with dark mode, global search functionality, and automated email updates. Designed for accessibility and community collaboration, OpenStock empowers users to engage with financial data without barriers.*
 
-- ⭐ 18213 stars
-- 🍴 1019 forks
-- 💻 JavaScript
-- 📅 Updated: 2026-09-21
-
-![security-audit-skill](2026/09-21/2026-09-21_daily-top_security-audit-skill.png)
-
-### 2. [ECC](https://github.com/affaan-m/ECC)
-
-> 🤖 **Why Recommend**  
-> *ECC is an advanced agent harness performance optimization system designed for developers. It enhances coding workflows through 68 specialized agents, 292 reusable skills, and 94 command shims, promoting practices like Test-Driven Development (TDD) and security reviews. Key features include memory persistence, automated hooks for code quality enforcement, and AgentShield for security scanning. ECC integrates seamlessly with various platforms, including Claude Code, Codex, and Cursor, and supports project-specific configurations, making it a versatile tool for efficient software development.*
-
-- ⭐ 263911 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-09-21
-
-![ECC](2026/09-21/2026-09-21_daily-top_ECC.png)
-
-### 3. [OpenStock](https://github.com/Open-Dev-Society/OpenStock)
-
-> 🤖 **Why Recommend**  
-> *OpenStock is an open-source stock market platform designed to provide a free alternative to expensive market services. Key features include real-time price tracking, personalized alerts, and in-depth company insights, all built on a robust tech stack with Next.js, TypeScript, and Tailwind CSS. Users can create watchlists, access trading charts via TradingView, and receive automated email updates. OpenStock supports over 30 international exchanges and emphasizes community contributions, ensuring it remains free and accessible for everyone.*
-
-- ⭐ 16965 stars
+- ⭐ 17926 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-09-21
+- 📅 Updated: 2026-09-22
 
-![OpenStock](2026/09-21/2026-09-21_daily-top_OpenStock.png)
+![OpenStock](2026/09-22/2026-09-22_daily-top_OpenStock.png)
+
+### 2. [json-render](https://github.com/vercel-labs/json-render)
+
+> 🤖 **Why Recommend**  
+> *json-render is a powerful Generative UI framework that enables the creation of dynamic, personalized interfaces using natural language prompts, while maintaining predictable output through defined components. It supports multiple platforms, including React, Vue, Svelte, SolidJS, and React Native, with 36 pre-built components for rapid development. Key features include AI-driven JSON specification generation, streaming responses, guardrails for safety, and state-driven dynamic properties. The framework also offers extensive integration options for video, PDF, and email rendering, making it versatile for various applications.*
+
+- ⭐ 17972 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-09-22
+
+![json-render](2026/09-22/2026-09-22_daily-top_json-render.png)
+
+### 3. [agent-native](https://github.com/BuilderIO/agent-native)
+
+> 🤖 **Why Recommend**  
+> *Agent-Native is an open-source TypeScript framework designed for creating agentic applications that integrate autonomous functionality with a user-friendly UI. Key features include shared actions for seamless interaction between agents and UIs, robust authentication, and support for automations and agent teams. It offers a PostgreSQL backend and includes various applications such as chat, design, and analytics. With over 6,000 stars on GitHub, it empowers developers to build versatile applications while retaining full control over their infrastructure. Explore more at agent-native.com.*
+
+- ⭐ 6038 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-09-22
+
+![agent-native](2026/09-22/2026-09-22_daily-top_agent-native.png)
 
 ### 4. [agent-skills](https://github.com/addyosmani/agent-skills)
 
 > 🤖 **Why Recommend**  
-> *Agent Skills is a production-grade toolkit for AI coding agents, offering structured workflows that emulate the best practices of senior engineers across the software development lifecycle. With 25 skills, it aids in defining, planning, building, verifying, reviewing, and shipping code. Key features include automated task generation, integration with 70+ agents, and specialized commands for each development phase. The project emphasizes quality, security, and performance, embedding crucial principles from Google's engineering culture to ensure robust, production-ready outputs.*
+> *Agent Skills is a production-grade framework designed to enhance AI coding agents with structured workflows, quality gates, and best practices utilized by senior engineers. It features 25 skills that cover the entire development lifecycle, from defining and planning to building, verifying, reviewing, and shipping software. Key commands streamline processes, ensuring consistency and quality in code development. The project supports integration with various AI agents, enabling seamless installation and usage of skills. With a focus on verifiable outcomes and engineering discipline, Agent Skills elevates coding standards and practices.*
 
-- ⭐ 97792 stars
+- ⭐ 98192 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-09-21
+- 📅 Updated: 2026-09-22
 
-![agent-skills](2026/09-21/2026-09-21_daily-top_agent-skills.png)
+![agent-skills](2026/09-22/2026-09-22_daily-top_agent-skills.png)
 
-### 5. [claude-code](https://github.com/anthropics/claude-code)
-
-> 🤖 **Why Recommend**  
-> *Claude Code is an intelligent coding tool that integrates into your terminal, streamlining your coding process with natural language commands. It accelerates routine tasks, clarifies complex code, and manages git workflows. With plugins for extended functionality, it supports various installation methods across platforms. Engage with the community through Discord and report issues directly within the tool. Claude Code emphasizes user privacy with strict data safeguards. Explore more in the official documentation at [claude.com](https://code.claude.com/docs/en/overview).*
-
-- ⭐ 147220 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-09-21
-
-![claude-code](2026/09-21/2026-09-21_daily-top_claude-code.png)
-
-### 6. [everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)
+### 5. [substrate](https://github.com/agent-substrate/substrate)
 
 > 🤖 **Why Recommend**  
-> *The "everyone-can-use-english" project is a TypeScript-based initiative aimed at making English language learning accessible to all. With over 38,000 stars, it offers engaging tools and resources that enhance language acquisition through interactive exercises and real-world applications. Key features include user-friendly interfaces, adaptive learning paths, and community-driven content to support learners at all levels. This project fosters inclusivity and empowers individuals to gain confidence in their English skills, making language learning a more enjoyable experience for everyone.*
+> *Agent Substrate is a secure agent execution runtime built in Go, designed to manage millions of sandboxes with enhanced density and performance compared to standard container runtimes. Key features include sub-500ms resume operations, zero-trust isolation, and support for various sandbox technologies like microVMs and gVisor. It leverages Kubernetes for lifecycle management and scheduling, enabling efficient actor multiplexing and state persistence. With a focus on autonomy, Substrate supports diverse applications, including AI agents, and provides robust infrastructure management for scalable deployments.*
 
-- ⭐ 38126 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-09-21
-
-![everyone-can-use-english](2026/09-21/2026-09-21_daily-top_everyone-can-use-english.png)
-
-### 7. [coder](https://github.com/coder/coder)
-
-> 🤖 **Why Recommend**  
-> *Coder is a self-hosted platform for cloud development environments and AI coding agents, boasting over 16,000 stars on GitHub. It enables developers to define workspaces using Terraform, securely connect through Wireguard®, and automatically shut down idle resources to optimize costs. Key features include rapid onboarding, AI agent integration for coding tasks without sharing credentials, and centralized model governance. Coder supports multiple infrastructure options like EC2, Kubernetes, and Docker, along with a variety of integrations, making it an efficient solution for modern development teams.*
-
-- ⭐ 16125 stars
+- ⭐ 2624 stars
 - 💻 Go
-- 📅 Updated: 2026-09-21
+- 📅 Updated: 2026-09-22
 
-![coder](2026/09-21/2026-09-21_daily-top_coder.png)
+![substrate](2026/09-22/2026-09-22_daily-top_substrate.png)
 
-### 8. [BrowserSkill](https://github.com/Tencent/BrowserSkill)
+### 6. [claude-code](https://github.com/anthropics/claude-code)
 
 > 🤖 **Why Recommend**  
-> *BrowserSkill is a powerful tool that enables AI agents to utilize your real, logged-in browser without disrupting your workflow. With a CLI and browser extension, it supports various agents like Cursor, Claude Code, and Codex. Key features include leveraging existing login states, running tasks in a separate Agent Window, and a built-in human-in-loop mechanism for handling CAPTCHAs and confirmations. Compatible with macOS, Linux, and Windows, it supports Chrome and Edge, with plans for Firefox. BrowserSkill offers seamless integration for automating tasks while you maintain control over your browsing experience.*
+> *Claude Code is a powerful coding tool designed for terminal use, enabling developers to enhance their productivity. It understands your codebase, executing routine tasks, explaining complex code, and managing git workflows through natural language commands. Key features include installation via various methods (e.g., curl, Homebrew, PowerShell), a plugin system for extended functionality, and a user-friendly feedback mechanism. Join the Claude Developers Discord for community support. With 147,499 stars, Claude Code is a valuable asset for any developer looking to streamline their coding process.*
 
-- ⭐ 6117 stars
+- ⭐ 147499 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-09-21
+- 📅 Updated: 2026-09-22
 
-![BrowserSkill](2026/09-21/2026-09-21_daily-top_BrowserSkill.png)
+![claude-code](2026/09-22/2026-09-22_daily-top_claude-code.png)
 
-### 9. [json-render](https://github.com/vercel-labs/json-render)
-
-> 🤖 **Why Recommend**  
-> *json-render is a powerful Generative UI framework that allows users to create dynamic, personalized user interfaces from natural language prompts while maintaining reliability. With predefined components and actions, it ensures predictable JSON output. Key features include cross-platform support (React, Vue, Svelte, Solid, React Native), fast progressive rendering, and a library of 36 pre-built UI components. It supports various rendering formats such as PDFs, emails, and 3D scenes, while also offering state management and AI prompt generation capabilities for enhanced interactivity and customization.*
-
-- ⭐ 17468 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-09-21
-
-![json-render](2026/09-21/2026-09-21_daily-top_json-render.png)
-
-### 10. [hister](https://github.com/asciimoo/hister)
+### 7. [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
 > 🤖 **Why Recommend**  
-> *Hister is a private search engine that indexes and searches the content of web pages and local files, prioritizing user privacy with no telemetry or mandatory cloud services. Key features include full text indexing, automatic browser page indexing via extensions, powerful query capabilities, and multi-user support. Hister can be accessed through a web interface, terminal, or AI assistant. Users can import browser history and bookmarks, or index local directories. It offers optional semantic search and can be run locally or on user-controlled infrastructure.*
+> *Clash Verge Rev is a modern GUI client built on Tauri, offering a tailored proxy experience across Windows, macOS, and Linux. With over 146,000 stars, it features a sleek interface, customizable themes, and advanced configuration management, including support for the Clash.Meta kernel. Key highlights include a visual node editor, system proxy integration, and WebDav backup/sync capabilities. The project prioritizes user privacy, storing configurations locally. It supports multiple languages and offers stable and alpha releases for different user needs.*
 
-- ⭐ 5441 stars
+- ⭐ 146233 stars
+- 💻 Rust
+- 📅 Updated: 2026-09-22
+
+![clash-verge-rev](2026/09-22/2026-09-22_daily-top_clash-verge-rev.png)
+
+### 8. [coder](https://github.com/coder/coder)
+
+> 🤖 **Why Recommend**  
+> *Coder is a self-hosted platform for secure cloud development environments and AI coding agents, designed for developers and their teams. Key features include defining workspaces with Terraform, automatic shutdown of idle resources to reduce costs, and rapid onboarding of developers. Coder allows the integration of various AI models without exposing sensitive credentials and provides centralized model governance. With support for Docker, Kubernetes, and VS Code, Coder enhances productivity while ensuring security and compliance in software development.*
+
+- ⭐ 16480 stars
 - 💻 Go
-- 📅 Updated: 2026-09-21
+- 📅 Updated: 2026-09-22
 
-![hister](2026/09-21/2026-09-21_daily-top_hister.png)
+![coder](2026/09-22/2026-09-22_daily-top_coder.png)
+
+### 9. [pi](https://github.com/earendil-works/pi)
+
+> 🤖 **Why Recommend**  
+> *Pi is an AI agent toolkit designed to streamline interaction with large language models (LLMs). It features a unified LLM API supporting multiple providers (e.g., OpenAI, Anthropic), an interactive coding agent CLI, and a robust agent runtime for tool management and state handling. Key components include the `pi-coding-agent`, `pi-ai`, and `pi-agent-core`, along with a terminal UI library. The project emphasizes extensibility, vendor-neutral telemetry, and secure containerization options, making it ideal for developers seeking to enhance coding workflows with AI capabilities.*
+
+- ⭐ 108217 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-09-22
+
+![pi](2026/09-22/2026-09-22_daily-top_pi.png)
+
+### 10. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+
+> 🤖 **Why Recommend**  
+> *Project NOMAD is an offline-first knowledge and education server designed to provide access to essential tools and resources without internet dependency. Key features include a local AI chat powered by Ollama, an offline Wikipedia via Kiwix, Khan Academy courses through Kolibri, and downloadable maps with ProtoMaps. It also offers data analysis tools via CyberChef, local note-taking with FlatNotes, and automatic updates. NOMAD is installable on Debian-based systems, making it a powerful solution for education and information accessibility anytime, anywhere.*
+
+- ⭐ 37942 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-09-22
+
+![project-nomad](2026/09-22/2026-09-22_daily-top_project-nomad.png)
 
 ---
 
@@ -141,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-09-21 04:27:12 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-09-22 04:23:05 UTC

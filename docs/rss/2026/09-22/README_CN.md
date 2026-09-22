@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-22
 
-![OpenStock](2026/09-22/2026-09-22_daily-top_OpenStock.png)
+![OpenStock](2026-09-22_daily-top_OpenStock.png)
 
 ### 2. [json-render](https://github.com/vercel-labs/json-render)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-22
 
-![json-render](2026/09-22/2026-09-22_daily-top_json-render.png)
+![json-render](2026-09-22_daily-top_json-render.png)
 
 ### 3. [agent-native](https://github.com/BuilderIO/agent-native)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-22
 
-![agent-native](2026/09-22/2026-09-22_daily-top_agent-native.png)
+![agent-native](2026-09-22_daily-top_agent-native.png)
 
 ### 4. [agent-skills](https://github.com/addyosmani/agent-skills)
 
@@ -60,7 +60,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-22
 
-![agent-skills](2026/09-22/2026-09-22_daily-top_agent-skills.png)
+![agent-skills](2026-09-22_daily-top_agent-skills.png)
 
 ### 5. [substrate](https://github.com/agent-substrate/substrate)
 
@@ -71,7 +71,7 @@
 - 💻 Go
 - 📅 Updated: 2026-09-22
 
-![substrate](2026/09-22/2026-09-22_daily-top_substrate.png)
+![substrate](2026-09-22_daily-top_substrate.png)
 
 ### 6. [claude-code](https://github.com/anthropics/claude-code)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-22
 
-![claude-code](2026/09-22/2026-09-22_daily-top_claude-code.png)
+![claude-code](2026-09-22_daily-top_claude-code.png)
 
 ### 7. [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-09-22
 
-![clash-verge-rev](2026/09-22/2026-09-22_daily-top_clash-verge-rev.png)
+![clash-verge-rev](2026-09-22_daily-top_clash-verge-rev.png)
 
 ### 8. [coder](https://github.com/coder/coder)
 
@@ -104,7 +104,7 @@
 - 💻 Go
 - 📅 Updated: 2026-09-22
 
-![coder](2026/09-22/2026-09-22_daily-top_coder.png)
+![coder](2026-09-22_daily-top_coder.png)
 
 ### 9. [pi](https://github.com/earendil-works/pi)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-22
 
-![pi](2026/09-22/2026-09-22_daily-top_pi.png)
+![pi](2026-09-22_daily-top_pi.png)
 
 ### 10. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-22
 
-![project-nomad](2026/09-22/2026-09-22_daily-top_project-nomad.png)
+![project-nomad](2026-09-22_daily-top_project-nomad.png)
 
 ---
 
