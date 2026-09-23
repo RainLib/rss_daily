@@ -27,7 +27,7 @@
 - 💻 Go
 - 📅 Updated: 2026-09-23
 
-![ax](2026/09-23/2026-09-23_daily-top_ax.png)
+![ax](2026-09-23_daily-top_ax.png)
 
 ### 2. [orca](https://github.com/stablyai/orca)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-23
 
-![orca](2026/09-23/2026-09-23_daily-top_orca.png)
+![orca](2026-09-23_daily-top_orca.png)
 
 ### 3. [OpenStock](https://github.com/Open-Dev-Society/OpenStock)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-23
 
-![OpenStock](2026/09-23/2026-09-23_daily-top_OpenStock.png)
+![OpenStock](2026-09-23_daily-top_OpenStock.png)
 
 ### 4. [nasiko](https://github.com/Nasiko-Labs/nasiko)
 
@@ -60,7 +60,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-09-23
 
-![nasiko](2026/09-23/2026-09-23_daily-top_nasiko.png)
+![nasiko](2026-09-23_daily-top_nasiko.png)
 
 ### 5. [hydradb](https://github.com/hydra-db/hydradb)
 
@@ -71,7 +71,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-09-23
 
-![hydradb](2026/09-23/2026-09-23_daily-top_hydradb.png)
+![hydradb](2026-09-23_daily-top_hydradb.png)
 
 ### 6. [ECC](https://github.com/affaan-m/ECC)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-23
 
-![ECC](2026/09-23/2026-09-23_daily-top_ECC.png)
+![ECC](2026-09-23_daily-top_ECC.png)
 
 ### 7. [agent-native](https://github.com/BuilderIO/agent-native)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-23
 
-![agent-native](2026/09-23/2026-09-23_daily-top_agent-native.png)
+![agent-native](2026-09-23_daily-top_agent-native.png)
 
 ### 8. [ai-memory](https://github.com/akitaonrails/ai-memory)
 
@@ -104,7 +104,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-09-23
 
-![ai-memory](2026/09-23/2026-09-23_daily-top_ai-memory.png)
+![ai-memory](2026-09-23_daily-top_ai-memory.png)
 
 ### 9. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-23
 
-![project-nomad](2026/09-23/2026-09-23_daily-top_project-nomad.png)
+![project-nomad](2026-09-23_daily-top_project-nomad.png)
 
 ### 10. [awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free)
 
@@ -126,7 +126,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-23
 
-![awesome-zhuiju-free](2026/09-23/2026-09-23_daily-top_awesome-zhuiju-free.png)
+![awesome-zhuiju-free](2026-09-23_daily-top_awesome-zhuiju-free.png)
 
 ---
 

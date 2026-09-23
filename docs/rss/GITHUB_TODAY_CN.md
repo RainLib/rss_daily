@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-09-22
+# 📊 🌟 GitHub Trending Daily - 2026-09-23
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **599123** ⭐ | **68051** 🍴
+**10** 个项目 | **441973** ⭐ | **55688** 🍴
 
-**热门语言:** `TypeScript` (6) · `Go` (2) · `Rust` (1)
+**热门语言:** `TypeScript` (4) · `Rust` (3) · `JavaScript` (2)
 
-**更新时间:** 2026-09-22 04:23 UTC
+**更新时间:** 2026-09-23 04:21 UTC
 
 **分类分布:**
 
@@ -18,115 +18,115 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [OpenStock](https://github.com/Open-Dev-Society/OpenStock)
+### 1. [ax](https://github.com/google/ax)
 
 > 🤖 **推荐理由**  
-> *OpenStock is a free, open-source stock market platform that provides real-time price tracking, personalized alerts, and in-depth company insights. Built with Next.js and TypeScript, it features email/password authentication, a user-friendly watchlist, and robust market data integration via the Finnhub API and TradingView widgets. Users enjoy a polished UI with dark mode, global search functionality, and automated email updates. Designed for accessibility and community collaboration, OpenStock empowers users to engage with financial data without barriers.*
+> *AX is Google's open orchestration runtime designed for high-throughput management of autonomous agent workloads in a cluster. Key features include the ability to declare agentic tasks with specifications for workspaces, gateways, and models, enabling sandboxed execution and isolation. It supports running billions of tasks per cluster, akin to Kubernetes, with commands for applying manifests, monitoring tasks, and interactive debugging. AX facilitates resource management, traffic control, and state persistence, making it ideal for complex agent-based applications.*
 
-- ⭐ 17926 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-09-22
-
-![OpenStock](2026/09-22/2026-09-22_daily-top_OpenStock.png)
-
-### 2. [json-render](https://github.com/vercel-labs/json-render)
-
-> 🤖 **推荐理由**  
-> *json-render is a powerful Generative UI framework that enables the creation of dynamic, personalized interfaces using natural language prompts, while maintaining predictable output through defined components. It supports multiple platforms, including React, Vue, Svelte, SolidJS, and React Native, with 36 pre-built components for rapid development. Key features include AI-driven JSON specification generation, streaming responses, guardrails for safety, and state-driven dynamic properties. The framework also offers extensive integration options for video, PDF, and email rendering, making it versatile for various applications.*
-
-- ⭐ 17972 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-09-22
-
-![json-render](2026/09-22/2026-09-22_daily-top_json-render.png)
-
-### 3. [agent-native](https://github.com/BuilderIO/agent-native)
-
-> 🤖 **推荐理由**  
-> *Agent-Native is an open-source TypeScript framework designed for creating agentic applications that integrate autonomous functionality with a user-friendly UI. Key features include shared actions for seamless interaction between agents and UIs, robust authentication, and support for automations and agent teams. It offers a PostgreSQL backend and includes various applications such as chat, design, and analytics. With over 6,000 stars on GitHub, it empowers developers to build versatile applications while retaining full control over their infrastructure. Explore more at agent-native.com.*
-
-- ⭐ 6038 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-09-22
-
-![agent-native](2026/09-22/2026-09-22_daily-top_agent-native.png)
-
-### 4. [agent-skills](https://github.com/addyosmani/agent-skills)
-
-> 🤖 **推荐理由**  
-> *Agent Skills is a production-grade framework designed to enhance AI coding agents with structured workflows, quality gates, and best practices utilized by senior engineers. It features 25 skills that cover the entire development lifecycle, from defining and planning to building, verifying, reviewing, and shipping software. Key commands streamline processes, ensuring consistency and quality in code development. The project supports integration with various AI agents, enabling seamless installation and usage of skills. With a focus on verifiable outcomes and engineering discipline, Agent Skills elevates coding standards and practices.*
-
-- ⭐ 98192 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-09-22
-
-![agent-skills](2026/09-22/2026-09-22_daily-top_agent-skills.png)
-
-### 5. [substrate](https://github.com/agent-substrate/substrate)
-
-> 🤖 **推荐理由**  
-> *Agent Substrate is a secure agent execution runtime built in Go, designed to manage millions of sandboxes with enhanced density and performance compared to standard container runtimes. Key features include sub-500ms resume operations, zero-trust isolation, and support for various sandbox technologies like microVMs and gVisor. It leverages Kubernetes for lifecycle management and scheduling, enabling efficient actor multiplexing and state persistence. With a focus on autonomy, Substrate supports diverse applications, including AI agents, and provides robust infrastructure management for scalable deployments.*
-
-- ⭐ 2624 stars
+- ⭐ 7863 stars
 - 💻 Go
-- 📅 Updated: 2026-09-22
+- 📅 Updated: 2026-09-23
 
-![substrate](2026/09-22/2026-09-22_daily-top_substrate.png)
+![ax](2026/09-23/2026-09-23_daily-top_ax.png)
 
-### 6. [claude-code](https://github.com/anthropics/claude-code)
+### 2. [orca](https://github.com/stablyai/orca)
 
 > 🤖 **推荐理由**  
-> *Claude Code is a powerful coding tool designed for terminal use, enabling developers to enhance their productivity. It understands your codebase, executing routine tasks, explaining complex code, and managing git workflows through natural language commands. Key features include installation via various methods (e.g., curl, Homebrew, PowerShell), a plugin system for extended functionality, and a user-friendly feedback mechanism. Join the Claude Developers Discord for community support. With 147,499 stars, Claude Code is a valuable asset for any developer looking to streamline their coding process.*
+> *Orca is a powerful AI development environment designed for managing parallel agents across desktop, mobile, and remote runtimes. With over 75,000 stars on GitHub, its core features include parallel worktrees for running multiple agents simultaneously, a mobile companion app for on-the-go management, and advanced terminal capabilities with infinite splits. Additional highlights include native integration with GitHub and Linear, SSH worktrees for remote operations, and a robust CLI for scripting workflows. Orca is versatile, supporting any CLI agent, making it ideal for efficient AI-driven development.*
 
-- ⭐ 147499 stars
+- ⭐ 75809 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-09-22
+- 📅 Updated: 2026-09-23
 
-![claude-code](2026/09-22/2026-09-22_daily-top_claude-code.png)
+![orca](2026/09-23/2026-09-23_daily-top_orca.png)
 
-### 7. [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+### 3. [OpenStock](https://github.com/Open-Dev-Society/OpenStock)
 
 > 🤖 **推荐理由**  
-> *Clash Verge Rev is a modern GUI client built on Tauri, offering a tailored proxy experience across Windows, macOS, and Linux. With over 146,000 stars, it features a sleek interface, customizable themes, and advanced configuration management, including support for the Clash.Meta kernel. Key highlights include a visual node editor, system proxy integration, and WebDav backup/sync capabilities. The project prioritizes user privacy, storing configurations locally. It supports multiple languages and offers stable and alpha releases for different user needs.*
+> *OpenStock is a free, open-source stock market platform designed to provide users with real-time price tracking, personalized alerts, and detailed company insights. Built with Next.js and TypeScript, it features email/password authentication, a user-specific watchlist, and TradingView widgets for advanced charting. The platform integrates with Finnhub for market data and supports over 30 international exchanges. OpenStock emphasizes accessibility and community contribution, ensuring that financial tools remain open and free for all.*
 
-- ⭐ 146233 stars
+- ⭐ 18431 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-09-23
+
+![OpenStock](2026/09-23/2026-09-23_daily-top_OpenStock.png)
+
+### 4. [nasiko](https://github.com/Nasiko-Labs/nasiko)
+
+> 🤖 **推荐理由**  
+> *Nasiko is a developer control plane for AI agents, enabling easy deployment, routing, and observability of A2A-speaking agents through a single command. Key features include intelligent routing, a single ingress point for secure agent-to-agent communication, embedded OCI registry, and full observability with auto-collected token usage and costs. It supports various programming languages and ensures no public exposure for agents. With a robust CLI and dashboard, Nasiko simplifies the management of AI operations while enhancing security and efficiency.*
+
+- ⭐ 7634 stars
 - 💻 Rust
-- 📅 Updated: 2026-09-22
+- 📅 Updated: 2026-09-23
 
-![clash-verge-rev](2026/09-22/2026-09-22_daily-top_clash-verge-rev.png)
+![nasiko](2026/09-23/2026-09-23_daily-top_nasiko.png)
 
-### 8. [coder](https://github.com/coder/coder)
-
-> 🤖 **推荐理由**  
-> *Coder is a self-hosted platform for secure cloud development environments and AI coding agents, designed for developers and their teams. Key features include defining workspaces with Terraform, automatic shutdown of idle resources to reduce costs, and rapid onboarding of developers. Coder allows the integration of various AI models without exposing sensitive credentials and provides centralized model governance. With support for Docker, Kubernetes, and VS Code, Coder enhances productivity while ensuring security and compliance in software development.*
-
-- ⭐ 16480 stars
-- 💻 Go
-- 📅 Updated: 2026-09-22
-
-![coder](2026/09-22/2026-09-22_daily-top_coder.png)
-
-### 9. [pi](https://github.com/earendil-works/pi)
+### 5. [hydradb](https://github.com/hydra-db/hydradb)
 
 > 🤖 **推荐理由**  
-> *Pi is an AI agent toolkit designed to streamline interaction with large language models (LLMs). It features a unified LLM API supporting multiple providers (e.g., OpenAI, Anthropic), an interactive coding agent CLI, and a robust agent runtime for tool management and state handling. Key components include the `pi-coding-agent`, `pi-ai`, and `pi-agent-core`, along with a terminal UI library. The project emphasizes extensibility, vendor-neutral telemetry, and secure containerization options, making it ideal for developers seeking to enhance coding workflows with AI capabilities.*
+> *HydraDB is a fast, object-store-native distributed graph database built in Rust, designed for high performance and scalability. Key features include durable graph storage on S3-compatible object storage, snapshot-consistent OpenCypher queries, and Neo4j-compatible Bolt connectivity. Its architecture separates storage and compute, enabling independent scaling of data nodes and indexers. HydraDB supports robust querying with a practical OpenCypher subset, advanced path procedures, and offers observability through metrics and tracing. Ideal for modern applications requiring efficient graph data management.*
 
-- ⭐ 108217 stars
+- ⭐ 4209 stars
+- 💻 Rust
+- 📅 Updated: 2026-09-23
+
+![hydradb](2026/09-23/2026-09-23_daily-top_hydradb.png)
+
+### 6. [ECC](https://github.com/affaan-m/ECC)
+
+> 🤖 **推荐理由**  
+> *ECC is an advanced agent harness performance optimization system designed for coding environments like Claude Code, Codex, and others. It offers 68 specialized agents, 292 reusable skills, and 94 command shims, enabling workflows such as test-driven development, code reviews, and security audits. Key features include memory persistence, continuous learning, and AgentShield for security scanning. ECC supports integration with various platforms, ensuring a seamless coding experience while maintaining project standards and enhancing productivity.*
+
+- ⭐ 265547 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-09-23
+
+![ECC](2026/09-23/2026-09-23_daily-top_ECC.png)
+
+### 7. [agent-native](https://github.com/BuilderIO/agent-native)
+
+> 🤖 **推荐理由**  
+> *Agent-Native is an open-source TypeScript framework designed for building agentic applications with a seamless user interface. It allows developers to define capabilities as shared actions, enabling both agents and UIs to interact with the same tools and data. Key features include agent chat for delegating tasks, authentication and permissions management, skills and memory for agents, automation capabilities, and PostgreSQL integration. The framework supports various app types, from analytics to content management, promoting collaborative and efficient workflows.*
+
+- ⭐ 6330 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-09-22
+- 📅 Updated: 2026-09-23
 
-![pi](2026/09-22/2026-09-22_daily-top_pi.png)
+![agent-native](2026/09-23/2026-09-23_daily-top_agent-native.png)
 
-### 10. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+### 8. [ai-memory](https://github.com/akitaonrails/ai-memory)
 
 > 🤖 **推荐理由**  
-> *Project NOMAD is an offline-first knowledge and education server designed to provide access to essential tools and resources without internet dependency. Key features include a local AI chat powered by Ollama, an offline Wikipedia via Kiwix, Khan Academy courses through Kolibri, and downloadable maps with ProtoMaps. It also offers data analysis tools via CyberChef, local note-taking with FlatNotes, and automatic updates. NOMAD is installable on Debian-based systems, making it a powerful solution for education and information accessibility anytime, anywhere.*
+> *ai-memory is a Rust-based solution for long-term memory management across various AI coding agents, enabling seamless handoffs between tools like Claude Code and OpenAI Codex. With over 8,000 stars, it centralizes knowledge in a git-backed markdown wiki, allowing users to capture, search, and recall project histories without LLM calls. Key features include cross-agent and cross-machine continuity, team collaboration with multi-user support, and automatic lifecycle capture. Its architecture is designed for transparency and ease of use, ensuring efficient memory management for developers.*
 
-- ⭐ 37942 stars
+- ⭐ 8123 stars
+- 💻 Rust
+- 📅 Updated: 2026-09-23
+
+![ai-memory](2026/09-23/2026-09-23_daily-top_ai-memory.png)
+
+### 9. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+
+> 🤖 **推荐理由**  
+> *Project NOMAD is an offline-first knowledge and education server designed for accessibility and privacy. It hosts a wealth of resources, including offline Wikipedia, eBooks, AI chat capabilities, and educational courses from Khan Academy. Key features include a management UI for easy installation via Docker, automatic updates, and a local note-taking system. Users can access offline maps, data analysis tools, and a community leaderboard for benchmarking hardware. NOMAD is ideal for users seeking a self-contained, internet-independent learning environment.*
+
+- ⭐ 38149 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-09-22
+- 📅 Updated: 2026-09-23
 
-![project-nomad](2026/09-22/2026-09-22_daily-top_project-nomad.png)
+![project-nomad](2026/09-23/2026-09-23_daily-top_project-nomad.png)
+
+### 10. [awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free)
+
+> 🤖 **推荐理由**  
+> *Awesome Zhuiju Free is an open-source ad-free resource guide for streaming media, featuring manually curated links with daily validity checks. It includes a variety of services such as online films, streaming apps, cloud resource searches, BT magnet links, subtitles, TVBox configurations, and IPTV live sources. The project boasts over 11,000 starred contributions and emphasizes community maintenance, making it a reliable choice for viewers seeking safe and effective streaming options without intrusive ads.*
+
+- ⭐ 9878 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-09-23
+
+![awesome-zhuiju-free](2026/09-23/2026-09-23_daily-top_awesome-zhuiju-free.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-09-22 04:23:05 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-09-23 04:21:04 UTC
