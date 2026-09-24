@@ -27,7 +27,7 @@
 - 💻 Go
 - 📅 Updated: 2026-09-24
 
-![ax](2026/09-24/2026-09-24_daily-top_ax.png)
+![ax](2026-09-24_daily-top_ax.png)
 
 ### 2. [univer](https://github.com/dream-num/univer)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-24
 
-![univer](2026/09-24/2026-09-24_daily-top_univer.png)
+![univer](2026-09-24_daily-top_univer.png)
 
 ### 3. [flexprice](https://github.com/flexprice/flexprice)
 
@@ -49,7 +49,7 @@
 - 💻 Go
 - 📅 Updated: 2026-09-24
 
-![flexprice](2026/09-24/2026-09-24_daily-top_flexprice.png)
+![flexprice](2026-09-24_daily-top_flexprice.png)
 
 ### 4. [substrate](https://github.com/agent-substrate/substrate)
 
@@ -60,7 +60,7 @@
 - 💻 Go
 - 📅 Updated: 2026-09-24
 
-![substrate](2026/09-24/2026-09-24_daily-top_substrate.png)
+![substrate](2026-09-24_daily-top_substrate.png)
 
 ### 5. [awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free)
 
@@ -71,7 +71,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-24
 
-![awesome-zhuiju-free](2026/09-24/2026-09-24_daily-top_awesome-zhuiju-free.png)
+![awesome-zhuiju-free](2026-09-24_daily-top_awesome-zhuiju-free.png)
 
 ### 6. [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
@@ -82,7 +82,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-09-24
 
-![clash-verge-rev](2026/09-24/2026-09-24_daily-top_clash-verge-rev.png)
+![clash-verge-rev](2026-09-24_daily-top_clash-verge-rev.png)
 
 ### 7. [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
 
@@ -93,7 +93,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-09-24
 
-![vorssaint-utils](2026/09-24/2026-09-24_daily-top_vorssaint-utils.png)
+![vorssaint-utils](2026-09-24_daily-top_vorssaint-utils.png)
 
 ### 8. [oh-my-pi](https://github.com/can1357/oh-my-pi)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-24
 
-![oh-my-pi](2026/09-24/2026-09-24_daily-top_oh-my-pi.png)
+![oh-my-pi](2026-09-24_daily-top_oh-my-pi.png)
 
 ### 9. [OpenStock](https://github.com/Open-Dev-Society/OpenStock)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-24
 
-![OpenStock](2026/09-24/2026-09-24_daily-top_OpenStock.png)
+![OpenStock](2026-09-24_daily-top_OpenStock.png)
 
 ### 10. [hydradb](https://github.com/hydra-db/hydradb)
 
@@ -126,7 +126,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-09-24
 
-![hydradb](2026/09-24/2026-09-24_daily-top_hydradb.png)
+![hydradb](2026-09-24_daily-top_hydradb.png)
 
 ---
 
