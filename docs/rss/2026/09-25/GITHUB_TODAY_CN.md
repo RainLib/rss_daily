@@ -27,7 +27,7 @@
 - 💻 Go
 - 📅 Updated: 2026-09-25
 
-![ax](2026/09-25/2026-09-25_daily-top_ax.png)
+![ax](2026-09-25_daily-top_ax.png)
 
 ### 2. [hydradb](https://github.com/hydra-db/hydradb)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-09-25
 
-![hydradb](2026/09-25/2026-09-25_daily-top_hydradb.png)
+![hydradb](2026-09-25_daily-top_hydradb.png)
 
 ### 3. [nasiko](https://github.com/Nasiko-Labs/nasiko)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-09-25
 
-![nasiko](2026/09-25/2026-09-25_daily-top_nasiko.png)
+![nasiko](2026-09-25_daily-top_nasiko.png)
 
 ### 4. [univer](https://github.com/dream-num/univer)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-25
 
-![univer](2026/09-25/2026-09-25_daily-top_univer.png)
+![univer](2026-09-25_daily-top_univer.png)
 
 ### 5. [orca](https://github.com/stablyai/orca)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-25
 
-![orca](2026/09-25/2026-09-25_daily-top_orca.png)
+![orca](2026-09-25_daily-top_orca.png)
 
 ### 6. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -82,7 +82,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-09-25
 
-![cc-switch](2026/09-25/2026-09-25_daily-top_cc-switch.png)
+![cc-switch](2026-09-25_daily-top_cc-switch.png)
 
 ### 7. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -93,7 +93,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-25
 
-![impeccable](2026/09-25/2026-09-25_daily-top_impeccable.png)
+![impeccable](2026-09-25_daily-top_impeccable.png)
 
 ### 8. [open-seo](https://github.com/every-app/open-seo)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-25
 
-![open-seo](2026/09-25/2026-09-25_daily-top_open-seo.png)
+![open-seo](2026-09-25_daily-top_open-seo.png)
 
 ### 9. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 
@@ -116,7 +116,7 @@
 - 💻 C
 - 📅 Updated: 2026-09-25
 
-![codebase-memory-mcp](2026/09-25/2026-09-25_daily-top_codebase-memory-mcp.png)
+![codebase-memory-mcp](2026-09-25_daily-top_codebase-memory-mcp.png)
 
 ### 10. [substrate](https://github.com/agent-substrate/substrate)
 
@@ -127,7 +127,7 @@
 - 💻 Go
 - 📅 Updated: 2026-09-25
 
-![substrate](2026/09-25/2026-09-25_daily-top_substrate.png)
+![substrate](2026-09-25_daily-top_substrate.png)
 
 ---
 

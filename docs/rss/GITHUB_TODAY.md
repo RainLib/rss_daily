@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-09-24
+# 📊 🌟 GitHub Trending Daily - 2026-09-25
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **271664** ⭐ | **22904** 🍴
+**10** Projects | **397973** ⭐ | **31580** 🍴
 
-**Top Languages:** `Go` (3) · `TypeScript` (3) · `Rust` (2)
+**Top Languages:** `Rust` (3) · `TypeScript` (3) · `Go` (2)
 
-**Updated:** 2026-09-24 04:16 UTC
+**Updated:** 2026-09-25 04:29 UTC
 
 **Categories:**
 
@@ -21,112 +21,113 @@
 ### 1. [ax](https://github.com/google/ax)
 
 > 🤖 **Why Recommend**  
-> *AX is Google's high-throughput orchestration runtime designed for managing billions of autonomous agent workloads in a Kubernetes cluster. It provides a declarative approach to define agent tasks using YAML manifests, enabling isolation, resource management, and sandboxed execution. Core features include `Task` for running untrusted code, `Workspace` for pre-configured environments, `Gateway` for controlling network access, and `Model` for managing AI model credentials. AX simplifies task management with commands for applying, monitoring, and debugging tasks, all while supporting seamless integration with Kubernetes contexts.*
+> *AX is Google's open-source orchestration runtime designed to execute billions of autonomous agent workloads efficiently in a Kubernetes cluster. Built on Agent Substrate, it offers a high-throughput, declarative approach to managing tasks with features like isolated sandboxes, pre-wired workspaces, and model configuration. Key functionalities include task suspension and resumption, live monitoring with `ax watch`, and interactive debugging via `ax ssh`. The CLI mimics `kubectl`, making it familiar for users. With over 10,600 stars, AX is still evolving, promising major updates ahead.*
 
-- ⭐ 9282 stars
+- ⭐ 10635 stars
 - 💻 Go
-- 📅 Updated: 2026-09-24
+- 📅 Updated: 2026-09-25
 
-![ax](2026/09-24/2026-09-24_daily-top_ax.png)
+![ax](2026/09-25/2026-09-25_daily-top_ax.png)
 
-### 2. [univer](https://github.com/dream-num/univer)
+### 2. [hydradb](https://github.com/hydra-db/hydradb)
 
 > 🤖 **Why Recommend**  
-> *Univer is an open-source SDK designed for creating office applications, seamlessly integrating spreadsheets, documents, and presentations within your product. With over 16,000 stars on GitHub, it offers a customizable, high-performance framework featuring a plugin architecture, canvas-based rendering, and a unified Facade API for both browser and Node.js environments. Key capabilities include collaborative editing, server-side processing, and extensible UI components. Ideal for embedding productivity tools in SaaS applications, Univer supports AI agents and enhances workflows through programmatic editing and real-time collaboration.*
+> *HydraDB is a high-performance, distributed graph database built on object storage, leveraging Rust for efficiency. Key features include durable S3-compatible storage, independent scaling of data nodes and indexers, and support for OpenCypher queries. It offers seamless Neo4j compatibility via Bolt connectivity and an HTTPS API. HydraDB ensures consistent reads with snapshot isolation and supports advanced graph-native execution using GraphBLAS. The architecture promotes modularity, allowing for efficient resource management and scalability. It also provides observability tools and Kubernetes integration for deployment.*
 
-- ⭐ 16461 stars
+- ⭐ 5978 stars
+- 💻 Rust
+- 📅 Updated: 2026-09-25
+
+![hydradb](2026/09-25/2026-09-25_daily-top_hydradb.png)
+
+### 3. [nasiko](https://github.com/Nasiko-Labs/nasiko)
+
+> 🤖 **Why Recommend**  
+> *Nasiko is a Rust-based developer control plane for AI agents, enabling seamless deployment, routing, and management of A2A-speaking agents with a single command. Key features include an intelligent routing engine, full observability with OTel integration, flow guards to prevent runaway loops, and an embedded OCI registry for easy deployments. Agents are securely proxied, ensuring they are never publicly accessible. The platform supports multiple programming languages, allowing for a flexible agent ecosystem, while CLI-first commands streamline agent management and deployment.*
+
+- ⭐ 8882 stars
+- 💻 Rust
+- 📅 Updated: 2026-09-25
+
+![nasiko](2026/09-25/2026-09-25_daily-top_nasiko.png)
+
+### 4. [univer](https://github.com/dream-num/univer)
+
+> 🤖 **Why Recommend**  
+> *Univer is an open-source Office SDK designed for creating embeddable productivity applications, integrating spreadsheets, documents, presentations, and more in one runtime. Key features include a customizable plugin architecture, a robust formula engine, and a unified Facade API for seamless functionality in both browser and Node.js environments. It supports headless operations for AI integration, allowing agents to interact with Office content programmatically. With extensive documentation and community support, Univer empowers developers to build collaborative and AI-enhanced tools efficiently.*
+
+- ⭐ 17904 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-09-24
+- 📅 Updated: 2026-09-25
 
-![univer](2026/09-24/2026-09-24_daily-top_univer.png)
+![univer](2026/09-25/2026-09-25_daily-top_univer.png)
 
-### 3. [flexprice](https://github.com/flexprice/flexprice)
-
-> 🤖 **Why Recommend**  
-> *Flexprice is an open-source billing solution designed for AI-native and SaaS companies, enabling flexible usage-based, credit-based, and hybrid pricing models. Key features include real-time usage metering, automated invoicing, credit management, and feature access control. Its API-first design allows easy integration with existing tools, ensuring developers can focus on product features rather than billing complexities. Flexprice supports seamless data flow with payment processors and CRMs, providing transparency and flexibility without vendor lock-in. With 6,932 stars on GitHub, it offers a robust foundation for scalable monetization.*
-
-- ⭐ 6932 stars
-- 💻 Go
-- 📅 Updated: 2026-09-24
-
-![flexprice](2026/09-24/2026-09-24_daily-top_flexprice.png)
-
-### 4. [substrate](https://github.com/agent-substrate/substrate)
+### 5. [orca](https://github.com/stablyai/orca)
 
 > 🤖 **Why Recommend**  
-> *Agent Substrate is a secure agent execution runtime designed for high-density sandbox management, capable of running millions of agents with sub-500ms resume times and over 500 activations per second. It supports multiple sandbox technologies like microVMs and gVisor, optimizing Kubernetes for agent lifecycle management. Key features include high-performance actor teleportation, state persistence, and agent multiplexing. The system is framework agnostic, supporting various agent types, and offers robust infrastructure provisioning. Currently in early development, it is not yet production-ready.*
+> *Orca is an advanced development environment designed for managing a fleet of coding agents, enabling parallel execution with your own subscriptions. Key features include mobile companion apps for iOS and Android for remote monitoring, parallel worktrees for multi-agent collaboration, and Ghostty-class terminals for enhanced productivity. It supports seamless integration with GitHub and Linear, along with SSH worktrees for remote operations. With a focus on real-time interactions, notifications, and rich file handling, Orca streamlines workflows for developers on macOS, Windows, and Linux.*
 
-- ⭐ 3556 stars
-- 💻 Go
-- 📅 Updated: 2026-09-24
+- ⭐ 77651 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-09-25
 
-![substrate](2026/09-24/2026-09-24_daily-top_substrate.png)
+![orca](2026/09-25/2026-09-25_daily-top_orca.png)
 
-### 5. [awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free)
+### 6. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **Why Recommend**  
-> *Awesome Zhuiju Free is an open-source platform providing a curated, ad-free guide to streaming resources. Key features include daily automated checks for resource availability, a wide range of categories such as online films, apps, cloud search, subtitles, IPTV sources, and open-source projects. With over 11,000 stars, it fosters community-driven maintenance and allows users to submit or report resources. The project aims to enhance the streaming experience while ensuring transparency about content access and safety.*
+> *CC Switch is a cross-platform desktop app designed to manage multiple AI coding tools, including Claude Code, Codex, and Gemini CLI, from a single interface. Key features include one-click provider switching with over 50 presets, unified management of MCP servers and skills, and cloud sync capabilities. Users can track usage and costs with a detailed dashboard. Built with Tauri in Rust, it offers quick access from the system tray and supports Windows, macOS, and Linux. The app streamlines API configurations, enhancing workflow efficiency for developers.*
 
-- ⭐ 10118 stars
+- ⭐ 136561 stars
+- 💻 Rust
+- 📅 Updated: 2026-09-25
+
+![cc-switch](2026/09-25/2026-09-25_daily-top_cc-switch.png)
+
+### 7. [impeccable](https://github.com/pbakaus/impeccable)
+
+> 🤖 **Why Recommend**  
+> *Impeccable is a design language tool for AI coding agents, featuring 24 commands and 61 deterministic rules for enhancing frontend design. Key features include a streamlined setup flow with `/impeccable init`, a shared design vocabulary, and real-time browser iteration. It helps avoid common design anti-patterns while offering commands for tasks like auditing, critiquing, and polishing designs. Compatible with various AI tools like GitHub Copilot and Claude Code, Impeccable focuses on creating high-quality, context-aware designs. Full documentation is available at impeccable.style.*
+
+- ⭐ 70836 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-09-24
+- 📅 Updated: 2026-09-25
 
-![awesome-zhuiju-free](2026/09-24/2026-09-24_daily-top_awesome-zhuiju-free.png)
+![impeccable](2026/09-25/2026-09-25_daily-top_impeccable.png)
 
-### 6. [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
-
-> 🤖 **Why Recommend**  
-> *Clash Verge Rev is a modern GUI client built on Tauri for an optimized proxy experience across Windows, macOS, and Linux. With over 146,000 stars, it offers a sleek interface, customizable themes, and supports the Clash.Meta core for advanced proxy management. Key features include configuration file management, visual node editing, and system proxy settings. It ensures user privacy by storing data locally and provides support for various languages. Users can download stable releases from the GitHub release page, making it accessible for everyday use.*
-
-- ⭐ 146916 stars
-- 💻 Rust
-- 📅 Updated: 2026-09-24
-
-![clash-verge-rev](2026/09-24/2026-09-24_daily-top_clash-verge-rev.png)
-
-### 7. [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
+### 8. [open-seo](https://github.com/every-app/open-seo)
 
 > 🤖 **Why Recommend**  
-> *Vorssaint is a free, open-source macOS menu bar toolkit designed to replace multiple paid apps with one versatile solution. Key features include a per-app volume mixer, system monitor, enhanced app switcher, clipboard history, and extensive window management tools. Users can customize their experience by installing only the features they need, ensuring a lightweight and efficient interface. With a focus on privacy, Vorssaint operates locally without analytics or tracking. It supports macOS 14 and Apple Silicon, making it an essential utility for modern Mac users.*
+> *OpenSEO is a powerful open-source SEO tool designed as a cost-effective alternative to Semrush and Ahrefs. With over 20,000 stars on GitHub, it offers key features like keyword research, rank tracking, competitor insights, and site audits through a modern, user-friendly interface. Users can connect AI agents, customize workflows, and self-host via Docker or Cloudflare. OpenSEO operates on a pay-as-you-go basis using a DataForSEO API key, ensuring you only pay for what you use. A hosted version is available for $10/month, encouraging community engagement and contributions.*
 
-- ⭐ 21105 stars
-- 💻 Swift
-- 📅 Updated: 2026-09-24
-
-![vorssaint-utils](2026/09-24/2026-09-24_daily-top_vorssaint-utils.png)
-
-### 8. [oh-my-pi](https://github.com/can1357/oh-my-pi)
-
-> 🤖 **Why Recommend**  
-> *Oh-My-Pi is a powerful coding agent developed by Stencil Labs, designed for seamless integration with IDEs. It boasts over 60 providers, 31 built-in tools, and advanced features like LSP support, real-time debugging, and collaborative sessions. Users can execute code, manage memory, and perform structured code edits effortlessly. Key functionalities include a persistent Python environment, time-traveling rule injections, and efficient task distribution across subagents. With a focus on developer productivity, Oh-My-Pi enhances coding workflows while maintaining a terminal-first experience. Visit [omp.sh](https://omp.sh) for more details.*
-
-- ⭐ 33042 stars
+- ⭐ 20943 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-09-24
+- 📅 Updated: 2026-09-25
 
-![oh-my-pi](2026/09-24/2026-09-24_daily-top_oh-my-pi.png)
+![open-seo](2026/09-25/2026-09-25_daily-top_open-seo.png)
 
-### 9. [OpenStock](https://github.com/Open-Dev-Society/OpenStock)
-
-> 🤖 **Why Recommend**  
-> *OpenStock is an open-source stock market platform designed as a free alternative to costly services. Key features include real-time price tracking, personalized alerts, and detailed company insights. Built with Next.js and TypeScript, it offers user authentication, a customizable watchlist, and integration with Finnhub for market data and TradingView for visualizations. The app supports over 30 international exchanges and emphasizes community involvement and accessibility, ensuring that knowledge and tools remain open for everyone.*
-
-- ⭐ 18917 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-09-24
-
-![OpenStock](2026/09-24/2026-09-24_daily-top_OpenStock.png)
-
-### 10. [hydradb](https://github.com/hydra-db/hydradb)
+### 9. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 
 > 🤖 **Why Recommend**  
-> *HydraDB is a high-performance, distributed graph database built in Rust, leveraging object storage for durability and scalability. Key features include OpenCypher query support, GraphBLAS traversal, and Neo4j-compatible Bolt connectivity. Its architecture separates storage and compute, with data nodes handling queries and mutations while indexers build immutable traversal indexes. The system ensures consistent reads through SlateDB snapshots and supports S3-compatible object storage. HydraDB also provides an extensive HTTP API, making integration seamless for applications.*
+> *High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, su. popular project, actively maintained, recently updated*
 
-- ⭐ 5335 stars
-- 💻 Rust
-- 📅 Updated: 2026-09-24
+- ⭐ 44847 stars
+- 🍴 3664 forks
+- 💻 C
+- 📅 Updated: 2026-09-25
 
-![hydradb](2026/09-24/2026-09-24_daily-top_hydradb.png)
+![codebase-memory-mcp](2026/09-25/2026-09-25_daily-top_codebase-memory-mcp.png)
+
+### 10. [substrate](https://github.com/agent-substrate/substrate)
+
+> 🤖 **Why Recommend**  
+> *Agent Substrate is a secure agent execution runtime designed to efficiently manage millions of sandboxes, achieving 10x higher density than traditional container runtimes. It offers sub-500ms resume operations with over 500 activations per second, utilizing zero-trust kernel and network isolation. Key features include actor lifecycle management, state persistence, and high-performance multiplexing of stateful actors. Built on Kubernetes, it supports various sandbox technologies and is framework-agnostic, making it suitable for diverse agent applications. The project is pre-1.0 and encourages community contributions.*
+
+- ⭐ 3736 stars
+- 💻 Go
+- 📅 Updated: 2026-09-25
+
+![substrate](2026/09-25/2026-09-25_daily-top_substrate.png)
 
 ---
 
@@ -140,4 +141,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-09-24 04:16:11 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-09-25 04:29:05 UTC
