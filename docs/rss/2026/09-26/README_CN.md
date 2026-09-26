@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-26
 
-![paperclip](2026/09-26/2026-09-26_daily-top_paperclip.png)
+![paperclip](2026-09-26_daily-top_paperclip.png)
 
 ### 2. [ax](https://github.com/google/ax)
 
@@ -38,7 +38,7 @@
 - 💻 Go
 - 📅 Updated: 2026-09-26
 
-![ax](2026/09-26/2026-09-26_daily-top_ax.png)
+![ax](2026-09-26_daily-top_ax.png)
 
 ### 3. [univer](https://github.com/dream-num/univer)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-26
 
-![univer](2026/09-26/2026-09-26_daily-top_univer.png)
+![univer](2026-09-26_daily-top_univer.png)
 
 ### 4. [hydradb](https://github.com/hydra-db/hydradb)
 
@@ -60,7 +60,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-09-26
 
-![hydradb](2026/09-26/2026-09-26_daily-top_hydradb.png)
+![hydradb](2026-09-26_daily-top_hydradb.png)
 
 ### 5. [orca](https://github.com/stablyai/orca)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-26
 
-![orca](2026/09-26/2026-09-26_daily-top_orca.png)
+![orca](2026-09-26_daily-top_orca.png)
 
 ### 6. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-26
 
-![impeccable](2026/09-26/2026-09-26_daily-top_impeccable.png)
+![impeccable](2026-09-26_daily-top_impeccable.png)
 
 ### 7. [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
@@ -93,7 +93,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-26
 
-![taste-skill](2026/09-26/2026-09-26_daily-top_taste-skill.png)
+![taste-skill](2026-09-26_daily-top_taste-skill.png)
 
 ### 8. [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
@@ -104,7 +104,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-09-26
 
-![clash-verge-rev](2026/09-26/2026-09-26_daily-top_clash-verge-rev.png)
+![clash-verge-rev](2026-09-26_daily-top_clash-verge-rev.png)
 
 ### 9. [open-seo](https://github.com/every-app/open-seo)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-26
 
-![open-seo](2026/09-26/2026-09-26_daily-top_open-seo.png)
+![open-seo](2026-09-26_daily-top_open-seo.png)
 
 ### 10. [opencode](https://github.com/anomalyco/opencode)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-26
 
-![opencode](2026/09-26/2026-09-26_daily-top_opencode.png)
+![opencode](2026-09-26_daily-top_opencode.png)
 
 ---
 
