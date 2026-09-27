@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-27
 
-![paperclip](2026/09-27/2026-09-27_daily-top_paperclip.png)
+![paperclip](2026-09-27_daily-top_paperclip.png)
 
 ### 2. [hydradb](https://github.com/hydra-db/hydradb)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-09-27
 
-![hydradb](2026/09-27/2026-09-27_daily-top_hydradb.png)
+![hydradb](2026-09-27_daily-top_hydradb.png)
 
 ### 3. [univer](https://github.com/dream-num/univer)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-27
 
-![univer](2026/09-27/2026-09-27_daily-top_univer.png)
+![univer](2026-09-27_daily-top_univer.png)
 
 ### 4. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -60,7 +60,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-27
 
-![impeccable](2026/09-27/2026-09-27_daily-top_impeccable.png)
+![impeccable](2026-09-27_daily-top_impeccable.png)
 
 ### 5. [openbao](https://github.com/openbao/openbao)
 
@@ -71,7 +71,7 @@
 - 💻 Go
 - 📅 Updated: 2026-09-27
 
-![openbao](2026/09-27/2026-09-27_daily-top_openbao.png)
+![openbao](2026-09-27_daily-top_openbao.png)
 
 ### 6. [buzz](https://github.com/block/buzz)
 
@@ -82,7 +82,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-09-27
 
-![buzz](2026/09-27/2026-09-27_daily-top_buzz.png)
+![buzz](2026-09-27_daily-top_buzz.png)
 
 ### 7. [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
@@ -93,7 +93,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-27
 
-![taste-skill](2026/09-27/2026-09-27_daily-top_taste-skill.png)
+![taste-skill](2026-09-27_daily-top_taste-skill.png)
 
 ### 8. [starnet](https://github.com/androoAGI/starnet)
 
@@ -104,7 +104,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-27
 
-![starnet](2026/09-27/2026-09-27_daily-top_starnet.png)
+![starnet](2026-09-27_daily-top_starnet.png)
 
 ### 9. [Madeira](https://github.com/willfaust/Madeira)
 
@@ -115,7 +115,7 @@
 - 💻 C
 - 📅 Updated: 2026-09-27
 
-![Madeira](2026/09-27/2026-09-27_daily-top_Madeira.png)
+![Madeira](2026-09-27_daily-top_Madeira.png)
 
 ### 10. [mobile-mcp](https://github.com/mobile-next/mobile-mcp)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-27
 
-![mobile-mcp](2026/09-27/2026-09-27_daily-top_mobile-mcp.png)
+![mobile-mcp](2026-09-27_daily-top_mobile-mcp.png)
 
 ---
 
