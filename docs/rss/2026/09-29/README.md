@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-29
 
-![paperclip](2026/09-29/2026-09-29_daily-top_paperclip.png)
+![paperclip](2026-09-29_daily-top_paperclip.png)
 
 ### 2. [hydradb](https://github.com/hydra-db/hydradb)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-09-29
 
-![hydradb](2026/09-29/2026-09-29_daily-top_hydradb.png)
+![hydradb](2026-09-29_daily-top_hydradb.png)
 
 ### 3. [univer](https://github.com/dream-num/univer)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-29
 
-![univer](2026/09-29/2026-09-29_daily-top_univer.png)
+![univer](2026-09-29_daily-top_univer.png)
 
 ### 4. [openrig](https://github.com/mvschwarz/openrig)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-29
 
-![openrig](2026/09-29/2026-09-29_daily-top_openrig.png)
+![openrig](2026-09-29_daily-top_openrig.png)
 
 ### 5. [dbx](https://github.com/t8y2/dbx)
 
@@ -71,7 +71,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-09-29
 
-![dbx](2026/09-29/2026-09-29_daily-top_dbx.png)
+![dbx](2026-09-29_daily-top_dbx.png)
 
 ### 6. [mobile-mcp](https://github.com/mobile-next/mobile-mcp)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-29
 
-![mobile-mcp](2026/09-29/2026-09-29_daily-top_mobile-mcp.png)
+![mobile-mcp](2026-09-29_daily-top_mobile-mcp.png)
 
 ### 7. [hyperswitch](https://github.com/juspay/hyperswitch)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-09-29
 
-![hyperswitch](2026/09-29/2026-09-29_daily-top_hyperswitch.png)
+![hyperswitch](2026-09-29_daily-top_hyperswitch.png)
 
 ### 8. [up](https://github.com/byoungd/up)
 
@@ -104,7 +104,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-29
 
-![up](2026/09-29/2026-09-29_daily-top_up.png)
+![up](2026-09-29_daily-top_up.png)
 
 ### 9. [scriptc](https://github.com/vercel-labs/scriptc)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-29
 
-![scriptc](2026/09-29/2026-09-29_daily-top_scriptc.png)
+![scriptc](2026-09-29_daily-top_scriptc.png)
 
 ### 10. [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
 
@@ -126,7 +126,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-09-29
 
-![vorssaint-utils](2026/09-29/2026-09-29_daily-top_vorssaint-utils.png)
+![vorssaint-utils](2026-09-29_daily-top_vorssaint-utils.png)
 
 ---
 

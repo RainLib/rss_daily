@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-09-27
+# 📊 🌟 GitHub Trending Daily - 2026-09-29
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **329408** ⭐ | **37037** 🍴
+**10** 个项目 | **296440** ⭐ | **39983** 🍴
 
-**热门语言:** `JavaScript` (3) · `TypeScript` (3) · `Rust` (2)
+**热门语言:** `TypeScript` (5) · `Rust` (3) · `JavaScript` (1)
 
-**更新时间:** 2026-09-27 04:51 UTC
+**更新时间:** 2026-09-29 05:19 UTC
 
 **分类分布:**
 
@@ -21,112 +21,112 @@
 ### 1. [paperclip](https://github.com/paperclipai/paperclip)
 
 > 🤖 **推荐理由**  
-> *Paperclip is an open-source app designed for managing AI agents in the workplace, boasting over 87,000 stars on GitHub. It combines a Node.js server and React UI to orchestrate AI teams, allowing users to set goals, track costs, and manage tasks through an intuitive dashboard. Core features include agent integration, goal alignment, cost control, and governance. Paperclip enables seamless coordination of multiple AI agents, providing tools for budget management, audit trails, and persistent task context, making it ideal for building autonomous AI organizations.*
+> *Paperclip is an open-source application designed for managing teams of AI agents in a business environment. With over 93,000 stars on GitHub, it offers features such as goal alignment, cost control, and governance through a user-friendly dashboard. Users can bring their own agents, track tasks and budgets, and audit work seamlessly. Key highlights include persistent agent states, atomic execution for tasks, and a robust org chart for agent roles. Paperclip facilitates autonomous AI organizations, making it ideal for teams managing multiple agents across various projects.*
 
-- ⭐ 87707 stars
+- ⭐ 93232 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-09-27
+- 📅 Updated: 2026-09-29
 
-![paperclip](2026/09-27/2026-09-27_daily-top_paperclip.png)
+![paperclip](2026/09-29/2026-09-29_daily-top_paperclip.png)
 
 ### 2. [hydradb](https://github.com/hydra-db/hydradb)
 
 > 🤖 **推荐理由**  
-> *HydraDB is a high-performance, distributed graph database built in Rust, leveraging object storage for durability. It supports OpenCypher queries, GraphBLAS traversal, and Neo4j-compatible connectivity. Key features include disaggregated storage and compute roles, safe writer handoff, and consistent reads via SlateDB snapshots. HydraDB allows applications to connect through Neo4j drivers or a robust HTTPS API, ensuring flexibility and familiarity. With independent scaling of data nodes and indexers, it optimizes resource use while maintaining high availability and performance.*
+> *HydraDB is a fast, distributed graph database built in Rust, leveraging S3-compatible object storage for durable graph records. It supports snapshot-consistent OpenCypher queries, GraphBLAS traversal, and Neo4j-compatible Bolt connectivity. Key features include independent scaling of data nodes and indexers, safe writer handoff, and consistent reads against a pinned SlateDB snapshot. The system offers an HTTPS query API and integrates seamlessly with Kubernetes for deployment. HydraDB emphasizes observability with metrics and tracing, making it ideal for scalable graph applications.*
 
-- ⭐ 8371 stars
+- ⭐ 12365 stars
 - 💻 Rust
-- 📅 Updated: 2026-09-27
+- 📅 Updated: 2026-09-29
 
-![hydradb](2026/09-27/2026-09-27_daily-top_hydradb.png)
+![hydradb](2026/09-29/2026-09-29_daily-top_hydradb.png)
 
 ### 3. [univer](https://github.com/dream-num/univer)
 
 > 🤖 **推荐理由**  
-> *Univer is an open-source Office SDK designed for building embeddable productivity applications, encompassing spreadsheets, documents, presentations, and more. With a plugin architecture and a unified Facade API, it supports both browser and Node.js environments. Key features include high-performance canvas rendering, customizable plugins, and support for AI agents in collaborative workflows. Users can quickly implement features through presets or gain full control with plugin mode. Univer facilitates seamless integration into SaaS products, enhancing document editing and server-side processing capabilities.*
+> *Univer is an open-source Office SDK enabling the integration of advanced productivity tools like spreadsheets, documents, and presentations into applications. It features a plugin-based architecture, allowing developers to customize functionalities, embed editing capabilities, and operate seamlessly in both browser and Node.js environments. Key highlights include high-performance canvas rendering, a unified Facade API, and support for AI-driven workflows. With extensive documentation and examples, Univer supports the creation of collaborative tools, making it an ideal choice for developers seeking to enhance their products with office functionalities.*
 
-- ⭐ 19655 stars
+- ⭐ 21403 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-09-27
+- 📅 Updated: 2026-09-29
 
-![univer](2026/09-27/2026-09-27_daily-top_univer.png)
+![univer](2026/09-29/2026-09-29_daily-top_univer.png)
 
-### 4. [impeccable](https://github.com/pbakaus/impeccable)
-
-> 🤖 **推荐理由**  
-> *Impeccable is a JavaScript-based design language aimed at enhancing AI-generated frontend design. With over 71,000 stars, it offers 24 commands, including `polish`, `audit`, and `critique`, alongside 61 deterministic rules for design quality checks. Its streamlined setup involves a single command to initialize project context, ensuring AI tools understand audience and constraints. Impeccable integrates with various platforms like GitHub Copilot and Claude Code, enabling live iteration and comprehensive design audits. For detailed guidance, visit [impeccable.style](https://impeccable.style).*
-
-- ⭐ 71606 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-09-27
-
-![impeccable](2026/09-27/2026-09-27_daily-top_impeccable.png)
-
-### 5. [openbao](https://github.com/openbao/openbao)
+### 4. [openrig](https://github.com/mvschwarz/openrig)
 
 > 🤖 **推荐理由**  
-> *OpenBao is an open-source solution for managing, storing, and distributing sensitive data, including secrets, certificates, and keys. Key features include secure secret storage with encryption, dynamic secret generation on-demand (e.g., for AWS), data encryption without storage, leasing and renewal of secrets, and built-in revocation capabilities for enhanced security. With a focus on community-led development and open governance, OpenBao supports a wide range of applications by providing a robust framework for secure data management.*
+> *OpenRig is a multi-agent harness that integrates Claude Code and Codex, enabling organized collaboration of AI coding agents. Key features include YAML-defined agent teams, easy booting with a single command, and real-time communication across agents. Users can visualize team dynamics through a terminal UI, manage sessions in tmux, and evolve topologies with commands like `rig grow` and `rig shrink`. OpenRig supports collaborative workflows, snapshots for state restoration, and integrates with Slack for notifications, all while prioritizing user permissions and workspace trust.*
 
-- ⭐ 8041 stars
-- 💻 Go
-- 📅 Updated: 2026-09-27
+- ⭐ 1866 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-09-29
 
-![openbao](2026/09-27/2026-09-27_daily-top_openbao.png)
+![openrig](2026/09-29/2026-09-29_daily-top_openrig.png)
 
-### 6. [buzz](https://github.com/block/buzz)
+### 5. [dbx](https://github.com/t8y2/dbx)
 
 > 🤖 **推荐理由**  
-> *Buzz is a self-hostable hive mind communication platform designed for collaborative work between humans and AI agents. With a focus on community-driven projects, it utilizes a single-relay architecture where every interaction—messages, workflows, and git events—are logged and auditable. Core features include agent assistance for bug triaging, integrated workflow management, and real-time collaboration in dedicated channels. Buzz supports multi-community setups, ensuring secure and scoped interactions. Built in Rust, it aims to streamline team operations by consolidating tools into one cohesive workspace.*
+> *dbx is a lightweight, 25 MB cross-platform database client supporting over 100 databases, including MySQL, PostgreSQL, SQLite, and MongoDB. Key features include a built-in AI assistant for SQL generation, a versatile query editor, and support for Docker, CLI, and desktop environments. Users benefit from a plugin ecosystem for extended functionalities and integrated message queue management. With strong focus on security and ease of use, dbx facilitates seamless database management across various platforms, making it ideal for developers and data professionals.*
 
-- ⭐ 34861 stars
+- ⭐ 21518 stars
 - 💻 Rust
-- 📅 Updated: 2026-09-27
+- 📅 Updated: 2026-09-29
 
-![buzz](2026/09-27/2026-09-27_daily-top_buzz.png)
+![dbx](2026/09-29/2026-09-29_daily-top_dbx.png)
 
-### 7. [taste-skill](https://github.com/Leonxlnx/taste-skill)
-
-> 🤖 **推荐理由**  
-> *Taste-Skill is an innovative JavaScript framework designed to enhance AI-generated interfaces, ensuring they are visually appealing and non-generic. With over 90,000 stars, it offers portable agent skills that optimize layout, typography, and motion, moving beyond boilerplate designs. Key features include image-generation skills for creating design references, a CLI for easy installation, and adjustable parameters for customizing design outputs. Supported by Kimi AI and other sponsors, Taste-Skill is a powerful tool for developers seeking high-quality front-end solutions.*
-
-- ⭐ 90410 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-09-27
-
-![taste-skill](2026/09-27/2026-09-27_daily-top_taste-skill.png)
-
-### 8. [starnet](https://github.com/androoAGI/starnet)
+### 6. [mobile-mcp](https://github.com/mobile-next/mobile-mcp)
 
 > 🤖 **推荐理由**  
-> *StarNet is a local-first desktop platform that enables users to create and manage AI agents within a pixel-art space station. Key features include distinct agents with unique permissions, integration with external models via API keys, and messaging capabilities across popular platforms like Telegram and Discord. Users can automate workflows with recipes, track tasks, and access deliverables in a dedicated OUTBOX. The system prioritizes data privacy, retaining all activity locally, and offers a real-time visual representation of agent operations. Open-source under MIT, it supports Windows and macOS.*
+> *Mobile MCP is a scalable Model Context Protocol Server for mobile automation and scraping, supporting iOS and Android devices, simulators, and emulators. It offers a unified API for seamless interaction with mobile applications, enabling native app automation, scripted flows, and complex user journeys without platform-specific expertise. Key features include accessibility-driven interactions, device management tools, and cloud device support via Mobile Next Cloud. With 8314 stars on GitHub, it integrates easily with various AI models and tools, streamlining mobile development workflows.*
 
-- ⭐ 636 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-09-27
-
-![starnet](2026/09-27/2026-09-27_daily-top_starnet.png)
-
-### 9. [Madeira](https://github.com/willfaust/Madeira)
-
-> 🤖 **推荐理由**  
-> *Madeira enables users to run x86-64 Windows PC games on non-jailbroken iPhones using a combination of Wine (ARM64EC), FEX-Emu for x86-64 to ARM64 translation, and DXMT for D3D11 to Metal conversion. Currently, games like Thumper and ULTRAKILL are playable, while others are in varying states of performance. The project requires sideloading due to JIT debugging needs and is intended for research, not commercial use. Key features include a single Mach process architecture and persistent app containers for saves. It is open-source under GPL-3.0-or-later.*
-
-- ⭐ 668 stars
-- 💻 C
-- 📅 Updated: 2026-09-27
-
-![Madeira](2026/09-27/2026-09-27_daily-top_Madeira.png)
-
-### 10. [mobile-mcp](https://github.com/mobile-next/mobile-mcp)
-
-> 🤖 **推荐理由**  
-> *Mobile MCP is a TypeScript-based Model Context Protocol server designed for scalable mobile automation and development across iOS and Android platforms, including emulators and real devices. With over 7,400 stars on GitHub, it enables seamless interaction with native apps through an accessibility-first approach. Key features include a unified API for all platforms, structured UI element extraction, and comprehensive device control. It supports cloud-based device management via Mobile Next Cloud, making it ideal for CI/CD integration and automation workflows without requiring extensive platform expertise.*
-
-- ⭐ 7453 stars
+- ⭐ 8314 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-09-27
+- 📅 Updated: 2026-09-29
 
-![mobile-mcp](2026/09-27/2026-09-27_daily-top_mobile-mcp.png)
+![mobile-mcp](2026/09-29/2026-09-29_daily-top_mobile-mcp.png)
+
+### 7. [hyperswitch](https://github.com/juspay/hyperswitch)
+
+> 🤖 **推荐理由**  
+> *Hyperswitch is an open-source, composable payments platform designed for flexibility and scalability, built in Rust. It offers both SaaS and self-hosted options, ensuring PCI compliance. Key features include intelligent routing for better transaction authorization, cost observability to monitor and optimize payment expenses, and automated reconciliation to streamline operations. Hyperswitch connects to over 120 payment processors, supports alternate payment methods, and provides a modular architecture that allows businesses to integrate only the necessary components without vendor lock-in.*
+
+- ⭐ 45191 stars
+- 💻 Rust
+- 📅 Updated: 2026-09-29
+
+![hyperswitch](2026/09-29/2026-09-29_daily-top_hyperswitch.png)
+
+### 8. [up](https://github.com/byoungd/up)
+
+> 🤖 **推荐理由**  
+> *The "up" project, authored by 韩先凯, is an evolving guide designed for lifelong learning in the AI era. It emphasizes practical skills in AI learning, project development, and personal growth through real-world tasks. Key features include structured pathways for mastering English, leveraging AI tools, and personal recovery strategies. The project provides downloadable resources in both Chinese and English, along with templates for tracking progress and reflections. It encourages users to engage actively with their learning journey, fostering a culture of continuous improvement and accountability.*
+
+- ⭐ 64935 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-09-29
+
+![up](2026/09-29/2026-09-29_daily-top_up.png)
+
+### 9. [scriptc](https://github.com/vercel-labs/scriptc)
+
+> 🤖 **推荐理由**  
+> *scriptc is an experimental TypeScript-to-Native Compiler that converts TypeScript and JavaScript into typed IR, C, LLVM IR, native executables, and WebAssembly modules. It leverages the TypeScript compiler for parsing and type-checking, enabling seamless static builds with a small native runtime, without requiring Node.js at runtime. Key features include support for npm packages, static coverage diagnostics, and the ability to build WebAssembly targets. It targets macOS, Linux, Windows, and WASI Preview 1, making it versatile for cross-platform development.*
+
+- ⭐ 5635 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-09-29
+
+![scriptc](2026/09-29/2026-09-29_daily-top_scriptc.png)
+
+### 10. [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
+
+> 🤖 **推荐理由**  
+> *Vorssaint is a free, open-source macOS menu bar toolkit designed to replace multiple paid apps with a single icon. It offers core features like a per-app volume mixer, system monitoring, advanced window management, clipboard history, and customizable keyboard shortcuts. Users can install only the features they need and enjoy privacy with no tracking or accounts required. With support for various languages and a local-first approach, Vorssaint integrates utilities such as file management, screen capturing, and app updates, making it a comprehensive solution for Mac users.*
+
+- ⭐ 21981 stars
+- 💻 Swift
+- 📅 Updated: 2026-09-29
+
+![vorssaint-utils](2026/09-29/2026-09-29_daily-top_vorssaint-utils.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-09-27 04:51:38 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-09-29 05:19:54 UTC
