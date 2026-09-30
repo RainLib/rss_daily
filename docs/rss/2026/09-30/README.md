@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-30
 
-![paperclip](2026/09-30/2026-09-30_daily-top_paperclip.png)
+![paperclip](2026-09-30_daily-top_paperclip.png)
 
 ### 2. [up](https://github.com/byoungd/up)
 
@@ -38,7 +38,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-30
 
-![up](2026/09-30/2026-09-30_daily-top_up.png)
+![up](2026-09-30_daily-top_up.png)
 
 ### 3. [OpenShell](https://github.com/NVIDIA/OpenShell)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-09-30
 
-![OpenShell](2026/09-30/2026-09-30_daily-top_OpenShell.png)
+![OpenShell](2026-09-30_daily-top_OpenShell.png)
 
 ### 4. [hydradb](https://github.com/hydra-db/hydradb)
 
@@ -60,7 +60,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-09-30
 
-![hydradb](2026/09-30/2026-09-30_daily-top_hydradb.png)
+![hydradb](2026-09-30_daily-top_hydradb.png)
 
 ### 5. [openrig](https://github.com/mvschwarz/openrig)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-30
 
-![openrig](2026/09-30/2026-09-30_daily-top_openrig.png)
+![openrig](2026-09-30_daily-top_openrig.png)
 
 ### 6. [archify](https://github.com/tt-a1i/archify)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-30
 
-![archify](2026/09-30/2026-09-30_daily-top_archify.png)
+![archify](2026-09-30_daily-top_archify.png)
 
 ### 7. [univer](https://github.com/dream-num/univer)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-30
 
-![univer](2026/09-30/2026-09-30_daily-top_univer.png)
+![univer](2026-09-30_daily-top_univer.png)
 
 ### 8. [ponytail](https://github.com/DietrichGebert/ponytail)
 
@@ -104,7 +104,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-30
 
-![ponytail](2026/09-30/2026-09-30_daily-top_ponytail.png)
+![ponytail](2026-09-30_daily-top_ponytail.png)
 
 ### 9. [openship](https://github.com/oblien/openship)
 
@@ -116,7 +116,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-09-30
 
-![openship](2026/09-30/2026-09-30_daily-top_openship.png)
+![openship](2026-09-30_daily-top_openship.png)
 
 ### 10. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -127,7 +127,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-09-30
 
-![impeccable](2026/09-30/2026-09-30_daily-top_impeccable.png)
+![impeccable](2026-09-30_daily-top_impeccable.png)
 
 ---
 

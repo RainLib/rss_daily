@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-09-29
+# 📊 🌟 GitHub Trending Daily - 2026-09-30
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **296440** ⭐ | **39983** 🍴
+**10** 个项目 | **518127** ⭐ | **50350** 🍴
 
-**热门语言:** `TypeScript` (5) · `Rust` (3) · `JavaScript` (1)
+**热门语言:** `TypeScript` (4) · `JavaScript` (4) · `Rust` (2)
 
-**更新时间:** 2026-09-29 05:19 UTC
+**更新时间:** 2026-09-30 05:06 UTC
 
 **分类分布:**
 
@@ -21,112 +21,113 @@
 ### 1. [paperclip](https://github.com/paperclipai/paperclip)
 
 > 🤖 **推荐理由**  
-> *Paperclip is an open-source application designed for managing teams of AI agents in a business environment. With over 93,000 stars on GitHub, it offers features such as goal alignment, cost control, and governance through a user-friendly dashboard. Users can bring their own agents, track tasks and budgets, and audit work seamlessly. Key highlights include persistent agent states, atomic execution for tasks, and a robust org chart for agent roles. Paperclip facilitates autonomous AI organizations, making it ideal for teams managing multiple agents across various projects.*
+> *Paperclip is an open-source app designed for managing AI agents in the workplace. With over 94,000 stars on GitHub, it provides a Node.js server and React UI for orchestrating AI teams. Key features include goal alignment, budget control, multi-organization support, and a ticketing system for task management. Paperclip allows users to define business goals, hire agents, and monitor costs from a unified dashboard. The app facilitates autonomous operations while ensuring governance and accountability, making it suitable for businesses that rely on multiple AI agents.*
 
-- ⭐ 93232 stars
+- ⭐ 94686 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-09-29
+- 📅 Updated: 2026-09-30
 
-![paperclip](2026/09-29/2026-09-29_daily-top_paperclip.png)
+![paperclip](2026/09-30/2026-09-30_daily-top_paperclip.png)
 
-### 2. [hydradb](https://github.com/hydra-db/hydradb)
-
-> 🤖 **推荐理由**  
-> *HydraDB is a fast, distributed graph database built in Rust, leveraging S3-compatible object storage for durable graph records. It supports snapshot-consistent OpenCypher queries, GraphBLAS traversal, and Neo4j-compatible Bolt connectivity. Key features include independent scaling of data nodes and indexers, safe writer handoff, and consistent reads against a pinned SlateDB snapshot. The system offers an HTTPS query API and integrates seamlessly with Kubernetes for deployment. HydraDB emphasizes observability with metrics and tracing, making it ideal for scalable graph applications.*
-
-- ⭐ 12365 stars
-- 💻 Rust
-- 📅 Updated: 2026-09-29
-
-![hydradb](2026/09-29/2026-09-29_daily-top_hydradb.png)
-
-### 3. [univer](https://github.com/dream-num/univer)
+### 2. [up](https://github.com/byoungd/up)
 
 > 🤖 **推荐理由**  
-> *Univer is an open-source Office SDK enabling the integration of advanced productivity tools like spreadsheets, documents, and presentations into applications. It features a plugin-based architecture, allowing developers to customize functionalities, embed editing capabilities, and operate seamlessly in both browser and Node.js environments. Key highlights include high-performance canvas rendering, a unified Facade API, and support for AI-driven workflows. With extensive documentation and examples, Univer supports the creation of collaborative tools, making it an ideal choice for developers seeking to enhance their products with office functionalities.*
+> *"up" is a comprehensive lifelong learning guide by 韩先凯 (笔名：离谱) tailored for the AI era. With over 65,000 stars on GitHub, it emphasizes practical skills in English, AI collaboration, and real-world project execution. The guide promotes a cycle of discovering problems, active learning, and evidence-based reflection. Key features include downloadable resources in both Chinese and English, templates for self-assessment, and advice on personal growth through failures and recovery. The project encourages continuous improvement, making it a valuable asset for learners navigating an ever-changing landscape.*
 
-- ⭐ 21403 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-09-29
-
-![univer](2026/09-29/2026-09-29_daily-top_univer.png)
-
-### 4. [openrig](https://github.com/mvschwarz/openrig)
-
-> 🤖 **推荐理由**  
-> *OpenRig is a multi-agent harness that integrates Claude Code and Codex, enabling organized collaboration of AI coding agents. Key features include YAML-defined agent teams, easy booting with a single command, and real-time communication across agents. Users can visualize team dynamics through a terminal UI, manage sessions in tmux, and evolve topologies with commands like `rig grow` and `rig shrink`. OpenRig supports collaborative workflows, snapshots for state restoration, and integrates with Slack for notifications, all while prioritizing user permissions and workspace trust.*
-
-- ⭐ 1866 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-09-29
-
-![openrig](2026/09-29/2026-09-29_daily-top_openrig.png)
-
-### 5. [dbx](https://github.com/t8y2/dbx)
-
-> 🤖 **推荐理由**  
-> *dbx is a lightweight, 25 MB cross-platform database client supporting over 100 databases, including MySQL, PostgreSQL, SQLite, and MongoDB. Key features include a built-in AI assistant for SQL generation, a versatile query editor, and support for Docker, CLI, and desktop environments. Users benefit from a plugin ecosystem for extended functionalities and integrated message queue management. With strong focus on security and ease of use, dbx facilitates seamless database management across various platforms, making it ideal for developers and data professionals.*
-
-- ⭐ 21518 stars
-- 💻 Rust
-- 📅 Updated: 2026-09-29
-
-![dbx](2026/09-29/2026-09-29_daily-top_dbx.png)
-
-### 6. [mobile-mcp](https://github.com/mobile-next/mobile-mcp)
-
-> 🤖 **推荐理由**  
-> *Mobile MCP is a scalable Model Context Protocol Server for mobile automation and scraping, supporting iOS and Android devices, simulators, and emulators. It offers a unified API for seamless interaction with mobile applications, enabling native app automation, scripted flows, and complex user journeys without platform-specific expertise. Key features include accessibility-driven interactions, device management tools, and cloud device support via Mobile Next Cloud. With 8314 stars on GitHub, it integrates easily with various AI models and tools, streamlining mobile development workflows.*
-
-- ⭐ 8314 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-09-29
-
-![mobile-mcp](2026/09-29/2026-09-29_daily-top_mobile-mcp.png)
-
-### 7. [hyperswitch](https://github.com/juspay/hyperswitch)
-
-> 🤖 **推荐理由**  
-> *Hyperswitch is an open-source, composable payments platform designed for flexibility and scalability, built in Rust. It offers both SaaS and self-hosted options, ensuring PCI compliance. Key features include intelligent routing for better transaction authorization, cost observability to monitor and optimize payment expenses, and automated reconciliation to streamline operations. Hyperswitch connects to over 120 payment processors, supports alternate payment methods, and provides a modular architecture that allows businesses to integrate only the necessary components without vendor lock-in.*
-
-- ⭐ 45191 stars
-- 💻 Rust
-- 📅 Updated: 2026-09-29
-
-![hyperswitch](2026/09-29/2026-09-29_daily-top_hyperswitch.png)
-
-### 8. [up](https://github.com/byoungd/up)
-
-> 🤖 **推荐理由**  
-> *The "up" project, authored by 韩先凯, is an evolving guide designed for lifelong learning in the AI era. It emphasizes practical skills in AI learning, project development, and personal growth through real-world tasks. Key features include structured pathways for mastering English, leveraging AI tools, and personal recovery strategies. The project provides downloadable resources in both Chinese and English, along with templates for tracking progress and reflections. It encourages users to engage actively with their learning journey, fostering a culture of continuous improvement and accountability.*
-
-- ⭐ 64935 stars
+- ⭐ 65871 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-09-29
+- 📅 Updated: 2026-09-30
 
-![up](2026/09-29/2026-09-29_daily-top_up.png)
+![up](2026/09-30/2026-09-30_daily-top_up.png)
 
-### 9. [scriptc](https://github.com/vercel-labs/scriptc)
+### 3. [OpenShell](https://github.com/NVIDIA/OpenShell)
 
 > 🤖 **推荐理由**  
-> *scriptc is an experimental TypeScript-to-Native Compiler that converts TypeScript and JavaScript into typed IR, C, LLVM IR, native executables, and WebAssembly modules. It leverages the TypeScript compiler for parsing and type-checking, enabling seamless static builds with a small native runtime, without requiring Node.js at runtime. Key features include support for npm packages, static coverage diagnostics, and the ability to build WebAssembly targets. It targets macOS, Linux, Windows, and WASI Preview 1, making it versatile for cross-platform development.*
+> *OpenShell is a secure runtime environment for autonomous AI agents, designed to balance capability and privacy. Key features include kernel-level enforcement of policies restricting agent access to files, APIs, and networks, along with formal verification for policy changes to ensure safety. It supports Linux, macOS, and Windows (WSL 2) and utilizes Docker or Podman for sandboxing. OpenShell offers SDKs for Python, TypeScript, Go, and Rust, and emphasizes extensibility and community collaboration. With 10,817 stars, it provides a robust foundation for developing and managing AI agents securely.*
 
-- ⭐ 5635 stars
+- ⭐ 10817 stars
+- 💻 Rust
+- 📅 Updated: 2026-09-30
+
+![OpenShell](2026/09-30/2026-09-30_daily-top_OpenShell.png)
+
+### 4. [hydradb](https://github.com/hydra-db/hydradb)
+
+> 🤖 **推荐理由**  
+> *HydraDB is a high-performance, distributed graph database built on Rust and optimized for object storage. With 12,880 stars, it leverages S3-compatible storage for durability and features independent compute roles: data nodes for queries and indexers for background indexing. Key highlights include snapshot-consistent OpenCypher queries, Neo4j-compatible Bolt connectivity, and an HTTPS API. HydraDB ensures consistent reads, safe writer handoff, and supports advanced graph-native execution using GraphBLAS. It offers robust observability with metrics and tracing, along with easy Kubernetes deployment via Helm.*
+
+- ⭐ 12880 stars
+- 💻 Rust
+- 📅 Updated: 2026-09-30
+
+![hydradb](2026/09-30/2026-09-30_daily-top_hydradb.png)
+
+### 5. [openrig](https://github.com/mvschwarz/openrig)
+
+> 🤖 **推荐理由**  
+> *OpenRig is a multi-agent harness that integrates Claude Code and Codex into a cohesive system, enabling organized AI coding workflows. Users define agent teams in YAML, booting them with a single command. Key features include a terminal UI for real-time monitoring, communication across agents, and the ability to snapshot and restore project states. OpenRig supports collaboration through Slack integration and allows for managing coding tasks efficiently. Designed for macOS and Linux, it simplifies managing multiple coding agents, enhancing productivity in software development.*
+
+- ⭐ 2542 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-09-29
+- 📅 Updated: 2026-09-30
 
-![scriptc](2026/09-29/2026-09-29_daily-top_scriptc.png)
+![openrig](2026/09-30/2026-09-30_daily-top_openrig.png)
 
-### 10. [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
+### 6. [archify](https://github.com/tt-a1i/archify)
 
 > 🤖 **推荐理由**  
-> *Vorssaint is a free, open-source macOS menu bar toolkit designed to replace multiple paid apps with a single icon. It offers core features like a per-app volume mixer, system monitoring, advanced window management, clipboard history, and customizable keyboard shortcuts. Users can install only the features they need and enjoy privacy with no tracking or accounts required. With support for various languages and a local-first approach, Vorssaint integrates utilities such as file management, screen capturing, and app updates, making it a comprehensive solution for Mac users.*
+> *Archify is a powerful JavaScript agent skill designed for creating interactive and visually appealing architecture, workflow, sequence, data-flow, and lifecycle diagrams. Users can transform ideas into customizable HTML diagrams by simply describing them to the AI agent. Key features include support for live demos, standalone HTML exports, and community-driven extensions. With over 74,000 stars on GitHub, Archify facilitates collaboration and sharing while allowing integration with various agents like Cursor and Codex. It’s ideal for both technical documentation and creative planning.*
 
-- ⭐ 21981 stars
-- 💻 Swift
-- 📅 Updated: 2026-09-29
+- ⭐ 74418 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-09-30
 
-![vorssaint-utils](2026/09-29/2026-09-29_daily-top_vorssaint-utils.png)
+![archify](2026/09-30/2026-09-30_daily-top_archify.png)
+
+### 7. [univer](https://github.com/dream-num/univer)
+
+> 🤖 **推荐理由**  
+> *Univer is an open-source Office SDK designed for building embeddable productivity applications, integrating spreadsheets, documents, presentations, and more. Key features include a customizable plugin architecture, a high-performance rendering engine, and a unified Facade API for seamless operation in both browser and Node.js environments. It supports collaborative workflows between users and AI agents, allowing for live editing and data linking across tools. With extensive documentation and a vibrant community, Univer is ideal for developers looking to enhance their applications with advanced office functionalities.*
+
+- ⭐ 21949 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-09-30
+
+![univer](2026/09-30/2026-09-30_daily-top_univer.png)
+
+### 8. [ponytail](https://github.com/DietrichGebert/ponytail)
+
+> 🤖 **推荐理由**  
+> *Ponytail is a JavaScript project designed to enhance AI agents by promoting minimal coding practices reminiscent of a seasoned, efficient developer. It reduces code generation by up to 94%, cutting costs by 20% and improving execution speed by 27% without compromising safety. Key features include a command system for adjusting intensity, code audits, and performance tracking. Ponytail integrates seamlessly with multiple AI platforms, encouraging reuse of existing code and leveraging native features, ultimately streamlining development while maintaining high standards of validation and security.*
+
+- ⭐ 148351 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-09-30
+
+![ponytail](2026/09-30/2026-09-30_daily-top_ponytail.png)
+
+### 9. [openship](https://github.com/oblien/openship)
+
+> 🤖 **推荐理由**  
+> *Self-hosted deployment platform. popular project, actively maintained, recently updated*
+
+- ⭐ 13956 stars
+- 🍴 1250 forks
+- 💻 TypeScript
+- 📅 Updated: 2026-09-30
+
+![openship](2026/09-30/2026-09-30_daily-top_openship.png)
+
+### 10. [impeccable](https://github.com/pbakaus/impeccable)
+
+> 🤖 **推荐理由**  
+> *Impeccable is a design language for AI coding agents, featuring a single setup command, 24 design commands, and 61 deterministic rules for optimizing AI-generated frontend designs. Key functionalities include project initialization with context gathering, UX/UI planning, technical audits, and design critique. It enables real-time browser iteration and offers a CLI for detecting design anti-patterns. Integrated with popular tools like GitHub Copilot and Claude Code, Impeccable enhances AI's design capabilities, ensuring high-quality, user-centered interfaces. Visit [impeccable.style](https://impeccable.style) for documentation.*
+
+- ⭐ 72657 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-09-30
+
+![impeccable](2026/09-30/2026-09-30_daily-top_impeccable.png)
 
 ---
 
@@ -140,4 +141,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-09-29 05:19:54 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-09-30 05:06:46 UTC
