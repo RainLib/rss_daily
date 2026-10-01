@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-10-01
 
-![OpenShell](2026/10-01/2026-10-01_daily-top_OpenShell.png)
+![OpenShell](2026-10-01_daily-top_OpenShell.png)
 
 ### 2. [dbx](https://github.com/t8y2/dbx)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-10-01
 
-![dbx](2026/10-01/2026-10-01_daily-top_dbx.png)
+![dbx](2026-10-01_daily-top_dbx.png)
 
 ### 3. [ponytail](https://github.com/DietrichGebert/ponytail)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-01
 
-![ponytail](2026/10-01/2026-10-01_daily-top_ponytail.png)
+![ponytail](2026-10-01_daily-top_ponytail.png)
 
 ### 4. [up](https://github.com/byoungd/up)
 
@@ -60,7 +60,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-01
 
-![up](2026/10-01/2026-10-01_daily-top_up.png)
+![up](2026-10-01_daily-top_up.png)
 
 ### 5. [ECC](https://github.com/affaan-m/ECC)
 
@@ -71,7 +71,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-01
 
-![ECC](2026/10-01/2026-10-01_daily-top_ECC.png)
+![ECC](2026-10-01_daily-top_ECC.png)
 
 ### 6. [openrig](https://github.com/mvschwarz/openrig)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-01
 
-![openrig](2026/10-01/2026-10-01_daily-top_openrig.png)
+![openrig](2026-10-01_daily-top_openrig.png)
 
 ### 7. [openship](https://github.com/oblien/openship)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-01
 
-![openship](2026/10-01/2026-10-01_daily-top_openship.png)
+![openship](2026-10-01_daily-top_openship.png)
 
 ### 8. [firecrawl](https://github.com/firecrawl/firecrawl)
 
@@ -105,7 +105,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-01
 
-![firecrawl](2026/10-01/2026-10-01_daily-top_firecrawl.png)
+![firecrawl](2026-10-01_daily-top_firecrawl.png)
 
 ### 9. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -116,7 +116,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-01
 
-![impeccable](2026/10-01/2026-10-01_daily-top_impeccable.png)
+![impeccable](2026-10-01_daily-top_impeccable.png)
 
 ### 10. [hyperframes](https://github.com/heygen-com/hyperframes)
 
@@ -127,7 +127,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-01
 
-![hyperframes](2026/10-01/2026-10-01_daily-top_hyperframes.png)
+![hyperframes](2026-10-01_daily-top_hyperframes.png)
 
 ---
 
