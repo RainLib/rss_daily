@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-10-01
+# 📊 🌟 GitHub Trending Daily - 2026-10-02
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **855164** ⭐ | **79668** 🍴
+**10** 个项目 | **720836** ⭐ | **77095** 🍴
 
-**热门语言:** `JavaScript` (4) · `TypeScript` (4) · `Rust` (2)
+**热门语言:** `JavaScript` (5) · `Rust` (3) · `TypeScript` (2)
 
-**更新时间:** 2026-10-01 05:21 UTC
+**更新时间:** 2026-10-02 05:09 UTC
 
 **分类分布:**
 
@@ -21,113 +21,112 @@
 ### 1. [OpenShell](https://github.com/NVIDIA/OpenShell)
 
 > 🤖 **推荐理由**  
-> *OpenShell is a secure runtime for managing fleets of autonomous AI agents, enabling them to perform tasks like file access and API calls without compromising data security. Key features include kernel-level enforcement of access policies, formal verification of policy changes, and isolated sandboxes for each agent. OpenShell supports Docker, Podman, and host virtualization, with a focus on extensibility and integration through SDKs in multiple languages. With over 13,000 stars, it emphasizes safety, privacy, and agent-driven workflows while providing tools for policy management and monitoring.*
+> *OpenShell is a secure runtime environment for autonomous AI agents, enabling them to interact with files, APIs, and credentials while enforcing strict access policies. Key features include kernel-level enforcement of agent activities, formal verification for policy changes, and isolated sandboxes for each agent. OpenShell supports Linux, macOS, and Windows with WSL, and provides SDKs for Python, TypeScript, Go, and Rust. With over 14,100 stars, it emphasizes safety and privacy, making it ideal for managing AI workflows securely.*
 
-- ⭐ 13040 stars
+- ⭐ 14102 stars
 - 💻 Rust
-- 📅 Updated: 2026-10-01
+- 📅 Updated: 2026-10-02
 
-![OpenShell](2026/10-01/2026-10-01_daily-top_OpenShell.png)
+![OpenShell](2026/10-02/2026-10-02_daily-top_OpenShell.png)
 
-### 2. [dbx](https://github.com/t8y2/dbx)
+### 2. [ponytail](https://github.com/DietrichGebert/ponytail)
 
 > 🤖 **推荐理由**  
-> *dbx is a lightweight, 25 MB cross-platform database client supporting over 100 databases, such as MySQL, PostgreSQL, and MongoDB. Key features include a built-in AI SQL assistant, MCP server for AI integration, and a versatile query editor with syntax highlighting and smart autocomplete. It offers desktop, Docker, and CLI interfaces, along with rich data management tools like schema browsing, data import/export, and message queue consoles. dbx is designed for efficiency without runtime bloat, making it ideal for developers and data professionals.*
+> *Ponytail is a JavaScript project designed to optimize AI code generation by mimicking the efficiency of a seasoned developer who writes minimal, functional code. With over 150,000 stars, it boasts features like reduced code output (up to 94% less), cost savings (20% cheaper), and faster execution (27% quicker), all while maintaining safety standards. Key services include integration with various AI agents, commands for reviewing and auditing code, and a focus on reusing existing code or built-in features. Ponytail champions the principle that the best code is the code you never wrote.*
 
-- ⭐ 23364 stars
+- ⭐ 150756 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-10-02
+
+![ponytail](2026/10-02/2026-10-02_daily-top_ponytail.png)
+
+### 3. [dbx](https://github.com/t8y2/dbx)
+
+> 🤖 **推荐理由**  
+> *dbx is a lightweight (25 MB) cross-platform database client supporting over 100 databases, including MySQL, PostgreSQL, SQLite, Redis, and MongoDB. Key features include a built-in AI assistant for SQL generation, a versatile MCP Server for AI integration, and a user-friendly interface available on desktop, Docker, and CLI. It offers specialized tools for data operations, schema management, and message queue handling, along with a plugin ecosystem for extensibility. dbx is designed for seamless database management and efficient AI collaboration, making it suitable for developers and data professionals.*
+
+- ⭐ 23773 stars
 - 💻 Rust
-- 📅 Updated: 2026-10-01
+- 📅 Updated: 2026-10-02
 
-![dbx](2026/10-01/2026-10-01_daily-top_dbx.png)
+![dbx](2026/10-02/2026-10-02_daily-top_dbx.png)
 
-### 3. [ponytail](https://github.com/DietrichGebert/ponytail)
+### 4. [archify](https://github.com/tt-a1i/archify)
 
 > 🤖 **推荐理由**  
-> *Ponytail is a JavaScript GitHub project designed to enhance AI agents by enabling them to generate minimal and efficient code, akin to a seasoned senior developer. With over 149,000 stars, it emphasizes reducing unnecessary code—averaging 54% less, while maintaining functionality and safety. Key features include one-liner code generation, integration with multiple AI platforms (Claude Code, Codex, GitHub Copilot), and commands for code review and auditing. Ponytail streamlines development, making it faster and cheaper without compromising quality.*
+> *Archify is an innovative JavaScript-based agent skill that transforms descriptions into interactive, self-contained HTML diagrams for architecture, workflows, sequences, data flows, and lifecycles. With over 75,000 stars, it allows users to visualize complex ideas easily by simply describing them to an AI agent. Key features include customizable visuals, motion export options, and the ability to trace routes and highlight paths. Archify supports various integrations and is open-source, fostering community collaboration and creativity in diagramming diverse scenarios, from technical architectures to travel itineraries.*
 
-- ⭐ 149383 stars
+- ⭐ 75924 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-01
+- 📅 Updated: 2026-10-02
 
-![ponytail](2026/10-01/2026-10-01_daily-top_ponytail.png)
+![archify](2026/10-02/2026-10-02_daily-top_archify.png)
 
-### 4. [up](https://github.com/byoungd/up)
+### 5. [openrig](https://github.com/mvschwarz/openrig)
 
 > 🤖 **推荐理由**  
-> *The "up" project, authored by 韩先凯, serves as a comprehensive guide for lifelong learning in the AI era. It emphasizes a systematic approach to problem discovery, active learning, and collaboration with AI to achieve real-life tasks. Key features include resources for English language learning, project development, and personal recovery strategies. The guide promotes evidence-based practices and encourages users to document their progress. With over 66,000 stars on GitHub, it offers downloadable content in both Chinese and English, fostering continuous growth and practical application of knowledge.*
+> *OpenRig is an open-source platform for creating and managing networks of AI coding agents, such as Claude Code and Codex, in a structured, persistent environment. Key features include YAML-defined team topologies, seamless agent communication, and a terminal UI for monitoring and interaction. Users can boot teams with a single command, manage shared context, and evolve agent setups dynamically. OpenRig supports Node.js and tmux, emphasizing flexibility in developing AI-driven solutions. The project serves as a powerful tool for fostering collaboration among coding agents.*
 
-- ⭐ 66485 stars
+- ⭐ 3825 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-10-02
+
+![openrig](2026/10-02/2026-10-02_daily-top_openrig.png)
+
+### 6. [hyperframes](https://github.com/heygen-com/hyperframes)
+
+> 🤖 **推荐理由**  
+> *HyperFrames is an open-source framework for converting HTML, CSS, and media into deterministic MP4 videos, designed for both local use and integration with AI coding agents. Key features include a CLI for project management, a suite of 21 skills for video production, and support for various animation libraries like GSAP and Lottie. Users can create diverse video content, from product launches to data visualizations, with seamless HTML composition and no build steps. Community-driven and Apache 2.0 licensed, HyperFrames fosters collaboration and growth in video creation.*
+
+- ⭐ 55437 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-10-02
+
+![hyperframes](2026/10-02/2026-10-02_daily-top_hyperframes.png)
+
+### 7. [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+
+> 🤖 **推荐理由**  
+> *God's Eye View is a browser-based spy satellite simulator providing real-time spatial intelligence on a photorealistic 3D globe. Key features include live tracking of aircraft, ships, satellites, and environmental events, all enhanced by hands-free voice control powered by AI. Users can explore multiple data layers, including public cameras and weather conditions, without needing API keys. The project promotes open-source collaboration, allowing users to inspect and extend the code, while emphasizing responsible use of public data.*
+
+- ⭐ 46259 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-01
+- 📅 Updated: 2026-10-02
 
-![up](2026/10-01/2026-10-01_daily-top_up.png)
+![gods-eye-view](2026/10-02/2026-10-02_daily-top_gods-eye-view.png)
 
-### 5. [ECC](https://github.com/affaan-m/ECC)
+### 8. [magnitude](https://github.com/magnitudedev/magnitude)
 
 > 🤖 **推荐理由**  
-> *ECC is a powerful performance optimization system designed for coding agents like Claude Code and Codex. It features 68 specialized agents and 293 skills, enabling enhanced workflows such as TDD, code review, and security auditing. ECC integrates hooks for automation, a memory vault for context preservation, and AgentShield for security scanning. Its guided setup supports multiple environments, including Claude Code, Codex, and Kimi Code, ensuring a streamlined development process. With strong community support and a focus on continuous learning, ECC is ideal for optimizing code quality and efficiency.*
+> *Magnitude is an open-source inference engine that optimizes performance for your specific hardware, achieving up to 2x faster speeds than llama.cpp. It compiles and tunes kernels on your device, ensuring efficient model execution on Apple Silicon, NVIDIA, AMD, or CPUs. Key features include reduced memory usage, fast concurrent sessions, and seamless integration with agents like Pi, OpenCode, and Codex. Magnitude operates on macOS, Windows, and Linux, prioritizing privacy by keeping prompts and models local. It supports popular open-weight models and is designed for developers seeking high-performance AI solutions.*
 
-- ⭐ 270287 stars
+- ⭐ 6184 stars
+- 💻 Rust
+- 📅 Updated: 2026-10-02
+
+![magnitude](2026/10-02/2026-10-02_daily-top_magnitude.png)
+
+### 9. [ECC](https://github.com/affaan-m/ECC)
+
+> 🤖 **推荐理由**  
+> *ECC is a performance optimization system designed for coding agents like Claude Code, Codex, and others. It offers 68 specialized agents, 293 reusable skills, and 94 command shims, enabling structured workflows such as Test-Driven Development (TDD), security reviews, and code refactoring. Key features include continuous learning, memory persistence, and AgentShield security scanning, ensuring robust code quality and security. ECC supports multiple platforms through guided setup, making it versatile for various coding environments. With over 270,000 stars, it stands as a leading tool in the open-source community.*
+
+- ⭐ 270780 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-01
+- 📅 Updated: 2026-10-02
 
-![ECC](2026/10-01/2026-10-01_daily-top_ECC.png)
+![ECC](2026/10-02/2026-10-02_daily-top_ECC.png)
 
-### 6. [openrig](https://github.com/mvschwarz/openrig)
-
-> 🤖 **推荐理由**  
-> *OpenRig is a multi-agent harness that integrates Claude Code and Codex into a cohesive system, allowing users to manage AI coding agents efficiently. Key features include YAML-defined agent topologies, tmux session management, a terminal UI for real-time coordination, and communication across agents. Users can create starter rigs, snapshot and restore topologies, and connect to Slack for enhanced collaboration. OpenRig is open-source, requires Node.js and tmux, and is designed to simplify the orchestration of coding tasks, making it an invaluable tool for developers.*
-
-- ⭐ 3144 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-01
-
-![openrig](2026/10-01/2026-10-01_daily-top_openrig.png)
-
-### 7. [openship](https://github.com/oblien/openship)
+### 10. [impeccable](https://github.com/pbakaus/impeccable)
 
 > 🤖 **推荐理由**  
-> *Self-hosted deployment platform. popular project, actively maintained, recently updated*
+> *Impeccable is a design language tool for AI coding agents, enhancing frontend design with 24 commands, live browser iteration, and 61 deterministic detector rules. Key features include a streamlined setup with `/impeccable init`, a shared design vocabulary, and commands for crafting, critiquing, and auditing designs. It supports multiple AI platforms like Claude Code and GitHub Copilot. Impeccable enables teams to maintain design quality, avoid common anti-patterns, and generate reusable components efficiently, all while fostering collaboration through detailed documentation.*
 
-- ⭐ 14232 stars
-- 🍴 1271 forks
-- 💻 TypeScript
-- 📅 Updated: 2026-10-01
-
-![openship](2026/10-01/2026-10-01_daily-top_openship.png)
-
-### 8. [firecrawl](https://github.com/firecrawl/firecrawl)
-
-> 🤖 **推荐理由**  
-> *Firecrawl is a powerful web data API designed to enhance AI agents by enabling them to search, scrape, and interact with web content effortlessly. Key features include 96% web coverage, fast response times, and LLM-ready outputs like clean Markdown and structured JSON. It simplifies complex tasks with zero configuration, handling proxies and JS-blocked sites. Core services include searching and scraping URLs, batch scraping, and automated data gathering through an intuitive agent system. Open source and available as a hosted service, Firecrawl supports seamless integration with various AI tools.*
-
-- ⭐ 187249 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-01
-
-![firecrawl](2026/10-01/2026-10-01_daily-top_firecrawl.png)
-
-### 9. [impeccable](https://github.com/pbakaus/impeccable)
-
-> 🤖 **推荐理由**  
-> *Impeccable is a JavaScript design language tool for AI coding agents, featuring 24 commands and 61 deterministic detector rules to enhance AI-generated frontend design. Users can quickly set up with `/impeccable init`, which documents project context in `PRODUCT.md`. Key commands include `audit`, `critique`, and `polish`, enabling thorough design reviews and optimizations. The tool integrates seamlessly with platforms like GitHub Copilot and Claude Code, ensuring high-quality design outputs by avoiding common anti-patterns. Visit [impeccable.style](https://impeccable.style) for more.*
-
-- ⭐ 73134 stars
+- ⭐ 73796 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-01
+- 📅 Updated: 2026-10-02
 
-![impeccable](2026/10-01/2026-10-01_daily-top_impeccable.png)
-
-### 10. [hyperframes](https://github.com/heygen-com/hyperframes)
-
-> 🤖 **推荐理由**  
-> *HyperFrames is an open-source framework for converting HTML, CSS, and media into deterministic MP4 videos, enabling seamless video creation with AI coding agents. Key features include a user-friendly CLI, 21 agent skills for various video tasks (e.g., product launches, explainer videos), and support for seekable animations using popular libraries like GSAP and Lottie. It offers a library of reusable components, cloud rendering via AWS, and a design system for video production. HyperFrames is built for both teams and individual creators, ensuring a flexible and efficient workflow.*
-
-- ⭐ 54846 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-01
-
-![hyperframes](2026/10-01/2026-10-01_daily-top_hyperframes.png)
+![impeccable](2026/10-02/2026-10-02_daily-top_impeccable.png)
 
 ---
 
@@ -141,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-01 05:21:07 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-02 05:09:07 UTC

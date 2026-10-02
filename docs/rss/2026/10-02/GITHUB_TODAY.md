@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-10-02
 
-![OpenShell](2026/10-02/2026-10-02_daily-top_OpenShell.png)
+![OpenShell](2026-10-02_daily-top_OpenShell.png)
 
 ### 2. [ponytail](https://github.com/DietrichGebert/ponytail)
 
@@ -38,7 +38,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-02
 
-![ponytail](2026/10-02/2026-10-02_daily-top_ponytail.png)
+![ponytail](2026-10-02_daily-top_ponytail.png)
 
 ### 3. [dbx](https://github.com/t8y2/dbx)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-10-02
 
-![dbx](2026/10-02/2026-10-02_daily-top_dbx.png)
+![dbx](2026-10-02_daily-top_dbx.png)
 
 ### 4. [archify](https://github.com/tt-a1i/archify)
 
@@ -60,7 +60,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-02
 
-![archify](2026/10-02/2026-10-02_daily-top_archify.png)
+![archify](2026-10-02_daily-top_archify.png)
 
 ### 5. [openrig](https://github.com/mvschwarz/openrig)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-02
 
-![openrig](2026/10-02/2026-10-02_daily-top_openrig.png)
+![openrig](2026-10-02_daily-top_openrig.png)
 
 ### 6. [hyperframes](https://github.com/heygen-com/hyperframes)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-02
 
-![hyperframes](2026/10-02/2026-10-02_daily-top_hyperframes.png)
+![hyperframes](2026-10-02_daily-top_hyperframes.png)
 
 ### 7. [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
 
@@ -93,7 +93,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-02
 
-![gods-eye-view](2026/10-02/2026-10-02_daily-top_gods-eye-view.png)
+![gods-eye-view](2026-10-02_daily-top_gods-eye-view.png)
 
 ### 8. [magnitude](https://github.com/magnitudedev/magnitude)
 
@@ -104,7 +104,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-10-02
 
-![magnitude](2026/10-02/2026-10-02_daily-top_magnitude.png)
+![magnitude](2026-10-02_daily-top_magnitude.png)
 
 ### 9. [ECC](https://github.com/affaan-m/ECC)
 
@@ -115,7 +115,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-02
 
-![ECC](2026/10-02/2026-10-02_daily-top_ECC.png)
+![ECC](2026-10-02_daily-top_ECC.png)
 
 ### 10. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -126,7 +126,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-02
 
-![impeccable](2026/10-02/2026-10-02_daily-top_impeccable.png)
+![impeccable](2026-10-02_daily-top_impeccable.png)
 
 ---
 
