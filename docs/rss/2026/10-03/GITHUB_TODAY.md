@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-03
 
-![ponytail](2026/10-03/2026-10-03_daily-top_ponytail.png)
+![ponytail](2026-10-03_daily-top_ponytail.png)
 
 ### 2. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -38,7 +38,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-03
 
-![impeccable](2026/10-03/2026-10-03_daily-top_impeccable.png)
+![impeccable](2026-10-03_daily-top_impeccable.png)
 
 ### 3. [openrig](https://github.com/mvschwarz/openrig)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-03
 
-![openrig](2026/10-03/2026-10-03_daily-top_openrig.png)
+![openrig](2026-10-03_daily-top_openrig.png)
 
 ### 4. [yoinks](https://github.com/pablostanley/yoinks)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-03
 
-![yoinks](2026/10-03/2026-10-03_daily-top_yoinks.png)
+![yoinks](2026-10-03_daily-top_yoinks.png)
 
 ### 5. [OpenShell](https://github.com/NVIDIA/OpenShell)
 
@@ -72,7 +72,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-10-03
 
-![OpenShell](2026/10-03/2026-10-03_daily-top_OpenShell.png)
+![OpenShell](2026-10-03_daily-top_OpenShell.png)
 
 ### 6. [hyperframes](https://github.com/heygen-com/hyperframes)
 
@@ -83,7 +83,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-03
 
-![hyperframes](2026/10-03/2026-10-03_daily-top_hyperframes.png)
+![hyperframes](2026-10-03_daily-top_hyperframes.png)
 
 ### 7. [ECC](https://github.com/affaan-m/ECC)
 
@@ -94,7 +94,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-03
 
-![ECC](2026/10-03/2026-10-03_daily-top_ECC.png)
+![ECC](2026-10-03_daily-top_ECC.png)
 
 ### 8. [context-mode](https://github.com/mksglu/context-mode)
 
@@ -105,7 +105,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-03
 
-![context-mode](2026/10-03/2026-10-03_daily-top_context-mode.png)
+![context-mode](2026-10-03_daily-top_context-mode.png)
 
 ### 9. [magnitude](https://github.com/magnitudedev/magnitude)
 
@@ -116,7 +116,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-10-03
 
-![magnitude](2026/10-03/2026-10-03_daily-top_magnitude.png)
+![magnitude](2026-10-03_daily-top_magnitude.png)
 
 ### 10. [caveman](https://github.com/JuliusBrussee/caveman)
 
@@ -127,7 +127,7 @@
 - 💻 Go
 - 📅 Updated: 2026-10-03
 
-![caveman](2026/10-03/2026-10-03_daily-top_caveman.png)
+![caveman](2026-10-03_daily-top_caveman.png)
 
 ---
 
