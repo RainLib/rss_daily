@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-04
 
-![ponytail](2026/10-04/2026-10-04_daily-top_ponytail.png)
+![ponytail](2026-10-04_daily-top_ponytail.png)
 
 ### 2. [ECC](https://github.com/affaan-m/ECC)
 
@@ -38,7 +38,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-04
 
-![ECC](2026/10-04/2026-10-04_daily-top_ECC.png)
+![ECC](2026-10-04_daily-top_ECC.png)
 
 ### 3. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-04
 
-![impeccable](2026/10-04/2026-10-04_daily-top_impeccable.png)
+![impeccable](2026-10-04_daily-top_impeccable.png)
 
 ### 4. [openrig](https://github.com/mvschwarz/openrig)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-04
 
-![openrig](2026/10-04/2026-10-04_daily-top_openrig.png)
+![openrig](2026-10-04_daily-top_openrig.png)
 
 ### 5. [caveman](https://github.com/JuliusBrussee/caveman)
 
@@ -71,7 +71,7 @@
 - 💻 Go
 - 📅 Updated: 2026-10-04
 
-![caveman](2026/10-04/2026-10-04_daily-top_caveman.png)
+![caveman](2026-10-04_daily-top_caveman.png)
 
 ### 6. [hyperframes](https://github.com/heygen-com/hyperframes)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-04
 
-![hyperframes](2026/10-04/2026-10-04_daily-top_hyperframes.png)
+![hyperframes](2026-10-04_daily-top_hyperframes.png)
 
 ### 7. [yoinks](https://github.com/pablostanley/yoinks)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-04
 
-![yoinks](2026/10-04/2026-10-04_daily-top_yoinks.png)
+![yoinks](2026-10-04_daily-top_yoinks.png)
 
 ### 8. [pi](https://github.com/earendil-works/pi)
 
@@ -105,7 +105,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-04
 
-![pi](2026/10-04/2026-10-04_daily-top_pi.png)
+![pi](2026-10-04_daily-top_pi.png)
 
 ### 9. [marketingskills](https://github.com/coreyhaines31/marketingskills)
 
@@ -116,7 +116,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-04
 
-![marketingskills](2026/10-04/2026-10-04_daily-top_marketingskills.png)
+![marketingskills](2026-10-04_daily-top_marketingskills.png)
 
 ### 10. [effect](https://github.com/Effect-TS/effect)
 
@@ -127,7 +127,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-04
 
-![effect](2026/10-04/2026-10-04_daily-top_effect.png)
+![effect](2026-10-04_daily-top_effect.png)
 
 ---
 
