@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-05
 
-![ponytail](2026/10-05/2026-10-05_daily-top_ponytail.png)
+![ponytail](2026-10-05_daily-top_ponytail.png)
 
 ### 2. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -38,7 +38,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-05
 
-![impeccable](2026/10-05/2026-10-05_daily-top_impeccable.png)
+![impeccable](2026-10-05_daily-top_impeccable.png)
 
 ### 3. [ECC](https://github.com/affaan-m/ECC)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-05
 
-![ECC](2026/10-05/2026-10-05_daily-top_ECC.png)
+![ECC](2026-10-05_daily-top_ECC.png)
 
 ### 4. [claude-mem](https://github.com/thedotmack/claude-mem)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-05
 
-![claude-mem](2026/10-05/2026-10-05_daily-top_claude-mem.png)
+![claude-mem](2026-10-05_daily-top_claude-mem.png)
 
 ### 5. [openGym](https://github.com/DuarteSantos8/openGym)
 
@@ -71,7 +71,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-05
 
-![openGym](2026/10-05/2026-10-05_daily-top_openGym.png)
+![openGym](2026-10-05_daily-top_openGym.png)
 
 ### 6. [OpenCut](https://github.com/OpenCut-app/OpenCut)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-05
 
-![OpenCut](2026/10-05/2026-10-05_daily-top_OpenCut.png)
+![OpenCut](2026-10-05_daily-top_OpenCut.png)
 
 ### 7. [t3code](https://github.com/pingdotgg/t3code)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-05
 
-![t3code](2026/10-05/2026-10-05_daily-top_t3code.png)
+![t3code](2026-10-05_daily-top_t3code.png)
 
 ### 8. [caveman](https://github.com/JuliusBrussee/caveman)
 
@@ -104,7 +104,7 @@
 - 💻 Go
 - 📅 Updated: 2026-10-05
 
-![caveman](2026/10-05/2026-10-05_daily-top_caveman.png)
+![caveman](2026-10-05_daily-top_caveman.png)
 
 ### 9. [pi](https://github.com/earendil-works/pi)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-05
 
-![pi](2026/10-05/2026-10-05_daily-top_pi.png)
+![pi](2026-10-05_daily-top_pi.png)
 
 ### 10. [hyperframes](https://github.com/heygen-com/hyperframes)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-05
 
-![hyperframes](2026/10-05/2026-10-05_daily-top_hyperframes.png)
+![hyperframes](2026-10-05_daily-top_hyperframes.png)
 
 ---
 
