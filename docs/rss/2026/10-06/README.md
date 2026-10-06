@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-06
 
-![openGym](2026/10-06/2026-10-06_daily-top_openGym.png)
+![openGym](2026-10-06_daily-top_openGym.png)
 
 ### 2. [e2e](https://github.com/tester-army/e2e)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-06
 
-![e2e](2026/10-06/2026-10-06_daily-top_e2e.png)
+![e2e](2026-10-06_daily-top_e2e.png)
 
 ### 3. [ponytail](https://github.com/DietrichGebert/ponytail)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-06
 
-![ponytail](2026/10-06/2026-10-06_daily-top_ponytail.png)
+![ponytail](2026-10-06_daily-top_ponytail.png)
 
 ### 4. [AnyPS5](https://github.com/boykopovar/AnyPS5)
 
@@ -60,7 +60,7 @@
 - 💻 C++
 - 📅 Updated: 2026-10-06
 
-![AnyPS5](2026/10-06/2026-10-06_daily-top_AnyPS5.png)
+![AnyPS5](2026-10-06_daily-top_AnyPS5.png)
 
 ### 5. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -71,7 +71,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-06
 
-![impeccable](2026/10-06/2026-10-06_daily-top_impeccable.png)
+![impeccable](2026-10-06_daily-top_impeccable.png)
 
 ### 6. [ECC](https://github.com/affaan-m/ECC)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-06
 
-![ECC](2026/10-06/2026-10-06_daily-top_ECC.png)
+![ECC](2026-10-06_daily-top_ECC.png)
 
 ### 7. [OpenCut](https://github.com/OpenCut-app/OpenCut)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-06
 
-![OpenCut](2026/10-06/2026-10-06_daily-top_OpenCut.png)
+![OpenCut](2026-10-06_daily-top_OpenCut.png)
 
 ### 8. [claude-mem](https://github.com/thedotmack/claude-mem)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-06
 
-![claude-mem](2026/10-06/2026-10-06_daily-top_claude-mem.png)
+![claude-mem](2026-10-06_daily-top_claude-mem.png)
 
 ### 9. [caddy](https://github.com/caddyserver/caddy)
 
@@ -115,7 +115,7 @@
 - 💻 Go
 - 📅 Updated: 2026-10-06
 
-![caddy](2026/10-06/2026-10-06_daily-top_caddy.png)
+![caddy](2026-10-06_daily-top_caddy.png)
 
 ### 10. [t3code](https://github.com/pingdotgg/t3code)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-06
 
-![t3code](2026/10-06/2026-10-06_daily-top_t3code.png)
+![t3code](2026-10-06_daily-top_t3code.png)
 
 ---
 

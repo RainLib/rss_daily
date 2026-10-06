@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-10-05
+# 📊 🌟 GitHub Trending Daily - 2026-10-06
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **1000729** ⭐ | **104063** 🍴
+**10** 个项目 | **814138** ⭐ | **84445** 🍴
 
-**热门语言:** `TypeScript` (5) · `JavaScript` (4) · `Go` (1)
+**热门语言:** `JavaScript` (4) · `TypeScript` (4) · `Go` (1)
 
-**更新时间:** 2026-10-05 05:08 UTC
+**更新时间:** 2026-10-06 05:55 UTC
 
 **分类分布:**
 
@@ -18,115 +18,115 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [ponytail](https://github.com/DietrichGebert/ponytail)
+### 1. [openGym](https://github.com/DuarteSantos8/openGym)
 
 > 🤖 **推荐理由**  
-> *Ponytail is a JavaScript project designed to optimize AI agent coding by mimicking the efficiency of a seasoned developer, emphasizing minimalism and practicality. With over 155,000 stars, it enables agents to reduce code by up to 94%, save costs by 20%, and improve speed by 27% while maintaining 100% safety. Key features include commands for adjusting coding intensity, auditing for over-engineering, and leveraging existing code or libraries. Ponytail is compatible with various AI platforms, focusing on writing only necessary code and enhancing project efficiency.*
+> *openGym is a self-hosted gym and body-weight tracker that empowers users to plan routines, log workouts, and track muscle fatigue—all while keeping data secure on their own servers. Key features include a library of 1,324 exercises, guided workouts, customizable routines, and detailed progress tracking with progressions and muscle maps. Users can import data from FitNotes or Strong, utilize passkey login for security, and sync data across devices. With no subscriptions or ads, openGym offers complete control over personal fitness data.*
 
-- ⭐ 155092 stars
+- ⭐ 4477 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-05
+- 📅 Updated: 2026-10-06
 
-![ponytail](2026/10-05/2026-10-05_daily-top_ponytail.png)
+![openGym](2026/10-06/2026-10-06_daily-top_openGym.png)
 
-### 2. [impeccable](https://github.com/pbakaus/impeccable)
-
-> 🤖 **推荐理由**  
-> *Impeccable is a robust design language tool for AI coding agents, offering 24 commands and 61 deterministic rules for improving AI-generated frontend designs. Key features include a streamlined setup process, a shared design vocabulary, and live browser iteration capabilities. Users can perform tasks like UX audits, critiques, and design polishing through a simple CLI interface. Compatible with major coding tools like GitHub Copilot and Claude Code, Impeccable enhances design quality by addressing common anti-patterns and enabling efficient project setup and documentation. For more info, visit impeccable.style.*
-
-- ⭐ 76455 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-10-05
-
-![impeccable](2026/10-05/2026-10-05_daily-top_impeccable.png)
-
-### 3. [ECC](https://github.com/affaan-m/ECC)
+### 2. [e2e](https://github.com/tester-army/e2e)
 
 > 🤖 **推荐理由**  
-> *ECC is an advanced agent harness performance optimization system designed to enhance coding workflows. Key features include 68 specialized agents, 293 reusable skills, and 94 command shims for tasks like planning, code review, and security audits. It offers seamless integration with platforms like Claude Code, Codex, and Kimi Code, alongside memory persistence and automated hooks for enhanced efficiency. The system also includes AgentShield for security scanning and support for multiple languages and frameworks, ensuring a robust coding environment. ECC is open source and available on GitHub.*
+> *e2e is an advanced end-to-end testing framework for web and mobile applications, developed by TesterArmy. With over 5,100 stars on GitHub, it allows users to write tests in natural language, leveraging an intelligent agent to navigate apps and verify outcomes. Key features include support for both web (via Playwright) and mobile (iOS/Android simulators), customizable test setups, and an easy initialization process. The framework includes various packages for different functionalities, such as reporting and decision models, making it a comprehensive solution for automated testing.*
 
-- ⭐ 273068 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-10-05
-
-![ECC](2026/10-05/2026-10-05_daily-top_ECC.png)
-
-### 4. [claude-mem](https://github.com/thedotmack/claude-mem)
-
-> 🤖 **推荐理由**  
-> *Claude-Mem is a TypeScript-based memory management system designed to provide persistent context across sessions for various AI agents, including Claude Code, OpenClaw, and Codex. It captures agent activities, compresses them using AI, and injects relevant context into future interactions, ensuring continuity. Key features include smart memory retrieval, a web viewer UI, skill-based search, and privacy controls. The system operates autonomously, supports multiple languages, and integrates seamlessly with existing tools, enhancing productivity by maintaining project knowledge over time.*
-
-- ⭐ 96222 stars
+- ⭐ 5105 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-05
+- 📅 Updated: 2026-10-06
 
-![claude-mem](2026/10-05/2026-10-05_daily-top_claude-mem.png)
+![e2e](2026/10-06/2026-10-06_daily-top_e2e.png)
 
-### 5. [openGym](https://github.com/DuarteSantos8/openGym)
+### 3. [ponytail](https://github.com/DietrichGebert/ponytail)
 
 > 🤖 **推荐理由**  
-> *openGym is a self-hosted gym and body-weight tracker that allows users to plan routines, log workouts, and track muscle training statuses. Key features include a library of 1,324 exercises, guided workouts, custom routines, and advanced tracking for sets, reps, and recovery. Users can import data from popular apps, utilize passkey login for security, and manage their data on their own server. With no subscriptions, ads, or telemetry, openGym prioritizes user control and privacy, making it a comprehensive solution for fitness enthusiasts.*
+> *Ponytail is a JavaScript project designed to optimize AI code generation, emulating the efficiency of a seasoned developer who prioritizes minimalism. With 156,147 stars, it reduces code by up to 94%, cuts costs by 20%, and enhances speed by 27%, all while ensuring safety. The core functionality includes a singular prompt that guides AI agents to avoid unnecessary code by reusing existing solutions and leveraging standard libraries. Commands like `/ponytail-review` and `/ponytail-audit` help maintain code quality, making it a powerful tool for developers seeking efficiency.*
 
-- ⭐ 3170 stars
+- ⭐ 156147 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-05
+- 📅 Updated: 2026-10-06
 
-![openGym](2026/10-05/2026-10-05_daily-top_openGym.png)
+![ponytail](2026/10-06/2026-10-06_daily-top_ponytail.png)
 
-### 6. [OpenCut](https://github.com/OpenCut-app/OpenCut)
+### 4. [AnyPS5](https://github.com/boykopovar/AnyPS5)
 
 > 🤖 **推荐理由**  
-> *OpenCut is a free, open-source video editor designed for web, desktop, and mobile platforms, offering a robust alternative to CapCut. With a focus on a plugin-first architecture, it will feature an Editor API, support for third-party plugins, and a scripting tab for enhanced functionality. A Rust core will enable seamless cross-platform operation, alongside an MCP server for AI integration and a headless mode for automation. The project is currently undergoing a complete rewrite, with the classic version available at opencut.app. Join the community on Discord for updates and discussions.*
+> *AnyPS5 is a tool designed for the automatic porting of PS5 executables to Linux and Windows. With a robust relinker, it converts executables to the native format of the target system without emulation. Key features include implementations of system PRX libraries for dynamic linking, a shader recompiler that produces validated SPIR-V, and support for SDL-mapped controllers. The project emphasizes interoperability and compatibility, providing a list of verified games and input mapping options. Licensed under GPL v2, it aims for research and preservation without distributing copyrighted material.*
 
-- ⭐ 92280 stars
+- ⭐ 5111 stars
+- 💻 C++
+- 📅 Updated: 2026-10-06
+
+![AnyPS5](2026/10-06/2026-10-06_daily-top_AnyPS5.png)
+
+### 5. [impeccable](https://github.com/pbakaus/impeccable)
+
+> 🤖 **推荐理由**  
+> *Impeccable is a JavaScript-based design language that enhances AI coding agents' frontend design capabilities. With 24 commands and 60 deterministic detector rules, it provides design guidance and technical quality checks. Key features include a streamlined setup with `/impeccable init`, a comprehensive command vocabulary (e.g., `audit`, `polish`, `critique`), and live browser iteration for immediate feedback. Compatible with tools like GitHub Copilot and Claude Code, Impeccable aims to improve the quality and efficiency of AI-generated designs. For detailed usage, visit impeccable.style.*
+
+- ⭐ 77173 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-10-06
+
+![impeccable](2026/10-06/2026-10-06_daily-top_impeccable.png)
+
+### 6. [ECC](https://github.com/affaan-m/ECC)
+
+> 🤖 **推荐理由**  
+> *ECC is a performance optimization system that enhances coding agents like Claude Code, Codex, and Cursor. It features 68 specialized agents, 293 skills for various workflows, and 94 command shims for seamless integration. Key highlights include TDD workflows, security scanning via AgentShield, and a memory vault for context management. ECC supports diverse platforms, offering guided setup and extensive hooks for automation. With a focus on efficient coding practices, it promotes continuous learning and reusable skills, making it a robust tool for developers.*
+
+- ⭐ 273755 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-10-06
+
+![ECC](2026/10-06/2026-10-06_daily-top_ECC.png)
+
+### 7. [OpenCut](https://github.com/OpenCut-app/OpenCut)
+
+> 🤖 **推荐理由**  
+> *OpenCut is a free and open-source video editor designed for web, desktop, and mobile platforms, currently undergoing a complete rewrite. Key features in development include an Editor API, support for third-party plugins, a unified codebase using Rust, AI agent integration via an MCP server, headless mode for automation, and an in-editor scripting tab. The classic version remains available at opencut.app, while the new iteration can be tracked at new.opencut.app. Join the community on Discord for updates and support.*
+
+- ⭐ 92719 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-05
+- 📅 Updated: 2026-10-06
 
-![OpenCut](2026/10-05/2026-10-05_daily-top_OpenCut.png)
+![OpenCut](2026/10-06/2026-10-06_daily-top_OpenCut.png)
 
-### 7. [t3code](https://github.com/pingdotgg/t3code)
+### 8. [claude-mem](https://github.com/thedotmack/claude-mem)
 
 > 🤖 **推荐理由**  
-> *T3 Code is an agent harness control surface built in TypeScript, designed to enhance the development experience with agents. It features a mobile app for iOS and Android, a web app, and an Electron-based desktop app. T3 Code integrates with popular services like Claude Code, Codex, Cursor, Grok Build, OpenCode, and Google Antigravity. The project is open-source, encouraging users to fork and customize it as needed. Installation is straightforward, with support for various platforms. Although still early in development, T3 Code aims to provide a performant, remote-ready experience.*
+> *Claude-Mem is a TypeScript-based project designed to provide persistent context across sessions for AI agents like Claude Code, OpenClaw, and Codex. With over 96,000 stars, it captures agent interactions, compresses them using AI, and reintegrates relevant context into future sessions. Key features include automatic memory retention, skill-based search, real-time memory streaming, and privacy controls. It supports multiple integrations and offers a user-friendly web interface. Claude-Mem enhances continuity in knowledge, ensuring agents maintain project awareness even after sessions conclude.*
 
-- ⭐ 25257 stars
+- ⭐ 96722 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-05
+- 📅 Updated: 2026-10-06
 
-![t3code](2026/10-05/2026-10-05_daily-top_t3code.png)
+![claude-mem](2026/10-06/2026-10-06_daily-top_claude-mem.png)
 
-### 8. [caveman](https://github.com/JuliusBrussee/caveman)
+### 9. [caddy](https://github.com/caddyserver/caddy)
 
 > 🤖 **推荐理由**  
-> *Caveman is a Go-based GitHub project that optimizes AI agent interactions by significantly reducing token usage—up to 65% fewer input tokens. It transforms verbose responses into concise, structured outputs while preserving essential information. Key features include compatibility with over 30 agents, a proxy that compresses input files like JSON and CSV by up to 99%, and multiple command modes for tailored responses. Cited by Adobe Research and JetBrains, it has garnered over 109,846 stars, making it a leading tool for efficient AI communication.*
+> *Caddy is a fast, extensible, multi-platform web server written in Go, renowned for its automatic HTTPS feature. With over 77,000 stars on GitHub, it supports HTTP/1, 2, and 3, and offers dynamic configuration via a JSON API or an easy-to-use Caddyfile. Key features include built-in TLS management, a modular architecture for extensibility, and robust performance, capable of scaling to hundreds of thousands of sites. Caddy is designed for simplicity and efficiency, making it suitable for both beginners and seasoned developers. Comprehensive documentation is available online.*
 
-- ⭐ 109846 stars
+- ⭐ 77236 stars
 - 💻 Go
-- 📅 Updated: 2026-10-05
+- 📅 Updated: 2026-10-06
 
-![caveman](2026/10-05/2026-10-05_daily-top_caveman.png)
+![caddy](2026/10-06/2026-10-06_daily-top_caddy.png)
 
-### 9. [pi](https://github.com/earendil-works/pi)
-
-> 🤖 **推荐理由**  
-> *Pi is a versatile AI agent toolkit designed for customization and extensibility, featuring a unified LLM API, an interactive coding agent CLI, and a terminal user interface (TUI). It allows users to adapt workflows through extensions, skills, prompt templates, and themes, all easily shareable as Pi packages. Key features include automation in print or JSON mode, RPC control, and integration capabilities via the TypeScript SDK. Pi supports various platforms and offers robust defaults without unnecessary complexity, making it suitable for diverse AI applications.*
-
-- ⭐ 112486 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-05
-
-![pi](2026/10-05/2026-10-05_daily-top_pi.png)
-
-### 10. [hyperframes](https://github.com/heygen-com/hyperframes)
+### 10. [t3code](https://github.com/pingdotgg/t3code)
 
 > 🤖 **推荐理由**  
-> *HyperFrames is an open-source framework that transforms HTML, CSS, and animations into deterministic MP4 videos, designed for both local use and AI coding agents. Key features include a CLI for project setup and rendering, a router for managing workflows, 21 on-demand skills for various video creation tasks, and seamless integration with popular animation libraries like GSAP and Lottie. HyperFrames supports AWS Lambda for distributed rendering and offers a user-friendly design system for video production. It enables rapid prototyping of product launch videos, explainer content, and more, ensuring consistency and ease of use.*
+> *T3 Code is an innovative agent harness control surface designed for seamless management of various AI agents on your machine. With a mobile app for iOS and Android, a web app, and an Electron-based desktop app, it supports services like Claude Code, Codex, Cursor, Grok Build, OpenCode, and Google Antigravity. Built for optimal performance and remote access, T3 Code is open-source, ensuring users can customize their experience. Installation is straightforward, with support for multiple platforms, and comprehensive documentation is available for users.*
 
-- ⭐ 56853 stars
+- ⭐ 25693 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-05
+- 📅 Updated: 2026-10-06
 
-![hyperframes](2026/10-05/2026-10-05_daily-top_hyperframes.png)
+![t3code](2026/10-06/2026-10-06_daily-top_t3code.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-05 05:08:06 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-06 05:55:17 UTC
