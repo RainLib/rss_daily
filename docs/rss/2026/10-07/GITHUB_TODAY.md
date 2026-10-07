@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-07
 
-![rea](2026/10-07/2026-10-07_daily-top_rea.png)
+![rea](2026-10-07_daily-top_rea.png)
 
 ### 2. [e2e](https://github.com/tester-army/e2e)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-07
 
-![e2e](2026/10-07/2026-10-07_daily-top_e2e.png)
+![e2e](2026-10-07_daily-top_e2e.png)
 
 ### 3. [openGym](https://github.com/DuarteSantos8/openGym)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-07
 
-![openGym](2026/10-07/2026-10-07_daily-top_openGym.png)
+![openGym](2026-10-07_daily-top_openGym.png)
 
 ### 4. [AnyPS5](https://github.com/boykopovar/AnyPS5)
 
@@ -60,7 +60,7 @@
 - 💻 C++
 - 📅 Updated: 2026-10-07
 
-![AnyPS5](2026/10-07/2026-10-07_daily-top_AnyPS5.png)
+![AnyPS5](2026-10-07_daily-top_AnyPS5.png)
 
 ### 5. [ponytail](https://github.com/DietrichGebert/ponytail)
 
@@ -71,7 +71,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-07
 
-![ponytail](2026/10-07/2026-10-07_daily-top_ponytail.png)
+![ponytail](2026-10-07_daily-top_ponytail.png)
 
 ### 6. [ECC](https://github.com/affaan-m/ECC)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-07
 
-![ECC](2026/10-07/2026-10-07_daily-top_ECC.png)
+![ECC](2026-10-07_daily-top_ECC.png)
 
 ### 7. [hyperframes](https://github.com/heygen-com/hyperframes)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-07
 
-![hyperframes](2026/10-07/2026-10-07_daily-top_hyperframes.png)
+![hyperframes](2026-10-07_daily-top_hyperframes.png)
 
 ### 8. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -104,7 +104,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-07
 
-![impeccable](2026/10-07/2026-10-07_daily-top_impeccable.png)
+![impeccable](2026-10-07_daily-top_impeccable.png)
 
 ### 9. [caddy](https://github.com/caddyserver/caddy)
 
@@ -115,7 +115,7 @@
 - 💻 Go
 - 📅 Updated: 2026-10-07
 
-![caddy](2026/10-07/2026-10-07_daily-top_caddy.png)
+![caddy](2026-10-07_daily-top_caddy.png)
 
 ### 10. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 
@@ -127,7 +127,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-07
 
-![security-audit-skill](2026/10-07/2026-10-07_daily-top_security-audit-skill.png)
+![security-audit-skill](2026-10-07_daily-top_security-audit-skill.png)
 
 ---
 
