@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-08
 
-![rea](2026/10-08/2026-10-08_daily-top_rea.png)
+![rea](2026-10-08_daily-top_rea.png)
 
 ### 2. [AnyPS5](https://github.com/boykopovar/AnyPS5)
 
@@ -38,7 +38,7 @@
 - 💻 C++
 - 📅 Updated: 2026-10-08
 
-![AnyPS5](2026/10-08/2026-10-08_daily-top_AnyPS5.png)
+![AnyPS5](2026-10-08_daily-top_AnyPS5.png)
 
 ### 3. [openGym](https://github.com/DuarteSantos8/openGym)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-08
 
-![openGym](2026/10-08/2026-10-08_daily-top_openGym.png)
+![openGym](2026-10-08_daily-top_openGym.png)
 
 ### 4. [artcraft](https://github.com/storytold/artcraft)
 
@@ -60,7 +60,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-10-08
 
-![artcraft](2026/10-08/2026-10-08_daily-top_artcraft.png)
+![artcraft](2026-10-08_daily-top_artcraft.png)
 
 ### 5. [e2e](https://github.com/tester-army/e2e)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-08
 
-![e2e](2026/10-08/2026-10-08_daily-top_e2e.png)
+![e2e](2026-10-08_daily-top_e2e.png)
 
 ### 6. [agent-skills](https://github.com/addyosmani/agent-skills)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-08
 
-![agent-skills](2026/10-08/2026-10-08_daily-top_agent-skills.png)
+![agent-skills](2026-10-08_daily-top_agent-skills.png)
 
 ### 7. [claude-mem](https://github.com/thedotmack/claude-mem)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-08
 
-![claude-mem](2026/10-08/2026-10-08_daily-top_claude-mem.png)
+![claude-mem](2026-10-08_daily-top_claude-mem.png)
 
 ### 8. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 
@@ -105,7 +105,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-08
 
-![security-audit-skill](2026/10-08/2026-10-08_daily-top_security-audit-skill.png)
+![security-audit-skill](2026-10-08_daily-top_security-audit-skill.png)
 
 ### 9. [esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock)
 
@@ -116,7 +116,7 @@
 - 💻 C++
 - 📅 Updated: 2026-10-08
 
-![esp32-c3-adblock](2026/10-08/2026-10-08_daily-top_esp32-c3-adblock.png)
+![esp32-c3-adblock](2026-10-08_daily-top_esp32-c3-adblock.png)
 
 ### 10. [xerj](https://github.com/xerj-org/xerj)
 
@@ -127,7 +127,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-10-08
 
-![xerj](2026/10-08/2026-10-08_daily-top_xerj.png)
+![xerj](2026-10-08_daily-top_xerj.png)
 
 ---
 
