@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-10-09
 
-![artcraft](2026/10-09/2026-10-09_daily-top_artcraft.png)
+![artcraft](2026-10-09_daily-top_artcraft.png)
 
 ### 2. [openGym](https://github.com/DuarteSantos8/openGym)
 
@@ -38,7 +38,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-09
 
-![openGym](2026/10-09/2026-10-09_daily-top_openGym.png)
+![openGym](2026-10-09_daily-top_openGym.png)
 
 ### 3. [agent-skills](https://github.com/addyosmani/agent-skills)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-09
 
-![agent-skills](2026/10-09/2026-10-09_daily-top_agent-skills.png)
+![agent-skills](2026-10-09_daily-top_agent-skills.png)
 
 ### 4. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 
@@ -61,7 +61,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-09
 
-![security-audit-skill](2026/10-09/2026-10-09_daily-top_security-audit-skill.png)
+![security-audit-skill](2026-10-09_daily-top_security-audit-skill.png)
 
 ### 5. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
 
@@ -72,7 +72,7 @@
 - 💻 Java
 - 📅 Updated: 2026-10-09
 
-![ghidra](2026/10-09/2026-10-09_daily-top_ghidra.png)
+![ghidra](2026-10-09_daily-top_ghidra.png)
 
 ### 6. [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
@@ -83,7 +83,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-09
 
-![taste-skill](2026/10-09/2026-10-09_daily-top_taste-skill.png)
+![taste-skill](2026-10-09_daily-top_taste-skill.png)
 
 ### 7. [cmux](https://github.com/manaflow-ai/cmux)
 
@@ -94,7 +94,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-10-09
 
-![cmux](2026/10-09/2026-10-09_daily-top_cmux.png)
+![cmux](2026-10-09_daily-top_cmux.png)
 
 ### 8. [rimes](https://github.com/scholay/rimes)
 
@@ -105,7 +105,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-10-09
 
-![rimes](2026/10-09/2026-10-09_daily-top_rimes.png)
+![rimes](2026-10-09_daily-top_rimes.png)
 
 ### 9. [ghidra-mcp](https://github.com/bethington/ghidra-mcp)
 
@@ -116,7 +116,7 @@
 - 💻 Java
 - 📅 Updated: 2026-10-09
 
-![ghidra-mcp](2026/10-09/2026-10-09_daily-top_ghidra-mcp.png)
+![ghidra-mcp](2026-10-09_daily-top_ghidra-mcp.png)
 
 ### 10. [mxc](https://github.com/microsoft/mxc)
 
@@ -127,7 +127,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-10-09
 
-![mxc](2026/10-09/2026-10-09_daily-top_mxc.png)
+![mxc](2026-10-09_daily-top_mxc.png)
 
 ---
 

@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-10-08
+# 📊 🌟 GitHub Trending Daily - 2026-10-09
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **280801** ⭐ | **26004** 🍴
+**10** Projects | **358443** ⭐ | **33072** 🍴
 
-**Top Languages:** `JavaScript` (3) · `TypeScript` (3) · `C++` (2)
+**Top Languages:** `JavaScript` (4) · `Java` (2) · `Rust` (2)
 
-**Updated:** 2026-10-08 05:36 UTC
+**Updated:** 2026-10-09 05:42 UTC
 
 **Categories:**
 
@@ -18,116 +18,116 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [rea](https://github.com/morluto/rea)
+### 1. [artcraft](https://github.com/storytold/artcraft)
 
 > 🤖 **Why Recommend**  
-> *REA (Reverse Engineer Anything) is a powerful tool designed for analyzing app behaviors and native binaries without needing the source code. With a focus on local analysis, it allows users to inspect JavaScript, Electron apps, .NET assemblies, and native binaries using agents like Claude Code and Codex. Key features include pseudocode generation, evidence tracing, and the ability to reconstruct features. REA supports multiple formats and provides comprehensive guides for setup and usage. With over 16,000 stars on GitHub, it fosters a vibrant community for reverse engineering enthusiasts.*
+> *ArtCraft is an innovative crafting engine designed for artists, designers, and filmmakers, facilitating interactive AI image and video creation. It enables users to compose in 2D and stage scenes in 3D, offering features like image-to-location, 3D compositing, character posing, and mixed asset crafting. ArtCraft supports diverse models for images, video, and 3D meshes from providers like Grok and Midjourney. With 8,666 stars on GitHub, ArtCraft emphasizes visual tools for precise, repeatable results, making it a powerful IDE for creative professionals. Download it for Windows and macOS.*
 
-- ⭐ 16837 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-08
-
-![rea](2026/10-08/2026-10-08_daily-top_rea.png)
-
-### 2. [AnyPS5](https://github.com/boykopovar/AnyPS5)
-
-> 🤖 **Why Recommend**  
-> *AnyPS5 is a powerful tool for automatically porting PS5 executables to Linux and Windows, boasting over 11,000 stars on GitHub. Key features include a relinker for converting executables to native formats, implementations of system PRX libraries for dynamic linking, and a shader recompiler that produces validated SPIR-V. The project supports SDL-mapped game controllers and customizable input mapping. It focuses on interoperability, research, and preservation, without requiring copyrighted software. Comprehensive documentation is available for usage, building, and compatibility.*
-
-- ⭐ 11349 stars
-- 💻 C++
-- 📅 Updated: 2026-10-08
-
-![AnyPS5](2026/10-08/2026-10-08_daily-top_AnyPS5.png)
-
-### 3. [openGym](https://github.com/DuarteSantos8/openGym)
-
-> 🤖 **Why Recommend**  
-> *openGym is a self-hosted gym and body-weight tracker, empowering users to plan routines, log workouts, and track muscle fatigue—all while maintaining ownership of their data. Key features include a library of 1,324 exercises, guided sessions, personalized progression rules, and detailed stats on performance. Users can import data from other fitness apps and enjoy a seamless experience with passkey authentication, offline functionality, and cross-device syncing. With no ads or subscriptions, openGym ensures complete control over your fitness journey.*
-
-- ⭐ 7248 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-10-08
-
-![openGym](2026/10-08/2026-10-08_daily-top_openGym.png)
-
-### 4. [artcraft](https://github.com/storytold/artcraft)
-
-> 🤖 **Why Recommend**  
-> *ArtCraft is an innovative crafting engine designed for artists, designers, and filmmakers, facilitating interactive AI image and video creation. With features like 2D/3D image compositing, character posing, scene blocking, and mixed asset crafting, it empowers users to build and refine their visual narratives. The platform supports a diverse range of models for images, videos, music, and 3D meshes, making it a versatile tool for creative projects. ArtCraft is available for Windows and macOS, with ongoing updates and integrations planned for enhanced functionality.*
-
-- ⭐ 5222 stars
+- ⭐ 8666 stars
 - 💻 Rust
-- 📅 Updated: 2026-10-08
+- 📅 Updated: 2026-10-09
 
-![artcraft](2026/10-08/2026-10-08_daily-top_artcraft.png)
+![artcraft](2026/10-09/2026-10-09_daily-top_artcraft.png)
 
-### 5. [e2e](https://github.com/tester-army/e2e)
-
-> 🤖 **Why Recommend**  
-> *e2e is a next-generation end-to-end testing framework for web and mobile applications, built with TypeScript and boasting over 7,700 stars on GitHub. Users can define testing goals in natural language, which an intelligent agent executes, recording actions for seamless replay in future tests. Key features include support for various platforms (web and mobile), a range of packages for different functionalities, and an easy setup process. The framework is developed by TesterArmy and emphasizes community engagement and robust documentation for optimal use.*
-
-- ⭐ 7711 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-08
-
-![e2e](2026/10-08/2026-10-08_daily-top_e2e.png)
-
-### 6. [agent-skills](https://github.com/addyosmani/agent-skills)
+### 2. [openGym](https://github.com/DuarteSantos8/openGym)
 
 > 🤖 **Why Recommend**  
-> *Agent Skills is a JavaScript project designed to enhance AI coding agents with production-grade engineering workflows. It features 25 structured skills that guide agents through the software development lifecycle, covering tasks from defining specifications to shipping code. Key functionalities include 9 slash commands for automatic skill activation, a streamlined CLI for easy installation, and pre-configured agent personas for targeted reviews. By embedding best practices from Google's engineering culture, Agent Skills ensures adherence to quality standards, improving overall software reliability and efficiency.*
+> *openGym is a self-hosted gym and body-weight tracker designed for personal data control. Key features include planning routines, logging workouts (supersets, cardio), tracking muscle fatigue, and importing data from popular apps like FitNotes. With a passkey login system, it ensures data security while syncing across devices. Users can create custom routines from a library of over 1,300 exercises and access guided workouts with built-in timers. The platform is open-source, free to use, and supports multiple languages, making it ideal for fitness enthusiasts seeking privacy and customization.*
 
-- ⭐ 102969 stars
+- ⭐ 8145 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-08
+- 📅 Updated: 2026-10-09
 
-![agent-skills](2026/10-08/2026-10-08_daily-top_agent-skills.png)
+![openGym](2026/10-09/2026-10-09_daily-top_openGym.png)
 
-### 7. [claude-mem](https://github.com/thedotmack/claude-mem)
+### 3. [agent-skills](https://github.com/addyosmani/agent-skills)
 
 > 🤖 **Why Recommend**  
-> *Claude-Mem is a powerful TypeScript tool designed to provide persistent context across sessions for AI agents like Claude Code, Codex, and Gemini. With features such as memory compression, automatic context injection, and skill-based search, it captures and summarizes user interactions to enhance continuity in projects. Key highlights include a web viewer UI, privacy controls, and real-time memory streams, ensuring a seamless experience. Claude-Mem is easy to install and configure, supporting multiple workflows and languages, making it an essential tool for developers aiming to optimize AI interactions.*
+> *Agent Skills is a robust GitHub project designed to enhance AI coding agents with production-grade engineering workflows. With 25 structured skills, it guides agents through the development lifecycle—from defining specifications to shipping code—while enforcing best practices like test-driven development, code reviews, and security audits. Key features include auto-activation of relevant skills based on tasks, quick installation via CLI for various agents, and a meta-skill for mapping workflows. This project embodies principles from Google's engineering culture, ensuring high-quality software delivery.*
 
-- ⭐ 97885 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-08
+- ⭐ 103467 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-10-09
 
-![claude-mem](2026/10-08/2026-10-08_daily-top_claude-mem.png)
+![agent-skills](2026/10-09/2026-10-09_daily-top_agent-skills.png)
 
-### 8. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+### 4. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 
 > 🤖 **Why Recommend**  
 > *A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings. popular project, actively maintained, recently updated*
 
-- ⭐ 26199 stars
-- 🍴 1575 forks
+- ⭐ 26673 stars
+- 🍴 1598 forks
 - 💻 JavaScript
-- 📅 Updated: 2026-10-08
+- 📅 Updated: 2026-10-09
 
-![security-audit-skill](2026/10-08/2026-10-08_daily-top_security-audit-skill.png)
+![security-audit-skill](2026/10-09/2026-10-09_daily-top_security-audit-skill.png)
 
-### 9. [esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock)
-
-> 🤖 **Why Recommend**  
-> *The esp32-c3-adblock project is a cost-effective DNS ad-blocker based on the $2 ESP32-C3, utilizing a unique method of storing 537k domains as 40-bit FNV-1a hashes in flash memory, allowing for efficient lookups in approximately 10 ms with only 50 KB of RAM. It features a web dashboard for management, supports over-the-air firmware and blocklist updates, and uses a captive portal for Wi-Fi setup. This project eliminates the need for PSRAM, making it suitable for low-budget applications while delivering robust ad-blocking capabilities.*
-
-- ⭐ 2249 stars
-- 💻 C++
-- 📅 Updated: 2026-10-08
-
-![esp32-c3-adblock](2026/10-08/2026-10-08_daily-top_esp32-c3-adblock.png)
-
-### 10. [xerj](https://github.com/xerj-org/xerj)
+### 5. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
 
 > 🤖 **Why Recommend**  
-> *XERJ is an advanced AI data search tool that automatically indexes code, documents, logs, and PDFs with 40x fewer tokens than traditional methods like grep. It enhances coding efficiency by enabling agents to retrieve relevant code snippets based on context, significantly reducing the output tokens in coding tasks. Compatible with Elasticsearch, XERJ supports various use cases including reference coding, codebase Q&A, security audits, and agent memory. Its straightforward setup and AST-aware indexing make it a powerful tool for developers seeking efficient data retrieval and analysis.*
+> *Ghidra is an advanced software reverse engineering (SRE) framework developed by the NSA, offering a comprehensive suite of tools for analyzing compiled code across platforms (Windows, macOS, Linux). Key features include disassembly, decompilation, graphing, and extensive scripting capabilities in Java and Python. Ghidra supports numerous processor instruction sets and executable formats, enabling both interactive and automated analysis. Users can develop custom extensions and scripts, making it a versatile platform for cybersecurity research and threat analysis.*
 
-- ⭐ 3132 stars
+- ⭐ 81801 stars
+- 💻 Java
+- 📅 Updated: 2026-10-09
+
+![ghidra](2026/10-09/2026-10-09_daily-top_ghidra.png)
+
+### 6. [taste-skill](https://github.com/Leonxlnx/taste-skill)
+
+> 🤖 **Why Recommend**  
+> *Taste-Skill enhances AI-generated content by promoting creativity and originality, preventing the production of dull and generic outputs. This JavaScript-based project leverages advanced algorithms to refine the aesthetics and relevance of generated text, ensuring a more engaging user experience. With over 93,000 stars, it has garnered significant attention for its ability to elevate AI performance across various applications. Taste-Skill is ideal for developers seeking to improve the quality of their AI's creative capabilities.*
+
+- ⭐ 93886 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-10-09
+
+![taste-skill](2026/10-09/2026-10-09_daily-top_taste-skill.png)
+
+### 7. [cmux](https://github.com/manaflow-ai/cmux)
+
+> 🤖 **Why Recommend**  
+> *cmux is an open-source, Ghostty-based macOS terminal designed for multitasking and organization, featuring vertical tabs and notifications for AI coding agents. Key highlights include a built-in browser with a scriptable API, notification rings for agent attention, and seamless SSH integration for remote workspaces. With customizable commands, extensive keyboard shortcuts, and a native Swift build for optimal performance, cmux enhances productivity for developers. The application supports various coding agents and offers session restoration, making it a versatile tool for modern coding environments.*
+
+- ⭐ 28039 stars
+- 💻 Swift
+- 📅 Updated: 2026-10-09
+
+![cmux](2026/10-09/2026-10-09_daily-top_cmux.png)
+
+### 8. [rimes](https://github.com/scholay/rimes)
+
+> 🤖 **Why Recommend**  
+> *RIMES is a modern macOS input method editor (IME) built on the RIME engine, designed to enhance user experience through a customizable interface. It features three innovative components: a Buffer for real-time text editing and translation, a Capsule for clipboard management and personal knowledge storage, and a Mailbox for managing AI interactions and notes. Supporting various input schemes (e.g., Pinyin, Wubi), RIMES is user-friendly with a self-contained installation. The project is open-source, actively maintained, and offers cross-platform capabilities, including versions for iOS, Android, and Windows.*
+
+- ⭐ 931 stars
+- 💻 Swift
+- 📅 Updated: 2026-10-09
+
+![rimes](2026/10-09/2026-10-09_daily-top_rimes.png)
+
+### 9. [ghidra-mcp](https://github.com/bethington/ghidra-mcp)
+
+> 🤖 **Why Recommend**  
+> *Ghidra MCP Server is a robust tool for AI-powered reverse engineering, integrating over 200 Model Context Protocol (MCP) tools with Ghidra's analysis capabilities. Key features include a GUI plugin, headless server mode for automation, lazy tool loading, and full Ghidra Server integration for collaborative work. It supports batch operations, atomic transactions, and convention enforcement for consistent code quality. The server is Docker-ready, enabling scalable CI/CD deployments. With proven AI workflows and dynamic analysis tools like P-code emulation, Ghidra MCP enhances reverse engineering efficiency and reliability.*
+
+- ⭐ 4981 stars
+- 💻 Java
+- 📅 Updated: 2026-10-09
+
+![ghidra-mcp](2026/10-09/2026-10-09_daily-top_ghidra-mcp.png)
+
+### 10. [mxc](https://github.com/microsoft/mxc)
+
+> 🤖 **Why Recommend**  
+> *MXC (Microsoft eXecution Container) is a sandboxed code execution system that enables running untrusted code across Windows, Linux, and macOS. With support for multiple containment backends like ProcessContainer, Windows Sandbox, and LXC, MXC offers a policy-driven approach to sandboxing, allowing fine-grained control over filesystem, network, and UI access. It includes typed SDKs for Rust, .NET, and Node, facilitating easy integration into applications. Key features include JSON-based configurations, a state-aware lifecycle for containers, and diagnostics tools for troubleshooting access issues.*
+
+- ⭐ 1854 stars
 - 💻 Rust
-- 📅 Updated: 2026-10-08
+- 📅 Updated: 2026-10-09
 
-![xerj](2026/10-08/2026-10-08_daily-top_xerj.png)
+![mxc](2026/10-09/2026-10-09_daily-top_mxc.png)
 
 ---
 
@@ -141,4 +141,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-08 05:36:16 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-09 05:42:31 UTC
