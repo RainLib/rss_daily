@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-10
 
-![rea](2026/10-10/2026-10-10_daily-top_rea.png)
+![rea](2026-10-10_daily-top_rea.png)
 
 ### 2. [AnyPS5](https://github.com/boykopovar/AnyPS5)
 
@@ -38,7 +38,7 @@
 - 💻 C++
 - 📅 Updated: 2026-10-10
 
-![AnyPS5](2026/10-10/2026-10-10_daily-top_AnyPS5.png)
+![AnyPS5](2026-10-10_daily-top_AnyPS5.png)
 
 ### 3. [artcraft](https://github.com/storytold/artcraft)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-10-10
 
-![artcraft](2026/10-10/2026-10-10_daily-top_artcraft.png)
+![artcraft](2026-10-10_daily-top_artcraft.png)
 
 ### 4. [archify](https://github.com/tt-a1i/archify)
 
@@ -60,7 +60,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-10
 
-![archify](2026/10-10/2026-10-10_daily-top_archify.png)
+![archify](2026-10-10_daily-top_archify.png)
 
 ### 5. [claude-mem](https://github.com/thedotmack/claude-mem)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-10-10
 
-![claude-mem](2026/10-10/2026-10-10_daily-top_claude-mem.png)
+![claude-mem](2026-10-10_daily-top_claude-mem.png)
 
 ### 6. [openGym](https://github.com/DuarteSantos8/openGym)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-10
 
-![openGym](2026/10-10/2026-10-10_daily-top_openGym.png)
+![openGym](2026-10-10_daily-top_openGym.png)
 
 ### 7. [mxc](https://github.com/microsoft/mxc)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-10-10
 
-![mxc](2026/10-10/2026-10-10_daily-top_mxc.png)
+![mxc](2026-10-10_daily-top_mxc.png)
 
 ### 8. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -104,7 +104,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-10-10
 
-![cc-switch](2026/10-10/2026-10-10_daily-top_cc-switch.png)
+![cc-switch](2026-10-10_daily-top_cc-switch.png)
 
 ### 9. [agent-skills](https://github.com/addyosmani/agent-skills)
 
@@ -115,7 +115,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-10
 
-![agent-skills](2026/10-10/2026-10-10_daily-top_agent-skills.png)
+![agent-skills](2026-10-10_daily-top_agent-skills.png)
 
 ### 10. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 
@@ -127,7 +127,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-10-10
 
-![security-audit-skill](2026/10-10/2026-10-10_daily-top_security-audit-skill.png)
+![security-audit-skill](2026-10-10_daily-top_security-audit-skill.png)
 
 ---
 
