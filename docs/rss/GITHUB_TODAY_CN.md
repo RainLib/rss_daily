@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-10-10
+# 📊 🌟 GitHub Trending Daily - 2026-10-11
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **551937** ⭐ | **50603** 🍴
+**10** 个项目 | **561935** ⭐ | **57994** 🍴
 
-**热门语言:** `JavaScript` (4) · `Rust` (3) · `TypeScript` (2)
+**热门语言:** `JavaScript` (3) · `Swift` (2) · `Go` (1)
 
-**更新时间:** 2026-10-10 05:23 UTC
+**更新时间:** 2026-10-11 05:15 UTC
 
 **分类分布:**
 
@@ -21,113 +21,112 @@
 ### 1. [rea](https://github.com/morluto/rea)
 
 > 🤖 **推荐理由**  
-> *REA (Reverse Engineer Anything) is a powerful TypeScript-based tool designed for comprehensive reverse engineering of applications and binaries. With over 52,000 stars on GitHub, it enables users to analyze native binaries, JavaScript/Electron apps, .NET assemblies, and websites. REA connects agents to various analysis tools, providing pseudocode, assembly, and evidence for features without source code. It supports local analysis with tools like Hopper and Ghidra, and offers a seamless setup process via npm. The project emphasizes community engagement, with resources for guides, showcases, and support.*
+> *REA (Reverse Engineer Anything) is a powerful TypeScript tool designed for in-depth reverse engineering, enabling users to analyze application behavior and native binaries. With over 77,500 stars, REA allows agents to inspect JavaScript, Electron apps, .NET assemblies, and websites without source code. Key features include local analysis, evidence-based findings, integration with tools like Hopper and Ghidra, and a user-friendly setup via Node.js. The project supports a variety of agents and offers extensive documentation and community support, making it a valuable resource for reverse engineering enthusiasts.*
 
-- ⭐ 52018 stars
+- ⭐ 77514 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-10
+- 📅 Updated: 2026-10-11
 
-![rea](2026/10-10/2026-10-10_daily-top_rea.png)
+![rea](2026/10-11/2026-10-11_daily-top_rea.png)
 
 ### 2. [AnyPS5](https://github.com/boykopovar/AnyPS5)
 
 > 🤖 **推荐理由**  
-> *AnyPS5 is a C++ tool that automates the porting of PS5 executables to Linux and Windows, boasting over 23,000 stars on GitHub. Core features include a relinker for converting executables to native formats, dynamic linking with system PRX libraries, and a shader recompiler that generates validated SPIR-V. It supports SDL-mapped game controllers, with customizable input mapping. The project prioritizes interoperability and compatibility, providing a compatibility list and detailed documentation for usage and contributions. Licensed under GPL v2.*
+> *AnyPS5 is a powerful tool for automatically porting PS5 executables to Linux and Windows, featuring a relinker for converting executables and system PRX libraries for dynamic linking without emulation. With support for SDL-mapped controllers and customizable keyboard/mouse controls, it enhances gaming compatibility. The project includes a shader recompiler producing validated SPIR-V. It maintains a compatibility list for tested games and emphasizes research and preservation, adhering to GPL v2 licensing. With over 27,360 stars, it demonstrates significant community interest and ongoing development.*
 
-- ⭐ 23085 stars
+- ⭐ 27360 stars
 - 💻 C++
-- 📅 Updated: 2026-10-10
+- 📅 Updated: 2026-10-11
 
-![AnyPS5](2026/10-10/2026-10-10_daily-top_AnyPS5.png)
+![AnyPS5](2026/10-11/2026-10-11_daily-top_AnyPS5.png)
 
 ### 3. [artcraft](https://github.com/storytold/artcraft)
 
 > 🤖 **推荐理由**  
-> *ArtCraft is a powerful crafting engine designed for artists, designers, and filmmakers, enabling interactive AI-driven image and video creation. Key features include advanced 2D and 3D compositing, character posing, scene blocking, and image-to-3D mesh conversion. Users can explore ideas through prompt-based tools and refine them with visual editing options. ArtCraft supports a diverse range of models and providers, including Grok, Midjourney, and Sora. With over 12,000 stars on GitHub, it serves as a versatile IDE for creative professionals. Download ArtCraft for Windows and macOS or build from source.*
+> *ArtCraft is an innovative crafting engine tailored for artists, designers, and filmmakers, enabling interactive AI image and video creation. Key features include 2D and 3D image compositing, character posing, and advanced scene blocking. Users can transform prompts into precise visual outputs, leveraging various models for text-to-image, image editing, and video generation. The platform supports a rich array of models from providers like Grok and Midjourney. With a user-friendly IDE, ArtCraft empowers creatives to refine ideas and craft stunning visuals effectively.*
 
-- ⭐ 12030 stars
+- ⭐ 14947 stars
 - 💻 Rust
-- 📅 Updated: 2026-10-10
+- 📅 Updated: 2026-10-11
 
-![artcraft](2026/10-10/2026-10-10_daily-top_artcraft.png)
+![artcraft](2026/10-11/2026-10-11_daily-top_artcraft.png)
 
-### 4. [archify](https://github.com/tt-a1i/archify)
+### 4. [xtool](https://github.com/xtool-org/xtool)
 
 > 🤖 **推荐理由**  
-> *Archify is an open-source project that transforms ideas, plans, or codebases into interactive diagrams. With over 81,000 stars on GitHub, it integrates seamlessly with AI agents like Claude Code and Codex. Users can create and customize diagrams based on descriptions or existing repositories, making it ideal for visualizing workflows, architecture, and data flows. Key highlights include self-contained HTML outputs for easy sharing, community-driven extensions, and support for various diagram types. Explore, refine, and share your creations effortlessly with Archify.*
+> *xtool is a cross-platform replacement for Xcode, enabling developers to build and deploy iOS apps using Swift Package Manager on Linux, Windows, and macOS. With 6,609 stars, it offers extensive features including app building, signing, and installation, as well as programmatic interaction with Apple Developer Services. The command-line interface provides various subcommands for project management, device handling, and setup. Additionally, xtool includes a library, XKit, for seamless integration with Apple services in your own applications.*
 
-- ⭐ 81317 stars
+- ⭐ 6609 stars
+- 💻 Swift
+- 📅 Updated: 2026-10-11
+
+![xtool](2026/10-11/2026-10-11_daily-top_xtool.png)
+
+### 5. [open-code-review](https://github.com/alibaba/open-code-review)
+
+> 🤖 **推荐理由**  
+> *Open Code Review is an AI-powered code review tool designed for security, speed, and efficiency, validated at Alibaba's scale. It features a hybrid architecture combining deterministic pipelines with LLM agents to provide precise line-level comments and supports a multi-language ruleset for detecting common vulnerabilities (e.g., NPE, XSS). It excels in generating detailed reviews, utilizing a configurable agent for deep analysis of code changes. Open Code Review is open-source and integrates seamlessly with various coding agents, making it a robust choice for developers seeking high-quality code reviews.*
+
+- ⭐ 45921 stars
+- 💻 Go
+- 📅 Updated: 2026-10-11
+
+![open-code-review](2026/10-11/2026-10-11_daily-top_open-code-review.png)
+
+### 6. [agent-skills](https://github.com/addyosmani/agent-skills)
+
+> 🤖 **推荐理由**  
+> *Agent Skills is a comprehensive JavaScript library designed to equip AI coding agents with production-grade engineering workflows. With 25 structured skills, it guides agents through the entire development lifecycle—defining, planning, building, verifying, reviewing, and shipping code. Key features include automated skill activation based on tasks, a CLI for easy installation across various agents, and pre-configured personas for specialized reviews. By embedding best practices from Google's engineering culture, Agent Skills ensures agents maintain high-quality standards in software development.*
+
+- ⭐ 104575 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-10
+- 📅 Updated: 2026-10-11
 
-![archify](2026/10-10/2026-10-10_daily-top_archify.png)
+![agent-skills](2026/10-11/2026-10-11_daily-top_agent-skills.png)
 
-### 5. [claude-mem](https://github.com/thedotmack/claude-mem)
-
-> 🤖 **推荐理由**  
-> *Claude-Mem is a TypeScript-based project designed to maintain persistent context across sessions for AI agents like Claude Code, OpenClaw, Codex, and more. It automatically captures and compresses interactions into semantic summaries, enhancing continuity in agent knowledge. Key features include persistent memory, skill-based search, a web viewer UI, and privacy control. It supports easy installation and integration with various platforms, allowing for automatic context injection and intelligent memory retrieval. With over 99,000 stars, it is a valuable tool for enhancing AI interactions.*
-
-- ⭐ 99031 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-10
-
-![claude-mem](2026/10-10/2026-10-10_daily-top_claude-mem.png)
-
-### 6. [openGym](https://github.com/DuarteSantos8/openGym)
+### 7. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
 
 > 🤖 **推荐理由**  
-> *openGym is a self-hosted gym and body-weight tracker that empowers users to plan routines, log workouts, and monitor muscle training conditions. Key features include guided workouts, extensive exercise library (5,600+ exercises), customizable routines, and detailed progress tracking with a muscle map. It supports data import from popular fitness apps and allows secure access via passkey login. With no subscriptions or ads, openGym prioritizes user data privacy and offers a mobile app for seamless access. Ideal for fitness enthusiasts looking for control and flexibility in their training.*
+> *Ghidra is a powerful open-source software reverse engineering (SRE) framework developed by the NSA. It offers a comprehensive suite of analysis tools for disassembly, decompilation, and graphing, supporting multiple platforms (Windows, macOS, Linux) and a variety of processor instruction sets. Users can create custom scripts and extensions in Java or Python, enhancing functionality. Ghidra helps analysts uncover vulnerabilities in code and tackle complex cybersecurity challenges. Its extensibility and automation capabilities make it an essential tool for SRE professionals.*
 
-- ⭐ 8776 stars
+- ⭐ 82854 stars
+- 💻 Java
+- 📅 Updated: 2026-10-11
+
+![ghidra](2026/10-11/2026-10-11_daily-top_ghidra.png)
+
+### 8. [archify](https://github.com/tt-a1i/archify)
+
+> 🤖 **推荐理由**  
+> *Archify is an open-source JavaScript project that transforms ideas, plans, or codebases into interactive diagrams, powered by AI agents like Claude Code and Codex. With over 81,000 stars, it allows users to generate HTML visualizations from simple descriptions, making it ideal for various applications, including system architecture and travel itineraries. Key features include customizable diagrams, community-driven extensions, and a standalone output HTML for easy sharing. Archify fosters collaboration and creativity, empowering users to visualize complex concepts effortlessly.*
+
+- ⭐ 81739 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-10
+- 📅 Updated: 2026-10-11
 
-![openGym](2026/10-10/2026-10-10_daily-top_openGym.png)
+![archify](2026/10-11/2026-10-11_daily-top_archify.png)
 
-### 7. [mxc](https://github.com/microsoft/mxc)
-
-> 🤖 **推荐理由**  
-> *MXC (Microsoft eXecution Container) is a cross-platform sandboxed code execution system for running untrusted code on Windows, Linux, and macOS. Key features include multiple containment backends (e.g., ProcessContainer, LXC, Bubblewrap), policy-driven sandboxing for filesystem, network, and UI access, and lifecycle operations for container management. It offers SDKs for Rust, .NET, and Node, enabling seamless integration into applications. MXC also provides diagnostic tools for troubleshooting access issues and optional telemetry for monitoring.*
-
-- ⭐ 2463 stars
-- 💻 Rust
-- 📅 Updated: 2026-10-10
-
-![mxc](2026/10-10/2026-10-10_daily-top_mxc.png)
-
-### 8. [cc-switch](https://github.com/farion1231/cc-switch)
+### 9. [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
 
 > 🤖 **推荐理由**  
-> *CC Switch is a cross-platform desktop application designed to streamline the management of multiple AI coding tools, including Claude Code, Codex, Gemini CLI, and more. Key features include one-click switching between 90+ API providers, centralized management of MCP, Skills, and Prompts, and a unified session log view for easy tracking. The app supports local routing and aggregation modes, allowing seamless integration of various AI models. Built with Rust and Tauri, CC Switch offers a user-friendly interface for Windows, macOS, and Linux, enhancing productivity for developers working with AI technologies.*
+> *Vorssaint is a free, open-source macOS menu bar toolkit that consolidates numerous utilities into a single application. With over 25,000 stars, it offers features like per-app volume control, system monitoring, advanced window management, clipboard history, and text snippets. Users can customize their experience by installing only the features they need, ensuring no unnecessary overhead. The app prioritizes privacy, requiring minimal permissions while providing local functionality. It’s designed for macOS 14 and Apple Silicon, making it a versatile tool for enhancing productivity.*
 
-- ⭐ 142064 stars
-- 💻 Rust
-- 📅 Updated: 2026-10-10
+- ⭐ 25945 stars
+- 💻 Swift
+- 📅 Updated: 2026-10-11
 
-![cc-switch](2026/10-10/2026-10-10_daily-top_cc-switch.png)
+![vorssaint-utils](2026/10-11/2026-10-11_daily-top_vorssaint-utils.png)
 
-### 9. [agent-skills](https://github.com/addyosmani/agent-skills)
+### 10. [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
 > 🤖 **推荐理由**  
-> *Agent Skills is a production-grade toolkit designed for AI coding agents, boasting over 104,000 stars on GitHub. It encapsulates the workflows, quality gates, and best practices employed by senior engineers throughout the software development lifecycle. With 25 structured skills covering steps from defining and planning to building, verifying, reviewing, and shipping, agents can automatically invoke the right skills via 9 slash commands. The project promotes disciplined coding practices, ensures quality through verification, and integrates seamlessly with various AI tools, enhancing productivity and code reliability.*
+> *Taste Skill is a JavaScript framework designed to enhance AI-generated frontends, ensuring they are visually appealing and not generic. With over 94,000 stars on GitHub, it features a variety of portable Agent Skills for improved layout, typography, and motion. Key offerings include `design-taste-frontend` for UI design, `image-to-code-skill` for transforming images into code, and specialized skills for various design aesthetics. The framework is compatible with major coding agents like Codex and Claude, making it versatile for developers seeking enhanced design capabilities. Visit [tasteskill.dev](https://tasteskill.dev) for more details.*
 
-- ⭐ 104130 stars
+- ⭐ 94471 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-10
+- 📅 Updated: 2026-10-11
 
-![agent-skills](2026/10-10/2026-10-10_daily-top_agent-skills.png)
-
-### 10. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
-
-> 🤖 **推荐理由**  
-> *A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings. popular project, actively maintained, recently updated*
-
-- ⭐ 27023 stars
-- 🍴 1620 forks
-- 💻 JavaScript
-- 📅 Updated: 2026-10-10
-
-![security-audit-skill](2026/10-10/2026-10-10_daily-top_security-audit-skill.png)
+![taste-skill](2026/10-11/2026-10-11_daily-top_taste-skill.png)
 
 ---
 
@@ -141,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-10 05:23:59 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-11 05:15:10 UTC
