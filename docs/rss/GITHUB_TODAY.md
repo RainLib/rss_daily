@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-10-11
+# 📊 🌟 GitHub Trending Daily - 2026-10-12
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **561935** ⭐ | **57994** 🍴
+**10** Projects | **683530** ⭐ | **142660** 🍴
 
-**Top Languages:** `JavaScript` (3) · `Swift` (2) · `Java` (1)
+**Top Languages:** `TypeScript` (3) · `C++` (2) · `Rust` (2)
 
-**Updated:** 2026-10-11 05:15 UTC
+**Updated:** 2026-10-12 05:28 UTC
 
 **Categories:**
 
@@ -21,112 +21,112 @@
 ### 1. [rea](https://github.com/morluto/rea)
 
 > 🤖 **Why Recommend**  
-> *REA (Reverse Engineer Anything) is a powerful TypeScript tool designed for in-depth reverse engineering, enabling users to analyze application behavior and native binaries. With over 77,500 stars, REA allows agents to inspect JavaScript, Electron apps, .NET assemblies, and websites without source code. Key features include local analysis, evidence-based findings, integration with tools like Hopper and Ghidra, and a user-friendly setup via Node.js. The project supports a variety of agents and offers extensive documentation and community support, making it a valuable resource for reverse engineering enthusiasts.*
+> *REA (Reverse Engineer Anything) is a powerful TypeScript-based tool designed for reverse engineering binaries, applications, and runtime behaviors. With over 115,000 stars on GitHub, it enables users to investigate app features without source code, providing insights and generating similar functionalities for their projects. Core features include support for native binaries, JavaScript/Electron apps, .NET assemblies, and websites. REA operates locally, offering evidence-based analysis with tools like Hopper, Ghidra, and IDA, while facilitating seamless integration with various agents. Comprehensive documentation and community support are available through its website.*
 
-- ⭐ 77514 stars
+- ⭐ 115516 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-11
+- 📅 Updated: 2026-10-12
 
-![rea](2026/10-11/2026-10-11_daily-top_rea.png)
+![rea](2026/10-12/2026-10-12_daily-top_rea.png)
 
 ### 2. [AnyPS5](https://github.com/boykopovar/AnyPS5)
 
 > 🤖 **Why Recommend**  
-> *AnyPS5 is a powerful tool for automatically porting PS5 executables to Linux and Windows, featuring a relinker for converting executables and system PRX libraries for dynamic linking without emulation. With support for SDL-mapped controllers and customizable keyboard/mouse controls, it enhances gaming compatibility. The project includes a shader recompiler producing validated SPIR-V. It maintains a compatibility list for tested games and emphasizes research and preservation, adhering to GPL v2 licensing. With over 27,360 stars, it demonstrates significant community interest and ongoing development.*
+> *AnyPS5 is a powerful tool for automatically porting PS5 executables to Linux and Windows, boasting over 30,700 stars on GitHub. Key features include a relinker for converting executables to native formats and implementations of system PRX libraries for dynamic linking, all without emulation. The project supports SDL-mapped game controllers and customizable input mapping. A shader recompiler produces validated SPIR-V. Designed for interoperability and research, AnyPS5 emphasizes compatibility while ensuring users adhere to legal requirements. Licensed under GPL v2.*
 
-- ⭐ 27360 stars
+- ⭐ 30707 stars
 - 💻 C++
-- 📅 Updated: 2026-10-11
+- 📅 Updated: 2026-10-12
 
-![AnyPS5](2026/10-11/2026-10-11_daily-top_AnyPS5.png)
+![AnyPS5](2026/10-12/2026-10-12_daily-top_AnyPS5.png)
 
 ### 3. [artcraft](https://github.com/storytold/artcraft)
 
 > 🤖 **Why Recommend**  
-> *ArtCraft is an innovative crafting engine tailored for artists, designers, and filmmakers, enabling interactive AI image and video creation. Key features include 2D and 3D image compositing, character posing, and advanced scene blocking. Users can transform prompts into precise visual outputs, leveraging various models for text-to-image, image editing, and video generation. The platform supports a rich array of models from providers like Grok and Midjourney. With a user-friendly IDE, ArtCraft empowers creatives to refine ideas and craft stunning visuals effectively.*
+> *ArtCraft is a powerful crafting engine designed for artists, designers, and filmmakers, enabling interactive AI image and video creation. Key features include advanced 2D and 3D compositing, character posing, and scene blocking, allowing users to precisely control composition and camera placement. It supports a wide array of models for image, video, music, and 3D assets, making it versatile for creative projects. With a user-friendly interface, ArtCraft transforms prompting into crafting, offering tools for refined and repeatable results. Download it for Windows and macOS or build from source.*
 
-- ⭐ 14947 stars
+- ⭐ 18714 stars
 - 💻 Rust
-- 📅 Updated: 2026-10-11
+- 📅 Updated: 2026-10-12
 
-![artcraft](2026/10-11/2026-10-11_daily-top_artcraft.png)
+![artcraft](2026/10-12/2026-10-12_daily-top_artcraft.png)
 
-### 4. [xtool](https://github.com/xtool-org/xtool)
-
-> 🤖 **Why Recommend**  
-> *xtool is a cross-platform replacement for Xcode, enabling developers to build and deploy iOS apps using Swift Package Manager on Linux, Windows, and macOS. With 6,609 stars, it offers extensive features including app building, signing, and installation, as well as programmatic interaction with Apple Developer Services. The command-line interface provides various subcommands for project management, device handling, and setup. Additionally, xtool includes a library, XKit, for seamless integration with Apple services in your own applications.*
-
-- ⭐ 6609 stars
-- 💻 Swift
-- 📅 Updated: 2026-10-11
-
-![xtool](2026/10-11/2026-10-11_daily-top_xtool.png)
-
-### 5. [open-code-review](https://github.com/alibaba/open-code-review)
+### 4. [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
 
 > 🤖 **Why Recommend**  
-> *Open Code Review is an AI-powered code review tool designed for security, speed, and efficiency, validated at Alibaba's scale. It features a hybrid architecture combining deterministic pipelines with LLM agents to provide precise line-level comments and supports a multi-language ruleset for detecting common vulnerabilities (e.g., NPE, XSS). It excels in generating detailed reviews, utilizing a configurable agent for deep analysis of code changes. Open Code Review is open-source and integrates seamlessly with various coding agents, making it a robust choice for developers seeking high-quality code reviews.*
+> *God's Eye View is an open-source spy satellite simulator that operates in your browser, visualizing real-time spatial intelligence on a photorealistic 3D globe. Key features include live tracking of aircraft, ships, satellites, earthquakes, and public cameras, all accessible without API keys. Users can interact via voice commands, annotate the globe, and explore diverse data layers such as live traffic, weather, and military flights. With a focus on transparency and public data, it offers a unique platform for spatial exploration and analysis.*
 
-- ⭐ 45921 stars
-- 💻 Go
-- 📅 Updated: 2026-10-11
-
-![open-code-review](2026/10-11/2026-10-11_daily-top_open-code-review.png)
-
-### 6. [agent-skills](https://github.com/addyosmani/agent-skills)
-
-> 🤖 **Why Recommend**  
-> *Agent Skills is a comprehensive JavaScript library designed to equip AI coding agents with production-grade engineering workflows. With 25 structured skills, it guides agents through the entire development lifecycle—defining, planning, building, verifying, reviewing, and shipping code. Key features include automated skill activation based on tasks, a CLI for easy installation across various agents, and pre-configured personas for specialized reviews. By embedding best practices from Google's engineering culture, Agent Skills ensures agents maintain high-quality standards in software development.*
-
-- ⭐ 104575 stars
+- ⭐ 52061 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-11
+- 📅 Updated: 2026-10-12
 
-![agent-skills](2026/10-11/2026-10-11_daily-top_agent-skills.png)
+![gods-eye-view](2026/10-12/2026-10-12_daily-top_gods-eye-view.png)
 
-### 7. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
+### 5. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
 
 > 🤖 **Why Recommend**  
-> *Ghidra is a powerful open-source software reverse engineering (SRE) framework developed by the NSA. It offers a comprehensive suite of analysis tools for disassembly, decompilation, and graphing, supporting multiple platforms (Windows, macOS, Linux) and a variety of processor instruction sets. Users can create custom scripts and extensions in Java or Python, enhancing functionality. Ghidra helps analysts uncover vulnerabilities in code and tackle complex cybersecurity challenges. Its extensibility and automation capabilities make it an essential tool for SRE professionals.*
+> *Ghidra is a powerful software reverse engineering (SRE) framework developed by the NSA, designed for analyzing compiled code across various platforms like Windows, macOS, and Linux. Key features include disassembly, decompilation, graphing tools, and extensive scripting capabilities in Java and Python. Ghidra supports diverse processor instruction sets and executable formats, enabling both interactive and automated analysis. Users can create custom extensions, enhancing its functionality. The platform aims to aid cybersecurity efforts by providing deep insights into vulnerabilities in networks and systems.*
 
-- ⭐ 82854 stars
+- ⭐ 83744 stars
 - 💻 Java
-- 📅 Updated: 2026-10-11
+- 📅 Updated: 2026-10-12
 
-![ghidra](2026/10-11/2026-10-11_daily-top_ghidra.png)
+![ghidra](2026/10-12/2026-10-12_daily-top_ghidra.png)
 
-### 8. [archify](https://github.com/tt-a1i/archify)
-
-> 🤖 **Why Recommend**  
-> *Archify is an open-source JavaScript project that transforms ideas, plans, or codebases into interactive diagrams, powered by AI agents like Claude Code and Codex. With over 81,000 stars, it allows users to generate HTML visualizations from simple descriptions, making it ideal for various applications, including system architecture and travel itineraries. Key features include customizable diagrams, community-driven extensions, and a standalone output HTML for easy sharing. Archify fosters collaboration and creativity, empowering users to visualize complex concepts effortlessly.*
-
-- ⭐ 81739 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-10-11
-
-![archify](2026/10-11/2026-10-11_daily-top_archify.png)
-
-### 9. [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
+### 6. [folia-major](https://github.com/chthollyphile/folia-major)
 
 > 🤖 **Why Recommend**  
-> *Vorssaint is a free, open-source macOS menu bar toolkit that consolidates numerous utilities into a single application. With over 25,000 stars, it offers features like per-app volume control, system monitoring, advanced window management, clipboard history, and text snippets. Users can customize their experience by installing only the features they need, ensuring no unnecessary overhead. The app prioritizes privacy, requiring minimal permissions while providing local functionality. It’s designed for macOS 14 and Apple Silicon, making it a versatile tool for enhancing productivity.*
+> *Folia-major is an immersive lyrics animation-focused music player supporting local libraries, Navidrome, and major platforms like NetEase Cloud and Kugou. Key features include intelligent lyric matching, AI-generated themes, and customizable full-screen animations that enhance the listening experience. It offers a desktop version across Windows, macOS, and Linux, as well as a deployable web version via Node.js, with easy setup options on platforms like Vercel. The project also includes a modular system for extending functionality and a sync server for cross-device settings.*
 
-- ⭐ 25945 stars
+- ⭐ 5119 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-10-12
+
+![folia-major](2026/10-12/2026-10-12_daily-top_folia-major.png)
+
+### 7. [context-mode](https://github.com/mksglu/context-mode)
+
+> 🤖 **Why Recommend**  
+> *Context Mode is a TypeScript-based tool for optimizing context windows in AI coding agents, achieving a 98% reduction in output size. It enables session memory persistence, tracking every user action and file edit in an SQLite database, and supports 17 platforms via an MCP server with automatic routing. Key features include sandboxing tool outputs, session continuity, and efficient code execution through `ctx_execute`. This ensures minimal context usage while maintaining relevant information, enhancing performance across teams at major organizations like Microsoft and Google.*
+
+- ⭐ 26725 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-10-12
+
+![context-mode](2026/10-12/2026-10-12_daily-top_context-mode.png)
+
+### 8. [xtool](https://github.com/xtool-org/xtool)
+
+> 🤖 **Why Recommend**  
+> *xtool is a cross-platform replacement for Xcode, enabling the building and deployment of iOS apps using Swift Package Manager on Linux, Windows, and macOS. With features such as app signing, installation, and programmatic interaction with Apple Developer Services, xtool simplifies iOS development across multiple platforms. Its command-line interface supports project setup, device management, and SwiftPM project creation. Additionally, xtool provides a library for integrating Apple Developer Services and iOS devices into custom applications, making it a versatile tool for developers.*
+
+- ⭐ 7117 stars
 - 💻 Swift
-- 📅 Updated: 2026-10-11
+- 📅 Updated: 2026-10-12
 
-![vorssaint-utils](2026/10-11/2026-10-11_daily-top_vorssaint-utils.png)
+![xtool](2026/10-12/2026-10-12_daily-top_xtool.png)
 
-### 10. [taste-skill](https://github.com/Leonxlnx/taste-skill)
+### 9. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **Why Recommend**  
-> *Taste Skill is a JavaScript framework designed to enhance AI-generated frontends, ensuring they are visually appealing and not generic. With over 94,000 stars on GitHub, it features a variety of portable Agent Skills for improved layout, typography, and motion. Key offerings include `design-taste-frontend` for UI design, `image-to-code-skill` for transforming images into code, and specialized skills for various design aesthetics. The framework is compatible with major coding agents like Codex and Claude, making it versatile for developers seeking enhanced design capabilities. Visit [tasteskill.dev](https://tasteskill.dev) for more details.*
+> *CC Switch is a cross-platform desktop assistant designed for managing multiple AI coding tools, including Claude Code, Codex, Gemini CLI, and more. With over 90 provider presets, it allows users to switch API providers seamlessly without manual editing of configuration files. Key features include centralized management of MCP, Skills, and Prompts, local routing for diverse API formats, and aggregation of models from various providers. The app supports Windows, macOS, and Linux, offering an intuitive interface for tracking usage, quotas, and sessions, enhancing the efficiency of AI-driven development.*
 
-- ⭐ 94471 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-10-11
+- ⭐ 142953 stars
+- 💻 Rust
+- 📅 Updated: 2026-10-12
 
-![taste-skill](2026/10-11/2026-10-11_daily-top_taste-skill.png)
+![cc-switch](2026/10-12/2026-10-12_daily-top_cc-switch.png)
+
+### 10. [tensorflow](https://github.com/tensorflow/tensorflow)
+
+> 🤖 **Why Recommend**  
+> *TensorFlow is an open-source machine learning framework, boasting over 200,000 stars on GitHub. Developed by Google Brain, it offers a comprehensive ecosystem of tools and libraries for building and deploying machine learning applications. Key features include stable APIs for Python and C++, extensive community resources, and support for GPU acceleration. TensorFlow supports various platforms, including Linux and Windows, and provides a wealth of tutorials, models, and optimization guides to facilitate learning and development.*
+
+- ⭐ 200874 stars
+- 💻 C++
+- 📅 Updated: 2026-10-12
+
+![tensorflow](2026/10-12/2026-10-12_daily-top_tensorflow.png)
 
 ---
 
@@ -140,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-11 05:15:10 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-12 05:28:52 UTC
