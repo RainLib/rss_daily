@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-10-12
+# 📊 🌟 GitHub Trending Daily - 2026-10-13
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **683530** ⭐ | **142660** 🍴
+**10** 个项目 | **795715** ⭐ | **131923** 🍴
 
-**热门语言:** `TypeScript` (3) · `C++` (2) · `Rust` (2)
+**热门语言:** `TypeScript` (4) · `JavaScript` (2) · `C++` (1)
 
-**更新时间:** 2026-10-12 05:28 UTC
+**更新时间:** 2026-10-13 06:27 UTC
 
 **分类分布:**
 
@@ -21,112 +21,112 @@
 ### 1. [rea](https://github.com/morluto/rea)
 
 > 🤖 **推荐理由**  
-> *REA (Reverse Engineer Anything) is a powerful TypeScript-based tool designed for reverse engineering binaries, applications, and runtime behaviors. With over 115,000 stars on GitHub, it enables users to investigate app features without source code, providing insights and generating similar functionalities for their projects. Core features include support for native binaries, JavaScript/Electron apps, .NET assemblies, and websites. REA operates locally, offering evidence-based analysis with tools like Hopper, Ghidra, and IDA, while facilitating seamless integration with various agents. Comprehensive documentation and community support are available through its website.*
+> *REA is a powerful TypeScript-based tool designed for reverse engineering applications, binaries, and runtime behaviors. With over 172,000 stars on GitHub, it enables users to investigate app features, analyze native binaries, and understand code without needing source files. Key features include support for JavaScript, Electron, .NET, and native formats, along with seamless integration with tools like Hopper and Ghidra. REA runs analyses locally, providing detailed findings and evidence, making it a comprehensive solution for software analysis, research, and feature reconstruction.*
 
-- ⭐ 115516 stars
+- ⭐ 172372 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-12
+- 📅 Updated: 2026-10-13
 
-![rea](2026/10-12/2026-10-12_daily-top_rea.png)
+![rea](2026/10-13/2026-10-13_daily-top_rea.png)
 
-### 2. [AnyPS5](https://github.com/boykopovar/AnyPS5)
-
-> 🤖 **推荐理由**  
-> *AnyPS5 is a powerful tool for automatically porting PS5 executables to Linux and Windows, boasting over 30,700 stars on GitHub. Key features include a relinker for converting executables to native formats and implementations of system PRX libraries for dynamic linking, all without emulation. The project supports SDL-mapped game controllers and customizable input mapping. A shader recompiler produces validated SPIR-V. Designed for interoperability and research, AnyPS5 emphasizes compatibility while ensuring users adhere to legal requirements. Licensed under GPL v2.*
-
-- ⭐ 30707 stars
-- 💻 C++
-- 📅 Updated: 2026-10-12
-
-![AnyPS5](2026/10-12/2026-10-12_daily-top_AnyPS5.png)
-
-### 3. [artcraft](https://github.com/storytold/artcraft)
+### 2. [artcraft](https://github.com/storytold/artcraft)
 
 > 🤖 **推荐理由**  
-> *ArtCraft is a powerful crafting engine designed for artists, designers, and filmmakers, enabling interactive AI image and video creation. Key features include advanced 2D and 3D compositing, character posing, and scene blocking, allowing users to precisely control composition and camera placement. It supports a wide array of models for image, video, music, and 3D assets, making it versatile for creative projects. With a user-friendly interface, ArtCraft transforms prompting into crafting, offering tools for refined and repeatable results. Download it for Windows and macOS or build from source.*
+> *ArtCraft is a Rust-based IDE designed for artists, designers, and filmmakers, boasting 22,991 stars on GitHub. It facilitates interactive AI image and video creation, offering advanced features like 3D image compositing, character posing, and mixed asset crafting. Users can explore ideas quickly with tools for text-to-image, prompted image editing, and animation. ArtCraft supports multiple models and providers, including Grok and Midjourney, and allows for precise scene building and editing. Downloadable for Windows and macOS, with development options available.*
 
-- ⭐ 18714 stars
+- ⭐ 22991 stars
 - 💻 Rust
-- 📅 Updated: 2026-10-12
+- 📅 Updated: 2026-10-13
 
-![artcraft](2026/10-12/2026-10-12_daily-top_artcraft.png)
+![artcraft](2026/10-13/2026-10-13_daily-top_artcraft.png)
+
+### 3. [AnyPS5](https://github.com/boykopovar/AnyPS5)
+
+> 🤖 **推荐理由**  
+> *AnyPS5 is a powerful tool designed for the automatic porting of PS5 executables to Linux and Windows, featuring a relinker for native format conversion and implementations of system PRX libraries for dynamic linking—without the need for emulation. Key highlights include support for SDL-mapped controllers, customizable input mapping, and a shader recompiler that generates validated SPIR-V. The project emphasizes interoperability and preservation, tracking per-game compatibility progress through a community-driven roadmap. Licensed under GPL v2.*
+
+- ⭐ 33319 stars
+- 💻 C++
+- 📅 Updated: 2026-10-13
+
+![AnyPS5](2026/10-13/2026-10-13_daily-top_AnyPS5.png)
 
 ### 4. [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
 
 > 🤖 **推荐理由**  
-> *God's Eye View is an open-source spy satellite simulator that operates in your browser, visualizing real-time spatial intelligence on a photorealistic 3D globe. Key features include live tracking of aircraft, ships, satellites, earthquakes, and public cameras, all accessible without API keys. Users can interact via voice commands, annotate the globe, and explore diverse data layers such as live traffic, weather, and military flights. With a focus on transparency and public data, it offers a unique platform for spatial exploration and analysis.*
+> *God's Eye View is a web-based spy satellite simulator offering real-time spatial intelligence on a photorealistic 3D globe. With over 54,000 stars on GitHub, it integrates live data from aircraft, ships, satellites, earthquakes, and public cameras, all accessible without API keys. Key features include a cockpit view for tracking flights, hands-free voice control powered by AI, customizable overlays, and interactive tools for real-time data analysis. The platform is open-source, enabling users to inspect and extend its capabilities, fostering community-driven exploration.*
 
-- ⭐ 52061 stars
+- ⭐ 54111 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-12
+- 📅 Updated: 2026-10-13
 
-![gods-eye-view](2026/10-12/2026-10-12_daily-top_gods-eye-view.png)
+![gods-eye-view](2026/10-13/2026-10-13_daily-top_gods-eye-view.png)
 
 ### 5. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
 
 > 🤖 **推荐理由**  
-> *Ghidra is a powerful software reverse engineering (SRE) framework developed by the NSA, designed for analyzing compiled code across various platforms like Windows, macOS, and Linux. Key features include disassembly, decompilation, graphing tools, and extensive scripting capabilities in Java and Python. Ghidra supports diverse processor instruction sets and executable formats, enabling both interactive and automated analysis. Users can create custom extensions, enhancing its functionality. The platform aims to aid cybersecurity efforts by providing deep insights into vulnerabilities in networks and systems.*
+> *Ghidra is a powerful software reverse engineering (SRE) framework developed by the NSA, featuring high-end tools for analyzing compiled code across platforms like Windows, macOS, and Linux. Key functionalities include disassembly, decompilation, graphing, and scripting, supporting various processor instruction sets and executable formats. Users can create custom extensions and scripts in Java or Python. Ghidra aims to enhance cybersecurity by providing a scalable, customizable platform for analyzing malicious code and identifying system vulnerabilities.*
 
-- ⭐ 83744 stars
+- ⭐ 85522 stars
 - 💻 Java
-- 📅 Updated: 2026-10-12
+- 📅 Updated: 2026-10-13
 
-![ghidra](2026/10-12/2026-10-12_daily-top_ghidra.png)
+![ghidra](2026/10-13/2026-10-13_daily-top_ghidra.png)
 
-### 6. [folia-major](https://github.com/chthollyphile/folia-major)
-
-> 🤖 **推荐理由**  
-> *Folia-major is an immersive lyrics animation-focused music player supporting local libraries, Navidrome, and major platforms like NetEase Cloud and Kugou. Key features include intelligent lyric matching, AI-generated themes, and customizable full-screen animations that enhance the listening experience. It offers a desktop version across Windows, macOS, and Linux, as well as a deployable web version via Node.js, with easy setup options on platforms like Vercel. The project also includes a modular system for extending functionality and a sync server for cross-device settings.*
-
-- ⭐ 5119 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-12
-
-![folia-major](2026/10-12/2026-10-12_daily-top_folia-major.png)
-
-### 7. [context-mode](https://github.com/mksglu/context-mode)
+### 6. [xtool](https://github.com/xtool-org/xtool)
 
 > 🤖 **推荐理由**  
-> *Context Mode is a TypeScript-based tool for optimizing context windows in AI coding agents, achieving a 98% reduction in output size. It enables session memory persistence, tracking every user action and file edit in an SQLite database, and supports 17 platforms via an MCP server with automatic routing. Key features include sandboxing tool outputs, session continuity, and efficient code execution through `ctx_execute`. This ensures minimal context usage while maintaining relevant information, enhancing performance across teams at major organizations like Microsoft and Google.*
+> *xtool is a cross-platform replacement for Xcode, enabling the building and deployment of iOS apps with Swift Package Manager on Linux, Windows, and macOS. Key features include the ability to build SwiftPM packages into iOS apps, sign and install apps, and programmatically interact with Apple Developer Services. The tool offers a command-line interface for setup, project creation, device management, and more. With over 8,300 stars on GitHub, xtool provides a robust library for developers to integrate Apple services into their applications seamlessly.*
 
-- ⭐ 26725 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-12
-
-![context-mode](2026/10-12/2026-10-12_daily-top_context-mode.png)
-
-### 8. [xtool](https://github.com/xtool-org/xtool)
-
-> 🤖 **推荐理由**  
-> *xtool is a cross-platform replacement for Xcode, enabling the building and deployment of iOS apps using Swift Package Manager on Linux, Windows, and macOS. With features such as app signing, installation, and programmatic interaction with Apple Developer Services, xtool simplifies iOS development across multiple platforms. Its command-line interface supports project setup, device management, and SwiftPM project creation. Additionally, xtool provides a library for integrating Apple Developer Services and iOS devices into custom applications, making it a versatile tool for developers.*
-
-- ⭐ 7117 stars
+- ⭐ 8356 stars
 - 💻 Swift
-- 📅 Updated: 2026-10-12
+- 📅 Updated: 2026-10-13
 
-![xtool](2026/10-12/2026-10-12_daily-top_xtool.png)
+![xtool](2026/10-13/2026-10-13_daily-top_xtool.png)
 
-### 9. [cc-switch](https://github.com/farion1231/cc-switch)
-
-> 🤖 **推荐理由**  
-> *CC Switch is a cross-platform desktop assistant designed for managing multiple AI coding tools, including Claude Code, Codex, Gemini CLI, and more. With over 90 provider presets, it allows users to switch API providers seamlessly without manual editing of configuration files. Key features include centralized management of MCP, Skills, and Prompts, local routing for diverse API formats, and aggregation of models from various providers. The app supports Windows, macOS, and Linux, offering an intuitive interface for tracking usage, quotas, and sessions, enhancing the efficiency of AI-driven development.*
-
-- ⭐ 142953 stars
-- 💻 Rust
-- 📅 Updated: 2026-10-12
-
-![cc-switch](2026/10-12/2026-10-12_daily-top_cc-switch.png)
-
-### 10. [tensorflow](https://github.com/tensorflow/tensorflow)
+### 7. [ECC](https://github.com/affaan-m/ECC)
 
 > 🤖 **推荐理由**  
-> *TensorFlow is an open-source machine learning framework, boasting over 200,000 stars on GitHub. Developed by Google Brain, it offers a comprehensive ecosystem of tools and libraries for building and deploying machine learning applications. Key features include stable APIs for Python and C++, extensive community resources, and support for GPU acceleration. TensorFlow supports various platforms, including Linux and Windows, and provides a wealth of tutorials, models, and optimization guides to facilitate learning and development.*
+> *ECC is a performance optimization system for code generation agents like Claude Code and Codex, boasting 71 specialized agents, 311 skills, and 97 command shims. It streamlines workflows with features such as planning, testing, implementation, security scanning via AgentShield, and continuous learning. ECC allows for seamless integration across platforms, including Claude Code, Codex, and Qoder, enhancing code quality and productivity. Key highlights include guided setup, memory persistence, and a collaborative community for ongoing support. The project is open-source and MIT-licensed.*
 
-- ⭐ 200874 stars
-- 💻 C++
-- 📅 Updated: 2026-10-12
+- ⭐ 278070 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-10-13
 
-![tensorflow](2026/10-12/2026-10-12_daily-top_tensorflow.png)
+![ECC](2026/10-13/2026-10-13_daily-top_ECC.png)
+
+### 8. [paperclip](https://github.com/paperclipai/paperclip)
+
+> 🤖 **推荐理由**  
+> *Paperclip is an open-source app designed to manage AI agents in the workplace, boasting over 101,000 stars on GitHub. It orchestrates teams of AI agents, enabling users to define goals, assign tasks, and track progress from a single dashboard. Key features include customizable org charts, cost control, governance, and task threads. Users can connect various agents, automate workflows, and monitor their organization’s performance in real-time. Ideal for teams seeking to build autonomous AI organizations, Paperclip simplifies complex agent management with tools resembling traditional task managers.*
+
+- ⭐ 101112 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-10-13
+
+![paperclip](2026/10-13/2026-10-13_daily-top_paperclip.png)
+
+### 9. [folia-major](https://github.com/chthollyphile/folia-major)
+
+> 🤖 **推荐理由**  
+> *Folia-major is an immersive online music player focused on dynamic lyric animations. It supports platforms like NetEase Cloud, KuGou, and Navidrome, along with local music libraries. Key features include intelligent lyric matching, AI-generated themes, and customizable fullscreen lyric animations. Users can deploy a desktop version via Electron or a web version using Node.js, with options for Vercel or Cloudflare deployment. The experimental module system allows users to enhance lyric visuals and functionality. Folia also offers a sync server for cross-device settings synchronization.*
+
+- ⭐ 5608 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-10-13
+
+![folia-major](2026/10-13/2026-10-13_daily-top_folia-major.png)
+
+### 10. [freellmapi](https://github.com/tashfeenahmed/freellmapi)
+
+> 🤖 **推荐理由**  
+> *FreeLLMAPI is a robust API aggregator enabling access to 34 free LLM providers and 635 model endpoints through a single OpenAI-compatible `/v1` endpoint. It supports various tasks including chat, embeddings, and media generation, utilizing smart routing and automatic failover to optimize performance and stay within token limits. Key features include encrypted API keys, per-key usage tracking, a self-updating model catalog, and compatibility with multiple coding agents. Ideal for personal experimentation, it leverages 7.4 billion tokens per month across diverse models.*
+
+- ⭐ 34254 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-10-13
+
+![freellmapi](2026/10-13/2026-10-13_daily-top_freellmapi.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-12 05:28:52 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-13 06:27:46 UTC
