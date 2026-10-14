@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-10-13
+# 📊 🌟 GitHub Trending Daily - 2026-10-14
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **795715** ⭐ | **131923** 🍴
+**10** Projects | **593811** ⭐ | **97872** 🍴
 
-**Top Languages:** `TypeScript` (4) · `JavaScript` (2) · `Rust` (1)
+**Top Languages:** `TypeScript` (4) · `Go` (2) · `JavaScript` (1)
 
-**Updated:** 2026-10-13 06:27 UTC
+**Updated:** 2026-10-14 04:29 UTC
 
 **Categories:**
 
@@ -21,112 +21,112 @@
 ### 1. [rea](https://github.com/morluto/rea)
 
 > 🤖 **Why Recommend**  
-> *REA is a powerful TypeScript-based tool designed for reverse engineering applications, binaries, and runtime behaviors. With over 172,000 stars on GitHub, it enables users to investigate app features, analyze native binaries, and understand code without needing source files. Key features include support for JavaScript, Electron, .NET, and native formats, along with seamless integration with tools like Hopper and Ghidra. REA runs analyses locally, providing detailed findings and evidence, making it a comprehensive solution for software analysis, research, and feature reconstruction.*
+> *REA is an advanced reverse engineering tool that enables in-depth analysis of applications and native binaries using agents. It supports various targets, including JavaScript, Electron apps, .NET assemblies, and native binaries, providing insights such as pseudocode, assembly, and module relationships. Users can set up their agents to inspect features within apps, gather evidence, and create similar functionalities. With a focus on local analysis and a robust tool catalog, REA facilitates extensive investigations while maintaining user privacy. Join the community for support and collaboration.*
 
-- ⭐ 172372 stars
+- ⭐ 214386 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-13
+- 📅 Updated: 2026-10-14
 
-![rea](2026/10-13/2026-10-13_daily-top_rea.png)
+![rea](2026/10-14/2026-10-14_daily-top_rea.png)
 
 ### 2. [artcraft](https://github.com/storytold/artcraft)
 
 > 🤖 **Why Recommend**  
-> *ArtCraft is a Rust-based IDE designed for artists, designers, and filmmakers, boasting 22,991 stars on GitHub. It facilitates interactive AI image and video creation, offering advanced features like 3D image compositing, character posing, and mixed asset crafting. Users can explore ideas quickly with tools for text-to-image, prompted image editing, and animation. ArtCraft supports multiple models and providers, including Grok and Midjourney, and allows for precise scene building and editing. Downloadable for Windows and macOS, with development options available.*
+> *ArtCraft is an innovative crafting engine designed for artists, designers, and filmmakers, facilitating interactive AI image and video creation. Key features include 2D and 3D image compositing, character posing, scene blocking with kitbashing, and advanced background removal. Users can explore ideas through text prompts, refine images with canvas editing, and animate creations into videos. Supporting various models and workflows, ArtCraft integrates with providers like Grok, Midjourney, and Sora, making it a versatile tool for creative projects. Downloadable for Windows and macOS, it boasts a vibrant community and extensive documentation.*
 
-- ⭐ 22991 stars
+- ⭐ 26151 stars
 - 💻 Rust
-- 📅 Updated: 2026-10-13
+- 📅 Updated: 2026-10-14
 
-![artcraft](2026/10-13/2026-10-13_daily-top_artcraft.png)
+![artcraft](2026/10-14/2026-10-14_daily-top_artcraft.png)
 
-### 3. [AnyPS5](https://github.com/boykopovar/AnyPS5)
-
-> 🤖 **Why Recommend**  
-> *AnyPS5 is a powerful tool designed for the automatic porting of PS5 executables to Linux and Windows, featuring a relinker for native format conversion and implementations of system PRX libraries for dynamic linking—without the need for emulation. Key highlights include support for SDL-mapped controllers, customizable input mapping, and a shader recompiler that generates validated SPIR-V. The project emphasizes interoperability and preservation, tracking per-game compatibility progress through a community-driven roadmap. Licensed under GPL v2.*
-
-- ⭐ 33319 stars
-- 💻 C++
-- 📅 Updated: 2026-10-13
-
-![AnyPS5](2026/10-13/2026-10-13_daily-top_AnyPS5.png)
-
-### 4. [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+### 3. [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
 
 > 🤖 **Why Recommend**  
-> *God's Eye View is a web-based spy satellite simulator offering real-time spatial intelligence on a photorealistic 3D globe. With over 54,000 stars on GitHub, it integrates live data from aircraft, ships, satellites, earthquakes, and public cameras, all accessible without API keys. Key features include a cockpit view for tracking flights, hands-free voice control powered by AI, customizable overlays, and interactive tools for real-time data analysis. The platform is open-source, enabling users to inspect and extend its capabilities, fostering community-driven exploration.*
+> *God's Eye View is a browser-based spy satellite simulator offering real-time spatial intelligence on a photorealistic 3D globe. Key features include live tracking of aircraft, ships, satellites, and earthquakes, hands-free voice control, and the ability to visualize data layers like traffic and public cameras. Users can toggle between sensor styles, capture cinematic tours, and analyze live data with an AI assistant. The project is open source, allowing customization and extension, making it a powerful tool for exploring public data without the need for API keys.*
 
-- ⭐ 54111 stars
+- ⭐ 55678 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-13
+- 📅 Updated: 2026-10-14
 
-![gods-eye-view](2026/10-13/2026-10-13_daily-top_gods-eye-view.png)
+![gods-eye-view](2026/10-14/2026-10-14_daily-top_gods-eye-view.png)
+
+### 4. [pentagi](https://github.com/vxcontrol/pentagi)
+
+> 🤖 **Why Recommend**  
+> *PentAGI is a fully autonomous AI agent system designed for complex penetration testing tasks. It features a self-hosted multi-agent architecture that utilizes 20+ professional tools, operates in a secure Docker environment, and can connect to over 10 LLM providers, including OpenAI, Anthropic, and Google AI. Key highlights include a smart memory system for long-term learning, optional knowledge graph integration with Neo4j, REST and GraphQL APIs for automation, and detailed reporting capabilities. PentAGI is ideal for security engineers and ethical hackers seeking reliable and scalable solutions for authorized testing.*
+
+- ⭐ 28362 stars
+- 💻 Go
+- 📅 Updated: 2026-10-14
+
+![pentagi](2026/10-14/2026-10-14_daily-top_pentagi.png)
 
 ### 5. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
 
 > 🤖 **Why Recommend**  
-> *Ghidra is a powerful software reverse engineering (SRE) framework developed by the NSA, featuring high-end tools for analyzing compiled code across platforms like Windows, macOS, and Linux. Key functionalities include disassembly, decompilation, graphing, and scripting, supporting various processor instruction sets and executable formats. Users can create custom extensions and scripts in Java or Python. Ghidra aims to enhance cybersecurity by providing a scalable, customizable platform for analyzing malicious code and identifying system vulnerabilities.*
+> *Ghidra is a powerful software reverse engineering (SRE) framework developed by the NSA, featuring a comprehensive suite of tools for analyzing compiled code across Windows, macOS, and Linux platforms. Key features include disassembly, decompilation, graphing, and extensive script support in Java and Python. Ghidra is designed for both interactive and automated use, allowing users to create custom extensions. It addresses complex SRE challenges, aiding cybersecurity efforts by enabling deep analysis of malicious code and system vulnerabilities.*
 
-- ⭐ 85522 stars
+- ⭐ 86489 stars
 - 💻 Java
-- 📅 Updated: 2026-10-13
+- 📅 Updated: 2026-10-14
 
-![ghidra](2026/10-13/2026-10-13_daily-top_ghidra.png)
+![ghidra](2026/10-14/2026-10-14_daily-top_ghidra.png)
 
 ### 6. [xtool](https://github.com/xtool-org/xtool)
 
 > 🤖 **Why Recommend**  
-> *xtool is a cross-platform replacement for Xcode, enabling the building and deployment of iOS apps with Swift Package Manager on Linux, Windows, and macOS. Key features include the ability to build SwiftPM packages into iOS apps, sign and install apps, and programmatically interact with Apple Developer Services. The tool offers a command-line interface for setup, project creation, device management, and more. With over 8,300 stars on GitHub, xtool provides a robust library for developers to integrate Apple services into their applications seamlessly.*
+> *xtool is a cross-platform replacement for Xcode, enabling the build and deployment of iOS apps using SwiftPM on Linux, Windows, and macOS. With features like app signing, installation, and programmatic interaction with Apple Developer Services, it streamlines iOS development. The command-line interface supports project setup, authentication, and device management. Additionally, xtool offers a library (XKit) for seamless integration with Apple services in custom apps. With over 9,600 stars, it's a valuable tool for developers seeking versatility beyond Xcode.*
 
-- ⭐ 8356 stars
+- ⭐ 9627 stars
 - 💻 Swift
-- 📅 Updated: 2026-10-13
+- 📅 Updated: 2026-10-14
 
-![xtool](2026/10-13/2026-10-13_daily-top_xtool.png)
+![xtool](2026/10-14/2026-10-14_daily-top_xtool.png)
 
-### 7. [ECC](https://github.com/affaan-m/ECC)
-
-> 🤖 **Why Recommend**  
-> *ECC is a performance optimization system for code generation agents like Claude Code and Codex, boasting 71 specialized agents, 311 skills, and 97 command shims. It streamlines workflows with features such as planning, testing, implementation, security scanning via AgentShield, and continuous learning. ECC allows for seamless integration across platforms, including Claude Code, Codex, and Qoder, enhancing code quality and productivity. Key highlights include guided setup, memory persistence, and a collaborative community for ongoing support. The project is open-source and MIT-licensed.*
-
-- ⭐ 278070 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-10-13
-
-![ECC](2026/10-13/2026-10-13_daily-top_ECC.png)
-
-### 8. [paperclip](https://github.com/paperclipai/paperclip)
+### 7. [context-mode](https://github.com/mksglu/context-mode)
 
 > 🤖 **Why Recommend**  
-> *Paperclip is an open-source app designed to manage AI agents in the workplace, boasting over 101,000 stars on GitHub. It orchestrates teams of AI agents, enabling users to define goals, assign tasks, and track progress from a single dashboard. Key features include customizable org charts, cost control, governance, and task threads. Users can connect various agents, automate workflows, and monitor their organization’s performance in real-time. Ideal for teams seeking to build autonomous AI organizations, Paperclip simplifies complex agent management with tools resembling traditional task managers.*
+> *Context Mode is a TypeScript-based GitHub project designed for optimizing context windows in AI coding agents. It achieves a 98% reduction in output size by sandboxing tool data, maintaining session memory through SQLite, and enforcing routing across 17 platforms via hooks. Key features include advanced context saving, session continuity, and efficient code execution, allowing agents to generate scripts instead of processing raw data. With tools like `ctx_execute` and `ctx_search`, Context Mode enhances AI productivity while ensuring data privacy and security.*
 
-- ⭐ 101112 stars
+- ⭐ 28401 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-13
+- 📅 Updated: 2026-10-14
 
-![paperclip](2026/10-13/2026-10-13_daily-top_paperclip.png)
+![context-mode](2026/10-14/2026-10-14_daily-top_context-mode.png)
 
-### 9. [folia-major](https://github.com/chthollyphile/folia-major)
-
-> 🤖 **Why Recommend**  
-> *Folia-major is an immersive online music player focused on dynamic lyric animations. It supports platforms like NetEase Cloud, KuGou, and Navidrome, along with local music libraries. Key features include intelligent lyric matching, AI-generated themes, and customizable fullscreen lyric animations. Users can deploy a desktop version via Electron or a web version using Node.js, with options for Vercel or Cloudflare deployment. The experimental module system allows users to enhance lyric visuals and functionality. Folia also offers a sync server for cross-device settings synchronization.*
-
-- ⭐ 5608 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-13
-
-![folia-major](2026/10-13/2026-10-13_daily-top_folia-major.png)
-
-### 10. [freellmapi](https://github.com/tashfeenahmed/freellmapi)
+### 8. [hyperframes](https://github.com/heygen-com/hyperframes)
 
 > 🤖 **Why Recommend**  
-> *FreeLLMAPI is a robust API aggregator enabling access to 34 free LLM providers and 635 model endpoints through a single OpenAI-compatible `/v1` endpoint. It supports various tasks including chat, embeddings, and media generation, utilizing smart routing and automatic failover to optimize performance and stay within token limits. Key features include encrypted API keys, per-key usage tracking, a self-updating model catalog, and compatibility with multiple coding agents. Ideal for personal experimentation, it leverages 7.4 billion tokens per month across diverse models.*
+> *HyperFrames is an open-source framework that transforms HTML, CSS, and media into deterministic MP4 videos, designed for AI coding agents. It features a CLI for local rendering, a robust skills library for building videos through commands, and seamless integration with various animation libraries. Key services include AWS Lambda rendering, a community playground for collaboration, and tools for importing assets from Figma. HyperFrames emphasizes HTML-native authoring, determinism, and agent-friendly workflows, making it ideal for automated video production.*
 
-- ⭐ 34254 stars
+- ⭐ 62952 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-13
+- 📅 Updated: 2026-10-14
 
-![freellmapi](2026/10-13/2026-10-13_daily-top_freellmapi.png)
+![hyperframes](2026/10-14/2026-10-14_daily-top_hyperframes.png)
+
+### 9. [freellmapi](https://github.com/tashfeenahmed/freellmapi)
+
+> 🤖 **Why Recommend**  
+> *FreeLLMAPI is a TypeScript-based API aggregator that provides access to 34 free LLM providers and 635 model endpoints, offering up to 7.4 billion tokens per month through a single OpenAI-compatible endpoint. Key features include smart routing for optimal model selection, automatic failover during rate limits, encrypted key storage, and comprehensive support for chat, embeddings, image, and audio tasks. Built for personal experimentation, it allows users to manage keys and monitor usage easily via a dashboard. The project boasts 34,799 stars on GitHub, emphasizing its popularity and utility.*
+
+- ⭐ 34799 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-10-14
+
+![freellmapi](2026/10-14/2026-10-14_daily-top_freellmapi.png)
+
+### 10. [open-code-review](https://github.com/alibaba/open-code-review)
+
+> 🤖 **Why Recommend**  
+> *Open Code Review is an AI-powered code review CLI tool developed by Alibaba, designed for secure and efficient code analysis. Key features include deterministic pipelines for precise line-level comments, a built-in multi-language ruleset addressing common vulnerabilities (NPE, thread-safety, XSS, SQL injection), and compatibility with OpenAI & Anthropic models. It effectively reads Git diffs and can scan entire files for auditing. With over 46,000 stars, it promises high precision and speed, making it suitable for large-scale development environments.*
+
+- ⭐ 46966 stars
+- 💻 Go
+- 📅 Updated: 2026-10-14
+
+![open-code-review](2026/10-14/2026-10-14_daily-top_open-code-review.png)
 
 ---
 
@@ -140,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-13 06:27:46 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-14 04:29:34 UTC
