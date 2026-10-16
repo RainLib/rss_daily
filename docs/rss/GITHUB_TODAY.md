@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-10-15
+# 📊 🌟 GitHub Trending Daily - 2026-10-16
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **681451** ⭐ | **108934** 🍴
+**10** Projects | **898542** ⭐ | **168934** 🍴
 
-**Top Languages:** `TypeScript` (5) · `Java` (1) · `Go` (1)
+**Top Languages:** `TypeScript` (5) · `Swift` (1) · `Go` (1)
 
-**Updated:** 2026-10-15 04:11 UTC
+**Updated:** 2026-10-16 04:07 UTC
 
 **Categories:**
 
@@ -21,112 +21,112 @@
 ### 1. [rea](https://github.com/morluto/rea)
 
 > 🤖 **Why Recommend**  
-> *REA is a powerful TypeScript-based reverse engineering tool designed to analyze and understand application behavior and native binaries. With over 247,000 stars on GitHub, it enables users to inspect JavaScript, Electron apps, .NET assemblies, and more without requiring source code. Key features include local analysis, integration with tools like Hopper and Ghidra, and a flexible agent setup. Users can request insights into app functionality and receive detailed findings, including pseudocode and evidence. REA supports a wide range of formats and environments, making it a versatile choice for software analysis and development.*
+> *REA is a powerful reverse engineering tool designed to analyze applications and native binaries. It allows users to inspect app behavior without source code, providing insights down to the binary level. Key features include support for native binaries, JavaScript, Electron apps, .NET assemblies, and more. Users can interact with their agents to investigate functionalities and generate similar features. REA operates locally, ensuring data privacy, and offers comprehensive guides and showcases to facilitate learning and application. With a vibrant community and extensive documentation, REA is ideal for developers and researchers alike.*
 
-- ⭐ 247564 stars
+- ⭐ 274699 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-15
+- 📅 Updated: 2026-10-16
 
-![rea](2026/10-15/2026-10-15_daily-top_rea.png)
+![rea](2026/10-16/2026-10-16_daily-top_rea.png)
 
-### 2. [artcraft](https://github.com/storytold/artcraft)
-
-> 🤖 **Why Recommend**  
-> *ArtCraft is a powerful crafting engine designed for artists, designers, and filmmakers, enabling interactive AI image and video creation. Key features include 2D and 3D compositing, character posing, and scene blocking, allowing users to build compositions with depth and precision. The platform supports diverse models for image, video, and sound generation, including providers like Midjourney and Grok. With a user-friendly interface for crafting and refining ideas, ArtCraft streamlines the creative process, making it an essential tool for visual storytelling.*
-
-- ⭐ 28126 stars
-- 💻 Rust
-- 📅 Updated: 2026-10-15
-
-![artcraft](2026/10-15/2026-10-15_daily-top_artcraft.png)
-
-### 3. [xtool](https://github.com/xtool-org/xtool)
+### 2. [pentagi](https://github.com/vxcontrol/pentagi)
 
 > 🤖 **Why Recommend**  
-> *xtool is a cross-platform alternative to Xcode, enabling the building and deployment of iOS apps using SwiftPM on Linux, Windows, and macOS. With over 11,000 stars, it offers essential features such as building SwiftPM packages into iOS apps, signing and installing applications, and programmatic interaction with Apple Developer Services. The command-line interface allows for project setup, device management, and development tasks. Additionally, xtool provides a library, XKit, for seamless integration with Apple services and devices in custom applications.*
+> *PentAGI is a powerful, open-source autonomous AI agent system designed for penetration testing, capable of executing complex tasks within a secure Docker environment. Key features include built-in access to over 20 professional security tools, advanced memory systems for persistent learning, and integration with multiple cloud LLM providers. The platform supports REST and GraphQL APIs for automation and provides detailed reporting and monitoring capabilities. Additionally, it features a community-driven approach, allowing users to collaborate and share insights within the cybersecurity domain.*
 
-- ⭐ 11032 stars
-- 💻 Swift
-- 📅 Updated: 2026-10-15
-
-![xtool](2026/10-15/2026-10-15_daily-top_xtool.png)
-
-### 4. [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
-
-> 🤖 **Why Recommend**  
-> *God's Eye View is an open-source spy satellite simulator that offers real-time spatial intelligence on a photorealistic 3D globe. Key features include live tracking of aircraft, ships, satellites, and earthquakes, along with hands-free voice control powered by AI. Users can explore real-world data, annotate maps, and visualize weather patterns without API keys. The project boasts over 56,000 stars on GitHub, reached #1 on GitHub Trending, and provides various layers for exploration, including traffic, public cameras, and space missions, making it a robust tool for geospatial intelligence.*
-
-- ⭐ 56537 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-10-15
-
-![gods-eye-view](2026/10-15/2026-10-15_daily-top_gods-eye-view.png)
-
-### 5. [hyperframes](https://github.com/heygen-com/hyperframes)
-
-> 🤖 **Why Recommend**  
-> *HyperFrames is an open-source framework that transforms HTML, CSS, and media into deterministic MP4 videos, designed for use with coding agents. Key features include a user-friendly CLI, a router for video creation workflows, and 21 skills for various video types like product launches, explainer videos, and slideshows. It supports seamless integration with AI agents, ensuring automated rendering and editing. HyperFrames also offers a community-driven catalog for reusable components, making video production accessible and efficient. Its HTML-native approach eliminates the need for proprietary formats, enhancing collaboration and creativity.*
-
-- ⭐ 63836 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-15
-
-![hyperframes](2026/10-15/2026-10-15_daily-top_hyperframes.png)
-
-### 6. [pentagi](https://github.com/vxcontrol/pentagi)
-
-> 🤖 **Why Recommend**  
-> *PentAGI is a fully autonomous AI agent system for advanced penetration testing, allowing users to define targets and goals in plain language. Key features include a suite of over 20 professional tools, a smart memory system for storing results, and integration with multiple LLM providers like OpenAI and Anthropic. It operates in a secure Docker environment, offering REST and GraphQL APIs for automation. Additional capabilities include knowledge graph integration, comprehensive monitoring, and detailed reporting, making it an essential tool for security engineers and ethical hackers.*
-
-- ⭐ 29722 stars
+- ⭐ 30531 stars
 - 💻 Go
-- 📅 Updated: 2026-10-15
+- 📅 Updated: 2026-10-16
 
-![pentagi](2026/10-15/2026-10-15_daily-top_pentagi.png)
+![pentagi](2026/10-16/2026-10-16_daily-top_pentagi.png)
 
-### 7. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
+### 3. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
 
 > 🤖 **Why Recommend**  
-> *Ghidra is a powerful open-source software reverse engineering (SRE) framework developed by the NSA, designed for analyzing compiled code across various platforms, including Windows, macOS, and Linux. Key features include disassembly, decompilation, graphing, and scripting capabilities, supporting numerous processor instruction sets and executable formats. Ghidra operates in both interactive and automated modes, allowing users to create custom scripts and extensions in Java or Python. Its robust tools enable in-depth analysis of malicious code, aiding cybersecurity efforts.*
+> *Ghidra is a powerful software reverse engineering (SRE) framework developed by the NSA, featuring an extensive suite of tools for analyzing compiled code across multiple platforms (Windows, macOS, Linux). Key functionalities include disassembly, decompilation, graphing, and scripting, supporting various processor instruction sets and executable formats. Ghidra enables both interactive and automated analysis, allowing users to create custom extensions and scripts in Java or Python. Its design addresses complex cybersecurity challenges, making it essential for vulnerability analysis and malicious code investigations.*
 
-- ⭐ 87733 stars
+- ⭐ 88937 stars
 - 💻 Java
-- 📅 Updated: 2026-10-15
+- 📅 Updated: 2026-10-16
 
-![ghidra](2026/10-15/2026-10-15_daily-top_ghidra.png)
+![ghidra](2026/10-16/2026-10-16_daily-top_ghidra.png)
+
+### 4. [xtool](https://github.com/xtool-org/xtool)
+
+> 🤖 **Why Recommend**  
+> *xtool is a cross-platform replacement for Xcode, enabling the building and deployment of iOS apps using SwiftPM on Linux, Windows, and macOS. With over 11,640 stars, it offers essential features such as package building, iOS app signing and installation, and programmatic interaction with Apple Developer Services. Users can easily set up their development environment, create new projects, and manage devices through a comprehensive command line interface. The included library, XKit, allows for seamless integration with Apple services in custom applications.*
+
+- ⭐ 11640 stars
+- 💻 Swift
+- 📅 Updated: 2026-10-16
+
+![xtool](2026/10-16/2026-10-16_daily-top_xtool.png)
+
+### 5. [ECC](https://github.com/affaan-m/ECC)
+
+> 🤖 **Why Recommend**  
+> *ECC is an advanced performance optimization system for coding agents like Claude Code, Codex, and others, boasting 71 specialized agents and 311 skills. Key features include a guided installation process, continuous learning capabilities, and security auditing with AgentShield. ECC streamlines workflows through structured planning, testing, and review processes, enhancing code quality and efficiency. It supports multiple platforms, offers extensive documentation, and integrates with community tools, making it a versatile choice for developers seeking to optimize their coding environments.*
+
+- ⭐ 280540 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-10-16
+
+![ECC](2026/10-16/2026-10-16_daily-top_ECC.png)
+
+### 6. [LibreTV](https://github.com/LibreSpark/LibreTV)
+
+> 🤖 **Why Recommend**  
+> *LibreTV is a free video aggregation and streaming platform built with Next.js, TypeScript, and Tailwind CSS. Key features include multi-source search, HLS playback with ArtPlayer, live IPTV support, and a dual-theme interface. Users benefit from progress synchronization, source health monitoring, and customizable recommendations. Deployment is straightforward via Docker, ensuring easy setup and scalability. The platform does not host content but consolidates third-party sources, providing a seamless viewing experience while ensuring compliance with content legality.*
+
+- ⭐ 18157 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-10-16
+
+![LibreTV](2026/10-16/2026-10-16_daily-top_LibreTV.png)
+
+### 7. [orca](https://github.com/stablyai/orca)
+
+> 🤖 **Why Recommend**  
+> *Orca is an advanced development environment (ADE) designed for managing a fleet of coding agents in parallel, accessible on desktop and mobile. With features like parallel worktrees for isolated agent prompts, a mobile companion app for remote monitoring, and SSH worktrees for remote operations, it enhances productivity. Users can compare agent outputs, annotate AI diffs, and utilize a robust CLI for automation. Orca supports various agents like Codex and ClaudeCode, making it versatile for developers. Join the community on Discord for support and updates.*
+
+- ⭐ 93646 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-10-16
+
+![orca](2026/10-16/2026-10-16_daily-top_orca.png)
 
 ### 8. [context-mode](https://github.com/mksglu/context-mode)
 
 > 🤖 **Why Recommend**  
-> *Context Mode is a TypeScript-based tool designed to optimize context windows for AI coding agents. It achieves a 98% reduction in data size by sandboxing outputs, ensuring session continuity through SQLite memory persistence, and enforcing routing across 17 platforms via its MCP server. Key features include context-saving, session tracking, and effective command execution across multiple programming languages. The tool also enhances user experience by minimizing unnecessary context usage and allowing intelligent search capabilities, making it invaluable for efficient AI-assisted coding.*
+> *Context Mode is an advanced context window optimization tool for AI coding agents, achieving a remarkable 98% reduction in output size. Key features include session memory persistence, sandboxing of tool outputs, and automatic routing across 17 platforms using hooks. It supports multiple programming languages, enabling efficient execution without flooding context. The tool also captures user decisions and session details, ensuring continuity even after conversation compaction. With over 29,000 stars, it's actively used by major tech companies like Microsoft and Google, emphasizing its reliability and effectiveness in enhancing AI coding workflows.*
 
-- ⭐ 29261 stars
+- ⭐ 29867 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-15
+- 📅 Updated: 2026-10-16
 
-![context-mode](2026/10-15/2026-10-15_daily-top_context-mode.png)
+![context-mode](2026/10-16/2026-10-16_daily-top_context-mode.png)
 
-### 9. [orca](https://github.com/stablyai/orca)
+### 9. [hyperframes](https://github.com/heygen-com/hyperframes)
 
 > 🤖 **Why Recommend**  
-> *Orca is an advanced development environment (ADE) designed for managing a fleet of parallel coding agents, available on desktop and mobile. Key features include parallel worktrees for comparing results across agents, a mobile companion app for remote monitoring, and rich terminal splits for enhanced productivity. Users can integrate with GitHub and Linear for seamless task management, utilize design mode for direct UI interactions, and script workflows via the Orca CLI. With support for various agents like Codex and ClaudeCode, Orca streamlines coding processes and boosts efficiency.*
+> *HyperFrames is an open-source framework designed for creating deterministic MP4 videos using HTML, CSS, and animations. With 64,683 stars, it features a user-friendly CLI for local projects, a set of 21 agent skills for AI-driven coding, and robust rendering capabilities, including AWS Lambda support. Users can create diverse content, from product launches to data visualizations, using readily available blocks and components. Its deterministic nature ensures consistent output, making it ideal for CI and automated rendering workflows. Explore more at hyperframes.dev.*
 
-- ⭐ 92659 stars
+- ⭐ 64683 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-15
+- 📅 Updated: 2026-10-16
 
-![orca](2026/10-15/2026-10-15_daily-top_orca.png)
+![hyperframes](2026/10-16/2026-10-16_daily-top_hyperframes.png)
 
-### 10. [skills](https://github.com/vercel-labs/skills)
+### 10. [xerj](https://github.com/xerj-org/xerj)
 
 > 🤖 **Why Recommend**  
-> *The "skills" CLI tool facilitates the integration of reusable instruction sets, known as agent skills, into various coding agents like OpenCode, Claude Code, and Codex. With over 34,000 stars, it enables users to add skills from GitHub or other repositories easily, either globally or per project. Key features include skill installation, interactive usage, and comprehensive support for private repositories. The tool also allows for skill discovery, listing, and management, streamlining workflows for developers by enhancing coding agents' capabilities.*
+> *XERJ is a powerful AI-driven data search tool that automatically indexes code, documents, logs, and PDFs with minimal token usage—up to 40x fewer than traditional methods like grep. Its key features include Elasticsearch compatibility, seamless integration for reference coding, and efficient agent memory storage. XERJ excels in tasks such as security audits, log analysis, and retrieval-augmented generation (RAG), enabling agents to quickly access relevant information. With a simple command to index any folder, XERJ enhances productivity while reducing costs in AI-driven development.*
 
-- ⭐ 34981 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-15
+- ⭐ 5842 stars
+- 💻 Rust
+- 📅 Updated: 2026-10-16
 
-![skills](2026/10-15/2026-10-15_daily-top_skills.png)
+![xerj](2026/10-16/2026-10-16_daily-top_xerj.png)
 
 ---
 
@@ -140,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-15 04:11:11 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-16 04:07:21 UTC
