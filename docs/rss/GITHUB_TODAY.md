@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-10-17
+# 📊 🌟 GitHub Trending Daily - 2026-10-18
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **1062880** ⭐ | **183995** 🍴
+**10** Projects | **971964** ⭐ | **108739** 🍴
 
-**Top Languages:** `TypeScript` (5) · `JavaScript` (2) · `Go` (1)
+**Top Languages:** `TypeScript` (4) · `JavaScript` (4) · `Rust` (1)
 
-**Updated:** 2026-10-17 03:57 UTC
+**Updated:** 2026-10-18 04:03 UTC
 
 **Categories:**
 
@@ -18,115 +18,115 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [rea](https://github.com/morluto/rea)
+### 1. [xerj](https://github.com/xerj-org/xerj)
 
 > 🤖 **Why Recommend**  
-> *REA is a powerful TypeScript-based tool designed for reverse engineering applications and binaries. With over 292,990 stars, it allows users to inspect app behaviors and native binaries without source code. Core features include support for native binaries, JavaScript, Electron apps, and .NET assemblies, utilizing tools like Hopper and Ghidra for deep analysis. Users can set up agents for automated investigations, obtain pseudocode, and gather evidence for feature replication. REA operates locally, ensuring user privacy while providing comprehensive analysis capabilities across various formats.*
+> *XERJ is a revolutionary AI-driven data search tool that autoindexes code, documents, logs, and PDFs with 40x fewer tokens than traditional grep. Its features include reference coding, seamless integration with existing tools, and support for various file types, making it a cost-effective alternative to ElasticSearch. Users report up to 5x token savings in real development. With capabilities for security audits, agent memory, and hybrid search, XERJ enhances efficiency in coding tasks while significantly reducing infrastructure costs.*
 
-- ⭐ 292990 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-17
-
-![rea](2026/10-17/2026-10-17_daily-top_rea.png)
-
-### 2. [xerj](https://github.com/xerj-org/xerj)
-
-> 🤖 **Why Recommend**  
-> *XERJ is an innovative AI-driven data search tool that significantly reduces token usage by auto-indexing code, documents, logs, and PDFs with one command. It operates 40x more efficiently than traditional tools like grep, making it ideal for tasks such as reference coding, security audits, and agent memory management. XERJ is Elasticsearch compatible, ensuring seamless integration with existing systems. It supports features like hybrid search, agent memory storage, and real-time log analytics, empowering users to access precise information quickly and efficiently.*
-
-- ⭐ 7050 stars
+- ⭐ 7903 stars
 - 💻 Rust
-- 📅 Updated: 2026-10-17
+- 📅 Updated: 2026-10-18
 
-![xerj](2026/10-17/2026-10-17_daily-top_xerj.png)
+![xerj](2026/10-18/2026-10-18_daily-top_xerj.png)
 
-### 3. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
-
-> 🤖 **Why Recommend**  
-> *Ghidra is a powerful software reverse engineering (SRE) framework developed by the NSA, featuring advanced tools for analyzing compiled code across Windows, macOS, and Linux. Key capabilities include disassembly, decompilation, graphing, and scripting, supporting numerous processor instruction sets and executable formats. Ghidra allows for customization through user-developed extensions and scripts in Java or Python. Designed to address complex SRE challenges, it enhances cybersecurity efforts by providing deep insights into vulnerabilities in systems and networks.*
-
-- ⭐ 89711 stars
-- 💻 Java
-- 📅 Updated: 2026-10-17
-
-![ghidra](2026/10-17/2026-10-17_daily-top_ghidra.png)
-
-### 4. [orca](https://github.com/stablyai/orca)
+### 2. [ECC](https://github.com/affaan-m/ECC)
 
 > 🤖 **Why Recommend**  
-> *Orca is a versatile platform for managing a fleet of coding agents like Codex and Grok Bot, designed for desktop, mobile, and remote environments. Key features include parallel worktrees to run multiple agents simultaneously, a mobile companion app for remote monitoring, and advanced terminal splits. Users can drag files into agent prompts, utilize integrated GitHub and Linear task management, and leverage SSH for remote work. With support for various CLI agents and a robust CLI for automation, Orca streamlines the development process for modern builders.*
+> *ECC is an advanced agent harness performance optimization system designed to enhance code development processes. It provides 71 specialized agents, 311 skills, and 97 command shims, enabling seamless workflows for planning, testing, implementation, and review. Key features include memory persistence, security scanning via AgentShield, continuous learning, and a comprehensive rule set for various programming languages. ECC supports integration with Claude Code, Codex, Cursor, and other platforms, making it a versatile tool for developers seeking to streamline their coding practices.*
 
-- ⭐ 94580 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-17
-
-![orca](2026/10-17/2026-10-17_daily-top_orca.png)
-
-### 5. [ECC](https://github.com/affaan-m/ECC)
-
-> 🤖 **Why Recommend**  
-> *ECC is an advanced performance optimization system designed for AI agents like Claude Code, Codex, and others. It features 71 specialized agents, 311 reusable skills, and 97 command shims, enabling optimized workflows for coding tasks. Key highlights include automated planning, testing, implementation, and review processes, along with security auditing via AgentShield. ECC supports various platforms through guided setup, allowing seamless integration and continuous learning. Its open-source nature and community engagement foster innovation in AI-assisted development.*
-
-- ⭐ 281621 stars
+- ⭐ 282626 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-17
+- 📅 Updated: 2026-10-18
 
-![ECC](2026/10-17/2026-10-17_daily-top_ECC.png)
+![ECC](2026/10-18/2026-10-18_daily-top_ECC.png)
 
-### 6. [LibreTV](https://github.com/LibreSpark/LibreTV)
+### 3. [LinkSwift](https://github.com/hmjz100/LinkSwift)
 
 > 🤖 **Why Recommend**  
-> *LibreTV is a free online video aggregation platform built with Next.js, TypeScript, and Tailwind CSS, featuring a dual theme option. Key features include multi-source search aggregation, HLS playback with ad filtering, live IPTV support, and playback history synchronization via IndexedDB. Users can easily manage video sources and subscriptions, while the PWA capability allows installation on desktops. Docker deployment is recommended, ensuring secure access via HTTPS. The platform does not host content but aggregates third-party sources, emphasizing user privacy and security.*
+> *LinkSwift is a JavaScript-based tool that simplifies obtaining direct download links for files from various cloud storage services, including Baidu Cloud, Aliyun Pan, and more. With over 24,000 stars on GitHub, it offers features such as link beautification and compatibility with multiple download managers. Key highlights include enhanced support for new cloud services, a user-friendly interface, and regular updates to improve functionality. LinkSwift focuses on providing a legal means for users to download files efficiently without infringing on cloud service policies.*
 
-- ⭐ 18892 stars
+- ⭐ 24423 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-10-18
+
+![LinkSwift](2026/10-18/2026-10-18_daily-top_LinkSwift.png)
+
+### 4. [ponytail](https://github.com/DietrichGebert/ponytail)
+
+> 🤖 **Why Recommend**  
+> *Ponytail is a JavaScript library designed to optimize AI agent coding efficiency by mimicking a seasoned developer's lazy yet effective approach. With over 166,000 stars, it emphasizes writing minimal code while maintaining high functionality, achieving a 53% reduction in code and a 41% decrease in time. Key features include `/ponytail-review` for diff analysis, `/ponytail-audit` for comprehensive repo checks, and a band monitoring tool for task metrics. Ponytail ensures robust validation and security, making it an essential tool for streamlined, cost-effective development.*
+
+- ⭐ 166323 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-10-18
+
+![ponytail](2026/10-18/2026-10-18_daily-top_ponytail.png)
+
+### 5. [orca](https://github.com/stablyai/orca)
+
+> 🤖 **Why Recommend**  
+> *Orca is a powerful platform for managing a fleet of coding agents like Claude Code and Codex, accessible on desktop and mobile. Key features include parallel worktrees for comparing agent outputs, a mobile companion for remote monitoring, and advanced terminal splits. Users can leverage design mode to extract UI elements, handle GitHub issues natively, and utilize SSH for remote work. With an intuitive CLI and support for various agents, Orca enhances productivity for developers, making it a versatile tool for AI-driven coding workflows.*
+
+- ⭐ 95556 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-17
+- 📅 Updated: 2026-10-18
 
-![LibreTV](2026/10-17/2026-10-17_daily-top_LibreTV.png)
+![orca](2026/10-18/2026-10-18_daily-top_orca.png)
 
-### 7. [caveman](https://github.com/JuliusBrussee/caveman)
-
-> 🤖 **Why Recommend**  
-> *Caveman is a Go-based GitHub project that optimizes AI interactions by reducing token usage by up to 65% without sacrificing output quality. Key features include a streamlined conversational style, input reduction, and a "blocks" mode that allows agents to reuse scripts. It also offers an "Auto" feature that automatically selects models for cost-efficient querying. With over 113,000 stars, Caveman has been validated by Adobe Research and JetBrains, making it a leading tool for developers looking to enhance AI efficiency and reduce operational costs.*
-
-- ⭐ 113080 stars
-- 💻 Go
-- 📅 Updated: 2026-10-17
-
-![caveman](2026/10-17/2026-10-17_daily-top_caveman.png)
-
-### 8. [hyperframes](https://github.com/heygen-com/hyperframes)
+### 6. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
 
 > 🤖 **Why Recommend**  
-> *HyperFrames is an open-source framework that transforms HTML into deterministic MP4 videos, built for AI coding agents. Key features include a CLI for local rendering, an extensive catalog of reusable blocks, and a robust set of 21 skills for video creation workflows. Users can create a range of videos, from product launches to data visualizations, using familiar HTML and CSS. HyperFrames supports various animation libraries and offers cloud rendering options. It's designed for seamless integration with coding agents, making video production accessible and efficient.*
+> *Ghidra is a powerful open-source software reverse engineering (SRE) framework developed by the NSA, featuring advanced tools for disassembly, decompilation, and analysis of compiled code across multiple platforms (Windows, macOS, Linux). With extensive support for various processor instruction sets and executable formats, Ghidra offers both interactive and automated analysis modes. Users can create custom extensions and scripts in Java or Python. It aims to enhance cybersecurity efforts by enabling deep insights into vulnerabilities, making it invaluable for security analysts.*
 
-- ⭐ 65406 stars
+- ⭐ 90351 stars
+- 💻 Java
+- 📅 Updated: 2026-10-18
+
+![ghidra](2026/10-18/2026-10-18_daily-top_ghidra.png)
+
+### 7. [folia-major](https://github.com/chthollyphile/folia-major)
+
+> 🤖 **Why Recommend**  
+> *Folia-major is an immersive online music player focusing on stunning lyric animations. It supports multiple platforms, including local music libraries and services like Navidrome, Netease Cloud, KuGou, and QQ Music. Key features include intelligent lyric matching, AI-generated themes based on song emotions, and customizable full-screen lyric displays. Folia offers both a desktop version (Windows, macOS, Linux) and a web version deployable via Vercel. It also features an experimental mod system for enhanced user experience and a sync server for cross-device settings.*
+
+- ⭐ 7683 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-17
+- 📅 Updated: 2026-10-18
 
-![hyperframes](2026/10-17/2026-10-17_daily-top_hyperframes.png)
+![folia-major](2026/10-18/2026-10-18_daily-top_folia-major.png)
+
+### 8. [opencode](https://github.com/anomalyco/opencode)
+
+> 🤖 **Why Recommend**  
+> *OpenCode is an open-source AI coding agent built with TypeScript, boasting over 215,000 stars on GitHub. It features two built-in agents, "build" for full development access and "plan" for read-only analysis, facilitating code exploration and planning. Users can switch between agents seamlessly. OpenCode offers installation through various package managers, a desktop app for macOS, Windows, and Linux, and comprehensive documentation. Community engagement is encouraged via Discord, making OpenCode a valuable resource for developers seeking AI assistance in coding tasks.*
+
+- ⭐ 215523 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-10-18
+
+![opencode](2026/10-18/2026-10-18_daily-top_opencode.png)
 
 ### 9. [ruflo](https://github.com/ruvnet/ruflo)
 
 > 🤖 **Why Recommend**  
-> *Ruflo is an advanced agent meta-harness designed for deploying intelligent multi-player swarms and coordinating autonomous workflows using Claude Code and Codex. With features like adaptive memory, self-learning intelligence, and zero-trust federation, it enables agents to collaborate securely across machines. Ruflo integrates over 100 specialized agents, supports vector memory with fast retrieval, and offers a plugin marketplace for extensibility. Key functionalities include swarm coordination, intelligent task routing, and robust security measures, making it ideal for sophisticated AI system development.*
+> *Ruflo is an advanced agent harness designed for deploying intelligent multi-player swarms and coordinating autonomous workflows. Key features include adaptive memory, self-learning intelligence, and secure agent federation across machines. Ruflo integrates with Claude Code, Codex, and other AI models, offering over 100 specialized agents and a robust plugin marketplace. Its architecture supports swarm coordination, background workers, and zero-trust federation, enabling seamless collaboration and data security. Ideal for building complex conversational AI systems, Ruflo significantly enhances productivity and task automation.*
 
-- ⭐ 75690 stars
+- ⭐ 76128 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-17
+- 📅 Updated: 2026-10-18
 
-![ruflo](2026/10-17/2026-10-17_daily-top_ruflo.png)
+![ruflo](2026/10-18/2026-10-18_daily-top_ruflo.png)
 
-### 10. [LinkSwift](https://github.com/hmjz100/LinkSwift)
+### 10. [os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
 
 > 🤖 **Why Recommend**  
-> *LinkSwift is a JavaScript-based tool for retrieving direct download links from various cloud storage services, including Baidu Netdisk, Alibaba Cloud, China Mobile Cloud, and more. With over 23,800 stars on GitHub, it enhances the original "Cloud Direct Link Downloader" by introducing features like UI beautification and support for multiple download managers. Users can easily install the script through various sources, ensuring compliance with service providers. LinkSwift prioritizes user needs while respecting service terms, facilitating efficient file downloads without breaching limits.*
+> *The os-taxonomy project by Marble is an open, structured learning taxonomy for primary education, comprising 1,590 micro-topics aligned with various national curriculum standards. It features a prerequisite graph with 3,221 dependencies, enabling educators to trace concepts and required knowledge hierarchies. The dataset is accessible as JSON, facilitating easy integration into applications. Core subjects include Science, Mathematics, and English. Users can explore the interactive 3D visualization at withmarble.com/curriculum. The project is multi-licensed, promoting both research and commercial use while ensuring attribution.*
 
-- ⭐ 23860 stars
+- ⭐ 5448 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-17
+- 📅 Updated: 2026-10-18
 
-![LinkSwift](2026/10-17/2026-10-17_daily-top_LinkSwift.png)
+![os-taxonomy](2026/10-18/2026-10-18_daily-top_os-taxonomy.png)
 
 ---
 
@@ -140,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-17 03:57:57 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-18 04:03:55 UTC
