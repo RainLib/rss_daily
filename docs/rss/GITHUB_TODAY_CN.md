@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-10-19
+# 📊 🌟 GitHub Trending Daily - 2026-10-20
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **921308** ⭐ | **100603** 🍴
+**10** 个项目 | **636063** ⭐ | **60607** 🍴
 
-**热门语言:** `JavaScript` (4) · `TypeScript` (4) · `Rust` (2)
+**热门语言:** `JavaScript` (4) · `TypeScript` (3) · `Rust` (2)
 
-**更新时间:** 2026-10-19 04:13 UTC
+**更新时间:** 2026-10-20 04:25 UTC
 
 **分类分布:**
 
@@ -18,116 +18,116 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [opencode](https://github.com/anomalyco/opencode)
+### 1. [orca](https://github.com/stablyai/orca)
 
 > 🤖 **推荐理由**  
-> *OpenCode is an open-source AI coding agent designed to enhance development workflows. Written in TypeScript, it has gained over 216,000 stars on GitHub. Key features include two built-in agents: a full-access "build" agent for development tasks and a "plan" agent for code analysis, ensuring safe exploration of codebases. OpenCode offers a desktop application for multiple platforms and supports installation via various package managers. Comprehensive documentation is available, along with a vibrant community on Discord. Contribute or learn more at opencode.ai.*
+> *Orca is a powerful platform for managing a fleet of coding agents like Claude Code and Codex, supporting parallel workflows across desktop and mobile devices. Key features include mobile monitoring, parallel worktrees for comparing agent outputs, and advanced terminal splits. Users can seamlessly integrate with GitHub and Linear for task management, utilize a CLI for scripting workflows, and enjoy real-time notifications. With support for any CLI agent, Orca enhances productivity for developers by orchestrating AI-driven coding processes efficiently.*
 
-- ⭐ 216777 stars
+- ⭐ 98507 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-19
+- 📅 Updated: 2026-10-20
 
-![opencode](2026/10-19/2026-10-19_daily-top_opencode.png)
+![orca](2026/10-20/2026-10-20_daily-top_orca.png)
 
-### 2. [orca](https://github.com/stablyai/orca)
+### 2. [opencode](https://github.com/anomalyco/opencode)
 
 > 🤖 **推荐理由**  
-> *Orca is a versatile AI orchestration tool designed for managing multiple coding agents like Codex and Claude Code simultaneously. It features parallel worktrees for testing prompts across agents, a mobile companion app for remote monitoring, and advanced terminal splits with WebGL rendering. Users can easily integrate GitHub and Linear for task management, utilize Design Mode for UI interactions, and automate workflows via the Orca CLI. Compatible with desktop (macOS, Windows, Linux) and mobile (iOS, Android), Orca enhances productivity for developers by streamlining agent collaboration and task execution.*
+> *OpenCode is an open-source AI coding agent built with TypeScript, boasting over 217,000 stars on GitHub. It features two main agents: a full-access "build" agent for development and a read-only "plan" agent for code exploration and analysis. Users can install OpenCode via various package managers, including npm and Homebrew, or download a desktop app for macOS, Windows, and Linux. The project emphasizes community engagement through Discord and extensive documentation to facilitate contributions and usage. For more information, visit opencode.ai.*
 
-- ⭐ 96946 stars
+- ⭐ 217981 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-19
+- 📅 Updated: 2026-10-20
 
-![orca](2026/10-19/2026-10-19_daily-top_orca.png)
+![opencode](2026/10-20/2026-10-20_daily-top_opencode.png)
 
-### 3. [ECC](https://github.com/affaan-m/ECC)
+### 3. [LinkSwift](https://github.com/hmjz100/LinkSwift)
 
 > 🤖 **推荐理由**  
-> *ECC is an advanced performance optimization system designed for coding agents like Claude Code, Codex, and Kimi. It offers 71 specialized agents, 311 skills, and 97 command shims, enabling efficient workflows through a structured approach: plan, test, implement, review, verify, remember, and improve. Key features include memory persistence, security scanning with AgentShield, and continuous learning capabilities. ECC supports multiple platforms and is built to enhance code quality and streamline development processes. Its open-source nature, along with community support, fosters collaborative improvements.*
+> *LinkSwift is a powerful JavaScript tool designed for retrieving direct download links from popular cloud storage services, including Baidu Netdisk, Aliyun Drive, and more. With over 26,000 stars on GitHub, it enhances user experience by providing features like UI beautification, multi-downloader support, and improved functionality compared to its predecessor, the "Netdisk Direct Link Downloader." Users can easily install from various sources and benefit from regular updates, ensuring compatibility and enhanced performance across multiple platforms.*
 
-- ⭐ 283395 stars
+- ⭐ 26184 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-19
+- 📅 Updated: 2026-10-20
 
-![ECC](2026/10-19/2026-10-19_daily-top_ECC.png)
+![LinkSwift](2026/10-20/2026-10-20_daily-top_LinkSwift.png)
 
-### 4. [ponytail](https://github.com/DietrichGebert/ponytail)
+### 4. [dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)
 
 > 🤖 **推荐理由**  
-> *Ponytail is a JavaScript project designed to streamline AI agent coding by mimicking the efficiency of a seasoned developer. With 167,167 stars, it emphasizes writing minimal, functional code while maintaining robust testing and security. Key features include the `/ponytail-review` for diff assessment, `/ponytail-audit` for comprehensive repo checks, and a new "band" feature that tracks agent performance metrics. Ponytail 5 boasts reduced code, time, and costs, achieving 98% test coverage for critical logic. It is integrated with various AI platforms and encourages code reuse for optimal efficiency.*
+> *dsh-purge is a powerful plugin for DeepSeek Harness, facilitating controlled assessments in cybersecurity. It allows users to customize prompts for different models, enhancing the effectiveness of engagements. Key features include a dual interface for 'Cleaning' and 'Drilling', support for multiple rulesets, and the ability to manage permissions and default strategies. With over 9,421 stars, it caters to both web and desktop versions of DeepSeek. The project emphasizes compliance with legal standards and offers commercial licensing options, ensuring responsible usage in security evaluations.*
 
-- ⭐ 167167 stars
+- ⭐ 9421 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-19
+- 📅 Updated: 2026-10-20
 
-![ponytail](2026/10-19/2026-10-19_daily-top_ponytail.png)
+![dsh-purge](2026/10-20/2026-10-20_daily-top_dsh-purge.png)
 
-### 5. [xerj](https://github.com/xerj-org/xerj)
-
-> 🤖 **推荐理由**  
-> *XERJ is an innovative AI-powered local search tool designed to index code, documents, logs, and PDFs efficiently. Its autoindex feature allows for quick, zero-config indexing, reducing token usage by up to 40x compared to traditional grep methods. Key functionalities include reference coding, security audits, and agent memory management. XERJ serves as a cost-effective alternative to ElasticSearch, boasting a smaller infrastructure footprint. With seamless integration for developers, it supports diverse file types and offers Elasticsearch compatibility, making it a versatile solution for AI-driven data retrieval.*
-
-- ⭐ 8583 stars
-- 💻 Rust
-- 📅 Updated: 2026-10-19
-
-![xerj](2026/10-19/2026-10-19_daily-top_xerj.png)
-
-### 6. [DmNote](https://github.com/DmNote-App/DmNote)
+### 5. [ponytail](https://github.com/DietrichGebert/ponytail)
 
 > 🤖 **推荐理由**  
-> *DmNote is a customizable key viewer designed for DJMAX RESPECT V and other games, boasting over 4800 stars on GitHub. Key features include real-time input visualization, key mapping, note effects, and KPS statistics. Users can personalize their experience with custom CSS, plugins, and presets, while the overlay feature ensures it remains visible during gameplay. DmNote supports multiple platforms (Windows, macOS, Linux) and offers multilingual support. Ideal for streamers and content creators, it simplifies displaying key inputs during live sessions.*
+> *Ponytail is a JavaScript project designed to optimize AI agents by emulating the approach of a seasoned developer who minimizes unnecessary code. With over 168k stars, it focuses on reducing code complexity, cutting development time by 41% and costs by 26%, while maintaining high reliability—98% of risky logic is tested. Key features include commands for code review, auditing, and performance tracking. Ponytail integrates seamlessly with various AI platforms, making it a valuable tool for efficient coding practices and enhanced project management.*
 
-- ⭐ 4802 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-19
+- ⭐ 168243 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-10-20
 
-![DmNote](2026/10-19/2026-10-19_daily-top_DmNote.png)
+![ponytail](2026/10-20/2026-10-20_daily-top_ponytail.png)
 
-### 7. [ruflo](https://github.com/ruvnet/ruflo)
-
-> 🤖 **推荐理由**  
-> *Ruflo is an advanced agent harness designed for deploying intelligent multi-player swarms, coordinating autonomous workflows, and developing conversational AI systems. Key features include adaptive memory, self-learning intelligence, and secure federation across machines. It integrates seamlessly with Claude Code and Codex, offering over 100 specialized agents, background workers for task automation, and a plugin marketplace for extended capabilities. Ruflo enhances collaboration, learning, and security in AI projects, making it ideal for complex, production-level applications.*
-
-- ⭐ 76634 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-19
-
-![ruflo](2026/10-19/2026-10-19_daily-top_ruflo.png)
-
-### 8. [ai-memory](https://github.com/akitaonrails/ai-memory)
-
-> 🤖 **推荐理由**  
-> *ai-memory is a long-term memory solution for AI coding agents, enabling seamless task continuity across various platforms like Claude Code and Codex. It allows users to switch agents without losing context, sharing a single memory across machines and projects. Key features include automatic memory capture in markdown, team collaboration with shared knowledge, and a server-based architecture for accessibility. It operates with zero LLM calls by default, while providing optional features for enhanced memory management. Easily installable on multiple platforms, it supports various agent integrations for a versatile coding experience.*
-
-- ⭐ 10626 stars
-- 💻 Rust
-- 📅 Updated: 2026-10-19
-
-![ai-memory](2026/10-19/2026-10-19_daily-top_ai-memory.png)
-
-### 9. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+### 6. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 
 > 🤖 **推荐理由**  
 > *A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings. popular project, actively maintained, recently updated*
 
-- ⭐ 31221 stars
-- 🍴 1957 forks
+- ⭐ 32683 stars
+- 🍴 2043 forks
 - 💻 JavaScript
-- 📅 Updated: 2026-10-19
+- 📅 Updated: 2026-10-20
 
-![security-audit-skill](2026/10-19/2026-10-19_daily-top_security-audit-skill.png)
+![security-audit-skill](2026/10-20/2026-10-20_daily-top_security-audit-skill.png)
 
-### 10. [LinkSwift](https://github.com/hmjz100/LinkSwift)
+### 7. [fanqiang](https://github.com/bannedbook/fanqiang)
 
 > 🤖 **推荐理由**  
-> *LinkSwift is a JavaScript-based tool designed to retrieve direct download links from various cloud storage services, including Baidu Cloud, Alibaba Cloud, China Mobile Cloud, and others. With over 25,000 stars on GitHub, it offers features like UI enhancements, support for multiple download managers, and improved download processes. Key highlights include compatibility with numerous cloud platforms, user-friendly interface, and continuous updates to optimize functionality. It adheres to compliance standards, ensuring a legitimate approach to file downloading.*
+> *The "fanqiang" project is a comprehensive toolkit for circumventing internet censorship, featuring over 55,000 stars on GitHub. Developed in Kotlin, it offers various tools and tutorials for users on multiple platforms, including Android, iOS, Windows, macOS, and Linux. Key highlights include one-click VPN packages for Chrome and Firefox, detailed guides for setting up V2ray and Shadowsocks servers, and resources for gaming consoles. The project ensures users can access free and updated servers, catering to diverse network environments.*
 
-- ⭐ 25157 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-10-19
+- ⭐ 55633 stars
+- 💻 Kotlin
+- 📅 Updated: 2026-10-20
 
-![LinkSwift](2026/10-19/2026-10-19_daily-top_LinkSwift.png)
+![fanqiang](2026/10-20/2026-10-20_daily-top_fanqiang.png)
+
+### 8. [xerj](https://github.com/xerj-org/xerj)
+
+> 🤖 **推荐理由**  
+> *XERJ is a local-first search engine and MCP server for AI agents, built in Rust. It automatically indexes various data formats, including code, documents, and logs, enabling efficient BM25 full-text, vector, and hybrid search. Key features include agent memory, reference coding, and Elasticsearch-compatible APIs. Users benefit from reduced token usage by retrieving relevant code snippets instead of reading entire files, achieving up to 5x token savings in practice. XERJ supports seamless integration with AI agents and offers a community-driven approach to development.*
+
+- ⭐ 10629 stars
+- 💻 Rust
+- 📅 Updated: 2026-10-20
+
+![xerj](2026/10-20/2026-10-20_daily-top_xerj.png)
+
+### 9. [ai-memory](https://github.com/akitaonrails/ai-memory)
+
+> 🤖 **推荐理由**  
+> *ai-memory is an innovative Rust-based solution designed for long-term memory in AI coding agents, enabling seamless project handoffs across various vendors like Claude Code and Codex. Key features include cross-agent memory sharing, project continuity, team collaboration, and a git-backed markdown wiki for memory storage. It captures workflows without LLM calls, ensuring privacy and ease of access. Built for both individual and team use, ai-memory allows users to resume tasks effortlessly and manage shared knowledge securely, enhancing productivity across projects and devices.*
+
+- ⭐ 11494 stars
+- 💻 Rust
+- 📅 Updated: 2026-10-20
+
+![ai-memory](2026/10-20/2026-10-20_daily-top_ai-memory.png)
+
+### 10. [DmNote](https://github.com/DmNote-App/DmNote)
+
+> 🤖 **推荐理由**  
+> *DmNote is a customizable key viewer designed for DJMAX RESPECT V and other games, enabling real-time visualization of key inputs. Key features include key mapping, note effects, KPS statistics, and the ability to create custom overlays for streaming or video production. Users can personalize their experience with user-defined CSS, plugins, and presets. DmNote supports Windows, macOS, and has a community fork for Linux users. The application is easy to install and offers multi-language support, automatic updates, and shortcuts, making it an essential tool for gamers and streamers alike.*
+
+- ⭐ 5288 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-10-20
+
+![DmNote](2026/10-20/2026-10-20_daily-top_DmNote.png)
 
 ---
 
@@ -141,4 +141,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-19 04:13:05 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-20 04:25:40 UTC
