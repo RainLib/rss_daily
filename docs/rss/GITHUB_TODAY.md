@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-10-21
+# 📊 🌟 GitHub Trending Daily - 2026-10-22
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **1109355** ⭐ | **146389** 🍴
+**10** Projects | **834196** ⭐ | **73729** 🍴
 
-**Top Languages:** `TypeScript` (4) · `JavaScript` (3) · `Rust` (3)
+**Top Languages:** `TypeScript` (4) · `JavaScript` (3) · `Rust` (2)
 
-**Updated:** 2026-10-21 04:15 UTC
+**Updated:** 2026-10-22 04:15 UTC
 
 **Categories:**
 
@@ -18,116 +18,116 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [xerj](https://github.com/xerj-org/xerj)
+### 1. [ponytail](https://github.com/DietrichGebert/ponytail)
 
 > 🤖 **Why Recommend**  
-> *XERJ is a local-first search engine and MCP server for AI agents, built as a single Rust binary. It indexes various data types, including code, documentation, and PDFs, enabling BM25 full-text, vector, and hybrid search without relying on grep. Key features include an Elasticsearch-compatible API, automatic indexing, agent memory, and reference coding, which significantly reduces output tokens for coding tasks. XERJ serves as a robust solution for code search, security audits, and log analytics, making it a powerful tool for developers and AI agents alike.*
+> *Ponytail is an innovative AI agent designed to optimize coding efficiency by emulating a "lazy senior developer" approach, reducing unnecessary code. Key features include streamlined code generation, comprehensive reviews, and audits that prioritize essential tasks while ensuring security and performance. With Ponytail 5, users experience a significant reduction in code size, cost, and time while maintaining high test coverage. The tool integrates easily with various coding environments, offering commands for code review, auditing, and performance tracking, making it an invaluable asset for developers.*
 
-- ⭐ 12477 stars
-- 💻 Rust
-- 📅 Updated: 2026-10-21
+- ⭐ 171945 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-10-22
 
-![xerj](2026/10-21/2026-10-21_daily-top_xerj.png)
+![ponytail](2026/10-22/2026-10-22_daily-top_ponytail.png)
 
 ### 2. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 
 > 🤖 **Why Recommend**  
 > *A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings. popular project, actively maintained, recently updated*
 
-- ⭐ 34521 stars
-- 🍴 2163 forks
+- ⭐ 36964 stars
+- 🍴 2302 forks
 - 💻 JavaScript
-- 📅 Updated: 2026-10-21
+- 📅 Updated: 2026-10-22
 
-![security-audit-skill](2026/10-21/2026-10-21_daily-top_security-audit-skill.png)
+![security-audit-skill](2026/10-22/2026-10-22_daily-top_security-audit-skill.png)
 
 ### 3. [orca](https://github.com/stablyai/orca)
 
 > 🤖 **Why Recommend**  
-> *Orca is a powerful agent orchestration platform designed for developers, allowing seamless management of coding agents like Codex and Claude Code. Key features include parallel worktrees for concurrent agent operations, a mobile companion app for remote monitoring, and advanced terminal splits with WebGL rendering. Users can integrate GitHub and Linear workflows, annotate AI-generated diffs, and drag files directly into agent prompts. Available on macOS, Windows, and Linux, Orca supports any CLI agent and enhances productivity through robust scripting capabilities and real-time notifications.*
+> *Orca is an advanced platform for managing a fleet of coding agents like Codex and Claude Code, designed for high-efficiency workflows on desktop and mobile. Key features include parallel worktrees for running multiple agents simultaneously, a mobile companion app for remote monitoring, and powerful terminal splits for enhanced productivity. It supports seamless integration with GitHub and Linear for task management, offers SSH worktrees for remote operations, and allows rich interactions with agents through drag-and-drop file capabilities. With a focus on user experience, Orca is ideal for developers looking to optimize their coding processes.*
 
-- ⭐ 99986 stars
+- ⭐ 101586 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-21
+- 📅 Updated: 2026-10-22
 
-![orca](2026/10-21/2026-10-21_daily-top_orca.png)
+![orca](2026/10-22/2026-10-22_daily-top_orca.png)
 
 ### 4. [opencode](https://github.com/anomalyco/opencode)
 
 > 🤖 **Why Recommend**  
-> *OpenCode is an open-source AI coding agent designed to enhance development workflows. With over 219,000 stars on GitHub, it features two built-in agents: a full-access "build" agent for development and a "plan" agent for analysis and exploration, enhancing code navigation and safety. Users can install via various package managers and a desktop app is available for macOS, Windows, and Linux. OpenCode supports multiple languages and offers extensive documentation for configuration. Join the community on Discord for collaboration and support.*
+> *OpenCode is an open-source AI coding agent built in TypeScript, boasting over 219,000 stars on GitHub. It features two built-in agents: a full-access "build" agent for development tasks and a "plan" agent for code exploration with read-only access. Users can easily install it across multiple platforms, including macOS, Windows, and Linux. OpenCode also offers a desktop application and detailed documentation for configuration. Join the community on Discord for support and collaboration.*
 
-- ⭐ 219095 stars
+- ⭐ 219795 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-21
+- 📅 Updated: 2026-10-22
 
-![opencode](2026/10-21/2026-10-21_daily-top_opencode.png)
+![opencode](2026/10-22/2026-10-22_daily-top_opencode.png)
 
-### 5. [ponytail](https://github.com/DietrichGebert/ponytail)
-
-> 🤖 **Why Recommend**  
-> *Ponytail is a JavaScript-based AI agent designed to optimize code efficiency by mimicking the approach of an experienced, lazy senior developer. It reduces code complexity, speed, cost, and token usage while maintaining high test coverage—98% for risky logic. Key features include `/ponytail-review` for diff analysis, `/ponytail-audit` for comprehensive repo checks, and a user-friendly band interface showing task costs and performance metrics. With over 170,000 stars, Ponytail streamlines coding tasks effectively, ensuring only essential code is written.*
-
-- ⭐ 170034 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-10-21
-
-![ponytail](2026/10-21/2026-10-21_daily-top_ponytail.png)
-
-### 6. [ai-memory](https://github.com/akitaonrails/ai-memory)
+### 5. [xerj](https://github.com/xerj-org/xerj)
 
 > 🤖 **Why Recommend**  
-> *ai-memory is a Rust-based solution designed to enhance long-term memory for agent coding CLIs, facilitating seamless handoff between various agent vendors. With a focus on improving agent collaboration and continuity, it enables efficient data retention and retrieval, ensuring agents can build on previous interactions. The project has gained significant traction, amassing over 11,951 stars on GitHub, underscoring its utility and community interest. Key features include robust memory management, interoperability between agents, and an emphasis on performance and reliability.*
+> *XERJ is a local-first search engine and MCP server designed for AI agents, built in Rust. It indexes various file types—including code, documentation, logs, and PDFs—using BM25 full-text, vector, and hybrid search methods. Key features include an Elasticsearch-compatible API, automatic indexing, and agent memory support, enabling efficient code search and retrieval. XERJ enhances reference coding by allowing agents to access relevant open-source projects, significantly reducing output token costs. It serves a wide range of applications, from code audits to AI-driven search.*
 
-- ⭐ 11951 stars
+- ⭐ 12846 stars
 - 💻 Rust
-- 📅 Updated: 2026-10-21
+- 📅 Updated: 2026-10-22
 
-![ai-memory](2026/10-21/2026-10-21_daily-top_ai-memory.png)
+![xerj](2026/10-22/2026-10-22_daily-top_xerj.png)
 
-### 7. [ruflo](https://github.com/ruvnet/ruflo)
+### 6. [archify](https://github.com/tt-a1i/archify)
 
 > 🤖 **Why Recommend**  
-> *Ruflo is an advanced agent meta-harness designed for deploying intelligent multi-player swarms and coordinating autonomous workflows. It features adaptive memory, self-learning intelligence, and secure federation across machines. Key highlights include seamless integration with Claude Code, Codex, and Hermes, enabling over 100 specialized agents to collaborate and learn from tasks. Ruflo offers a rich plugin ecosystem for memory, security, and orchestration, enhancing productivity while ensuring compliance. With a user-friendly console and powerful CLI tools, it streamlines AI development and management.*
+> *Archify is an open-source JavaScript project that transforms ideas, plans, or codebases into interactive diagrams, enhancing understanding and communication. With over 87,000 stars on GitHub, it integrates seamlessly with AI agents like Claude Code and Codex. Key features include customizable HTML diagrams, explainer pages with structured answers, and support for various diagram types such as architecture and workflows. Users can refine diagrams through chat, share self-contained HTML outputs, and explore community-created content, making it a versatile tool for professionals across different domains.*
 
-- ⭐ 77929 stars
+- ⭐ 87168 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-10-22
+
+![archify](2026/10-22/2026-10-22_daily-top_archify.png)
+
+### 7. [freellmapi](https://github.com/tashfeenahmed/freellmapi)
+
+> 🤖 **Why Recommend**  
+> *FreeLLMAPI unifies access to 34 free LLM providers and 635 model endpoints via a single OpenAI-compatible API. It intelligently routes requests, handles automatic failover, and tracks usage to stay within free-tier limits. Key features include multi-model synthesis, support for chat, embeddings, image, and audio generation, and an encrypted key management system. With a user-friendly dashboard and analytics, it supports personal experimentation with over 7.4 billion tokens available monthly. Ideal for developers seeking diverse AI capabilities without cost.*
+
+- ⭐ 39045 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-21
+- 📅 Updated: 2026-10-22
 
-![ruflo](2026/10-21/2026-10-21_daily-top_ruflo.png)
+![freellmapi](2026/10-22/2026-10-22_daily-top_freellmapi.png)
 
 ### 8. [impeccable](https://github.com/pbakaus/impeccable)
 
 > 🤖 **Why Recommend**  
-> *Impeccable is a Rust-based design language tool for AI coding agents, boasting 83,941 stars on GitHub. It offers a streamlined design workflow with one setup command, 24 unique commands, and 61 deterministic detector rules for frontend design. Key features include live browser iteration, comprehensive design audits, and actionable critiques. It integrates seamlessly with popular tools like Claude Code, GitHub Copilot, and Codex. With a focus on avoiding design anti-patterns, Impeccable enhances the quality and consistency of AI-generated designs, making it essential for modern development projects.*
+> *Impeccable is a Rust-based design language tool for AI coding agents, with over 84,500 stars on GitHub. It offers a streamlined setup with a single command and provides 24 powerful commands such as `/impeccable audit`, `/impeccable critique`, and `/impeccable polish` for enhancing AI-generated frontend designs. With 61 deterministic detection rules, it ensures high-quality outputs by addressing common design pitfalls. Impeccable integrates seamlessly with various AI tools, making it an essential resource for improving AI-assisted design workflows. Visit [impeccable.style](https://impeccable.style) for more.*
 
-- ⭐ 83941 stars
+- ⭐ 84529 stars
 - 💻 Rust
-- 📅 Updated: 2026-10-21
+- 📅 Updated: 2026-10-22
 
-![impeccable](2026/10-21/2026-10-21_daily-top_impeccable.png)
+![impeccable](2026/10-22/2026-10-22_daily-top_impeccable.png)
 
-### 9. [os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
-
-> 🤖 **Why Recommend**  
-> *The os-taxonomy project offers an open, structured taxonomy detailing children's learning across primary years, featuring 1,616 micro-topics and 3,317 prerequisite dependencies. It aligns with national curriculum standards, including NGSS and Common Core, and provides teaching research for Science and Mathematics topics. Users can explore an interactive 3D graph visualizing the curriculum. The dataset is published under ODbL 1.0 and CC BY-SA 4.0, enabling both research and commercial applications while requiring attribution. Visit the interactive site at withmarble.com/curriculum.*
-
-- ⭐ 6721 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-10-21
-
-![os-taxonomy](2026/10-21/2026-10-21_daily-top_os-taxonomy.png)
-
-### 10. [openclaw](https://github.com/openclaw/openclaw)
+### 9. [ruflo](https://github.com/ruvnet/ruflo)
 
 > 🤖 **Why Recommend**  
-> *OpenClaw is an open-source AI assistant designed to run on various platforms, including macOS, Windows, Linux, iOS, and Android. It seamlessly integrates with popular messaging services like Discord, Slack, and WhatsApp. Users retain full control over their data, with configurations stored locally. Key features include customizable AI models, plugin support for tools and skills, and a local control plane for managing sessions and channels. OpenClaw emphasizes security, offering sandboxing and message verification. Governed by the independent OpenClaw Foundation, it operates without paid tiers or hosted services.*
+> *Ruflo is an advanced agent meta-harness designed for deploying intelligent multi-player swarms and coordinating autonomous workflows. Key features include adaptive memory, self-learning intelligence, and federated communication across machines. It integrates seamlessly with Claude Code, Codex, and other models, offering over 100 specialized agents for coding, testing, and security. Ruflo supports background workers, zero-trust federation, and advanced memory management, enabling efficient collaboration and task execution. With robust security and compliance features, Ruflo provides an essential toolkit for building sophisticated conversational AI systems.*
 
-- ⭐ 392700 stars
+- ⭐ 78247 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-21
+- 📅 Updated: 2026-10-22
 
-![openclaw](2026/10-21/2026-10-21_daily-top_openclaw.png)
+![ruflo](2026/10-22/2026-10-22_daily-top_ruflo.png)
+
+### 10. [Mac.apk](https://github.com/kksimp/Mac.apk)
+
+> 🤖 **Why Recommend**  
+> *Mac.apk enables the native execution of Android apps on Apple Silicon Macs without the need for emulators or virtual machines. It allows apps to run as standard macOS processes, utilizing the Mac's GPU for graphics and CPU for performance. Currently in alpha, it supports 71 tested apps, with 58 fully playable. The application features seamless installation of APKs, app management, and compatibility with Android TV apps. Mac.apk is open-source under AGPL-3.0, with a commercial license available. It prioritizes user security, encouraging the installation of trusted APKs only.*
+
+- ⭐ 2071 stars
+- 💻 Java
+- 📅 Updated: 2026-10-22
+
+![Mac.apk](2026/10-22/2026-10-22_daily-top_Mac.apk.png)
 
 ---
 
@@ -141,4 +141,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-21 04:15:41 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-22 04:15:28 UTC
