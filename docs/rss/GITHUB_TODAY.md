@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-10-22
+# 📊 🌟 GitHub Trending Daily - 2026-10-23
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **834196** ⭐ | **73729** 🍴
+**10** Projects | **912513** ⭐ | **72771** 🍴
 
-**Top Languages:** `TypeScript` (4) · `JavaScript` (3) · `Rust` (2)
+**Top Languages:** `TypeScript` (5) · `JavaScript` (3) · `Java` (1)
 
-**Updated:** 2026-10-22 04:15 UTC
+**Updated:** 2026-10-23 04:19 UTC
 
 **Categories:**
 
@@ -18,116 +18,116 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [ponytail](https://github.com/DietrichGebert/ponytail)
-
-> 🤖 **Why Recommend**  
-> *Ponytail is an innovative AI agent designed to optimize coding efficiency by emulating a "lazy senior developer" approach, reducing unnecessary code. Key features include streamlined code generation, comprehensive reviews, and audits that prioritize essential tasks while ensuring security and performance. With Ponytail 5, users experience a significant reduction in code size, cost, and time while maintaining high test coverage. The tool integrates easily with various coding environments, offering commands for code review, auditing, and performance tracking, making it an invaluable asset for developers.*
-
-- ⭐ 171945 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-10-22
-
-![ponytail](2026/10-22/2026-10-22_daily-top_ponytail.png)
-
-### 2. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+### 1. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 
 > 🤖 **Why Recommend**  
 > *A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings. popular project, actively maintained, recently updated*
 
-- ⭐ 36964 stars
-- 🍴 2302 forks
+- ⭐ 39875 stars
+- 🍴 2490 forks
 - 💻 JavaScript
-- 📅 Updated: 2026-10-22
+- 📅 Updated: 2026-10-23
 
-![security-audit-skill](2026/10-22/2026-10-22_daily-top_security-audit-skill.png)
+![security-audit-skill](2026/10-23/2026-10-23_daily-top_security-audit-skill.png)
+
+### 2. [ponytail](https://github.com/DietrichGebert/ponytail)
+
+> 🤖 **Why Recommend**  
+> *Ponytail is a JavaScript project designed to optimize AI agent coding by emulating a seasoned developer's lazy approach. With over 173,000 stars, it reduces code complexity, time, and costs by up to 53%, while ensuring 98% of risky logic is tested. Key features include the `/ponytail-review` for comprehensive code audits, the `/ponytail-audit` for repository-wide checks, and a new "band" display for task cost tracking. Ponytail emphasizes writing only essential code, enhancing efficiency and security without compromising quality.*
+
+- ⭐ 173764 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-10-23
+
+![ponytail](2026/10-23/2026-10-23_daily-top_ponytail.png)
 
 ### 3. [orca](https://github.com/stablyai/orca)
 
 > 🤖 **Why Recommend**  
-> *Orca is an advanced platform for managing a fleet of coding agents like Codex and Claude Code, designed for high-efficiency workflows on desktop and mobile. Key features include parallel worktrees for running multiple agents simultaneously, a mobile companion app for remote monitoring, and powerful terminal splits for enhanced productivity. It supports seamless integration with GitHub and Linear for task management, offers SSH worktrees for remote operations, and allows rich interactions with agents through drag-and-drop file capabilities. With a focus on user experience, Orca is ideal for developers looking to optimize their coding processes.*
+> *Orca is a powerful platform for managing a fleet of coding agents, including Codex and Claude Code, across desktop and mobile devices. Key features include parallel worktrees for simultaneous agent prompts, a mobile companion app for remote monitoring, and advanced terminal splits with WebGL rendering. Users can seamlessly integrate GitHub and Linear, annotate AI-generated diffs, and utilize SSH for remote operations. With extensive support for various CLI agents and a robust CLI for scripting workflows, Orca enhances productivity for developers and builders.*
 
-- ⭐ 101586 stars
+- ⭐ 102970 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-22
+- 📅 Updated: 2026-10-23
 
-![orca](2026/10-22/2026-10-22_daily-top_orca.png)
+![orca](2026/10-23/2026-10-23_daily-top_orca.png)
 
-### 4. [opencode](https://github.com/anomalyco/opencode)
+### 4. [supabase](https://github.com/supabase/supabase)
 
 > 🤖 **Why Recommend**  
-> *OpenCode is an open-source AI coding agent built in TypeScript, boasting over 219,000 stars on GitHub. It features two built-in agents: a full-access "build" agent for development tasks and a "plan" agent for code exploration with read-only access. Users can easily install it across multiple platforms, including macOS, Windows, and Linux. OpenCode also offers a desktop application and detailed documentation for configuration. Join the community on Discord for support and collaboration.*
+> *Supabase is an open-source Postgres development platform that provides developers with a powerful and scalable backend for web, mobile, and AI applications. Key features include a hosted Postgres database, authentication and authorization, auto-generated REST and GraphQL APIs, real-time subscriptions, and file storage. It also offers functions for both database and edge computing. With a user-friendly dashboard and extensive documentation, Supabase aims to replicate the functionality of Firebase using enterprise-grade tools. Join the community for support and collaboration.*
 
-- ⭐ 219795 stars
+- ⭐ 113553 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-22
+- 📅 Updated: 2026-10-23
 
-![opencode](2026/10-22/2026-10-22_daily-top_opencode.png)
+![supabase](2026/10-23/2026-10-23_daily-top_supabase.png)
 
-### 5. [xerj](https://github.com/xerj-org/xerj)
-
-> 🤖 **Why Recommend**  
-> *XERJ is a local-first search engine and MCP server designed for AI agents, built in Rust. It indexes various file types—including code, documentation, logs, and PDFs—using BM25 full-text, vector, and hybrid search methods. Key features include an Elasticsearch-compatible API, automatic indexing, and agent memory support, enabling efficient code search and retrieval. XERJ enhances reference coding by allowing agents to access relevant open-source projects, significantly reducing output token costs. It serves a wide range of applications, from code audits to AI-driven search.*
-
-- ⭐ 12846 stars
-- 💻 Rust
-- 📅 Updated: 2026-10-22
-
-![xerj](2026/10-22/2026-10-22_daily-top_xerj.png)
-
-### 6. [archify](https://github.com/tt-a1i/archify)
+### 5. [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
 > 🤖 **Why Recommend**  
-> *Archify is an open-source JavaScript project that transforms ideas, plans, or codebases into interactive diagrams, enhancing understanding and communication. With over 87,000 stars on GitHub, it integrates seamlessly with AI agents like Claude Code and Codex. Key features include customizable HTML diagrams, explainer pages with structured answers, and support for various diagram types such as architecture and workflows. Users can refine diagrams through chat, share self-contained HTML outputs, and explore community-created content, making it a versatile tool for professionals across different domains.*
+> *Taste Skill is a JavaScript-based GitHub project designed to enhance coding agents with artistic capabilities for web and app design. It enables agents to create visually appealing pages by providing art direction, sourcing real images from public collections, and verifying designs in real browsers. The skill operates without installations or API keys, requiring only Node 22+ and a modern browser. Key features include a six-step design process, support for dashboards and app screens, and a focus on high-quality, user-centered design. Visit [tasteskill.dev](https://tasteskill.dev) for more information.*
 
-- ⭐ 87168 stars
+- ⭐ 101202 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-22
+- 📅 Updated: 2026-10-23
 
-![archify](2026/10-22/2026-10-22_daily-top_archify.png)
+![taste-skill](2026/10-23/2026-10-23_daily-top_taste-skill.png)
 
-### 7. [freellmapi](https://github.com/tashfeenahmed/freellmapi)
+### 6. [freellmapi](https://github.com/tashfeenahmed/freellmapi)
 
 > 🤖 **Why Recommend**  
-> *FreeLLMAPI unifies access to 34 free LLM providers and 635 model endpoints via a single OpenAI-compatible API. It intelligently routes requests, handles automatic failover, and tracks usage to stay within free-tier limits. Key features include multi-model synthesis, support for chat, embeddings, image, and audio generation, and an encrypted key management system. With a user-friendly dashboard and analytics, it supports personal experimentation with over 7.4 billion tokens available monthly. Ideal for developers seeking diverse AI capabilities without cost.*
+> *FreeLLMAPI is a TypeScript-based project that aggregates 34 free LLM providers and 635 model endpoints into a single OpenAI-compatible API endpoint. It offers up to 7.4 billion tokens per month for personal experimentation, featuring smart routing, automatic failover, and encrypted API keys. Key functionalities include support for chat, embeddings, image, and audio models, along with a self-updating model catalog. The admin dashboard provides analytics and management tools, while the system ensures compliance with provider rate limits and capabilities.*
 
-- ⭐ 39045 stars
+- ⭐ 39686 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-22
+- 📅 Updated: 2026-10-23
 
-![freellmapi](2026/10-22/2026-10-22_daily-top_freellmapi.png)
+![freellmapi](2026/10-23/2026-10-23_daily-top_freellmapi.png)
+
+### 7. [twenty](https://github.com/twentyhq/twenty)
+
+> 🤖 **Why Recommend**  
+> *Twenty is an open-source CRM designed for AI, offering customizable solutions that evolve with business needs. With over 59,000 stars on GitHub, it allows technical teams to build, ship, and version their CRM applications seamlessly using TypeScript. Core features include object and field definition as code, AI agents, and version control. Users can quickly set up a cloud workspace or self-host with Docker. Comprehensive documentation, a supportive community on Discord, and robust tools for CRM management make Twenty a versatile alternative to Salesforce.*
+
+- ⭐ 59551 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-10-23
+
+![twenty](2026/10-23/2026-10-23_daily-top_twenty.png)
 
 ### 8. [impeccable](https://github.com/pbakaus/impeccable)
 
 > 🤖 **Why Recommend**  
-> *Impeccable is a Rust-based design language tool for AI coding agents, with over 84,500 stars on GitHub. It offers a streamlined setup with a single command and provides 24 powerful commands such as `/impeccable audit`, `/impeccable critique`, and `/impeccable polish` for enhancing AI-generated frontend designs. With 61 deterministic detection rules, it ensures high-quality outputs by addressing common design pitfalls. Impeccable integrates seamlessly with various AI tools, making it an essential resource for improving AI-assisted design workflows. Visit [impeccable.style](https://impeccable.style) for more.*
+> *Impeccable is a Rust-based design language tool for AI coding agents, featuring 24 commands and 62 deterministic detector rules to enhance AI-generated frontend design. Key functionalities include project initialization, UX/UI planning, design critiques, and live browser iteration. It promotes a unified design vocabulary and addresses common design pitfalls. With a straightforward installation via `npx`, Impeccable seamlessly integrates with various AI tools like Claude Code, GitHub Copilot, and Codex. Visit [impeccable.style](https://impeccable.style) for more details.*
 
-- ⭐ 84529 stars
+- ⭐ 85069 stars
 - 💻 Rust
-- 📅 Updated: 2026-10-22
+- 📅 Updated: 2026-10-23
 
-![impeccable](2026/10-22/2026-10-22_daily-top_impeccable.png)
+![impeccable](2026/10-23/2026-10-23_daily-top_impeccable.png)
 
-### 9. [ruflo](https://github.com/ruvnet/ruflo)
+### 9. [firecrawl](https://github.com/firecrawl/firecrawl)
 
 > 🤖 **Why Recommend**  
-> *Ruflo is an advanced agent meta-harness designed for deploying intelligent multi-player swarms and coordinating autonomous workflows. Key features include adaptive memory, self-learning intelligence, and federated communication across machines. It integrates seamlessly with Claude Code, Codex, and other models, offering over 100 specialized agents for coding, testing, and security. Ruflo supports background workers, zero-trust federation, and advanced memory management, enabling efficient collaboration and task execution. With robust security and compliance features, Ruflo provides an essential toolkit for building sophisticated conversational AI systems.*
+> *Firecrawl is an open-source web API designed to enhance AI agents with extensive web data access. Key features include reliable scraping of 96% of the web, real-time data retrieval with a P95 latency of 3.4 seconds, and support for LLM-ready output formats like Markdown and JSON. Users can search, scrape, and interact with web content easily, automate data gathering, and convert documents into structured formats. Firecrawl integrates seamlessly with various AI tools and offers a hosted service at firecrawl.dev for added convenience.*
 
-- ⭐ 78247 stars
+- ⭐ 194359 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-22
+- 📅 Updated: 2026-10-23
 
-![ruflo](2026/10-22/2026-10-22_daily-top_ruflo.png)
+![firecrawl](2026/10-23/2026-10-23_daily-top_firecrawl.png)
 
 ### 10. [Mac.apk](https://github.com/kksimp/Mac.apk)
 
 > 🤖 **Why Recommend**  
-> *Mac.apk enables the native execution of Android apps on Apple Silicon Macs without the need for emulators or virtual machines. It allows apps to run as standard macOS processes, utilizing the Mac's GPU for graphics and CPU for performance. Currently in alpha, it supports 71 tested apps, with 58 fully playable. The application features seamless installation of APKs, app management, and compatibility with Android TV apps. Mac.apk is open-source under AGPL-3.0, with a commercial license available. It prioritizes user security, encouraging the installation of trusted APKs only.*
+> *Mac.apk enables users to run Android apps natively on Apple Silicon Macs without the need for emulators or virtual machines. It integrates Android app functionality directly into macOS, allowing apps to operate like native Mac applications with full access to system resources. Currently in active development, it boasts compatibility with 71 tested apps, of which 58 are fully playable. The project is open-source under the AGPL license, with a commercial license available. Mac.apk is designed for macOS 26.4 or newer and is signed and notarized by Apple for security.*
 
-- ⭐ 2071 stars
+- ⭐ 2484 stars
 - 💻 Java
-- 📅 Updated: 2026-10-22
+- 📅 Updated: 2026-10-23
 
-![Mac.apk](2026/10-22/2026-10-22_daily-top_Mac.apk.png)
+![Mac.apk](2026/10-23/2026-10-23_daily-top_Mac.apk.png)
 
 ---
 
@@ -141,4 +141,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-22 04:15:28 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-23 04:19:20 UTC
