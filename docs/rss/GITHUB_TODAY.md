@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-10-23
+# 📊 🌟 GitHub Trending Daily - 2026-10-24
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **912513** ⭐ | **72771** 🍴
+**10** Projects | **793463** ⭐ | **64106** 🍴
 
-**Top Languages:** `TypeScript` (5) · `JavaScript` (3) · `Java` (1)
+**Top Languages:** `TypeScript` (4) · `Rust` (3) · `JavaScript` (2)
 
-**Updated:** 2026-10-23 04:19 UTC
+**Updated:** 2026-10-24 04:10 UTC
 
 **Categories:**
 
@@ -23,111 +23,111 @@
 > 🤖 **Why Recommend**  
 > *A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings. popular project, actively maintained, recently updated*
 
-- ⭐ 39875 stars
-- 🍴 2490 forks
+- ⭐ 42390 stars
+- 🍴 2649 forks
 - 💻 JavaScript
-- 📅 Updated: 2026-10-23
+- 📅 Updated: 2026-10-24
 
-![security-audit-skill](2026/10-23/2026-10-23_daily-top_security-audit-skill.png)
+![security-audit-skill](2026/10-24/2026-10-24_daily-top_security-audit-skill.png)
 
 ### 2. [ponytail](https://github.com/DietrichGebert/ponytail)
 
 > 🤖 **Why Recommend**  
-> *Ponytail is a JavaScript project designed to optimize AI agent coding by emulating a seasoned developer's lazy approach. With over 173,000 stars, it reduces code complexity, time, and costs by up to 53%, while ensuring 98% of risky logic is tested. Key features include the `/ponytail-review` for comprehensive code audits, the `/ponytail-audit` for repository-wide checks, and a new "band" display for task cost tracking. Ponytail emphasizes writing only essential code, enhancing efficiency and security without compromising quality.*
+> *Ponytail is a JavaScript project designed to optimize AI agents by emulating a lazy senior developer, focusing on writing minimal yet effective code. With over 174,000 stars, it emphasizes efficiency—reducing code by 53%, time by 41%, and costs by 26% while maintaining high-quality output. Key features include a comprehensive review and audit system that identifies bugs and security risks, along with a command interface for setting intensity levels and tracking performance metrics. It integrates seamlessly with various AI platforms, making it a powerful tool for developers seeking efficiency without sacrificing quality.*
 
-- ⭐ 173764 stars
+- ⭐ 174886 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-23
+- 📅 Updated: 2026-10-24
 
-![ponytail](2026/10-23/2026-10-23_daily-top_ponytail.png)
+![ponytail](2026/10-24/2026-10-24_daily-top_ponytail.png)
 
-### 3. [orca](https://github.com/stablyai/orca)
-
-> 🤖 **Why Recommend**  
-> *Orca is a powerful platform for managing a fleet of coding agents, including Codex and Claude Code, across desktop and mobile devices. Key features include parallel worktrees for simultaneous agent prompts, a mobile companion app for remote monitoring, and advanced terminal splits with WebGL rendering. Users can seamlessly integrate GitHub and Linear, annotate AI-generated diffs, and utilize SSH for remote operations. With extensive support for various CLI agents and a robust CLI for scripting workflows, Orca enhances productivity for developers and builders.*
-
-- ⭐ 102970 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-23
-
-![orca](2026/10-23/2026-10-23_daily-top_orca.png)
-
-### 4. [supabase](https://github.com/supabase/supabase)
+### 3. [OpenShell](https://github.com/NVIDIA/OpenShell)
 
 > 🤖 **Why Recommend**  
-> *Supabase is an open-source Postgres development platform that provides developers with a powerful and scalable backend for web, mobile, and AI applications. Key features include a hosted Postgres database, authentication and authorization, auto-generated REST and GraphQL APIs, real-time subscriptions, and file storage. It also offers functions for both database and edge computing. With a user-friendly dashboard and extensive documentation, Supabase aims to replicate the functionality of Firebase using enterprise-grade tools. Join the community for support and collaboration.*
+> *OpenShell is a secure runtime for autonomous AI agents, designed to provide controlled access to files, APIs, and credentials while ensuring privacy. Key features include kernel-level enforcement of access policies, formal verification for safe policy changes, and isolated sandboxes for each agent. OpenShell facilitates agent-driven workflows, with support for multiple platforms and SDKs in Python, TypeScript, Go, and Rust. Its design prioritizes safety and extensibility, making it ideal for managing AI agent fleets securely.*
 
-- ⭐ 113553 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-23
-
-![supabase](2026/10-23/2026-10-23_daily-top_supabase.png)
-
-### 5. [taste-skill](https://github.com/Leonxlnx/taste-skill)
-
-> 🤖 **Why Recommend**  
-> *Taste Skill is a JavaScript-based GitHub project designed to enhance coding agents with artistic capabilities for web and app design. It enables agents to create visually appealing pages by providing art direction, sourcing real images from public collections, and verifying designs in real browsers. The skill operates without installations or API keys, requiring only Node 22+ and a modern browser. Key features include a six-step design process, support for dashboards and app screens, and a focus on high-quality, user-centered design. Visit [tasteskill.dev](https://tasteskill.dev) for more information.*
-
-- ⭐ 101202 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-10-23
-
-![taste-skill](2026/10-23/2026-10-23_daily-top_taste-skill.png)
-
-### 6. [freellmapi](https://github.com/tashfeenahmed/freellmapi)
-
-> 🤖 **Why Recommend**  
-> *FreeLLMAPI is a TypeScript-based project that aggregates 34 free LLM providers and 635 model endpoints into a single OpenAI-compatible API endpoint. It offers up to 7.4 billion tokens per month for personal experimentation, featuring smart routing, automatic failover, and encrypted API keys. Key functionalities include support for chat, embeddings, image, and audio models, along with a self-updating model catalog. The admin dashboard provides analytics and management tools, while the system ensures compliance with provider rate limits and capabilities.*
-
-- ⭐ 39686 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-23
-
-![freellmapi](2026/10-23/2026-10-23_daily-top_freellmapi.png)
-
-### 7. [twenty](https://github.com/twentyhq/twenty)
-
-> 🤖 **Why Recommend**  
-> *Twenty is an open-source CRM designed for AI, offering customizable solutions that evolve with business needs. With over 59,000 stars on GitHub, it allows technical teams to build, ship, and version their CRM applications seamlessly using TypeScript. Core features include object and field definition as code, AI agents, and version control. Users can quickly set up a cloud workspace or self-host with Docker. Comprehensive documentation, a supportive community on Discord, and robust tools for CRM management make Twenty a versatile alternative to Salesforce.*
-
-- ⭐ 59551 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-23
-
-![twenty](2026/10-23/2026-10-23_daily-top_twenty.png)
-
-### 8. [impeccable](https://github.com/pbakaus/impeccable)
-
-> 🤖 **Why Recommend**  
-> *Impeccable is a Rust-based design language tool for AI coding agents, featuring 24 commands and 62 deterministic detector rules to enhance AI-generated frontend design. Key functionalities include project initialization, UX/UI planning, design critiques, and live browser iteration. It promotes a unified design vocabulary and addresses common design pitfalls. With a straightforward installation via `npx`, Impeccable seamlessly integrates with various AI tools like Claude Code, GitHub Copilot, and Codex. Visit [impeccable.style](https://impeccable.style) for more details.*
-
-- ⭐ 85069 stars
+- ⭐ 18899 stars
 - 💻 Rust
-- 📅 Updated: 2026-10-23
+- 📅 Updated: 2026-10-24
 
-![impeccable](2026/10-23/2026-10-23_daily-top_impeccable.png)
+![OpenShell](2026/10-24/2026-10-24_daily-top_OpenShell.png)
 
-### 9. [firecrawl](https://github.com/firecrawl/firecrawl)
+### 4. [orca](https://github.com/stablyai/orca)
 
 > 🤖 **Why Recommend**  
-> *Firecrawl is an open-source web API designed to enhance AI agents with extensive web data access. Key features include reliable scraping of 96% of the web, real-time data retrieval with a P95 latency of 3.4 seconds, and support for LLM-ready output formats like Markdown and JSON. Users can search, scrape, and interact with web content easily, automate data gathering, and convert documents into structured formats. Firecrawl integrates seamlessly with various AI tools and offers a hosted service at firecrawl.dev for added convenience.*
+> *Orca is an advanced platform for managing a fleet of coding agents, such as Grok Bot and Claude Code, offering seamless integration across desktop, mobile, and remote environments. Key features include parallel worktrees for running multiple agents simultaneously, a mobile companion app for remote monitoring, and robust terminal splits with WebGL rendering. Users can also annotate AI-generated diffs, manage GitHub tasks natively, and utilize SSH worktrees for remote execution. Orca supports various CLI agents, making it a versatile tool for developers seeking efficiency and collaboration.*
 
-- ⭐ 194359 stars
+- ⭐ 104025 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-23
+- 📅 Updated: 2026-10-24
 
-![firecrawl](2026/10-23/2026-10-23_daily-top_firecrawl.png)
+![orca](2026/10-24/2026-10-24_daily-top_orca.png)
 
-### 10. [Mac.apk](https://github.com/kksimp/Mac.apk)
+### 5. [php-src](https://github.com/php/php-src)
 
 > 🤖 **Why Recommend**  
-> *Mac.apk enables users to run Android apps natively on Apple Silicon Macs without the need for emulators or virtual machines. It integrates Android app functionality directly into macOS, allowing apps to operate like native Mac applications with full access to system resources. Currently in active development, it boasts compatibility with 71 tested apps, of which 58 are fully playable. The project is open-source under the AGPL license, with a commercial license available. Mac.apk is designed for macOS 26.4 or newer and is signed and notarized by Apple for security.*
+> *php-src is the official repository for the PHP Interpreter, a widely-used scripting language optimized for web development. With over 41,000 stars on GitHub, it offers a robust installation process, extensive documentation, and a comprehensive test suite. Key features include support for numerous extensions, a flexible build system, and a collaborative contribution model. Users can install prebuilt binaries or compile from source, while the project encourages community engagement through RFCs and pull requests. PHP is licensed under the Modified BSD License.*
 
-- ⭐ 2484 stars
-- 💻 Java
-- 📅 Updated: 2026-10-23
+- ⭐ 41593 stars
+- 💻 C
+- 📅 Updated: 2026-10-24
 
-![Mac.apk](2026/10-23/2026-10-23_daily-top_Mac.apk.png)
+![php-src](2026/10-24/2026-10-24_daily-top_php-src.png)
+
+### 6. [ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
+
+> 🤖 **Why Recommend**  
+> *Ziwei Doushu is an open-source astrology charting engine based on the traditional Zi Wei Dou Shu system from Ni Haixia's "Tian Ji." Key features include a complete charting algorithm, a four transformation system, a comprehensive knowledge base, and original texts from classical literature. The latest version (v4.0) offers 674,976 charts and 8.77 million interpretations, totaling 56.6 GB. Users can experience online chart generation and AI interpretations at metisziwei.com. The project promotes accessibility to traditional wisdom, emphasizing open-source principles for continued learning and improvement.*
+
+- ⭐ 6980 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-10-24
+
+![ziwei-doushu](2026/10-24/2026-10-24_daily-top_ziwei-doushu.png)
+
+### 7. [impeccable](https://github.com/pbakaus/impeccable)
+
+> 🤖 **Why Recommend**  
+> *Impeccable is a Rust-based design language tool enhancing AI-assisted frontend design. With over 85,622 stars, it offers a streamlined setup via `/impeccable init`, 24 commands for various design tasks (e.g., `polish`, `audit`, `critique`), and 62 deterministic rules for detecting design issues. Key features include live browser iteration, a shared design vocabulary, and a focus on avoiding common anti-patterns. It integrates seamlessly with tools like Claude Code, GitHub Copilot, and Codex, making it essential for optimizing AI-generated designs. Full documentation is available at impeccable.style.*
+
+- ⭐ 85622 stars
+- 💻 Rust
+- 📅 Updated: 2026-10-24
+
+![impeccable](2026/10-24/2026-10-24_daily-top_impeccable.png)
+
+### 8. [firecrawl](https://github.com/firecrawl/firecrawl)
+
+> 🤖 **Why Recommend**  
+> *Firecrawl is an open-source API designed to enhance AI agents by enabling seamless web interaction and data retrieval. Key features include comprehensive web scraping, real-time searches, document parsing, and automated data gathering with minimal configuration. It supports LLM-ready outputs like markdown and structured JSON, ensuring fast and reliable performance across diverse web environments. With capabilities for crawling entire websites, batch scraping, and intelligent agent interactions, Firecrawl empowers developers to build advanced AI applications efficiently. Visit firecrawl.dev for more information.*
+
+- ⭐ 194729 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-10-24
+
+![firecrawl](2026/10-24/2026-10-24_daily-top_firecrawl.png)
+
+### 9. [supabase](https://github.com/supabase/supabase)
+
+> 🤖 **Why Recommend**  
+> *Supabase is an open-source Postgres development platform designed to replicate Firebase features while leveraging enterprise-grade tools. Key features include a hosted Postgres database, authentication and authorization, auto-generated REST and GraphQL APIs, real-time subscriptions, database and edge functions, and file storage. Supabase also offers an AI and vector embeddings toolkit, a user-friendly dashboard, and extensive documentation. With modular client libraries for various programming languages, it provides a flexible and robust solution for web, mobile, and AI applications.*
+
+- ⭐ 113814 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-10-24
+
+![supabase](2026/10-24/2026-10-24_daily-top_supabase.png)
+
+### 10. [microduck](https://github.com/pollen-robotics/microduck)
+
+> 🤖 **Why Recommend**  
+> *Microduck is a compact bipedal robot, approximately 25 cm tall and weighing 800 g, powered by Rust and reinforcement learning policies. It features a 50 Hz control loop managing fifteen servos, enabling actions like walking, rolling, picking up objects, and self-righting. Users can operate it via gamepad or Bluetooth, while software updates are securely managed. The project includes extensive documentation for users and developers, detailing commands, configuration, and policy training via the linked repository microduck_rl. Ideal for robotics enthusiasts and researchers.*
+
+- ⭐ 10525 stars
+- 💻 Rust
+- 📅 Updated: 2026-10-24
+
+![microduck](2026/10-24/2026-10-24_daily-top_microduck.png)
 
 ---
 
@@ -141,4 +141,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-23 04:19:20 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-24 04:10:58 UTC
