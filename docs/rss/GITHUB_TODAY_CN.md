@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-10-24
+# 📊 🌟 GitHub Trending Daily - 2026-10-25
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **793463** ⭐ | **64106** 🍴
+**10** 个项目 | **546024** ⭐ | **40143** 🍴
 
-**热门语言:** `TypeScript` (4) · `Rust` (3) · `JavaScript` (2)
+**热门语言:** `TypeScript` (5) · `JavaScript` (3) · `Rust` (2)
 
-**更新时间:** 2026-10-24 04:10 UTC
+**更新时间:** 2026-10-25 04:13 UTC
 
 **分类分布:**
 
@@ -23,111 +23,112 @@
 > 🤖 **推荐理由**  
 > *A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings. popular project, actively maintained, recently updated*
 
-- ⭐ 42390 stars
-- 🍴 2649 forks
+- ⭐ 44907 stars
+- 🍴 2786 forks
 - 💻 JavaScript
-- 📅 Updated: 2026-10-24
+- 📅 Updated: 2026-10-25
 
-![security-audit-skill](2026/10-24/2026-10-24_daily-top_security-audit-skill.png)
+![security-audit-skill](2026/10-25/2026-10-25_daily-top_security-audit-skill.png)
 
-### 2. [ponytail](https://github.com/DietrichGebert/ponytail)
+### 2. [OpenShell](https://github.com/NVIDIA/OpenShell)
 
 > 🤖 **推荐理由**  
-> *Ponytail is a JavaScript project designed to optimize AI agents by emulating a lazy senior developer, focusing on writing minimal yet effective code. With over 174,000 stars, it emphasizes efficiency—reducing code by 53%, time by 41%, and costs by 26% while maintaining high-quality output. Key features include a comprehensive review and audit system that identifies bugs and security risks, along with a command interface for setting intensity levels and tracking performance metrics. It integrates seamlessly with various AI platforms, making it a powerful tool for developers seeking efficiency without sacrificing quality.*
+> *OpenShell is a secure runtime for autonomous AI agents, enabling them to access files, APIs, and credentials with enforced policies to ensure data privacy. Key features include kernel-level enforcement for sandbox isolation, formal verification of policy changes, and support for multiple platforms (Linux, macOS, Windows WSL). Users can create sandboxes, manage policies, and utilize SDKs in various languages like Python and Rust. OpenShell prioritizes security and extensibility, making it ideal for developing and managing AI workflows safely.*
 
-- ⭐ 174886 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-10-24
-
-![ponytail](2026/10-24/2026-10-24_daily-top_ponytail.png)
-
-### 3. [OpenShell](https://github.com/NVIDIA/OpenShell)
-
-> 🤖 **推荐理由**  
-> *OpenShell is a secure runtime for autonomous AI agents, designed to provide controlled access to files, APIs, and credentials while ensuring privacy. Key features include kernel-level enforcement of access policies, formal verification for safe policy changes, and isolated sandboxes for each agent. OpenShell facilitates agent-driven workflows, with support for multiple platforms and SDKs in Python, TypeScript, Go, and Rust. Its design prioritizes safety and extensibility, making it ideal for managing AI agent fleets securely.*
-
-- ⭐ 18899 stars
+- ⭐ 19558 stars
 - 💻 Rust
-- 📅 Updated: 2026-10-24
+- 📅 Updated: 2026-10-25
 
-![OpenShell](2026/10-24/2026-10-24_daily-top_OpenShell.png)
+![OpenShell](2026/10-25/2026-10-25_daily-top_OpenShell.png)
 
-### 4. [orca](https://github.com/stablyai/orca)
+### 3. [ponytail](https://github.com/DietrichGebert/ponytail)
 
 > 🤖 **推荐理由**  
-> *Orca is an advanced platform for managing a fleet of coding agents, such as Grok Bot and Claude Code, offering seamless integration across desktop, mobile, and remote environments. Key features include parallel worktrees for running multiple agents simultaneously, a mobile companion app for remote monitoring, and robust terminal splits with WebGL rendering. Users can also annotate AI-generated diffs, manage GitHub tasks natively, and utilize SSH worktrees for remote execution. Orca supports various CLI agents, making it a versatile tool for developers seeking efficiency and collaboration.*
+> *Ponytail is a JavaScript project designed to optimize AI development by emulating the approach of an experienced yet lazy senior developer. With over 175,600 stars, it emphasizes code efficiency, significantly reducing lines of code, time, cost, and tokens while maintaining high testing standards. Key features include `/ponytail-review` for detailed code audits, `/ponytail-audit` for comprehensive repository checks, and a new band feature that tracks task costs and performance metrics. Ponytail prioritizes writing minimal yet effective code, ensuring security and validation aren't compromised.*
 
-- ⭐ 104025 stars
+- ⭐ 175600 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-10-25
+
+![ponytail](2026/10-25/2026-10-25_daily-top_ponytail.png)
+
+### 4. [hyperframes](https://github.com/heygen-com/hyperframes)
+
+> 🤖 **推荐理由**  
+> *HyperFrames is an open-source framework designed for creating deterministic MP4 videos from HTML, CSS, and animations. It features a CLI for local rendering, compatibility with AI coding agents, and a library of reusable components for transitions and overlays. HyperFrames supports a variety of animation libraries and offers a unique design system that translates web designs into video-ready formats. Key services include a collaborative studio, AWS Lambda rendering, and a comprehensive catalog for easy integration. With over 71,000 stars, it empowers users to produce videos efficiently and effectively.*
+
+- ⭐ 71561 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-24
+- 📅 Updated: 2026-10-25
 
-![orca](2026/10-24/2026-10-24_daily-top_orca.png)
+![hyperframes](2026/10-25/2026-10-25_daily-top_hyperframes.png)
 
-### 5. [php-src](https://github.com/php/php-src)
-
-> 🤖 **推荐理由**  
-> *php-src is the official repository for the PHP Interpreter, a widely-used scripting language optimized for web development. With over 41,000 stars on GitHub, it offers a robust installation process, extensive documentation, and a comprehensive test suite. Key features include support for numerous extensions, a flexible build system, and a collaborative contribution model. Users can install prebuilt binaries or compile from source, while the project encourages community engagement through RFCs and pull requests. PHP is licensed under the Modified BSD License.*
-
-- ⭐ 41593 stars
-- 💻 C
-- 📅 Updated: 2026-10-24
-
-![php-src](2026/10-24/2026-10-24_daily-top_php-src.png)
-
-### 6. [ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
+### 5. [freellmapi](https://github.com/tashfeenahmed/freellmapi)
 
 > 🤖 **推荐理由**  
-> *Ziwei Doushu is an open-source astrology charting engine based on the traditional Zi Wei Dou Shu system from Ni Haixia's "Tian Ji." Key features include a complete charting algorithm, a four transformation system, a comprehensive knowledge base, and original texts from classical literature. The latest version (v4.0) offers 674,976 charts and 8.77 million interpretations, totaling 56.6 GB. Users can experience online chart generation and AI interpretations at metisziwei.com. The project promotes accessibility to traditional wisdom, emphasizing open-source principles for continued learning and improvement.*
+> *FreeLLMAPI aggregates free tiers from 34 LLM providers, offering 635 model endpoints through a single OpenAI-compatible API. Key features include smart routing, automatic failover, and encrypted API keys, allowing for up to 7.4 billion tokens per month for personal experimentation. The service tracks usage to stay within free-tier limits while enabling diverse models for chat, embeddings, and multimedia tasks. With a user-friendly dashboard and support for multiple languages, FreeLLMAPI simplifies access to powerful AI tools without the hassle of managing multiple providers.*
 
-- ⭐ 6980 stars
+- ⭐ 41052 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-24
+- 📅 Updated: 2026-10-25
 
-![ziwei-doushu](2026/10-24/2026-10-24_daily-top_ziwei-doushu.png)
+![freellmapi](2026/10-25/2026-10-25_daily-top_freellmapi.png)
+
+### 6. [sandbox-runtime](https://github.com/anthropics/sandbox-runtime)
+
+> 🤖 **推荐理由**  
+> *A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.. popular project, actively maintained, recently updated*
+
+- ⭐ 6520 stars
+- 🍴 574 forks
+- 💻 TypeScript
+- 📅 Updated: 2026-10-25
+
+![sandbox-runtime](2026/10-25/2026-10-25_daily-top_sandbox-runtime.png)
 
 ### 7. [impeccable](https://github.com/pbakaus/impeccable)
 
 > 🤖 **推荐理由**  
-> *Impeccable is a Rust-based design language tool enhancing AI-assisted frontend design. With over 85,622 stars, it offers a streamlined setup via `/impeccable init`, 24 commands for various design tasks (e.g., `polish`, `audit`, `critique`), and 62 deterministic rules for detecting design issues. Key features include live browser iteration, a shared design vocabulary, and a focus on avoiding common anti-patterns. It integrates seamlessly with tools like Claude Code, GitHub Copilot, and Codex, making it essential for optimizing AI-generated designs. Full documentation is available at impeccable.style.*
+> *Impeccable is a Rust-based design language tool for AI coding agents, boasting 86,546 stars on GitHub. It provides design guidance with 24 commands like `polish`, `audit`, and `critique`, along with 62 deterministic rules for evaluating AI-generated frontend designs. Key features include a streamlined setup (`/impeccable init`), live browser iteration, and a shared design vocabulary for effective collaboration. Impeccable enhances design quality by addressing common anti-patterns, promoting best practices, and enabling seamless integration with platforms like GitHub Copilot and Claude Code. For detailed documentation, visit [impeccable.style](https://impeccable.style).*
 
-- ⭐ 85622 stars
+- ⭐ 86546 stars
 - 💻 Rust
-- 📅 Updated: 2026-10-24
+- 📅 Updated: 2026-10-25
 
-![impeccable](2026/10-24/2026-10-24_daily-top_impeccable.png)
+![impeccable](2026/10-25/2026-10-25_daily-top_impeccable.png)
 
-### 8. [firecrawl](https://github.com/firecrawl/firecrawl)
+### 8. [ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
 
 > 🤖 **推荐理由**  
-> *Firecrawl is an open-source API designed to enhance AI agents by enabling seamless web interaction and data retrieval. Key features include comprehensive web scraping, real-time searches, document parsing, and automated data gathering with minimal configuration. It supports LLM-ready outputs like markdown and structured JSON, ensuring fast and reliable performance across diverse web environments. With capabilities for crawling entire websites, batch scraping, and intelligent agent interactions, Firecrawl empowers developers to build advanced AI applications efficiently. Visit firecrawl.dev for more information.*
+> *ziwei-doushu is an open-source Zi Wei Dou Shu (Purple Star Astrology) charting engine based on Ni Hai Xia's "Tian Ji" system. It features a comprehensive charting algorithm, a four-transformation system, and a knowledge base of astrological patterns, along with ancient texts. The latest update includes a v4.0 dataset with 674,976 charts and 8.77 million interpretative segments, totaling 56.6 GB. The project promotes open access to traditional wisdom, enabling users to explore and learn about Zi Wei Dou Shu through its online platform [metisziwei.com](https://metisziwei.com).*
 
-- ⭐ 194729 stars
+- ⭐ 7291 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-24
+- 📅 Updated: 2026-10-25
 
-![firecrawl](2026/10-24/2026-10-24_daily-top_firecrawl.png)
+![ziwei-doushu](2026/10-25/2026-10-25_daily-top_ziwei-doushu.png)
 
-### 9. [supabase](https://github.com/supabase/supabase)
+### 9. [cindy](https://github.com/makecindy/cindy)
 
 > 🤖 **推荐理由**  
-> *Supabase is an open-source Postgres development platform designed to replicate Firebase features while leveraging enterprise-grade tools. Key features include a hosted Postgres database, authentication and authorization, auto-generated REST and GraphQL APIs, real-time subscriptions, database and edge functions, and file storage. Supabase also offers an AI and vector embeddings toolkit, a user-friendly dashboard, and extensive documentation. With modular client libraries for various programming languages, it provides a flexible and robust solution for web, mobile, and AI applications.*
+> *Cindy is an open-source AI agent that operates seamlessly on your local machine, integrating multiple models and tools to efficiently complete tasks in your projects. With support for Claude Code and Codex harnesses, Cindy allows for flexible task execution, memory retention, and skill sharing across projects. The client, organized as a pnpm monorepo, includes desktop and mobile apps and encourages customization through plugins and automation. Users can connect existing services without additional costs, ensuring a versatile and powerful AI experience. Visit cindy.app for more details.*
 
-- ⭐ 113814 stars
+- ⭐ 4180 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-24
+- 📅 Updated: 2026-10-25
 
-![supabase](2026/10-24/2026-10-24_daily-top_supabase.png)
+![cindy](2026/10-25/2026-10-25_daily-top_cindy.png)
 
-### 10. [microduck](https://github.com/pollen-robotics/microduck)
+### 10. [archify](https://github.com/tt-a1i/archify)
 
 > 🤖 **推荐理由**  
-> *Microduck is a compact bipedal robot, approximately 25 cm tall and weighing 800 g, powered by Rust and reinforcement learning policies. It features a 50 Hz control loop managing fifteen servos, enabling actions like walking, rolling, picking up objects, and self-righting. Users can operate it via gamepad or Bluetooth, while software updates are securely managed. The project includes extensive documentation for users and developers, detailing commands, configuration, and policy training via the linked repository microduck_rl. Ideal for robotics enthusiasts and researchers.*
+> *Archify is an open-source project that transforms ideas, plans, or codebases into interactive diagrams. With over 88,000 stars on GitHub, it supports integration with AI agents like Claude Code and Codex. Users can create detailed architecture diagrams from descriptions or repositories, refine them through chat, and export them as self-contained HTML files. Key features include various diagram types (architecture, workflows, ERDs), easy sharing options, and community extensions. Archify enhances collaboration and understanding across diverse applications, from technical designs to travel itineraries.*
 
-- ⭐ 10525 stars
-- 💻 Rust
-- 📅 Updated: 2026-10-24
+- ⭐ 88809 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-10-25
 
-![microduck](2026/10-24/2026-10-24_daily-top_microduck.png)
+![archify](2026/10-25/2026-10-25_daily-top_archify.png)
 
 ---
 
@@ -141,4 +142,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-24 04:10:58 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-25 04:13:27 UTC
