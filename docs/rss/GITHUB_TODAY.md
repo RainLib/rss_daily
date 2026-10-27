@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-10-26
+# 📊 🌟 GitHub Trending Daily - 2026-10-27
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **873837** ⭐ | **91378** 🍴
+**10** Projects | **739570** ⭐ | **87335** 🍴
 
-**Top Languages:** `TypeScript` (5) · `Rust` (3) · `JavaScript` (2)
+**Top Languages:** `JavaScript` (4) · `TypeScript` (4) · `Rust` (2)
 
-**Updated:** 2026-10-26 04:16 UTC
+**Updated:** 2026-10-27 04:36 UTC
 
 **Categories:**
 
@@ -23,111 +23,111 @@
 > 🤖 **Why Recommend**  
 > *A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings. popular project, actively maintained, recently updated*
 
-- ⭐ 47195 stars
-- 🍴 2928 forks
+- ⭐ 48786 stars
+- 🍴 3040 forks
 - 💻 JavaScript
-- 📅 Updated: 2026-10-26
+- 📅 Updated: 2026-10-27
 
-![security-audit-skill](2026/10-26/2026-10-26_daily-top_security-audit-skill.png)
+![security-audit-skill](2026/10-27/2026-10-27_daily-top_security-audit-skill.png)
 
 ### 2. [impeccable](https://github.com/pbakaus/impeccable)
 
 > 🤖 **Why Recommend**  
-> *Impeccable is a Rust-based design language toolkit for AI coding agents, boasting 87,925 stars on GitHub. It provides design guidance through a single command interface, featuring 24 commands like `audit`, `critique`, and `polish`, alongside 62 deterministic rules for AI-generated frontend design. Users can initiate projects with `/impeccable init`, ensuring durable product truth in `PRODUCT.md`. Impeccable supports multiple AI tools, enabling comprehensive design quality checks and live-browser iteration for seamless design refinement. Full documentation is available at impeccable.style.*
+> *Impeccable is a Rust-based design language that enhances AI coding agents' capabilities in frontend design. With 24 commands, including `polish`, `audit`, and `critique`, it offers a shared design vocabulary and 62 deterministic rules to ensure high-quality output. Key features include a streamlined setup process with `/impeccable init`, live browser iteration, and comprehensive documentation. Impeccable integrates seamlessly with popular AI tools like Claude Code, GitHub Copilot, and Codex, making it a vital resource for teams aiming to elevate their design standards.*
 
-- ⭐ 87925 stars
+- ⭐ 89410 stars
 - 💻 Rust
-- 📅 Updated: 2026-10-26
+- 📅 Updated: 2026-10-27
 
-![impeccable](2026/10-26/2026-10-26_daily-top_impeccable.png)
+![impeccable](2026/10-27/2026-10-27_daily-top_impeccable.png)
 
-### 3. [ECC](https://github.com/affaan-m/ECC)
+### 3. [cindy](https://github.com/makecindy/cindy)
 
 > 🤖 **Why Recommend**  
-> *ECC is an agent harness performance optimization system designed for enhanced coding efficiency. Key features include 71 specialized agents, 311 skills for various workflows, and 97 command shims. It supports integration with Claude Code, Codex, and other platforms, offering tools for planning, code review, and security scanning through AgentShield. ECC facilitates a continuous learning environment, optimizing memory and context management. The project is open-source under the MIT license and has garnered significant community support, boasting 288,949 stars on GitHub.*
+> *Cindy is an open-source AI agent that operates seamlessly on your local machine, utilizing real files and applications to complete tasks. With support for harnesses like Claude Code and Codex, Cindy can mix models mid-task, automate work, and drive your devices. Key features include customizable memory, skills, and automation, along with plugin support for enhanced functionality. The project is structured as a pnpm monorepo, offering desktop and mobile clients. Contributions are encouraged under the Apache-2.0 license, making Cindy a versatile tool for real-world applications.*
 
-- ⭐ 288949 stars
+- ⭐ 6725 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-10-27
+
+![cindy](2026/10-27/2026-10-27_daily-top_cindy.png)
+
+### 4. [thinkrail](https://github.com/JetBrains/thinkrail)
+
+> 🤖 **Why Recommend**  
+> *ThinkRail is an innovative IDE designed to enhance your coding experience by adapting to your workflow. It features isolated workspaces using `git worktrees`, allowing parallel agent work without disrupting your main project. Key highlights include a rich interface centered around the `pi` coding agent, real-time chat for project management, and living specs for maintaining project knowledge. ThinkRail supports extensions, integrates with GitHub for PR management, and offers both desktop and CLI versions. Its analytics respect user privacy while enhancing performance.*
+
+- ⭐ 3121 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-10-27
+
+![thinkrail](2026/10-27/2026-10-27_daily-top_thinkrail.png)
+
+### 5. [ECC](https://github.com/affaan-m/ECC)
+
+> 🤖 **Why Recommend**  
+> *ECC is an advanced performance optimization system designed for agents like Claude Code, Codex, and Cursor. It offers 71 specialized agents, 311 reusable skills, and 97 command shims to streamline workflows across coding, testing, and security review. Key features include memory persistence, continuous learning, and security auditing via AgentShield. ECC supports multiple platforms, providing seamless integration with GitHub Copilot and other tools, and features a guided installation for ease of use. The project is open-source and actively maintained.*
+
+- ⭐ 289996 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-26
+- 📅 Updated: 2026-10-27
 
-![ECC](2026/10-26/2026-10-26_daily-top_ECC.png)
+![ECC](2026/10-27/2026-10-27_daily-top_ECC.png)
 
-### 4. [cindy](https://github.com/makecindy/cindy)
-
-> 🤖 **Why Recommend**  
-> *Cindy is an open-source AI agent that operates seamlessly on your local machine, integrating multiple tools and models to accomplish real tasks efficiently. With support for Claude Code and Codex, Cindy can manage your browser, computer, and phone, while facilitating task planning and execution in parallel. Key features include customizable memory, skills, automation, and plugin capabilities, all available in a friendly client structure. Users can connect existing models and APIs easily, ensuring a versatile and cost-effective solution. Explore more at cindy.app.*
-
-- ⭐ 5125 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-26
-
-![cindy](2026/10-26/2026-10-26_daily-top_cindy.png)
-
-### 5. [freellmapi](https://github.com/tashfeenahmed/freellmapi)
+### 6. [microduck](https://github.com/pollen-robotics/microduck)
 
 > 🤖 **Why Recommend**  
-> *FreeLLMAPI is a TypeScript-based project that provides access to 34 free LLM providers and 635 model endpoints through a unified OpenAI-compatible API. Key features include smart routing to select the best model per request, automatic failover, and encrypted API keys, allowing for up to 7.4 billion tokens per month for personal experimentation. The system maintains a self-updating model catalog, supports multiple media formats, and offers detailed analytics and a user-friendly dashboard. It is ideal for developers seeking a flexible, cost-effective way to leverage various AI models.*
+> *Microduck is a tiny biped duck robot (25 cm, 800 g) powered by Rust and reinforced learning policies, with over 12,500 stars on GitHub. It features a control loop driving fifteen servos, allowing it to walk, roll, pick up objects, and self-right after falling. Users can control the robot via a gamepad and manage it through a comprehensive command-line interface. The project includes resources for developers, such as training policies with MuJoCo and ONNX, a cheat sheet for users, and detailed documentation on its architecture and development. Get yours at pollen-robotics.com.*
 
-- ⭐ 41652 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-26
-
-![freellmapi](2026/10-26/2026-10-26_daily-top_freellmapi.png)
-
-### 6. [gemini-cli](https://github.com/google-gemini/gemini-cli)
-
-> 🤖 **Why Recommend**  
-> *Gemini CLI is an open-source AI agent that integrates Gemini's capabilities directly into your terminal, enabling efficient code understanding, generation, and automation. Key features include querying and editing codebases, generating applications from various inputs, and debugging with natural language. It supports multiple authentication methods, including Google OAuth and API keys, and offers extensive documentation for setup and usage. Note that Gemini CLI has been replaced by Antigravity CLI for optimized performance with the latest models.*
-
-- ⭐ 108387 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-26
-
-![gemini-cli](2026/10-26/2026-10-26_daily-top_gemini-cli.png)
-
-### 7. [microduck](https://github.com/pollen-robotics/microduck)
-
-> 🤖 **Why Recommend**  
-> *Microduck is a tiny biped robot (25 cm, 800 g) powered by Rust that utilizes reinforcement learning to navigate and interact with its environment. It features a versatile control system managing fifteen servos, allowing it to walk, roll, pick up objects, and self-right after falling. Users can control the robot via gamepad or Bluetooth, with comprehensive commands outlined in a cheat sheet. The project includes a simulation environment and supports policy training through its companion repository, microduck_rl. Ideal for robotics enthusiasts, Microduck combines advanced technology with playful functionality.*
-
-- ⭐ 11811 stars
+- ⭐ 12506 stars
 - 💻 Rust
-- 📅 Updated: 2026-10-26
+- 📅 Updated: 2026-10-27
 
-![microduck](2026/10-26/2026-10-26_daily-top_microduck.png)
+![microduck](2026/10-27/2026-10-27_daily-top_microduck.png)
 
-### 8. [OpenShell](https://github.com/NVIDIA/OpenShell)
-
-> 🤖 **Why Recommend**  
-> *OpenShell is a secure runtime environment designed for autonomous AI agents, offering controlled access to files, APIs, and network resources. Key features include kernel-level enforcement of policies for file access and system calls, and formal verification of policy changes to ensure safety. With a stable release cadence and expanded APIs, OpenShell facilitates the creation and management of isolated sandboxes while protecting sensitive data. It supports various platforms, integrates with SDKs in multiple languages, and provides extensive documentation for developers.*
-
-- ⭐ 19913 stars
-- 💻 Rust
-- 📅 Updated: 2026-10-26
-
-![OpenShell](2026/10-26/2026-10-26_daily-top_OpenShell.png)
-
-### 9. [firecrawl](https://github.com/firecrawl/firecrawl)
+### 7. [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
 
 > 🤖 **Why Recommend**  
-> *Firecrawl is an open-source API designed to enhance AI agents by enabling them to search, scrape, and interact with web data at scale. Key features include industry-leading reliability, fast data retrieval, and LLM-ready output formats like Markdown and JSON. It supports tasks like automated data gathering, document parsing, and crawling entire websites. With a user-friendly interface and SDKs for various languages, Firecrawl simplifies the integration of real-time web data into AI applications, making it a powerful tool for developers seeking to supercharge their AI capabilities.*
+> *God's Eye View is a browser-based spy satellite simulator that merges real-time spatial intelligence with a photorealistic 3D globe. It offers live tracking of aircraft, ships, satellites, and earthquakes, enhanced by hands-free voice control through an AI agent. Key features include cockpit views, click-to-track capabilities, customizable visual styles, and integration with public camera feeds. Users can explore environmental data, real-time traffic simulations, and shared layers, all while maintaining full access to source code for customization.*
 
-- ⭐ 195376 stars
+- ⭐ 60467 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-10-27
+
+![gods-eye-view](2026/10-27/2026-10-27_daily-top_gods-eye-view.png)
+
+### 8. [openui](https://github.com/thesysdev/openui)
+
+> 🤖 **Why Recommend**  
+> *OpenUI is a full-stack, framework-agnostic Generative UI framework that utilizes OpenUI Lang, a compact language designed for structured and streaming UI generation. It supports first-party runtimes for React, Vue, Svelte, and Angular, offering built-in component libraries for charts, forms, and chat interfaces. Key features include efficient token usage, streaming output, and prompt generation from user-defined component libraries. OpenUI aims to simplify the development of interactive applications while enhancing performance and usability. Visit [openui.com](https://www.openui.com) for more details.*
+
+- ⭐ 14212 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-26
+- 📅 Updated: 2026-10-27
 
-![firecrawl](2026/10-26/2026-10-26_daily-top_firecrawl.png)
+![openui](2026/10-27/2026-10-27_daily-top_openui.png)
 
-### 10. [remotion](https://github.com/remotion-dev/remotion)
+### 9. [agent-skills](https://github.com/addyosmani/agent-skills)
 
 > 🤖 **Why Recommend**  
-> *Remotion is a powerful tool for programmatically creating videos using React, boasting over 67,000 stars on GitHub. Key features include agent-based video creation, interactive editing, and programmatic connections to data. Users can leverage design systems, batch rendering, and develop applications ranging from simple tools to complex video editors. With extensive documentation and a vibrant community, Remotion supports various rendering options and offers tools for asset management and video automation. A special license is required for commercial use.*
+> *Agent Skills provides production-grade engineering workflows for AI coding agents, promoting best practices in software development. With 25 structured skills spanning the entire development lifecycle—from defining and planning to building, verifying, reviewing, and shipping—agents follow senior engineering standards consistently. Key features include 9 slash commands for task automation, built-in quality gates, and specialized agent personas for targeted reviews. This project enhances AI capabilities by embedding proven engineering judgments and methodologies, ensuring reliable and efficient code production.*
 
-- ⭐ 67504 stars
+- ⭐ 110863 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-10-27
+
+![agent-skills](2026/10-27/2026-10-27_daily-top_agent-skills.png)
+
+### 10. [claude-mem](https://github.com/thedotmack/claude-mem)
+
+> 🤖 **Why Recommend**  
+> *Claude-Mem is a TypeScript-based project that provides persistent memory for AI agents, capturing interactions across sessions and reinjecting relevant context for continuity. Key features include smart search capabilities, automatic operation, and privacy controls for sensitive information. It integrates seamlessly with various platforms like Claude Code, OpenClaw, and Codex, offering a user-friendly installation process. With over 103,000 stars, it supports multiple languages and provides comprehensive documentation, making it a robust tool for enhancing AI agent performance and collaboration.*
+
+- ⭐ 103484 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-26
+- 📅 Updated: 2026-10-27
 
-![remotion](2026/10-26/2026-10-26_daily-top_remotion.png)
+![claude-mem](2026/10-27/2026-10-27_daily-top_claude-mem.png)
 
 ---
 
@@ -141,4 +141,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-26 04:16:35 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-27 04:36:05 UTC
