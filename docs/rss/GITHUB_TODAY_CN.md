@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-10-27
+# 📊 🌟 GitHub Trending Daily - 2026-10-28
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **739570** ⭐ | **87335** 🍴
+**10** 个项目 | **645289** ⭐ | **75005** 🍴
 
-**热门语言:** `JavaScript` (4) · `TypeScript` (4) · `Rust` (2)
+**热门语言:** `TypeScript` (5) · `JavaScript` (4) · `Rust` (1)
 
-**更新时间:** 2026-10-27 04:36 UTC
+**更新时间:** 2026-10-28 05:08 UTC
 
 **分类分布:**
 
@@ -18,116 +18,115 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+### 1. [LinkSwift](https://github.com/hmjz100/LinkSwift)
 
 > 🤖 **推荐理由**  
-> *A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings. popular project, actively maintained, recently updated*
+> *LinkSwift is a JavaScript-based tool designed for obtaining direct download links from various cloud storage services, including Baidu Cloud, Alibaba Cloud, China Mobile Cloud, Tianyi Cloud, Xunlei Cloud, Quark Cloud, UC Cloud, and 123 Cloud. It enhances functionality over its predecessor by offering a user-friendly interface, support for multiple download managers, and regular updates for compatibility with changing service APIs. With over 33,000 stars on GitHub, LinkSwift prioritizes compliance and user needs, providing a reliable solution for efficient file downloads.*
 
-- ⭐ 48786 stars
-- 🍴 3040 forks
+- ⭐ 33358 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-27
+- 📅 Updated: 2026-10-28
 
-![security-audit-skill](2026/10-27/2026-10-27_daily-top_security-audit-skill.png)
+![LinkSwift](2026/10-28/2026-10-28_daily-top_LinkSwift.png)
 
-### 2. [impeccable](https://github.com/pbakaus/impeccable)
-
-> 🤖 **推荐理由**  
-> *Impeccable is a Rust-based design language that enhances AI coding agents' capabilities in frontend design. With 24 commands, including `polish`, `audit`, and `critique`, it offers a shared design vocabulary and 62 deterministic rules to ensure high-quality output. Key features include a streamlined setup process with `/impeccable init`, live browser iteration, and comprehensive documentation. Impeccable integrates seamlessly with popular AI tools like Claude Code, GitHub Copilot, and Codex, making it a vital resource for teams aiming to elevate their design standards.*
-
-- ⭐ 89410 stars
-- 💻 Rust
-- 📅 Updated: 2026-10-27
-
-![impeccable](2026/10-27/2026-10-27_daily-top_impeccable.png)
-
-### 3. [cindy](https://github.com/makecindy/cindy)
+### 2. [cindy](https://github.com/makecindy/cindy)
 
 > 🤖 **推荐理由**  
-> *Cindy is an open-source AI agent that operates seamlessly on your local machine, utilizing real files and applications to complete tasks. With support for harnesses like Claude Code and Codex, Cindy can mix models mid-task, automate work, and drive your devices. Key features include customizable memory, skills, and automation, along with plugin support for enhanced functionality. The project is structured as a pnpm monorepo, offering desktop and mobile clients. Contributions are encouraged under the Apache-2.0 license, making Cindy a versatile tool for real-world applications.*
+> *Cindy is an open-source AI agent designed for seamless multi-device integration, enabling users to collaborate across computers and mobile devices effortlessly. Key features include remote desktop access, shared workflows with models like Claude Code and Codex, and customizable companions for various tasks. Automations, plugins, and a rich interactive interface enhance productivity. With built-in tools and a focus on real work within users' existing applications, Cindy transforms the way tasks are managed, making it a versatile solution for individuals and teams alike.*
 
-- ⭐ 6725 stars
+- ⭐ 7629 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-27
+- 📅 Updated: 2026-10-28
 
-![cindy](2026/10-27/2026-10-27_daily-top_cindy.png)
+![cindy](2026/10-28/2026-10-28_daily-top_cindy.png)
+
+### 3. [impeccable](https://github.com/pbakaus/impeccable)
+
+> 🤖 **推荐理由**  
+> *Impeccable is a Rust-based design vocabulary tool for AI coding agents, featuring 24 commands and 62 deterministic rules to enhance frontend design quality. Its core capabilities include setting up project context with `/impeccable init`, conducting audits and critiques, and ensuring visual consistency with commands like `polish` and `distill`. Impeccable integrates seamlessly with popular AI tools like GitHub Copilot and Claude Code, enabling live browser iteration and automatic design detection without API keys. For more information, visit [impeccable.style](https://impeccable.style).*
+
+- ⭐ 90863 stars
+- 💻 Rust
+- 📅 Updated: 2026-10-28
+
+![impeccable](2026/10-28/2026-10-28_daily-top_impeccable.png)
 
 ### 4. [thinkrail](https://github.com/JetBrains/thinkrail)
 
 > 🤖 **推荐理由**  
-> *ThinkRail is an innovative IDE designed to enhance your coding experience by adapting to your workflow. It features isolated workspaces using `git worktrees`, allowing parallel agent work without disrupting your main project. Key highlights include a rich interface centered around the `pi` coding agent, real-time chat for project management, and living specs for maintaining project knowledge. ThinkRail supports extensions, integrates with GitHub for PR management, and offers both desktop and CLI versions. Its analytics respect user privacy while enhancing performance.*
+> *ThinkRail is an innovative IDE designed to enhance coding with its adaptive, agentic features. It offers isolated workspaces for seamless project management, real-time collaboration through concurrent `pi` sessions, and a rich interface that includes a Monaco editor, live git change marks, and integrated terminal. ThinkRail leverages living specs for project knowledge, supports extension customization, and connects securely to user credentials without managing accounts. Available as a desktop app or CLI, it prioritizes user privacy and offers multi-language support, making it a versatile tool for developers.*
 
-- ⭐ 3121 stars
+- ⭐ 4230 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-27
+- 📅 Updated: 2026-10-28
 
-![thinkrail](2026/10-27/2026-10-27_daily-top_thinkrail.png)
+![thinkrail](2026/10-28/2026-10-28_daily-top_thinkrail.png)
 
-### 5. [ECC](https://github.com/affaan-m/ECC)
+### 5. [dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)
 
 > 🤖 **推荐理由**  
-> *ECC is an advanced performance optimization system designed for agents like Claude Code, Codex, and Cursor. It offers 71 specialized agents, 311 reusable skills, and 97 command shims to streamline workflows across coding, testing, and security review. Key features include memory persistence, continuous learning, and security auditing via AgentShield. ECC supports multiple platforms, providing seamless integration with GitHub Copilot and other tools, and features a guided installation for ease of use. The project is open-source and actively maintained.*
+> *dsh-purge is an open-source cybersecurity red-team plugin for DeepSeek Harness, enabling model-specific jailbreaks and prompt customization. Key features include a user-friendly interface with "Clean" and "Drill" tabs for managing patches, prompt editing, and rule sets. Designed for local lab environments, it ensures compliance by restricting operations to private networks only. With over 11,000 stars on GitHub, dsh-purge focuses on safe, controlled evaluations, making it a valuable tool for cybersecurity professionals. Attribution is required for forks, and reselling the original is prohibited.*
 
-- ⭐ 289996 stars
+- ⭐ 11313 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-27
+- 📅 Updated: 2026-10-28
 
-![ECC](2026/10-27/2026-10-27_daily-top_ECC.png)
+![dsh-purge](2026/10-28/2026-10-28_daily-top_dsh-purge.png)
 
-### 6. [microduck](https://github.com/pollen-robotics/microduck)
-
-> 🤖 **推荐理由**  
-> *Microduck is a tiny biped duck robot (25 cm, 800 g) powered by Rust and reinforced learning policies, with over 12,500 stars on GitHub. It features a control loop driving fifteen servos, allowing it to walk, roll, pick up objects, and self-right after falling. Users can control the robot via a gamepad and manage it through a comprehensive command-line interface. The project includes resources for developers, such as training policies with MuJoCo and ONNX, a cheat sheet for users, and detailed documentation on its architecture and development. Get yours at pollen-robotics.com.*
-
-- ⭐ 12506 stars
-- 💻 Rust
-- 📅 Updated: 2026-10-27
-
-![microduck](2026/10-27/2026-10-27_daily-top_microduck.png)
-
-### 7. [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+### 6. [ECC](https://github.com/affaan-m/ECC)
 
 > 🤖 **推荐理由**  
-> *God's Eye View is a browser-based spy satellite simulator that merges real-time spatial intelligence with a photorealistic 3D globe. It offers live tracking of aircraft, ships, satellites, and earthquakes, enhanced by hands-free voice control through an AI agent. Key features include cockpit views, click-to-track capabilities, customizable visual styles, and integration with public camera feeds. Users can explore environmental data, real-time traffic simulations, and shared layers, all while maintaining full access to source code for customization.*
+> *ECC is a powerful performance optimization system for coding agents, supporting tools like Claude Code, Codex, and Cursor. With 71 specialized agents and 311 skills, it streamlines workflows through TDD, security audits, and continuous learning. Key features include a guided installation process, memory management, and AgentShield for security scanning. ECC enhances coding efficiency by automating context management, rule enforcement, and agent collaboration. It is open-source and MIT-licensed, ensuring robust community support and ongoing development.*
 
-- ⭐ 60467 stars
+- ⭐ 291048 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-27
+- 📅 Updated: 2026-10-28
 
-![gods-eye-view](2026/10-27/2026-10-27_daily-top_gods-eye-view.png)
+![ECC](2026/10-28/2026-10-28_daily-top_ECC.png)
 
-### 8. [openui](https://github.com/thesysdev/openui)
+### 7. [postiz-app](https://github.com/gitroomhq/postiz-app)
 
 > 🤖 **推荐理由**  
-> *OpenUI is a full-stack, framework-agnostic Generative UI framework that utilizes OpenUI Lang, a compact language designed for structured and streaming UI generation. It supports first-party runtimes for React, Vue, Svelte, and Angular, offering built-in component libraries for charts, forms, and chat interfaces. Key features include efficient token usage, streaming output, and prompt generation from user-defined component libraries. OpenUI aims to simplify the development of interactive applications while enhancing performance and usability. Visit [openui.com](https://www.openui.com) for more details.*
+> *Postiz is a powerful social media scheduling tool designed for seamless content management. With over 39,000 stars, it enables users to schedule, automate, and analyze posts across platforms like Instagram, YouTube, and TikTok. Key features include team collaboration, robust analytics, and AI integrations for content enhancement. Users can choose between Postiz Cloud for a managed experience or self-host the open-source version. It supports automation via APIs and offers extensive integration capabilities with platforms like N8N and Zapier, ensuring flexibility and compliance with social media standards.*
 
-- ⭐ 14212 stars
+- ⭐ 39564 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-27
+- 📅 Updated: 2026-10-28
 
-![openui](2026/10-27/2026-10-27_daily-top_openui.png)
+![postiz-app](2026/10-28/2026-10-28_daily-top_postiz-app.png)
 
-### 9. [agent-skills](https://github.com/addyosmani/agent-skills)
-
-> 🤖 **推荐理由**  
-> *Agent Skills provides production-grade engineering workflows for AI coding agents, promoting best practices in software development. With 25 structured skills spanning the entire development lifecycle—from defining and planning to building, verifying, reviewing, and shipping—agents follow senior engineering standards consistently. Key features include 9 slash commands for task automation, built-in quality gates, and specialized agent personas for targeted reviews. This project enhances AI capabilities by embedding proven engineering judgments and methodologies, ensuring reliable and efficient code production.*
-
-- ⭐ 110863 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-10-27
-
-![agent-skills](2026/10-27/2026-10-27_daily-top_agent-skills.png)
-
-### 10. [claude-mem](https://github.com/thedotmack/claude-mem)
+### 8. [hyperframes](https://github.com/heygen-com/hyperframes)
 
 > 🤖 **推荐理由**  
-> *Claude-Mem is a TypeScript-based project that provides persistent memory for AI agents, capturing interactions across sessions and reinjecting relevant context for continuity. Key features include smart search capabilities, automatic operation, and privacy controls for sensitive information. It integrates seamlessly with various platforms like Claude Code, OpenClaw, and Codex, offering a user-friendly installation process. With over 103,000 stars, it supports multiple languages and provides comprehensive documentation, making it a robust tool for enhancing AI agent performance and collaboration.*
+> *HyperFrames is an open-source framework designed for creating deterministic MP4 videos from HTML, CSS, and animations, making it ideal for AI coding agents. With over 74,000 stars, it supports local CLI usage and integrates seamlessly with coding assistants like Claude Code and Codex. Key features include a user-friendly interface for video composition, a catalog of reusable components, and support for various animation libraries. HyperFrames emphasizes reproducibility, allowing consistent video outputs without build steps, and is licensed under Apache 2.0. Explore its capabilities at hyperframes.studio.*
 
-- ⭐ 103484 stars
+- ⭐ 74081 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-27
+- 📅 Updated: 2026-10-28
 
-![claude-mem](2026/10-27/2026-10-27_daily-top_claude-mem.png)
+![hyperframes](2026/10-28/2026-10-28_daily-top_hyperframes.png)
+
+### 9. [openbot](https://github.com/nightly-labs/openbot)
+
+> 🤖 **推荐理由**  
+> *OpenBot is a local-first desktop workspace designed for persistent AI teammates, allowing users to run models like Codex, Claude, and Grok. Key features include dedicated workspaces for each agent, task queues, file sharing, and agent-to-agent collaboration. It supports customizable endpoints, context monitoring, and a persistent embedded browser. Users can easily create and manage agents with prompt-driven interfaces and enjoy seamless file transfers and shared chats. OpenBot prioritizes privacy and local data management, making it suitable for developers and teams.*
+
+- ⭐ 2624 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-10-28
+
+![openbot](2026/10-28/2026-10-28_daily-top_openbot.png)
+
+### 10. [archify](https://github.com/tt-a1i/archify)
+
+> 🤖 **推荐理由**  
+> *Archify is an open-source tool designed to transform ideas, plans, or codebases into interactive diagrams. It integrates seamlessly with AI agents like Claude Code and Codex, allowing users to create visual representations from simple descriptions or source code. Key features include customizable HTML outputs, various diagram types (architecture, workflows, data flows), and easy sharing options. With over 90,579 stars on GitHub, Archify fosters community contributions and offers live demos, making it a valuable resource for visualizing complex systems.*
+
+- ⭐ 90579 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-10-28
+
+![archify](2026/10-28/2026-10-28_daily-top_archify.png)
 
 ---
 
@@ -141,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-27 04:36:05 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-28 05:08:01 UTC
