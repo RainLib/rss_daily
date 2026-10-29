@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-10-28
+# 📊 🌟 GitHub Trending Daily - 2026-10-29
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **645289** ⭐ | **75005** 🍴
+**10** 个项目 | **669479** ⭐ | **76990** 🍴
 
 **热门语言:** `TypeScript` (5) · `JavaScript` (4) · `Rust` (1)
 
-**更新时间:** 2026-10-28 05:08 UTC
+**更新时间:** 2026-10-29 05:21 UTC
 
 **分类分布:**
 
@@ -21,112 +21,112 @@
 ### 1. [LinkSwift](https://github.com/hmjz100/LinkSwift)
 
 > 🤖 **推荐理由**  
-> *LinkSwift is a JavaScript-based tool designed for obtaining direct download links from various cloud storage services, including Baidu Cloud, Alibaba Cloud, China Mobile Cloud, Tianyi Cloud, Xunlei Cloud, Quark Cloud, UC Cloud, and 123 Cloud. It enhances functionality over its predecessor by offering a user-friendly interface, support for multiple download managers, and regular updates for compatibility with changing service APIs. With over 33,000 stars on GitHub, LinkSwift prioritizes compliance and user needs, providing a reliable solution for efficient file downloads.*
+> *LinkSwift is a JavaScript-based tool designed to retrieve direct download links from various cloud storage services, including Baidu Cloud, Aliyun Disk, China Mobile Cloud, and more. It enhances the original "网盘直链下载助手" by adding features like UI beautification and support for multiple download managers. With over 35,000 stars on GitHub, LinkSwift emphasizes compliance and does not promise to bypass any speed limits imposed by service providers. Users can easily install it from GitHub, OpenUserJS, or other trusted sources for a seamless downloading experience.*
 
-- ⭐ 33358 stars
+- ⭐ 35344 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-28
+- 📅 Updated: 2026-10-29
 
-![LinkSwift](2026/10-28/2026-10-28_daily-top_LinkSwift.png)
+![LinkSwift](2026/10-29/2026-10-29_daily-top_LinkSwift.png)
 
-### 2. [cindy](https://github.com/makecindy/cindy)
-
-> 🤖 **推荐理由**  
-> *Cindy is an open-source AI agent designed for seamless multi-device integration, enabling users to collaborate across computers and mobile devices effortlessly. Key features include remote desktop access, shared workflows with models like Claude Code and Codex, and customizable companions for various tasks. Automations, plugins, and a rich interactive interface enhance productivity. With built-in tools and a focus on real work within users' existing applications, Cindy transforms the way tasks are managed, making it a versatile solution for individuals and teams alike.*
-
-- ⭐ 7629 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-28
-
-![cindy](2026/10-28/2026-10-28_daily-top_cindy.png)
-
-### 3. [impeccable](https://github.com/pbakaus/impeccable)
+### 2. [impeccable](https://github.com/pbakaus/impeccable)
 
 > 🤖 **推荐理由**  
-> *Impeccable is a Rust-based design vocabulary tool for AI coding agents, featuring 24 commands and 62 deterministic rules to enhance frontend design quality. Its core capabilities include setting up project context with `/impeccable init`, conducting audits and critiques, and ensuring visual consistency with commands like `polish` and `distill`. Impeccable integrates seamlessly with popular AI tools like GitHub Copilot and Claude Code, enabling live browser iteration and automatic design detection without API keys. For more information, visit [impeccable.style](https://impeccable.style).*
+> *Impeccable is a Rust-based design vocabulary tool for coding agents that enhances UI development by providing commands to refine, review, and validate designs. Key features include `polish` and `bolder` for steering design, `critique` and `audit` for usability and technical reviews, and a slop detector that flags design issues. Compatible with various coding environments like GitHub Copilot and Codex, it enables live iteration and comprehensive documentation. Impeccable streamlines design processes, ensuring polished, accessible, and high-quality outputs before deployment.*
 
-- ⭐ 90863 stars
+- ⭐ 93263 stars
 - 💻 Rust
-- 📅 Updated: 2026-10-28
+- 📅 Updated: 2026-10-29
 
-![impeccable](2026/10-28/2026-10-28_daily-top_impeccable.png)
+![impeccable](2026/10-29/2026-10-29_daily-top_impeccable.png)
+
+### 3. [dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)
+
+> 🤖 **推荐理由**  
+> *dsh-purge is a cybersecurity red-team tool designed for the DeepSeek Harness, enabling jailbreak functionality across various models with customizable prompts. Key features include a user-friendly interface with "Clean" and "Drill" pages, allowing users to manage patch statuses, apply rules, and conduct controlled evaluations in a local lab environment. The plugin enhances prompt management and maintains strict security policies, ensuring operations are confined to local networks. With over 12,000 stars on GitHub, it supports both web and desktop applications while adhering to open-source principles.*
+
+- ⭐ 12394 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-10-29
+
+![dsh-purge](2026/10-29/2026-10-29_daily-top_dsh-purge.png)
 
 ### 4. [thinkrail](https://github.com/JetBrains/thinkrail)
 
 > 🤖 **推荐理由**  
-> *ThinkRail is an innovative IDE designed to enhance coding with its adaptive, agentic features. It offers isolated workspaces for seamless project management, real-time collaboration through concurrent `pi` sessions, and a rich interface that includes a Monaco editor, live git change marks, and integrated terminal. ThinkRail leverages living specs for project knowledge, supports extension customization, and connects securely to user credentials without managing accounts. Available as a desktop app or CLI, it prioritizes user privacy and offers multi-language support, making it a versatile tool for developers.*
+> *ThinkRail is an innovative, lightweight IDE designed to enhance coding productivity through agentic features. It offers isolated workspaces for Git projects, allowing parallel work with durable project knowledge via living specs. Core features include multitasking with concurrent `pi` sessions, a rich UI with Monaco editor integration, and real-time collaboration tools. Users benefit from built-in agent skills, customizable themes, and language support, alongside a native desktop app or browser CLI. Join the community on Discord for support and collaboration.*
 
-- ⭐ 4230 stars
+- ⭐ 5291 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-28
+- 📅 Updated: 2026-10-29
 
-![thinkrail](2026/10-28/2026-10-28_daily-top_thinkrail.png)
+![thinkrail](2026/10-29/2026-10-29_daily-top_thinkrail.png)
 
-### 5. [dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)
+### 5. [openbot](https://github.com/nightly-labs/openbot)
 
 > 🤖 **推荐理由**  
-> *dsh-purge is an open-source cybersecurity red-team plugin for DeepSeek Harness, enabling model-specific jailbreaks and prompt customization. Key features include a user-friendly interface with "Clean" and "Drill" tabs for managing patches, prompt editing, and rule sets. Designed for local lab environments, it ensures compliance by restricting operations to private networks only. With over 11,000 stars on GitHub, dsh-purge focuses on safe, controlled evaluations, making it a valuable tool for cybersecurity professionals. Attribution is required for forks, and reselling the original is prohibited.*
+> *OpenBot is a local-first desktop workspace designed for persistent AI teammates, enabling users to run Codex, Claude, Grok, and more in dedicated environments. Key features include customizable agent workspaces, task queues, local file sharing, and an embedded browser for seamless interaction. Users can create and edit agents, facilitate agent-to-agent collaboration, and manage shared tasks with comprehensive controls. OpenBot prioritizes data privacy and supports macOS, Windows, and Linux, making it a versatile tool for AI-driven workflows.*
 
-- ⭐ 11313 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-10-28
+- ⭐ 3401 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-10-29
 
-![dsh-purge](2026/10-28/2026-10-28_daily-top_dsh-purge.png)
+![openbot](2026/10-29/2026-10-29_daily-top_openbot.png)
 
 ### 6. [ECC](https://github.com/affaan-m/ECC)
 
 > 🤖 **推荐理由**  
-> *ECC is a powerful performance optimization system for coding agents, supporting tools like Claude Code, Codex, and Cursor. With 71 specialized agents and 311 skills, it streamlines workflows through TDD, security audits, and continuous learning. Key features include a guided installation process, memory management, and AgentShield for security scanning. ECC enhances coding efficiency by automating context management, rule enforcement, and agent collaboration. It is open-source and MIT-licensed, ensuring robust community support and ongoing development.*
+> *ECC is a powerful performance optimization system for coding agents, facilitating improved workflows through its 71 specialized agents and 311 reusable skills. Key features include memory persistence, automated security scanning via AgentShield, and a guided setup for harnesses like Claude Code, Codex, and Kimi Code. Designed for efficiency, ECC enhances task management with features like planning, implementation, and review processes, while supporting various programming environments. Its open-source nature allows for continuous community-driven improvements, making it an essential tool for developers.*
 
-- ⭐ 291048 stars
+- ⭐ 291923 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-28
+- 📅 Updated: 2026-10-29
 
-![ECC](2026/10-28/2026-10-28_daily-top_ECC.png)
+![ECC](2026/10-29/2026-10-29_daily-top_ECC.png)
 
 ### 7. [postiz-app](https://github.com/gitroomhq/postiz-app)
 
 > 🤖 **推荐理由**  
-> *Postiz is a powerful social media scheduling tool designed for seamless content management. With over 39,000 stars, it enables users to schedule, automate, and analyze posts across platforms like Instagram, YouTube, and TikTok. Key features include team collaboration, robust analytics, and AI integrations for content enhancement. Users can choose between Postiz Cloud for a managed experience or self-host the open-source version. It supports automation via APIs and offers extensive integration capabilities with platforms like N8N and Zapier, ensuring flexibility and compliance with social media standards.*
+> *Postiz is an advanced social media scheduling tool designed for content automation, analytics, and team collaboration. With over 40,000 stars on GitHub, it allows users to schedule posts across various platforms, including Instagram, YouTube, and TikTok. Key features include AI-assisted content creation, extensive analytics, and seamless integrations with APIs like N8N and Make.com. Users can choose between a fully managed Postiz Cloud or self-host the open-source edition. Postiz ensures compliance with social media regulations, prioritizing user privacy and data security.*
 
-- ⭐ 39564 stars
+- ⭐ 40004 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-28
+- 📅 Updated: 2026-10-29
 
-![postiz-app](2026/10-28/2026-10-28_daily-top_postiz-app.png)
+![postiz-app](2026/10-29/2026-10-29_daily-top_postiz-app.png)
 
 ### 8. [hyperframes](https://github.com/heygen-com/hyperframes)
 
 > 🤖 **推荐理由**  
-> *HyperFrames is an open-source framework designed for creating deterministic MP4 videos from HTML, CSS, and animations, making it ideal for AI coding agents. With over 74,000 stars, it supports local CLI usage and integrates seamlessly with coding assistants like Claude Code and Codex. Key features include a user-friendly interface for video composition, a catalog of reusable components, and support for various animation libraries. HyperFrames emphasizes reproducibility, allowing consistent video outputs without build steps, and is licensed under Apache 2.0. Explore its capabilities at hyperframes.studio.*
+> *HyperFrames is an open-source framework designed for creating deterministic MP4 videos from HTML, CSS, and media. Key features include a CLI for local rendering, a suite of 7 coding agent skills for automated video production, and a vast catalog of reusable components. It supports seamless integration with AI coding agents like Claude Code and Codex, enabling users to generate videos with simple HTML prompts. HyperFrames emphasizes a no-build step approach, allowing instant previews and deterministic output, making it ideal for CI and automated workflows.*
 
-- ⭐ 74081 stars
+- ⭐ 74886 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-28
+- 📅 Updated: 2026-10-29
 
-![hyperframes](2026/10-28/2026-10-28_daily-top_hyperframes.png)
+![hyperframes](2026/10-29/2026-10-29_daily-top_hyperframes.png)
 
-### 9. [openbot](https://github.com/nightly-labs/openbot)
+### 9. [cindy](https://github.com/makecindy/cindy)
 
 > 🤖 **推荐理由**  
-> *OpenBot is a local-first desktop workspace designed for persistent AI teammates, allowing users to run models like Codex, Claude, and Grok. Key features include dedicated workspaces for each agent, task queues, file sharing, and agent-to-agent collaboration. It supports customizable endpoints, context monitoring, and a persistent embedded browser. Users can easily create and manage agents with prompt-driven interfaces and enjoy seamless file transfers and shared chats. OpenBot prioritizes privacy and local data management, making it suitable for developers and teams.*
+> *Cindy is an open-source AI agent designed for seamless multi-device integration, allowing users to work effortlessly across their computers and mobile devices. With features like remote desktop access, conversation continuity, and support for various AI models (including Claude Code and Codex), Cindy enhances productivity through a shared interface and automations. Users can create custom companions, utilize plugins, and access tools directly within their applications. The client is free, requiring only existing subscriptions for model access. Available on macOS, Windows, Linux, iOS, and Android.*
 
-- ⭐ 2624 stars
+- ⭐ 8254 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-28
+- 📅 Updated: 2026-10-29
 
-![openbot](2026/10-28/2026-10-28_daily-top_openbot.png)
+![cindy](2026/10-29/2026-10-29_daily-top_cindy.png)
 
-### 10. [archify](https://github.com/tt-a1i/archify)
+### 10. [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
 > 🤖 **推荐理由**  
-> *Archify is an open-source tool designed to transform ideas, plans, or codebases into interactive diagrams. It integrates seamlessly with AI agents like Claude Code and Codex, allowing users to create visual representations from simple descriptions or source code. Key features include customizable HTML outputs, various diagram types (architecture, workflows, data flows), and easy sharing options. With over 90,579 stars on GitHub, Archify fosters community contributions and offers live demos, making it a valuable resource for visualizing complex systems.*
+> *Taste Skill is an innovative GitHub project designed to enhance coding agents' design capabilities by integrating art direction, reference images, and real browser checks. With over 104,000 stars, it enables agents to create visually appealing websites and app screens, moving beyond generic templates. Key features include the use of curated real images from open archives, a structured six-step building process, and compatibility with various frameworks. The skill is easy to install via the npx command and requires only Node 22+ and a browser, making it accessible for developers aiming for high-quality design outputs.*
 
-- ⭐ 90579 stars
+- ⭐ 104719 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-28
+- 📅 Updated: 2026-10-29
 
-![archify](2026/10-28/2026-10-28_daily-top_archify.png)
+![taste-skill](2026/10-29/2026-10-29_daily-top_taste-skill.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-28 05:08:01 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-29 05:21:32 UTC
