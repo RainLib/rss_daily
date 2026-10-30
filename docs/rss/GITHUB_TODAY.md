@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-10-29
+# 📊 🌟 GitHub Trending Daily - 2026-10-30
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **669479** ⭐ | **76990** 🍴
+**10** Projects | **759198** ⭐ | **87526** 🍴
 
-**Top Languages:** `TypeScript` (5) · `JavaScript` (4) · `Rust` (1)
+**Top Languages:** `JavaScript` (4) · `TypeScript` (3) · `Rust` (2)
 
-**Updated:** 2026-10-29 05:21 UTC
+**Updated:** 2026-10-30 05:20 UTC
 
 **Categories:**
 
@@ -18,115 +18,115 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [LinkSwift](https://github.com/hmjz100/LinkSwift)
+### 1. [impeccable](https://github.com/pbakaus/impeccable)
 
 > 🤖 **Why Recommend**  
-> *LinkSwift is a JavaScript-based tool designed to retrieve direct download links from various cloud storage services, including Baidu Cloud, Aliyun Disk, China Mobile Cloud, and more. It enhances the original "网盘直链下载助手" by adding features like UI beautification and support for multiple download managers. With over 35,000 stars on GitHub, LinkSwift emphasizes compliance and does not promise to bypass any speed limits imposed by service providers. Users can easily install it from GitHub, OpenUserJS, or other trusted sources for a seamless downloading experience.*
+> *Impeccable is a Rust-based design vocabulary tool for coding agents, enabling developers to enhance UI design and catch issues before deployment. Key features include commands for design steering (`polish`, `bolder`), review (`critique`, `audit`), and slop detection with 62 deterministic rules. It supports multiple coding environments, including Codex, GitHub Copilot, and more. Users can initialize projects, document design systems, and iterate live in the browser. Comprehensive documentation is available at impeccable.style/docs. The project has gained significant popularity, with over 95,750 stars on GitHub.*
 
-- ⭐ 35344 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-10-29
-
-![LinkSwift](2026/10-29/2026-10-29_daily-top_LinkSwift.png)
-
-### 2. [impeccable](https://github.com/pbakaus/impeccable)
-
-> 🤖 **Why Recommend**  
-> *Impeccable is a Rust-based design vocabulary tool for coding agents that enhances UI development by providing commands to refine, review, and validate designs. Key features include `polish` and `bolder` for steering design, `critique` and `audit` for usability and technical reviews, and a slop detector that flags design issues. Compatible with various coding environments like GitHub Copilot and Codex, it enables live iteration and comprehensive documentation. Impeccable streamlines design processes, ensuring polished, accessible, and high-quality outputs before deployment.*
-
-- ⭐ 93263 stars
+- ⭐ 95750 stars
 - 💻 Rust
-- 📅 Updated: 2026-10-29
+- 📅 Updated: 2026-10-30
 
-![impeccable](2026/10-29/2026-10-29_daily-top_impeccable.png)
+![impeccable](2026/10-30/2026-10-30_daily-top_impeccable.png)
 
-### 3. [dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)
+### 2. [LinkSwift](https://github.com/hmjz100/LinkSwift)
 
 > 🤖 **Why Recommend**  
-> *dsh-purge is a cybersecurity red-team tool designed for the DeepSeek Harness, enabling jailbreak functionality across various models with customizable prompts. Key features include a user-friendly interface with "Clean" and "Drill" pages, allowing users to manage patch statuses, apply rules, and conduct controlled evaluations in a local lab environment. The plugin enhances prompt management and maintains strict security policies, ensuring operations are confined to local networks. With over 12,000 stars on GitHub, it supports both web and desktop applications while adhering to open-source principles.*
+> *LinkSwift is a JavaScript-based tool designed for retrieving direct download links from various cloud storage services, including Baidu Cloud, Alibaba Cloud, and more. With over 36,000 stars on GitHub, it enhances user experience by offering a refined UI, multi-downloader support, and improved functionality over its predecessor. Key features include link caching, theme customization, and compatibility with popular download managers like IDM and Aria2. The project emphasizes compliance and does not promise to bypass download speed limits, ensuring users can legally access their files efficiently.*
 
-- ⭐ 12394 stars
+- ⭐ 36358 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-29
+- 📅 Updated: 2026-10-30
 
-![dsh-purge](2026/10-29/2026-10-29_daily-top_dsh-purge.png)
+![LinkSwift](2026/10-30/2026-10-30_daily-top_LinkSwift.png)
 
-### 4. [thinkrail](https://github.com/JetBrains/thinkrail)
-
-> 🤖 **Why Recommend**  
-> *ThinkRail is an innovative, lightweight IDE designed to enhance coding productivity through agentic features. It offers isolated workspaces for Git projects, allowing parallel work with durable project knowledge via living specs. Core features include multitasking with concurrent `pi` sessions, a rich UI with Monaco editor integration, and real-time collaboration tools. Users benefit from built-in agent skills, customizable themes, and language support, alongside a native desktop app or browser CLI. Join the community on Discord for support and collaboration.*
-
-- ⭐ 5291 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-29
-
-![thinkrail](2026/10-29/2026-10-29_daily-top_thinkrail.png)
-
-### 5. [openbot](https://github.com/nightly-labs/openbot)
+### 3. [OpenMausBot](https://github.com/milind-soni/OpenMausBot)
 
 > 🤖 **Why Recommend**  
-> *OpenBot is a local-first desktop workspace designed for persistent AI teammates, enabling users to run Codex, Claude, Grok, and more in dedicated environments. Key features include customizable agent workspaces, task queues, local file sharing, and an embedded browser for seamless interaction. Users can create and edit agents, facilitate agent-to-agent collaboration, and manage shared tasks with comprehensive controls. OpenBot prioritizes data privacy and supports macOS, Windows, and Linux, making it a versatile tool for AI-driven workflows.*
+> *OpenMausBot is an open-source alternative to Grok Bot, enabling users to run AI bots like Claude and Codex locally in a chat app format. Key features include the ability to bring your own agents, local-first data management, and a marketplace for connected apps like Gmail and Slack. Each bot operates on its own virtual machine and can request user approval for actions. With a customizable model picker, separate channels for organization, and the ability to share bot configurations, OpenMausBot emphasizes user control and privacy.*
 
-- ⭐ 3401 stars
+- ⭐ 7632 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-29
+- 📅 Updated: 2026-10-30
 
-![openbot](2026/10-29/2026-10-29_daily-top_openbot.png)
+![OpenMausBot](2026/10-30/2026-10-30_daily-top_OpenMausBot.png)
+
+### 4. [taste-skill](https://github.com/Leonxlnx/taste-skill)
+
+> 🤖 **Why Recommend**  
+> *Taste Skill is a powerful JavaScript-based agent skill that enhances coding agents by providing art direction, real reference images, and browser verification for website and app screen design. It generates high-quality layouts from a brief, utilizing curated images from open archives, ensuring design integrity through real-time checks. Key features include support for dashboards and app screens, with a focus on user experience and design principles. The skill operates without API keys and integrates seamlessly with platforms like Claude Code and Codex. Visit [tasteskill.dev](https://tasteskill.dev) for more information.*
+
+- ⭐ 105706 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-10-30
+
+![taste-skill](2026/10-30/2026-10-30_daily-top_taste-skill.png)
+
+### 5. [thinkrail](https://github.com/JetBrains/thinkrail)
+
+> 🤖 **Why Recommend**  
+> *ThinkRail is an innovative IDE that adapts to your workflow, powered by the `pi` coding agent. Key features include isolated git workspaces for parallel development, an intuitive interface with Monaco editor tabs, and real-time project specifications with `SPEC.md` integration. It supports multiple concurrent `pi` sessions, allowing task delegation and interactive planning. With extension support, customizable themes, and multilingual options, ThinkRail enhances coding efficiency and collaboration. Available as a desktop app or CLI, it prioritizes user privacy and integrates seamlessly with existing git workflows.*
+
+- ⭐ 6136 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-10-30
+
+![thinkrail](2026/10-30/2026-10-30_daily-top_thinkrail.png)
 
 ### 6. [ECC](https://github.com/affaan-m/ECC)
 
 > 🤖 **Why Recommend**  
-> *ECC is a powerful performance optimization system for coding agents, facilitating improved workflows through its 71 specialized agents and 311 reusable skills. Key features include memory persistence, automated security scanning via AgentShield, and a guided setup for harnesses like Claude Code, Codex, and Kimi Code. Designed for efficiency, ECC enhances task management with features like planning, implementation, and review processes, while supporting various programming environments. Its open-source nature allows for continuous community-driven improvements, making it an essential tool for developers.*
+> *ECC is an advanced performance optimization system for coding agents, providing 71 specialized agents, 314 reusable skills, and 98 command shims. It integrates with Claude Code, Codex, Cursor, and other platforms, emphasizing a structured engineering process through planning, testing, implementation, review, and continuous learning. Key features include AgentShield security scanning, memory management, and customizable workflows. ECC promotes efficiency and quality in software development, making it an essential toolkit for developers seeking to enhance their coding practices.*
 
-- ⭐ 291923 stars
+- ⭐ 292831 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-29
+- 📅 Updated: 2026-10-30
 
-![ECC](2026/10-29/2026-10-29_daily-top_ECC.png)
+![ECC](2026/10-30/2026-10-30_daily-top_ECC.png)
 
-### 7. [postiz-app](https://github.com/gitroomhq/postiz-app)
-
-> 🤖 **Why Recommend**  
-> *Postiz is an advanced social media scheduling tool designed for content automation, analytics, and team collaboration. With over 40,000 stars on GitHub, it allows users to schedule posts across various platforms, including Instagram, YouTube, and TikTok. Key features include AI-assisted content creation, extensive analytics, and seamless integrations with APIs like N8N and Make.com. Users can choose between a fully managed Postiz Cloud or self-host the open-source edition. Postiz ensures compliance with social media regulations, prioritizing user privacy and data security.*
-
-- ⭐ 40004 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-29
-
-![postiz-app](2026/10-29/2026-10-29_daily-top_postiz-app.png)
-
-### 8. [hyperframes](https://github.com/heygen-com/hyperframes)
+### 7. [dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)
 
 > 🤖 **Why Recommend**  
-> *HyperFrames is an open-source framework designed for creating deterministic MP4 videos from HTML, CSS, and media. Key features include a CLI for local rendering, a suite of 7 coding agent skills for automated video production, and a vast catalog of reusable components. It supports seamless integration with AI coding agents like Claude Code and Codex, enabling users to generate videos with simple HTML prompts. HyperFrames emphasizes a no-build step approach, allowing instant previews and deterministic output, making it ideal for CI and automated workflows.*
+> *dsh-purge is a cybersecurity red-team tool designed for the DeepSeek Harness, enabling users to jailbreak various models by swapping prompts. Key features include a user-friendly interface with a Clean and Drill dock for managing patches and rules, a focus on local lab environments, and strict adherence to cybersecurity laws. The plugin ensures controlled evaluations without public internet access, emphasizes proper attribution for forks, and does not support resale. With over 13,200 stars, it is a valuable resource for enhancing model capabilities in secure settings.*
 
-- ⭐ 74886 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-29
-
-![hyperframes](2026/10-29/2026-10-29_daily-top_hyperframes.png)
-
-### 9. [cindy](https://github.com/makecindy/cindy)
-
-> 🤖 **Why Recommend**  
-> *Cindy is an open-source AI agent designed for seamless multi-device integration, allowing users to work effortlessly across their computers and mobile devices. With features like remote desktop access, conversation continuity, and support for various AI models (including Claude Code and Codex), Cindy enhances productivity through a shared interface and automations. Users can create custom companions, utilize plugins, and access tools directly within their applications. The client is free, requiring only existing subscriptions for model access. Available on macOS, Windows, Linux, iOS, and Android.*
-
-- ⭐ 8254 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-29
-
-![cindy](2026/10-29/2026-10-29_daily-top_cindy.png)
-
-### 10. [taste-skill](https://github.com/Leonxlnx/taste-skill)
-
-> 🤖 **Why Recommend**  
-> *Taste Skill is an innovative GitHub project designed to enhance coding agents' design capabilities by integrating art direction, reference images, and real browser checks. With over 104,000 stars, it enables agents to create visually appealing websites and app screens, moving beyond generic templates. Key features include the use of curated real images from open archives, a structured six-step building process, and compatibility with various frameworks. The skill is easy to install via the npx command and requires only Node 22+ and a browser, making it accessible for developers aiming for high-quality design outputs.*
-
-- ⭐ 104719 stars
+- ⭐ 13238 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-29
+- 📅 Updated: 2026-10-30
 
-![taste-skill](2026/10-29/2026-10-29_daily-top_taste-skill.png)
+![dsh-purge](2026/10-30/2026-10-30_daily-top_dsh-purge.png)
+
+### 8. [RuView](https://github.com/ruvnet/RuView)
+
+> 🤖 **Why Recommend**  
+> *RuView transforms commodity WiFi signals into advanced spatial intelligence, enabling real-time vital sign monitoring, presence detection, and activity recognition without cameras. Key features include through-wall sensing, contactless breathing and heart rate detection, and occupancy tracking using low-cost ESP32 sensors. It integrates seamlessly with major smart home ecosystems like Home Assistant, Apple Home, Google Home, and Alexa. RuView leverages a self-learning AI model for adaptability, ensuring privacy by not relying on visual data. With over 101,000 stars on GitHub, it represents cutting-edge edge computing in smart environments.*
+
+- ⭐ 101627 stars
+- 💻 Rust
+- 📅 Updated: 2026-10-30
+
+![RuView](2026/10-30/2026-10-30_daily-top_RuView.png)
+
+### 9. [openbot](https://github.com/nightly-labs/openbot)
+
+> 🤖 **Why Recommend**  
+> *OpenBot is a local-first desktop workspace for persistent AI teammates, enabling seamless collaboration with models like Codex, Claude, and Grok. Key features include dedicated workspaces, task queues, file sharing, and an embedded browser. Users can create and manage agents with customizable settings, monitor contexts, and facilitate agent-to-agent communication. OpenBot supports various platforms (macOS, Windows, Linux) and prioritizes user privacy with local data handling. This innovative tool fosters efficient AI interactions in a secure environment, making it ideal for developers and teams.*
+
+- ⭐ 3986 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-10-30
+
+![openbot](2026/10-30/2026-10-30_daily-top_openbot.png)
+
+### 10. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
+
+> 🤖 **Why Recommend**  
+> *Ghidra is a powerful, open-source software reverse engineering (SRE) framework developed by the NSA. It offers a comprehensive suite of tools for analyzing compiled code across various platforms, including Windows, macOS, and Linux. Key features include disassembly, decompilation, graphing, and scripting support in Java and Python. Ghidra supports multiple processor instruction sets and executable formats, enabling automated and interactive analysis. Users can also create custom extensions and scripts, making it a versatile platform for cybersecurity research and analysis.*
+
+- ⭐ 95934 stars
+- 💻 Java
+- 📅 Updated: 2026-10-30
+
+![ghidra](2026/10-30/2026-10-30_daily-top_ghidra.png)
 
 ---
 
@@ -140,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-29 05:21:32 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-30 05:20:34 UTC
