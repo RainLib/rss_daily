@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-10-31
+# 📊 🌟 GitHub Trending Daily - 2026-11-01
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **677934** ⭐ | **79695** 🍴
+**10** Projects | **641556** ⭐ | **66003** 🍴
 
-**Top Languages:** `TypeScript` (6) · `JavaScript` (3) · `Rust` (1)
+**Top Languages:** `TypeScript` (5) · `JavaScript` (3) · `Rust` (2)
 
-**Updated:** 2026-10-31 05:03 UTC
+**Updated:** 2026-11-01 05:33 UTC
 
 **Categories:**
 
@@ -18,115 +18,115 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [impeccable](https://github.com/pbakaus/impeccable)
+### 1. [claude-mem](https://github.com/thedotmack/claude-mem)
 
 > 🤖 **Why Recommend**  
-> *Impeccable is a Rust-based design vocabulary tool for coding agents, enabling users to enhance and audit UI designs effectively. With commands like `polish`, `bolder`, `critique`, and `audit`, it streamlines the design process, ensuring usability and accessibility. Key features include a slop detector with 62 rules, live mode for real-time iteration, and compatibility with various coding environments like Codex, Copilot, and more. Impeccable helps teams maintain consistent design standards and improve project outcomes by facilitating clear communication of design intent. Full documentation is available at impeccable.style/docs.*
+> *Claude-Mem is a TypeScript-based project designed to provide persistent context across sessions for AI agents, such as Claude Code, OpenClaw, Codex, and more. With over 108,000 stars, it captures and compresses user interactions, ensuring relevant context is available in future sessions. Key features include smart search capabilities, progressive memory retrieval, and privacy controls. It supports multiple integrations and offers an intuitive installation process. Claude-Mem enhances productivity by maintaining continuity in project knowledge, making it a valuable tool for developers and AI users.*
 
-- ⭐ 97279 stars
+- ⭐ 108111 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-11-01
+
+![claude-mem](2026/11-01/2026-11-01_daily-top_claude-mem.png)
+
+### 2. [impeccable](https://github.com/pbakaus/impeccable)
+
+> 🤖 **Why Recommend**  
+> *Impeccable is a Rust-based design tool for coding agents, boasting 98,484 stars on GitHub. It enhances UI development with commands like `polish`, `bolder`, `critique`, and `audit`, enabling users to refine designs, ensure usability, and catch issues pre-release. Compatible with various coding platforms such as Codex, GitHub Copilot, and more, Impeccable facilitates both iterative design and comprehensive reviews. Key features include a slop detector with 62 rules, live editing capabilities, and project context management via `PRODUCT.md` and `DESIGN.md`. Comprehensive documentation is available at impeccable.style/docs.*
+
+- ⭐ 98484 stars
 - 💻 Rust
-- 📅 Updated: 2026-10-31
+- 📅 Updated: 2026-11-01
 
-![impeccable](2026/10-31/2026-10-31_daily-top_impeccable.png)
+![impeccable](2026/11-01/2026-11-01_daily-top_impeccable.png)
 
-### 2. [claude-mem](https://github.com/thedotmack/claude-mem)
+### 3. [OpenMausBot](https://github.com/milind-soni/OpenMausBot)
 
 > 🤖 **Why Recommend**  
-> *Claude-Mem is a persistent memory system designed for AI agents, enabling context retention across sessions. It captures user interactions, compresses them with AI, and provides relevant context for future use. Key features include persistent memory, smart search capabilities, privacy controls, and team collaboration tools. Compatible with platforms like Claude Code, OpenClaw, and Codex, it offers easy installation and configuration. With over 106,000 stars on GitHub, Claude-Mem enhances project continuity and knowledge management in AI-driven environments.*
+> *OpenMausBot is an open-source alternative to Grok Bot, enabling users to manage multiple AI agents, like Claude and Codex, within a chat app interface. Key features include local-first operation, allowing bots to run on personal machines, a model picker for agent selection, and a permission broker that requires user approval for actions. It integrates with over 500 apps via Composio, supports voice interactions, and provides dedicated cloud computing for each bot. Designed for privacy and flexibility, OpenMausBot empowers users to customize their AI interactions without relying on external servers.*
 
-- ⭐ 106547 stars
+- ⭐ 9837 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-31
+- 📅 Updated: 2026-11-01
 
-![claude-mem](2026/10-31/2026-10-31_daily-top_claude-mem.png)
+![OpenMausBot](2026/11-01/2026-11-01_daily-top_OpenMausBot.png)
 
-### 3. [ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
+### 4. [t3code](https://github.com/pingdotgg/t3code)
 
 > 🤖 **Why Recommend**  
-> *The "ziwei-doushu" project is an open-source Zi Wei Dou Shu astrology engine based on Ni Hai Xia's "Tian Ji" system. It features a comprehensive calculation algorithm, a four transformation system, a knowledge base of astrological patterns, and original ancient text data. The project offers a vast dataset of 674,976 astrological charts with over 8.7 million interpretive segments, emphasizing accessibility to traditional wisdom. Users can experience online charting and AI interpretation at ouranic.cn. The engine supports true solar time correction and various astrological nuances, making it a valuable tool for learners and practitioners alike.*
+> *T3 Code is a powerful agent harness control surface designed for seamless management of AI agents on your machine. It offers a robust mobile app (iOS and Android), a web app, and an Electron-based desktop app, allowing remote control of various services like Claude Code, Codex, Cursor, and more. Built with performance and openness in mind, T3 Code emphasizes a superior development experience. Users can install and authenticate multiple providers, manage background services, and access comprehensive documentation for setup and features. With over 35,900 stars, it is a promising tool for developers.*
 
-- ⭐ 11448 stars
+- ⭐ 35952 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-31
+- 📅 Updated: 2026-11-01
 
-![ziwei-doushu](2026/10-31/2026-10-31_daily-top_ziwei-doushu.png)
+![t3code](2026/11-01/2026-11-01_daily-top_t3code.png)
 
-### 4. [Orkas](https://github.com/Orkas-AI/Orkas)
+### 5. [ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
 
 > 🤖 **Why Recommend**  
-> *Orkas is an open-source, local-first AI desktop app that transforms goals into actionable to-dos, coordinating 16 built-in specialist agents alongside external coding tools like Claude Code and Codex. Key features include project management, scheduled automations, and connectors for various platforms. It supports free usage on macOS and Windows, offering 500 credits for built-in models. Orkas excels in delivering complex tasks through a collaborative agent team, ensuring ongoing project momentum while keeping data secure on your device.*
+> *The "ziwei-doushu" project is an open-source Zi Wei Dou Shu (Purple Star Astrology) charting engine based on the teachings of Ni Hai Xia, featuring a complete charting algorithm, a four-transform system, a pattern knowledge base, and an extensive dataset of ancient texts. Key features include a 13-dimensional interpretation dataset covering 674,976 charts, online charting and AI interpretation via the platform [ouranic.cn](https://ouranic.cn). The project emphasizes accessibility to traditional wisdom and is licensed under MIT for code and CC BY 4.0 for data, promoting free commercial use with attribution.*
 
-- ⭐ 5390 stars
+- ⭐ 12461 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-11-01
+
+![ziwei-doushu](2026/11-01/2026-11-01_daily-top_ziwei-doushu.png)
+
+### 6. [Orkas](https://github.com/Orkas-AI/Orkas)
+
+> 🤖 **Why Recommend**  
+> *Orkas is an open-source, local-first AI desktop app that transforms goals into actionable to-dos through a Commander that coordinates 16 built-in specialist agents, including Claude Code and Codex. It supports project management with persistent memory, scheduled automations, and seamless integration with tools like Gmail and Slack. Users can run multiple agents simultaneously for complex tasks, ensuring continuous productivity. Available for macOS and Windows, Orkas offers 500 free credits for its built-in model and allows integration with custom API keys, keeping data secure on local machines.*
+
+- ⭐ 6780 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-31
+- 📅 Updated: 2026-11-01
 
-![Orkas](2026/10-31/2026-10-31_daily-top_Orkas.png)
+![Orkas](2026/11-01/2026-11-01_daily-top_Orkas.png)
 
-### 5. [t3code](https://github.com/pingdotgg/t3code)
+### 7. [codex](https://github.com/openai/codex)
 
 > 🤖 **Why Recommend**  
-> *T3 Code is an agent harness control surface designed for seamless interaction with various AI agents, including Claude, Codex, and Cursor, through mobile, web, and desktop applications. It emphasizes a performant, remote-ready experience and is built with open-source principles, allowing users to fork and customize the tool. Key features include command-line support, background service operation, and integrations with popular coding tools. Installation is straightforward across multiple platforms, and comprehensive documentation is available for users. With over 32,000 stars, T3 Code aims to enhance the development workflow.*
+> *Codex is a lightweight coding agent from OpenAI that runs locally in your terminal, offering seamless integration with popular IDEs like VS Code. With over 132,000 stars, this Rust-based CLI tool allows users to install and operate Codex easily across platforms (Mac, Linux, Windows) using straightforward commands or package managers. Users can sign in with their ChatGPT accounts to access features based on their subscription plans. For those preferring a desktop experience, Codex also offers a dedicated app. Comprehensive documentation and contribution guidelines are available.*
 
-- ⭐ 32941 stars
+- ⭐ 132566 stars
+- 💻 Rust
+- 📅 Updated: 2026-11-01
+
+![codex](2026/11-01/2026-11-01_daily-top_codex.png)
+
+### 8. [orca](https://github.com/stablyai/orca)
+
+> 🤖 **Why Recommend**  
+> *Orca is a powerful platform for managing a fleet of coding agents like Grok Bot and Claude Code, available on desktop, mobile, and as a remote runtime. Key features include parallel worktrees for side-by-side agent operation, a mobile companion app for monitoring, and advanced terminal capabilities. Users can seamlessly integrate GitHub and Linear for task management, annotate AI-generated diffs, and utilize an intuitive CLI for scripting workflows. With robust support for any CLI agent, Orca streamlines code development and collaboration in a unified workspace.*
+
+- ⭐ 111851 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-10-31
+- 📅 Updated: 2026-11-01
 
-![t3code](2026/10-31/2026-10-31_daily-top_t3code.png)
+![orca](2026/11-01/2026-11-01_daily-top_orca.png)
 
-### 6. [OpenMausBot](https://github.com/milind-soni/OpenMausBot)
-
-> 🤖 **Why Recommend**  
-> *OpenMausBot is an open-source alternative to Grok Bot, designed for creating and managing AI agents within a chat app. Key features include the ability to run multiple agents like Claude and Codex locally, a permission broker for safe operations, and integration with over 500 apps through Composio. Users can manage bots as contacts, utilize a marketplace for seamless app connections, and activate voice responses. Built with TypeScript and Electron, it supports macOS, Windows, and Ubuntu, making AI interactions secure, localized, and customizable.*
-
-- ⭐ 8845 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-31
-
-![OpenMausBot](2026/10-31/2026-10-31_daily-top_OpenMausBot.png)
-
-### 7. [taste-skill](https://github.com/Leonxlnx/taste-skill)
+### 9. [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
 > 🤖 **Why Recommend**  
-> *Taste Skill is an innovative agent skill designed to enhance coding agents with artistic direction, enabling them to create visually appealing websites and app screens. It leverages real images from open archives, ensuring high-quality design over generic outputs. Key features include a structured six-step process for page creation, real-time browser checks, and a focus on both web and app interfaces. With its seamless installation via Node.js and no API keys required, Taste Skill streamlines the design process while maintaining artistic integrity. Visit tasteskill.dev for more information.*
+> *Taste Skill is an innovative agent skill designed to enhance coding agents' design capabilities, allowing them to create visually appealing websites and app screens. Key features include art direction, the use of real reference images from open archives, and a browser check to ensure quality. The skill functions without the need for API keys and operates on Node 22+ with a compatible browser. It excels in generating tailored designs based on client briefs, providing a seamless experience for developers seeking high-quality, aesthetically pleasing outputs. With over 107,000 stars on GitHub, it stands out as a valuable tool in the coding community.*
 
-- ⭐ 106441 stars
+- ⭐ 107173 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-31
+- 📅 Updated: 2026-11-01
 
-![taste-skill](2026/10-31/2026-10-31_daily-top_taste-skill.png)
+![taste-skill](2026/11-01/2026-11-01_daily-top_taste-skill.png)
 
-### 8. [ECC](https://github.com/affaan-m/ECC)
+### 10. [openGym](https://github.com/DuarteSantos8/openGym)
 
 > 🤖 **Why Recommend**  
-> *ECC is an advanced performance optimization system for coding agents like Claude Code, Codex, and Cursor. It provides a structured environment with 71 specialized agents and 314 reusable skills for planning, testing, and reviewing code. Key features include continuous learning, memory persistence, and security scanning via AgentShield. The system supports multiple harnesses and offers integration with GitHub for enhanced project management. With a guided setup, ECC streamlines workflows and improves code quality through systematic checks and balances. An open-source project, ECC is licensed under MIT.*
+> *openGym is an open-source gym and body-weight tracker available on iPhone, Apple Watch, and Android. It allows users to plan routines, log workouts, and track muscle engagement with over 5,600 exercises. Key features include guided sessions, detailed progress tracking, and the ability to import data from other fitness apps. Users can self-host the app or use it locally without an account, ensuring data privacy. Additional functionalities include passkey sign-in, an AI coach for personalized routines, and seamless syncing across devices.*
 
-- ⭐ 293497 stars
+- ⭐ 18341 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-10-31
+- 📅 Updated: 2026-11-01
 
-![ECC](2026/10-31/2026-10-31_daily-top_ECC.png)
-
-### 9. [thinkrail](https://github.com/JetBrains/thinkrail)
-
-> 🤖 **Why Recommend**  
-> *ThinkRail is an innovative IDE designed to enhance your coding experience by adapting to your workflow. Key features include isolated workspaces using Git worktrees, a rich interface with Monaco editor support, and live collaboration through multiple `pi` sessions. It integrates project specifications as a connected graph, enabling the agent to learn and improve continuously. With extension support, customizable themes, and language options, ThinkRail offers a tailored environment for developers. Join the community on Discord and explore more at thinkrail.ai.*
-
-- ⭐ 6651 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-31
-
-![thinkrail](2026/10-31/2026-10-31_daily-top_thinkrail.png)
-
-### 10. [OpenBot](https://github.com/CopilotKit/OpenBot)
-
-> 🤖 **Why Recommend**  
-> *OpenBot is an open-source AI coworker platform that allows users to run customizable AI agents on their own infrastructure. Each agent has its own browser, files, and tools, with actions pre-approved and logged for security. Key features include support for any AG-UI agent, robust governance policies, an audit trail, and the ability to create personalized skills. The platform ensures data privacy by keeping everything local, while also offering Docker-based deployment and integration with existing identity providers. OpenBot is designed for flexibility, allowing users to adapt it to their needs.*
-
-- ⭐ 8895 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-10-31
-
-![OpenBot](2026/10-31/2026-10-31_daily-top_OpenBot.png)
+![openGym](2026/11-01/2026-11-01_daily-top_openGym.png)
 
 ---
 
@@ -140,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-10-31 05:03:35 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-11-01 05:33:56 UTC
