@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-11-04
+# 📊 🌟 GitHub Trending Daily - 2026-11-05
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **446988** ⭐ | **48950** 🍴
+**10** Projects | **778613** ⭐ | **100569** 🍴
 
-**Top Languages:** `TypeScript` (3) · `Rust` (3) · `Java` (2)
+**Top Languages:** `TypeScript` (3) · `C` (2) · `Java` (2)
 
-**Updated:** 2026-11-04 05:50 UTC
+**Updated:** 2026-11-05 06:06 UTC
 
 **Categories:**
 
@@ -21,112 +21,112 @@
 ### 1. [agent-desktop](https://github.com/vercel-labs/agent-desktop)
 
 > 🤖 **Why Recommend**  
-> *agent-desktop is a cross-platform CLI tool designed for AI agents to interact with desktop applications on macOS, Windows, and Linux using the OS accessibility tree, without relying on screenshots or pixel matching. With 60 commands, it allows agents to observe UI elements, perform actions like clicks and typing, and handle sessions and notifications. The tool also includes a C library for in-process usage and supports headless operation. Its robust architecture leverages platform-specific accessibility APIs, ensuring seamless integration and enhanced automation capabilities.*
+> *agent-desktop is a CLI tool for AI agents, enabling interaction with desktop applications on macOS, Windows, and Linux via the OS accessibility tree. It reads UI elements and allows agents to perform actions without relying on screenshots or pixel matching. Key features include generating JSON snapshots of app states, executing commands like clicks and text input, and supporting headless operation. The project is built in Rust, offers a C library for integration, and has extensive documentation, making it a versatile solution for automated desktop interactions.*
 
-- ⭐ 13291 stars
+- ⭐ 15624 stars
 - 💻 Rust
-- 📅 Updated: 2026-11-04
+- 📅 Updated: 2026-11-05
 
-![agent-desktop](2026/11-04/2026-11-04_daily-top_agent-desktop.png)
+![agent-desktop](2026/11-05/2026-11-05_daily-top_agent-desktop.png)
 
-### 2. [t3code](https://github.com/pingdotgg/t3code)
+### 2. [claude-mem](https://github.com/thedotmack/claude-mem)
 
 > 🤖 **Why Recommend**  
-> *T3 Code is an advanced agent harness control surface, enabling seamless management of development agents via a mobile app (iOS, Android), web app, or Electron-based desktop application. It supports popular services such as Claude Code, Codex, Cursor, Grok Build, OpenCode, and Google Antigravity. Designed for optimal performance and remote accessibility, T3 Code is open-source, encouraging user customization. Installation is straightforward, with options for various platforms, and comprehensive documentation is available for setup and usage. Join the community for support and contributions.*
+> *Claude-Mem is a TypeScript-based project designed to enhance agent productivity by providing persistent memory across sessions. It captures tool usage and generates semantic summaries, ensuring continuity in projects even after sessions end. Key features include smart search, team collaboration with TeamBrain, privacy controls, and context configuration. Compatible with various AI tools like Claude Code and OpenClaw, it enables efficient memory management and retrieval. With over 113k stars, Claude-Mem is a robust solution for developers seeking to optimize their workflow and project continuity.*
 
-- ⭐ 44820 stars
+- ⭐ 113053 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-11-04
+- 📅 Updated: 2026-11-05
 
-![t3code](2026/11-04/2026-11-04_daily-top_t3code.png)
+![claude-mem](2026/11-05/2026-11-05_daily-top_claude-mem.png)
 
-### 3. [claude-mem](https://github.com/thedotmack/claude-mem)
+### 3. [floci](https://github.com/floci-io/floci)
 
 > 🤖 **Why Recommend**  
-> *Claude-Mem is a TypeScript-based project designed to enhance AI agents with persistent memory across sessions. It automatically captures agent interactions, compresses them using AI, and reintegrates relevant context into future sessions. Key features include smart search capabilities, team collaboration tools, and privacy controls. It supports various platforms, including Claude Code, OpenClaw, and Codex, allowing seamless integration. With over 112,000 stars, Claude-Mem empowers users to maintain continuity in projects and enables intelligent memory retrieval, optimizing agent efficiency.*
+> *Floci is a free, open-source local AWS emulator designed for development, testing, and CI, allowing seamless integration with existing AWS workflows without the need for cloud accounts or tokens. Key features include real Docker-backed services for Lambda, RDS, DynamoDB, and more, along with support for AWS SDKs, CLI, Terraform, and CDK. Floci offers configurable storage modes and a web console for resource inspection. With 29,788 stars on GitHub, it serves as a robust alternative to LocalStack, ensuring compatibility and ease of migration.*
 
-- ⭐ 112145 stars
+- ⭐ 29788 stars
+- 💻 Java
+- 📅 Updated: 2026-11-05
+
+![floci](2026/11-05/2026-11-05_daily-top_floci.png)
+
+### 4. [ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
+
+> 🤖 **Why Recommend**  
+> *The "ziwei-doushu" project is an open-source Zi Wei Dou Shu (Purple Star Astrology) charting engine based on Ni Hai Xia's "Tian Ji" system. It features a comprehensive charting algorithm, a Four Transformations system, a knowledge base of astrological patterns, and ancient text data. With over 674,000 charts and 8.77 million interpretations, the project emphasizes open access to traditional wisdom. Key services include an online platform for charting and AI interpretations, and extensive datasets available for commercial use with proper attribution.*
+
+- ⭐ 15894 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-11-04
+- 📅 Updated: 2026-11-05
 
-![claude-mem](2026/11-04/2026-11-04_daily-top_claude-mem.png)
+![ziwei-doushu](2026/11-05/2026-11-05_daily-top_ziwei-doushu.png)
 
-### 4. [colibri](https://github.com/JustVugg/colibri)
+### 5. [ECC](https://github.com/affaan-m/ECC)
 
 > 🤖 **Why Recommend**  
-> *colibri is a hierarchical inference engine designed for large mixture-of-expert (MoE) models, optimizing the use of GPU (CUDA, Vulkan), RAM, and NVMe storage. Written in C, it enables users to run massive models, like GLM-5.2 with 744 billion parameters, efficiently on standard hardware. Key features include dynamic expert loading to minimize memory usage, a user-friendly setup, and support for various models (language, vision, decision-making). The project also offers a web-based dashboard and API compatibility with OpenAI and Anthropic, enhancing accessibility for developers.*
+> *ECC is a performance optimization system designed for AI agents like Claude Code and Codex. It offers 71 specialized agents, 314 reusable skills, and 98 command shims, facilitating tasks such as planning, code review, and security audits. Key features include automated context management, continuous learning, and the AgentShield security scanner. ECC supports multi-harness integration with platforms like Cursor and OpenCode, providing a unified toolbox for seamless engineering workflows. It is open-source and MIT-licensed, ensuring accessibility for all developers.*
 
-- ⭐ 47372 stars
+- ⭐ 297386 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-11-05
+
+![ECC](2026/11-05/2026-11-05_daily-top_ECC.png)
+
+### 6. [colibri](https://github.com/JustVugg/colibri)
+
+> 🤖 **Why Recommend**  
+> *Colibri is a hierarchical inference engine designed for large mixture-of-experts (MoE) models, enabling efficient model usage on existing hardware. It leverages CUDA and Vulkan for GPU acceleration, while managing memory through a tiered approach—storing hot experts in GPU memory, warm experts in RAM, and cold experts streamed from NVMe. Supporting multiple engines for language and decision tasks, Colibri provides a user-friendly dashboard and APIs compatible with OpenAI and Anthropic standards, facilitating seamless integration into various applications. Its open-source nature fosters community-driven enhancements.*
+
+- ⭐ 47836 stars
 - 💻 C
-- 📅 Updated: 2026-11-04
+- 📅 Updated: 2026-11-05
 
-![colibri](2026/11-04/2026-11-04_daily-top_colibri.png)
+![colibri](2026/11-05/2026-11-05_daily-top_colibri.png)
 
-### 5. [freellmapi](https://github.com/tashfeenahmed/freellmapi)
+### 7. [worktrunk](https://github.com/max-sixty/worktrunk)
 
 > 🤖 **Why Recommend**  
-> *FreeLLMAPI is a TypeScript-based API aggregator providing access to 34 free LLM providers and 635 model endpoints, with a monthly capacity of 7.4 billion tokens. It offers a unified OpenAI-compatible endpoint, smart routing for optimal model selection, automatic failover, and encrypted key storage. Key features include multi-model synthesis, support for various response formats, and an admin dashboard for managing keys and monitoring analytics. Designed for personal experimentation, it simplifies access to diverse AI models while ensuring compliance with providers’ terms of service.*
+> *Worktrunk is a popular CLI tool (11,170 stars) for managing Git worktrees, specifically designed for parallel AI agent workflows. Built in Rust, it simplifies the complex UX of Git worktrees with commands that make creating, switching, and managing worktrees as easy as handling branches. Key features include automation hooks, LLM-generated commit messages, and the ability to share build caches across worktrees. With a focus on enhancing productivity in multi-agent environments, Worktrunk streamlines workflows and improves efficiency. For detailed documentation, visit worktrunk.dev.*
 
-- ⭐ 47170 stars
+- ⭐ 11170 stars
+- 💻 Rust
+- 📅 Updated: 2026-11-05
+
+![worktrunk](2026/11-05/2026-11-05_daily-top_worktrunk.png)
+
+### 8. [kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)
+
+> 🤖 **Why Recommend**  
+> *Kimi-K3-in-C is a lightweight inference engine for the 2.78-trillion-parameter Kimi K3 model, designed to run on a single CPU with just 8 GB of RAM. It is implemented in portable C99 without dependencies on BLAS or GPU. Key features include efficient memory management through streaming, producing identical output across various memory budgets, and a deterministic hit rate for cache utilization. The project demonstrates the ability to generate text fluently and accurately while maintaining low latency, making advanced AI models accessible on consumer-grade hardware.*
+
+- ⭐ 10475 stars
+- 💻 C
+- 📅 Updated: 2026-11-05
+
+![kimi-k3-in-c](2026/11-05/2026-11-05_daily-top_kimi-k3-in-c.png)
+
+### 9. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
+
+> 🤖 **Why Recommend**  
+> *Ghidra is a powerful software reverse engineering (SRE) framework developed by the NSA, featuring a comprehensive suite of tools for analyzing compiled code across multiple platforms (Windows, macOS, Linux). Key capabilities include disassembly, decompilation, graphing, and scripting, supporting various processor instruction sets and executable formats. Ghidra allows user customization through Java and Python extensions, enhancing its extensibility. Its design addresses complex SRE challenges, making it ideal for cybersecurity research and vulnerability analysis.*
+
+- ⭐ 97912 stars
+- 💻 Java
+- 📅 Updated: 2026-11-05
+
+![ghidra](2026/11-05/2026-11-05_daily-top_ghidra.png)
+
+### 10. [gstack](https://github.com/garrytan/gstack)
+
+> 🤖 **Why Recommend**  
+> *gstack transforms Claude Code into a virtual engineering team, featuring 23 specialized tools for roles such as CEO, Designer, and QA Lead. Key features include structured commands for planning, reviewing, testing, and shipping code, all within a streamlined workflow. Users can initiate commands like `/office-hours` for project framing, `/review` for bug detection, and `/qa` for real-browser testing. Designed for founders, tech leads, and first-time users, gstack enhances productivity through automation and rigorous review processes, ensuring nothing falls through the cracks. Open-source and MIT licensed, gstack is accessible to everyone.*
+
+- ⭐ 139475 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-11-04
+- 📅 Updated: 2026-11-05
 
-![freellmapi](2026/11-04/2026-11-04_daily-top_freellmapi.png)
-
-### 6. [Hyprland](https://github.com/hyprwm/Hyprland)
-
-> 🤖 **Why Recommend**  
-> *Hyprland is an independent, highly customizable dynamic tiling Wayland compositor, boasting 40,245 stars on GitHub. It combines aesthetic appeal with powerful functionality, featuring advanced animations, gradient borders, and extensive plugin support. Core highlights include instant config reloading, socket-based IPC, and various layouts (e.g., Dwindle, Monocle). Hyprland supports tearing for enhanced gaming, dynamic workspaces, and per-workspace layouts, making it adaptable for diverse user needs. With an easy-to-read codebase and active development, Hyprland delivers a modern Wayland experience.*
-
-- ⭐ 40245 stars
-- 💻 C++
-- 📅 Updated: 2026-11-04
-
-![Hyprland](2026/11-04/2026-11-04_daily-top_Hyprland.png)
-
-### 7. [floci](https://github.com/floci-io/floci)
-
-> 🤖 **Why Recommend**  
-> *Floci is a free, open-source local AWS emulator designed for development, testing, and CI, offering AWS-compatible services without the need for cloud accounts or auth tokens. It supports a wide range of services, including S3, DynamoDB, Lambda, and more, all accessible at `http://localhost:4566`. Floci emphasizes real Docker integration for high fidelity and speed, making it suitable for CI pipelines. It provides a web console for resource inspection and is a drop-in replacement for LocalStack, ensuring seamless migration. With features like configurable storage modes and multi-account isolation, Floci is a robust solution for local AWS emulation.*
-
-- ⭐ 29002 stars
-- 💻 Java
-- 📅 Updated: 2026-11-04
-
-![floci](2026/11-04/2026-11-04_daily-top_floci.png)
-
-### 8. [worktrunk](https://github.com/max-sixty/worktrunk)
-
-> 🤖 **Why Recommend**  
-> *Worktrunk is a Rust-based CLI tool for efficient Git worktree management, optimized for parallel AI agent workflows. With over 10,600 stars, it simplifies the creation and management of worktrees, making them as easy as branches. Key features include automation hooks, LLM-generated commit messages, a merge workflow, and the ability to share build caches. Users can quickly switch between worktrees, list their statuses, and integrate commands seamlessly. Worktrunk enhances productivity by enabling multiple agents to work in parallel without conflicts. For full documentation, visit worktrunk.dev.*
-
-- ⭐ 10624 stars
-- 💻 Rust
-- 📅 Updated: 2026-11-04
-
-![worktrunk](2026/11-04/2026-11-04_daily-top_worktrunk.png)
-
-### 9. [hex](https://github.com/anomalyco/hex)
-
-> 🤖 **Why Recommend**  
-> *Hex is a local voice dictation tool for Mac, Windows, and Linux, enabling users to transcribe speech directly into applications by holding a shortcut key. It operates entirely offline after the initial speech model download, ensuring privacy and security. Hex offers experimental features in its Labs section and supports various installation methods, including Homebrew and AUR. With over 4,700 stars on GitHub, it is built in Rust and prioritizes user-friendly dictation across multiple platforms. Contributing is streamlined through issue reporting rather than pull requests.*
-
-- ⭐ 4724 stars
-- 💻 Rust
-- 📅 Updated: 2026-11-04
-
-![hex](2026/11-04/2026-11-04_daily-top_hex.png)
-
-### 10. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
-
-> 🤖 **Why Recommend**  
-> *Ghidra is a powerful open-source software reverse engineering (SRE) framework developed by the NSA. It offers a comprehensive suite of tools for analyzing compiled code across various platforms (Windows, macOS, Linux), featuring capabilities like disassembly, decompilation, graphing, and scripting in Java and Python. Ghidra supports numerous processor architectures and executable formats, enabling both interactive and automated analysis. The framework is designed for extensibility, allowing users to create custom scripts and extensions, making it invaluable for cybersecurity research and vulnerability assessment.*
-
-- ⭐ 97595 stars
-- 💻 Java
-- 📅 Updated: 2026-11-04
-
-![ghidra](2026/11-04/2026-11-04_daily-top_ghidra.png)
+![gstack](2026/11-05/2026-11-05_daily-top_gstack.png)
 
 ---
 
@@ -140,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-11-04 05:50:04 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-11-05 06:06:50 UTC
