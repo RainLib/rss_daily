@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-11-05
+# 📊 🌟 GitHub Trending Daily - 2026-11-06
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **778613** ⭐ | **100569** 🍴
+**10** 个项目 | **433851** ⭐ | **53709** 🍴
 
-**热门语言:** `TypeScript` (3) · `Java` (2) · `C` (2)
+**热门语言:** `Rust` (4) · `C` (2) · `TypeScript` (2)
 
-**更新时间:** 2026-11-05 06:06 UTC
+**更新时间:** 2026-11-06 06:03 UTC
 
 **分类分布:**
 
@@ -21,112 +21,112 @@
 ### 1. [agent-desktop](https://github.com/vercel-labs/agent-desktop)
 
 > 🤖 **推荐理由**  
-> *agent-desktop is a CLI tool for AI agents, enabling interaction with desktop applications on macOS, Windows, and Linux via the OS accessibility tree. It reads UI elements and allows agents to perform actions without relying on screenshots or pixel matching. Key features include generating JSON snapshots of app states, executing commands like clicks and text input, and supporting headless operation. The project is built in Rust, offers a C library for integration, and has extensive documentation, making it a versatile solution for automated desktop interactions.*
+> *agent-desktop is a Rust-based CLI tool that enables AI agents to interact with desktop applications on macOS, Windows, and Linux by utilizing the OS accessibility tree. It provides a JSON interface for capturing snapshots of UI elements, allowing agents to perform actions like clicking and typing without relying on screenshots or pixel matching. Key features include headless operation, extensive command support (over 60 commands), and a C library for in-process integration. It ensures privacy by handling sensitive data carefully, making it suitable for automation tasks in various environments.*
 
-- ⭐ 15624 stars
+- ⭐ 17231 stars
 - 💻 Rust
-- 📅 Updated: 2026-11-05
+- 📅 Updated: 2026-11-06
 
-![agent-desktop](2026/11-05/2026-11-05_daily-top_agent-desktop.png)
+![agent-desktop](2026/11-06/2026-11-06_daily-top_agent-desktop.png)
 
-### 2. [claude-mem](https://github.com/thedotmack/claude-mem)
+### 2. [t3code](https://github.com/pingdotgg/t3code)
 
 > 🤖 **推荐理由**  
-> *Claude-Mem is a TypeScript-based project designed to enhance agent productivity by providing persistent memory across sessions. It captures tool usage and generates semantic summaries, ensuring continuity in projects even after sessions end. Key features include smart search, team collaboration with TeamBrain, privacy controls, and context configuration. Compatible with various AI tools like Claude Code and OpenClaw, it enables efficient memory management and retrieval. With over 113k stars, Claude-Mem is a robust solution for developers seeking to optimize their workflow and project continuity.*
+> *T3 Code is an advanced "agent harness control surface" that allows seamless management of AI agents on your machine via a mobile app (iOS and Android), web app, and Electron-based desktop app. It integrates with popular services like Claude Code, Codex, Cursor, Grok Build, OpenCode, Google Antigravity, and fx. Designed for performance and openness, T3 Code offers a customizable development experience without selling any products. Installation is straightforward, with support for multiple platforms and comprehensive documentation available.*
 
-- ⭐ 113053 stars
+- ⭐ 48596 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-11-05
+- 📅 Updated: 2026-11-06
 
-![claude-mem](2026/11-05/2026-11-05_daily-top_claude-mem.png)
+![t3code](2026/11-06/2026-11-06_daily-top_t3code.png)
 
-### 3. [floci](https://github.com/floci-io/floci)
-
-> 🤖 **推荐理由**  
-> *Floci is a free, open-source local AWS emulator designed for development, testing, and CI, allowing seamless integration with existing AWS workflows without the need for cloud accounts or tokens. Key features include real Docker-backed services for Lambda, RDS, DynamoDB, and more, along with support for AWS SDKs, CLI, Terraform, and CDK. Floci offers configurable storage modes and a web console for resource inspection. With 29,788 stars on GitHub, it serves as a robust alternative to LocalStack, ensuring compatibility and ease of migration.*
-
-- ⭐ 29788 stars
-- 💻 Java
-- 📅 Updated: 2026-11-05
-
-![floci](2026/11-05/2026-11-05_daily-top_floci.png)
-
-### 4. [ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
+### 3. [impeccable](https://github.com/pbakaus/impeccable)
 
 > 🤖 **推荐理由**  
-> *The "ziwei-doushu" project is an open-source Zi Wei Dou Shu (Purple Star Astrology) charting engine based on Ni Hai Xia's "Tian Ji" system. It features a comprehensive charting algorithm, a Four Transformations system, a knowledge base of astrological patterns, and ancient text data. With over 674,000 charts and 8.77 million interpretations, the project emphasizes open access to traditional wisdom. Key services include an online platform for charting and AI interpretations, and extensive datasets available for commercial use with proper attribution.*
+> *Impeccable is a Rust-based design vocabulary tool for coding agents, enabling developers to enhance UI quality with commands like `polish`, `bolder`, `critique`, and `audit`. It integrates seamlessly with various coding environments, including Codex, GitHub Copilot, and more. Key features include a slop detector that identifies design flaws, a comprehensive review system for usability and accessibility, and live iteration capabilities for real-time design adjustments. With 24 commands for steering, reviewing, and finalizing designs, Impeccable ensures polished and user-friendly interfaces before deployment.*
 
-- ⭐ 15894 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-11-05
+- ⭐ 104138 stars
+- 💻 Rust
+- 📅 Updated: 2026-11-06
 
-![ziwei-doushu](2026/11-05/2026-11-05_daily-top_ziwei-doushu.png)
+![impeccable](2026/11-06/2026-11-06_daily-top_impeccable.png)
 
-### 5. [ECC](https://github.com/affaan-m/ECC)
+### 4. [dsh-purge](https://github.com/HunYiSage/dsh-purge)
 
 > 🤖 **推荐理由**  
-> *ECC is a performance optimization system designed for AI agents like Claude Code and Codex. It offers 71 specialized agents, 314 reusable skills, and 98 command shims, facilitating tasks such as planning, code review, and security audits. Key features include automated context management, continuous learning, and the AgentShield security scanner. ECC supports multi-harness integration with platforms like Cursor and OpenCode, providing a unified toolbox for seamless engineering workflows. It is open-source and MIT-licensed, ensuring accessibility for all developers.*
+> *dsh-purge is a powerful cybersecurity red-team plugin for the DeepSeek Harness, enabling prompt swapping for different models and enhancing security evaluations. Key features include a user-friendly interface with Clean and Drill pages for managing patches and rules, support for multiple rule sets, and a built-in skill library. The plugin operates locally without malicious intent, ensuring that no unauthorized attacks are conducted. With over 19,421 stars on GitHub, dsh-purge is an open-source tool designed for ethical use in cybersecurity research.*
 
-- ⭐ 297386 stars
+- ⭐ 19421 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-11-05
+- 📅 Updated: 2026-11-06
 
-![ECC](2026/11-05/2026-11-05_daily-top_ECC.png)
+![dsh-purge](2026/11-06/2026-11-06_daily-top_dsh-purge.png)
 
-### 6. [colibri](https://github.com/JustVugg/colibri)
-
-> 🤖 **推荐理由**  
-> *Colibri is a hierarchical inference engine designed for large mixture-of-experts (MoE) models, enabling efficient model usage on existing hardware. It leverages CUDA and Vulkan for GPU acceleration, while managing memory through a tiered approach—storing hot experts in GPU memory, warm experts in RAM, and cold experts streamed from NVMe. Supporting multiple engines for language and decision tasks, Colibri provides a user-friendly dashboard and APIs compatible with OpenAI and Anthropic standards, facilitating seamless integration into various applications. Its open-source nature fosters community-driven enhancements.*
-
-- ⭐ 47836 stars
-- 💻 C
-- 📅 Updated: 2026-11-05
-
-![colibri](2026/11-05/2026-11-05_daily-top_colibri.png)
-
-### 7. [worktrunk](https://github.com/max-sixty/worktrunk)
+### 5. [floci](https://github.com/floci-io/floci)
 
 > 🤖 **推荐理由**  
-> *Worktrunk is a popular CLI tool (11,170 stars) for managing Git worktrees, specifically designed for parallel AI agent workflows. Built in Rust, it simplifies the complex UX of Git worktrees with commands that make creating, switching, and managing worktrees as easy as handling branches. Key features include automation hooks, LLM-generated commit messages, and the ability to share build caches across worktrees. With a focus on enhancing productivity in multi-agent environments, Worktrunk streamlines workflows and improves efficiency. For detailed documentation, visit worktrunk.dev.*
+> *Floci is a free, open-source local emulator for AWS, allowing developers to run AWS services without needing a cloud account or authentication tokens. With a simple `docker compose up`, it supports a wide range of services, including S3, DynamoDB, Lambda, and more, using real Docker containers for high fidelity. Floci offers quick startup times, configurable persistence options, and seamless integration with existing AWS SDKs and CLI tools. It is a drop-in replacement for LocalStack, making migration straightforward for current users.*
 
-- ⭐ 11170 stars
-- 💻 Rust
-- 📅 Updated: 2026-11-05
-
-![worktrunk](2026/11-05/2026-11-05_daily-top_worktrunk.png)
-
-### 8. [kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)
-
-> 🤖 **推荐理由**  
-> *Kimi-K3-in-C is a lightweight inference engine for the 2.78-trillion-parameter Kimi K3 model, designed to run on a single CPU with just 8 GB of RAM. It is implemented in portable C99 without dependencies on BLAS or GPU. Key features include efficient memory management through streaming, producing identical output across various memory budgets, and a deterministic hit rate for cache utilization. The project demonstrates the ability to generate text fluently and accurately while maintaining low latency, making advanced AI models accessible on consumer-grade hardware.*
-
-- ⭐ 10475 stars
-- 💻 C
-- 📅 Updated: 2026-11-05
-
-![kimi-k3-in-c](2026/11-05/2026-11-05_daily-top_kimi-k3-in-c.png)
-
-### 9. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
-
-> 🤖 **推荐理由**  
-> *Ghidra is a powerful software reverse engineering (SRE) framework developed by the NSA, featuring a comprehensive suite of tools for analyzing compiled code across multiple platforms (Windows, macOS, Linux). Key capabilities include disassembly, decompilation, graphing, and scripting, supporting various processor instruction sets and executable formats. Ghidra allows user customization through Java and Python extensions, enhancing its extensibility. Its design addresses complex SRE challenges, making it ideal for cybersecurity research and vulnerability analysis.*
-
-- ⭐ 97912 stars
+- ⭐ 30561 stars
 - 💻 Java
-- 📅 Updated: 2026-11-05
+- 📅 Updated: 2026-11-06
 
-![ghidra](2026/11-05/2026-11-05_daily-top_ghidra.png)
+![floci](2026/11-06/2026-11-06_daily-top_floci.png)
 
-### 10. [gstack](https://github.com/garrytan/gstack)
+### 6. [kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)
 
 > 🤖 **推荐理由**  
-> *gstack transforms Claude Code into a virtual engineering team, featuring 23 specialized tools for roles such as CEO, Designer, and QA Lead. Key features include structured commands for planning, reviewing, testing, and shipping code, all within a streamlined workflow. Users can initiate commands like `/office-hours` for project framing, `/review` for bug detection, and `/qa` for real-browser testing. Designed for founders, tech leads, and first-time users, gstack enhances productivity through automation and rigorous review processes, ensuring nothing falls through the cracks. Open-source and MIT licensed, gstack is accessible to everyone.*
+> *Kimi K3 in C is a highly efficient inference engine for a 2.78-trillion-parameter model that operates on a single CPU with just 8.24 GB of RAM, utilizing portable C99 without any frameworks or GPUs. Its key features include on-demand streaming of parameters, deterministic output across varying memory budgets, and a novel mixture of experts architecture that activates only a subset of parameters for each token. The project also supports incremental decoding, making it suitable for various environments while ensuring high accuracy and performance metrics.*
 
-- ⭐ 139475 stars
+- ⭐ 10788 stars
+- 💻 C
+- 📅 Updated: 2026-11-06
+
+![kimi-k3-in-c](2026/11-06/2026-11-06_daily-top_kimi-k3-in-c.png)
+
+### 7. [gstack](https://github.com/garrytan/gstack)
+
+> 🤖 **推荐理由**  
+> *gstack is an open-source software factory that transforms Claude Code and other coding agents into a virtual engineering team. It features 23 specialized tools, including roles for CEO, designer, engineer manager, and QA lead, all operating through intuitive slash commands. Key highlights include automated design documentation, rigorous code reviews, real browser QA, and seamless deployment processes. Designed for founders, tech leads, and first-time users, gstack streamlines the entire development lifecycle, from ideation to shipping, ensuring nothing falls through the cracks.*
+
+- ⭐ 140112 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-11-05
+- 📅 Updated: 2026-11-06
 
-![gstack](2026/11-05/2026-11-05_daily-top_gstack.png)
+![gstack](2026/11-06/2026-11-06_daily-top_gstack.png)
+
+### 8. [worktrunk](https://github.com/max-sixty/worktrunk)
+
+> 🤖 **推荐理由**  
+> *Worktrunk is a powerful CLI tool for Git worktree management, optimized for parallel AI agent workflows. With over 11,600 stars, it simplifies tasks like switching worktrees, creating branches, and managing multiple changes with commands that mimic Git's functionality. Key features include workflow automation through hooks, LLM-generated commit messages, interactive branch selection, and the ability to share build caches. Worktrunk enhances productivity by allowing seamless management of multiple agents, making it an essential tool for developers working with AI. Full documentation is available at worktrunk.dev.*
+
+- ⭐ 11619 stars
+- 💻 Rust
+- 📅 Updated: 2026-11-06
+
+![worktrunk](2026/11-06/2026-11-06_daily-top_worktrunk.png)
+
+### 9. [colibri](https://github.com/JustVugg/colibri)
+
+> 🤖 **推荐理由**  
+> *Colibri is a hierarchical inference engine for large mixture-of-experts (MoE) models, designed to efficiently utilize existing hardware. It dynamically manages model components, keeping hot experts on the GPU, warm ones in RAM, and cold ones streamed from NVMe storage. Written in C, it runs various language models (e.g., GLM-5.2/5.3, Qwen3.8) and image models (Qwen-Image-2.1) without requiring high-end GPUs. The engine features a user-friendly setup process, a comprehensive dashboard, and APIs compatible with OpenAI and Anthropic, making it a powerful tool for AI applications.*
+
+- ⭐ 48225 stars
+- 💻 C
+- 📅 Updated: 2026-11-06
+
+![colibri](2026/11-06/2026-11-06_daily-top_colibri.png)
+
+### 10. [zapfast](https://github.com/crmne/zapfast)
+
+> 🤖 **推荐理由**  
+> *ZapFast is a fast, native WhatsApp client built in Rust, optimized for Linux, macOS, and Windows. With over 3,160 stars on GitHub, it offers a lightweight alternative to WhatsApp Web, using about 200 MB of RAM. Key features include sending messages, media playback, chat history management, support for multiple accounts, and customizable themes. It prioritizes privacy, storing chats locally without server reliance. The app supports multiple languages and offers detailed user guides for setup and usage.*
+
+- ⭐ 3160 stars
+- 💻 Rust
+- 📅 Updated: 2026-11-06
+
+![zapfast](2026/11-06/2026-11-06_daily-top_zapfast.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-11-05 06:06:50 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-11-06 06:03:53 UTC
