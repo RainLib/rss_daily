@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-11-06
+# 📊 🌟 GitHub Trending Daily - 2026-11-07
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **433851** ⭐ | **53709** 🍴
+**10** 个项目 | **620290** ⭐ | **84157** 🍴
 
-**热门语言:** `Rust` (4) · `C` (2) · `TypeScript` (2)
+**热门语言:** `JavaScript` (3) · `Rust` (3) · `TypeScript` (2)
 
-**更新时间:** 2026-11-06 06:03 UTC
+**更新时间:** 2026-11-07 05:35 UTC
 
 **分类分布:**
 
@@ -18,115 +18,117 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [agent-desktop](https://github.com/vercel-labs/agent-desktop)
+### 1. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 
 > 🤖 **推荐理由**  
-> *agent-desktop is a Rust-based CLI tool that enables AI agents to interact with desktop applications on macOS, Windows, and Linux by utilizing the OS accessibility tree. It provides a JSON interface for capturing snapshots of UI elements, allowing agents to perform actions like clicking and typing without relying on screenshots or pixel matching. Key features include headless operation, extensive command support (over 60 commands), and a C library for in-process integration. It ensures privacy by handling sensitive data carefully, making it suitable for automation tasks in various environments.*
+> *A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings. popular project, actively maintained, recently updated*
 
-- ⭐ 17231 stars
-- 💻 Rust
-- 📅 Updated: 2026-11-06
-
-![agent-desktop](2026/11-06/2026-11-06_daily-top_agent-desktop.png)
-
-### 2. [t3code](https://github.com/pingdotgg/t3code)
-
-> 🤖 **推荐理由**  
-> *T3 Code is an advanced "agent harness control surface" that allows seamless management of AI agents on your machine via a mobile app (iOS and Android), web app, and Electron-based desktop app. It integrates with popular services like Claude Code, Codex, Cursor, Grok Build, OpenCode, Google Antigravity, and fx. Designed for performance and openness, T3 Code offers a customizable development experience without selling any products. Installation is straightforward, with support for multiple platforms and comprehensive documentation available.*
-
-- ⭐ 48596 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-11-06
-
-![t3code](2026/11-06/2026-11-06_daily-top_t3code.png)
-
-### 3. [impeccable](https://github.com/pbakaus/impeccable)
-
-> 🤖 **推荐理由**  
-> *Impeccable is a Rust-based design vocabulary tool for coding agents, enabling developers to enhance UI quality with commands like `polish`, `bolder`, `critique`, and `audit`. It integrates seamlessly with various coding environments, including Codex, GitHub Copilot, and more. Key features include a slop detector that identifies design flaws, a comprehensive review system for usability and accessibility, and live iteration capabilities for real-time design adjustments. With 24 commands for steering, reviewing, and finalizing designs, Impeccable ensures polished and user-friendly interfaces before deployment.*
-
-- ⭐ 104138 stars
-- 💻 Rust
-- 📅 Updated: 2026-11-06
-
-![impeccable](2026/11-06/2026-11-06_daily-top_impeccable.png)
-
-### 4. [dsh-purge](https://github.com/HunYiSage/dsh-purge)
-
-> 🤖 **推荐理由**  
-> *dsh-purge is a powerful cybersecurity red-team plugin for the DeepSeek Harness, enabling prompt swapping for different models and enhancing security evaluations. Key features include a user-friendly interface with Clean and Drill pages for managing patches and rules, support for multiple rule sets, and a built-in skill library. The plugin operates locally without malicious intent, ensuring that no unauthorized attacks are conducted. With over 19,421 stars on GitHub, dsh-purge is an open-source tool designed for ethical use in cybersecurity research.*
-
-- ⭐ 19421 stars
+- ⭐ 64360 stars
+- 🍴 4171 forks
 - 💻 JavaScript
-- 📅 Updated: 2026-11-06
+- 📅 Updated: 2026-11-07
 
-![dsh-purge](2026/11-06/2026-11-06_daily-top_dsh-purge.png)
+![security-audit-skill](2026/11-07/2026-11-07_daily-top_security-audit-skill.png)
 
-### 5. [floci](https://github.com/floci-io/floci)
-
-> 🤖 **推荐理由**  
-> *Floci is a free, open-source local emulator for AWS, allowing developers to run AWS services without needing a cloud account or authentication tokens. With a simple `docker compose up`, it supports a wide range of services, including S3, DynamoDB, Lambda, and more, using real Docker containers for high fidelity. Floci offers quick startup times, configurable persistence options, and seamless integration with existing AWS SDKs and CLI tools. It is a drop-in replacement for LocalStack, making migration straightforward for current users.*
-
-- ⭐ 30561 stars
-- 💻 Java
-- 📅 Updated: 2026-11-06
-
-![floci](2026/11-06/2026-11-06_daily-top_floci.png)
-
-### 6. [kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)
+### 2. [orca](https://github.com/stablyai/orca)
 
 > 🤖 **推荐理由**  
-> *Kimi K3 in C is a highly efficient inference engine for a 2.78-trillion-parameter model that operates on a single CPU with just 8.24 GB of RAM, utilizing portable C99 without any frameworks or GPUs. Its key features include on-demand streaming of parameters, deterministic output across varying memory budgets, and a novel mixture of experts architecture that activates only a subset of parameters for each token. The project also supports incremental decoding, making it suitable for various environments while ensuring high accuracy and performance metrics.*
+> *Orca is an AI orchestrator enabling users to run multiple coding agents, such as Claude Code and Codex, in parallel across desktop, mobile, and cloud environments. Key features include task orchestration with parallel worktrees, chat or terminal interfaces, remote server capabilities, and mobile app integration for real-time collaboration. Users can review AI outputs, manage Git operations, and leverage community-driven plugins. With support for any CLI agent, Orca streamlines coding workflows and automates tasks, enhancing productivity for developers.*
 
-- ⭐ 10788 stars
-- 💻 C
-- 📅 Updated: 2026-11-06
-
-![kimi-k3-in-c](2026/11-06/2026-11-06_daily-top_kimi-k3-in-c.png)
-
-### 7. [gstack](https://github.com/garrytan/gstack)
-
-> 🤖 **推荐理由**  
-> *gstack is an open-source software factory that transforms Claude Code and other coding agents into a virtual engineering team. It features 23 specialized tools, including roles for CEO, designer, engineer manager, and QA lead, all operating through intuitive slash commands. Key highlights include automated design documentation, rigorous code reviews, real browser QA, and seamless deployment processes. Designed for founders, tech leads, and first-time users, gstack streamlines the entire development lifecycle, from ideation to shipping, ensuring nothing falls through the cracks.*
-
-- ⭐ 140112 stars
+- ⭐ 117970 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-11-06
+- 📅 Updated: 2026-11-07
 
-![gstack](2026/11-06/2026-11-06_daily-top_gstack.png)
+![orca](2026/11-07/2026-11-07_daily-top_orca.png)
 
-### 8. [worktrunk](https://github.com/max-sixty/worktrunk)
+### 3. [floci](https://github.com/floci-io/floci)
 
 > 🤖 **推荐理由**  
-> *Worktrunk is a powerful CLI tool for Git worktree management, optimized for parallel AI agent workflows. With over 11,600 stars, it simplifies tasks like switching worktrees, creating branches, and managing multiple changes with commands that mimic Git's functionality. Key features include workflow automation through hooks, LLM-generated commit messages, interactive branch selection, and the ability to share build caches. Worktrunk enhances productivity by allowing seamless management of multiple agents, making it an essential tool for developers working with AI. Full documentation is available at worktrunk.dev.*
+> *Floci is a free, open-source local AWS emulator designed for development, testing, and CI, allowing users to run AWS-compatible services without an account or authentication. Key features include real Docker support for services like Lambda and RDS, quick startup times, low memory usage, and configurable persistence modes. Floci supports a wide array of AWS services, including S3, DynamoDB, and API Gateway. Its drop-in compatibility with LocalStack makes it easy for existing users to transition. Floci is lightweight, efficient, and community-driven, ensuring continuous updates and support.*
 
-- ⭐ 11619 stars
+- ⭐ 30904 stars
+- 💻 Java
+- 📅 Updated: 2026-11-07
+
+![floci](2026/11-07/2026-11-07_daily-top_floci.png)
+
+### 4. [agent-browser](https://github.com/vercel-labs/agent-browser)
+
+> 🤖 **推荐理由**  
+> *Browser automation CLI for AI agents. popular project, actively maintained, recently updated*
+
+- ⭐ 46337 stars
+- 🍴 3174 forks
 - 💻 Rust
-- 📅 Updated: 2026-11-06
+- 📅 Updated: 2026-11-07
 
-![worktrunk](2026/11-06/2026-11-06_daily-top_worktrunk.png)
+![agent-browser](2026/11-07/2026-11-07_daily-top_agent-browser.png)
 
-### 9. [colibri](https://github.com/JustVugg/colibri)
+### 5. [garden-skills](https://github.com/ConardLi/garden-skills)
 
 > 🤖 **推荐理由**  
-> *Colibri is a hierarchical inference engine for large mixture-of-experts (MoE) models, designed to efficiently utilize existing hardware. It dynamically manages model components, keeping hot experts on the GPU, warm ones in RAM, and cold ones streamed from NVMe storage. Written in C, it runs various language models (e.g., GLM-5.2/5.3, Qwen3.8) and image models (Qwen-Image-2.1) without requiring high-end GPUs. The engine features a user-friendly setup process, a comprehensive dashboard, and APIs compatible with OpenAI and Anthropic, making it a powerful tool for AI applications.*
+> *Garden Skills is an open-source collection of production-ready Agent Skills for AI coding agents like Claude Code and Codex. It features diverse capabilities such as web design, knowledge retrieval, image generation, and editorial tools. Key highlights include the `web-design-engineer` for creating polished web pages, `gpt-image-2` for versatile image generation, and `beautiful-article` for transforming various formats into share-ready articles. With over 14,500 stars on GitHub, this project emphasizes collaboration and user control, making it a valuable resource for developers and designers.*
 
-- ⭐ 48225 stars
+- ⭐ 14542 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-11-07
+
+![garden-skills](2026/11-07/2026-11-07_daily-top_garden-skills.png)
+
+### 6. [worktrunk](https://github.com/max-sixty/worktrunk)
+
+> 🤖 **推荐理由**  
+> *Worktrunk is a Rust-based CLI tool for efficient Git worktree management, tailored for running parallel AI agent workflows. With over 11,800 stars, it simplifies the creation, switching, and cleanup of worktrees using intuitive commands. Key features include automation hooks, LLM-generated commit messages, and a streamlined merge workflow. Worktrunk supports sharing build caches across worktrees and offers a comprehensive interactive picker for managing branches. For detailed documentation, visit worktrunk.dev.*
+
+- ⭐ 11829 stars
+- 💻 Rust
+- 📅 Updated: 2026-11-07
+
+![worktrunk](2026/11-07/2026-11-07_daily-top_worktrunk.png)
+
+### 7. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
+
+> 🤖 **推荐理由**  
+> *Open Generative AI is an open-source, self-hosted platform for AI image and video generation, offering over 600 models without content filters. Key features include text-to-image, image-to-image, text-to-video, and lip sync capabilities across various studios. Users can generate media without subscriptions, ensuring full creative freedom and data privacy. The platform supports multi-image inputs, local inference, and customizable workflows, making it suitable for both personal and commercial use. It's powered by MuAPI, providing a robust API for seamless integrations.*
+
+- ⭐ 32854 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-11-07
+
+![Open-Generative-AI](2026/11-07/2026-11-07_daily-top_Open-Generative-AI.png)
+
+### 8. [lz4](https://github.com/lz4/lz4)
+
+> 🤖 **推荐理由**  
+> *LZ4 is an open-source lossless compression algorithm known for its exceptional speed, achieving over 500 MB/s compression and multiple GB/s decompression per core. It offers dynamic compression tuning via an "acceleration" factor and includes a high-compression variant, LZ4_HC, for better ratios. LZ4 supports dictionary compression, enhancing performance for small files, and is compatible with various build systems. The library is BSD 2-Clause licensed, while the command line utility is GPL-2.0-or-later. Its versatility and speed make it a valuable tool for efficient data handling.*
+
+- ⭐ 12644 stars
 - 💻 C
-- 📅 Updated: 2026-11-06
+- 📅 Updated: 2026-11-07
 
-![colibri](2026/11-06/2026-11-06_daily-top_colibri.png)
+![lz4](2026/11-07/2026-11-07_daily-top_lz4.png)
 
-### 10. [zapfast](https://github.com/crmne/zapfast)
+### 9. [zed](https://github.com/zed-industries/zed)
 
 > 🤖 **推荐理由**  
-> *ZapFast is a fast, native WhatsApp client built in Rust, optimized for Linux, macOS, and Windows. With over 3,160 stars on GitHub, it offers a lightweight alternative to WhatsApp Web, using about 200 MB of RAM. Key features include sending messages, media playback, chat history management, support for multiple accounts, and customizable themes. It prioritizes privacy, storing chats locally without server reliance. The app supports multiple languages and offers detailed user guides for setup and usage.*
+> *Zed is a high-performance, multiplayer code editor developed by the creators of Atom and Tree-sitter, designed for efficiency and collaboration. With support for macOS, Linux, and Windows, Zed allows users to code at the speed of thought. Key features include seamless installation via package managers, robust development documentation, and an open-source contribution model under GPL-3.0-or-later. The project is actively maintained, with opportunities for sponsorship and hiring available through Zed Industries, Inc. Explore more at zed.dev.*
 
-- ⭐ 3160 stars
+- ⭐ 93782 stars
 - 💻 Rust
-- 📅 Updated: 2026-11-06
+- 📅 Updated: 2026-11-07
 
-![zapfast](2026/11-06/2026-11-06_daily-top_zapfast.png)
+![zed](2026/11-07/2026-11-07_daily-top_zed.png)
+
+### 10. [vscode](https://github.com/microsoft/vscode)
+
+> 🤖 **推荐理由**  
+> *Visual Studio Code (VS Code) is an open-source code editor developed by Microsoft, featuring a powerful blend of simplicity and functionality for the edit-build-debug cycle. Key highlights include comprehensive code editing, navigation, lightweight debugging, and a rich extensibility model through built-in and community extensions. Regular monthly updates ensure continuous improvements. The project welcomes community contributions, offering resources for bug reporting, feature requests, and code reviews. VS Code supports Windows, macOS, and Linux, with a dedicated development container for enhanced productivity.*
+
+- ⭐ 195068 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-11-07
+
+![vscode](2026/11-07/2026-11-07_daily-top_vscode.png)
 
 ---
 
@@ -140,4 +142,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-11-06 06:03:53 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-11-07 05:35:26 UTC
