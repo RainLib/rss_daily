@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-11-07
+# 📊 🌟 GitHub Trending Daily - 2026-11-08
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **620290** ⭐ | **84157** 🍴
+**10** 个项目 | **1258566** ⭐ | **223441** 🍴
 
-**热门语言:** `JavaScript` (3) · `Rust` (3) · `TypeScript` (2)
+**热门语言:** `TypeScript` (5) · `Rust` (3) · `JavaScript` (1)
 
-**更新时间:** 2026-11-07 05:35 UTC
+**更新时间:** 2026-11-08 05:35 UTC
 
 **分类分布:**
 
@@ -18,117 +18,116 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+### 1. [rea](https://github.com/morluto/rea)
+
+> 🤖 **推荐理由**  
+> *REA is a powerful TypeScript-based tool for reverse engineering applications and binaries, boasting over 441,000 stars on GitHub. It enables users to analyze app behavior, native binaries, .NET assemblies, JavaScript, and Electron applications without source code. Key features include a multi-client protocol (MCP) for seamless agent integration, static and dynamic analysis capabilities, and local execution of analyses using tools like Hopper and Ghidra. REA also facilitates the creation of reinforcement learning environments, making it a versatile solution for developers and researchers in software analysis and AI.*
+
+- ⭐ 441523 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-11-08
+
+![rea](2026/11-08/2026-11-08_daily-top_rea.png)
+
+### 2. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 
 > 🤖 **推荐理由**  
 > *A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings. popular project, actively maintained, recently updated*
 
-- ⭐ 64360 stars
-- 🍴 4171 forks
+- ⭐ 65991 stars
+- 🍴 4295 forks
 - 💻 JavaScript
-- 📅 Updated: 2026-11-07
+- 📅 Updated: 2026-11-08
 
-![security-audit-skill](2026/11-07/2026-11-07_daily-top_security-audit-skill.png)
+![security-audit-skill](2026/11-08/2026-11-08_daily-top_security-audit-skill.png)
 
-### 2. [orca](https://github.com/stablyai/orca)
+### 3. [OpenMausBot](https://github.com/milind-soni/OpenMausBot)
 
 > 🤖 **推荐理由**  
-> *Orca is an AI orchestrator enabling users to run multiple coding agents, such as Claude Code and Codex, in parallel across desktop, mobile, and cloud environments. Key features include task orchestration with parallel worktrees, chat or terminal interfaces, remote server capabilities, and mobile app integration for real-time collaboration. Users can review AI outputs, manage Git operations, and leverage community-driven plugins. With support for any CLI agent, Orca streamlines coding workflows and automates tasks, enhancing productivity for developers.*
+> *OpenMausBot is an open-source alternative to Grok Bot, enabling users to create and manage AI bots in a chat app environment. Key features include support for multiple AI models (Claude, Codex, Grok), local-first architecture, and a unique permission system for bot actions. Users can connect various apps like Gmail and Slack, manage bots through a chat-like interface, and utilize a built-in cloud computer. With a focus on privacy and flexibility, OpenMausBot allows for custom configurations and integration, making it a versatile tool for personal and team productivity.*
 
-- ⭐ 117970 stars
+- ⭐ 17240 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-11-07
+- 📅 Updated: 2026-11-08
 
-![orca](2026/11-07/2026-11-07_daily-top_orca.png)
+![OpenMausBot](2026/11-08/2026-11-08_daily-top_OpenMausBot.png)
 
-### 3. [floci](https://github.com/floci-io/floci)
-
-> 🤖 **推荐理由**  
-> *Floci is a free, open-source local AWS emulator designed for development, testing, and CI, allowing users to run AWS-compatible services without an account or authentication. Key features include real Docker support for services like Lambda and RDS, quick startup times, low memory usage, and configurable persistence modes. Floci supports a wide array of AWS services, including S3, DynamoDB, and API Gateway. Its drop-in compatibility with LocalStack makes it easy for existing users to transition. Floci is lightweight, efficient, and community-driven, ensuring continuous updates and support.*
-
-- ⭐ 30904 stars
-- 💻 Java
-- 📅 Updated: 2026-11-07
-
-![floci](2026/11-07/2026-11-07_daily-top_floci.png)
-
-### 4. [agent-browser](https://github.com/vercel-labs/agent-browser)
+### 4. [zed](https://github.com/zed-industries/zed)
 
 > 🤖 **推荐理由**  
-> *Browser automation CLI for AI agents. popular project, actively maintained, recently updated*
+> *Zed is a high-performance, multiplayer code editor developed by the creators of Atom and Tree-sitter, designed for seamless coding at the speed of thought. With support for macOS, Linux, and Windows, Zed offers an intuitive installation process, extensive development documentation, and community-driven contributions. Key features include real-time collaboration, a focus on performance, and robust licensing compliance. Zed Industries, Inc. actively seeks sponsorship to support the project's growth, fostering innovation in collaborative coding environments.*
 
-- ⭐ 46337 stars
-- 🍴 3174 forks
+- ⭐ 94340 stars
 - 💻 Rust
-- 📅 Updated: 2026-11-07
+- 📅 Updated: 2026-11-08
 
-![agent-browser](2026/11-07/2026-11-07_daily-top_agent-browser.png)
+![zed](2026/11-08/2026-11-08_daily-top_zed.png)
 
-### 5. [garden-skills](https://github.com/ConardLi/garden-skills)
-
-> 🤖 **推荐理由**  
-> *Garden Skills is an open-source collection of production-ready Agent Skills for AI coding agents like Claude Code and Codex. It features diverse capabilities such as web design, knowledge retrieval, image generation, and editorial tools. Key highlights include the `web-design-engineer` for creating polished web pages, `gpt-image-2` for versatile image generation, and `beautiful-article` for transforming various formats into share-ready articles. With over 14,500 stars on GitHub, this project emphasizes collaboration and user control, making it a valuable resource for developers and designers.*
-
-- ⭐ 14542 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-11-07
-
-![garden-skills](2026/11-07/2026-11-07_daily-top_garden-skills.png)
-
-### 6. [worktrunk](https://github.com/max-sixty/worktrunk)
+### 5. [orca](https://github.com/stablyai/orca)
 
 > 🤖 **推荐理由**  
-> *Worktrunk is a Rust-based CLI tool for efficient Git worktree management, tailored for running parallel AI agent workflows. With over 11,800 stars, it simplifies the creation, switching, and cleanup of worktrees using intuitive commands. Key features include automation hooks, LLM-generated commit messages, and a streamlined merge workflow. Worktrunk supports sharing build caches across worktrees and offers a comprehensive interactive picker for managing branches. For detailed documentation, visit worktrunk.dev.*
+> *Orca is an innovative AI orchestrator that allows users to efficiently manage a fleet of coding agents, such as Claude Code and Codex, across multiple platforms (desktop, mobile, remote). Key features include parallel worktree management, seamless chat and terminal integration, and the ability to run tasks on cloud VMs or SSH hosts. Users can review AI outputs, utilize Git integration for streamlined commits, and leverage a mobile app for remote work. With extensive plugin support and a powerful CLI, Orca enhances productivity for developers, making it a versatile tool for coding workflows.*
 
-- ⭐ 11829 stars
-- 💻 Rust
-- 📅 Updated: 2026-11-07
-
-![worktrunk](2026/11-07/2026-11-07_daily-top_worktrunk.png)
-
-### 7. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
-
-> 🤖 **推荐理由**  
-> *Open Generative AI is an open-source, self-hosted platform for AI image and video generation, offering over 600 models without content filters. Key features include text-to-image, image-to-image, text-to-video, and lip sync capabilities across various studios. Users can generate media without subscriptions, ensuring full creative freedom and data privacy. The platform supports multi-image inputs, local inference, and customizable workflows, making it suitable for both personal and commercial use. It's powered by MuAPI, providing a robust API for seamless integrations.*
-
-- ⭐ 32854 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-11-07
-
-![Open-Generative-AI](2026/11-07/2026-11-07_daily-top_Open-Generative-AI.png)
-
-### 8. [lz4](https://github.com/lz4/lz4)
-
-> 🤖 **推荐理由**  
-> *LZ4 is an open-source lossless compression algorithm known for its exceptional speed, achieving over 500 MB/s compression and multiple GB/s decompression per core. It offers dynamic compression tuning via an "acceleration" factor and includes a high-compression variant, LZ4_HC, for better ratios. LZ4 supports dictionary compression, enhancing performance for small files, and is compatible with various build systems. The library is BSD 2-Clause licensed, while the command line utility is GPL-2.0-or-later. Its versatility and speed make it a valuable tool for efficient data handling.*
-
-- ⭐ 12644 stars
-- 💻 C
-- 📅 Updated: 2026-11-07
-
-![lz4](2026/11-07/2026-11-07_daily-top_lz4.png)
-
-### 9. [zed](https://github.com/zed-industries/zed)
-
-> 🤖 **推荐理由**  
-> *Zed is a high-performance, multiplayer code editor developed by the creators of Atom and Tree-sitter, designed for efficiency and collaboration. With support for macOS, Linux, and Windows, Zed allows users to code at the speed of thought. Key features include seamless installation via package managers, robust development documentation, and an open-source contribution model under GPL-3.0-or-later. The project is actively maintained, with opportunities for sponsorship and hiring available through Zed Industries, Inc. Explore more at zed.dev.*
-
-- ⭐ 93782 stars
-- 💻 Rust
-- 📅 Updated: 2026-11-07
-
-![zed](2026/11-07/2026-11-07_daily-top_zed.png)
-
-### 10. [vscode](https://github.com/microsoft/vscode)
-
-> 🤖 **推荐理由**  
-> *Visual Studio Code (VS Code) is an open-source code editor developed by Microsoft, featuring a powerful blend of simplicity and functionality for the edit-build-debug cycle. Key highlights include comprehensive code editing, navigation, lightweight debugging, and a rich extensibility model through built-in and community extensions. Regular monthly updates ensure continuous improvements. The project welcomes community contributions, offering resources for bug reporting, feature requests, and code reviews. VS Code supports Windows, macOS, and Linux, with a dedicated development container for enhanced productivity.*
-
-- ⭐ 195068 stars
+- ⭐ 118718 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-11-07
+- 📅 Updated: 2026-11-08
 
-![vscode](2026/11-07/2026-11-07_daily-top_vscode.png)
+![orca](2026/11-08/2026-11-08_daily-top_orca.png)
+
+### 6. [ruff](https://github.com/astral-sh/ruff)
+
+> 🤖 **推荐理由**  
+> *Ruff is a high-performance Python linter and code formatter, crafted in Rust, achieving speeds 10-100x faster than traditional tools like Flake8 and Black. It supports over 900 built-in rules, automatic error correction, and caching to enhance efficiency. Ruff is compatible with Python 3.15, integrates seamlessly with editors like VS Code, and allows configuration through `pyproject.toml`. It serves as a one-stop solution, replacing multiple tools while maintaining a unified interface, making it ideal for modern Python development.*
+
+- ⭐ 51020 stars
+- 💻 Rust
+- 📅 Updated: 2026-11-08
+
+![ruff](2026/11-08/2026-11-08_daily-top_ruff.png)
+
+### 7. [rust](https://github.com/rust-lang/rust)
+
+> 🤖 **推荐理由**  
+> *Rust is a powerful programming language designed to enable the creation of reliable and efficient software. With over 121,000 stars on GitHub, it features a rich type system and ownership model that enhance memory and thread safety, reducing runtime bugs. Key services include Cargo (package manager), rustfmt (auto-formatter), and Clippy (linter), all aimed at increasing developer productivity. The project emphasizes performance, reliability, and comprehensive documentation, making it suitable for critical services and embedded systems. Join the community and start building with Rust today!*
+
+- ⭐ 121606 stars
+- 💻 Rust
+- 📅 Updated: 2026-11-08
+
+![rust](2026/11-08/2026-11-08_daily-top_rust.png)
+
+### 8. [vscode](https://github.com/microsoft/vscode)
+
+> 🤖 **推荐理由**  
+> *Visual Studio Code (VS Code) is a powerful open-source code editor developed by Microsoft, combining simplicity with essential features for the edit-build-debug cycle. It offers comprehensive code editing, navigation, lightweight debugging, and a rich extensibility model, with monthly updates for bug fixes and new features. The project encourages community contributions through bug reports, feature requests, and code reviews. VS Code supports extensions for various languages and provides development containers for streamlined coding environments. Available on Windows, macOS, and Linux, it caters to developers' diverse needs.*
+
+- ⭐ 195153 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-11-08
+
+![vscode](2026/11-08/2026-11-08_daily-top_vscode.png)
+
+### 9. [prometheus](https://github.com/prometheus/prometheus)
+
+> 🤖 **推荐理由**  
+> *Prometheus is a powerful monitoring system and time series database, part of the Cloud Native Computing Foundation. It features a multi-dimensional data model, a flexible query language (PromQL), and an autonomous single-server architecture. Key capabilities include an HTTP pull model for metric collection, support for pushing metrics via a gateway, service discovery, and diverse graphing options. Prometheus enables efficient monitoring and alerting for applications, with extensive documentation and community support available at prometheus.io.*
+
+- ⭐ 67478 stars
+- 💻 Go
+- 📅 Updated: 2026-11-08
+
+![prometheus](2026/11-08/2026-11-08_daily-top_prometheus.png)
+
+### 10. [OmniRoute](https://github.com/cheaper-inference/OmniRoute)
+
+> 🤖 **推荐理由**  
+> *OmniRoute is an open-source AI gateway that offers a single endpoint to access 375 providers, including over 150 free options, and supports more than 1,400 models like Claude, GPT, and Gemini. Key features include quota-aware auto-fallback, real-time token compression (15-95% savings), and compatibility with various coding tools (Claude Code, Codex, Copilot). The platform is designed to streamline the integration of AI services, allowing users to maximize free tier usage and manage multiple providers efficiently. Built by over 900 contributors, it emphasizes community involvement and transparency.*
+
+- ⭐ 85497 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-11-08
+
+![OmniRoute](2026/11-08/2026-11-08_daily-top_OmniRoute.png)
 
 ---
 
@@ -142,4 +141,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-11-07 05:35:26 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-11-08 05:35:35 UTC
