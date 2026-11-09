@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-11-08
+# 📊 🌟 GitHub Trending Daily - 2026-11-09
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **1258566** ⭐ | **223441** 🍴
+**10** Projects | **252265** ⭐ | **31094** 🍴
 
-**Top Languages:** `TypeScript` (5) · `Rust` (3) · `Go` (1)
+**Top Languages:** `C` (6) · `JavaScript` (4)
 
-**Updated:** 2026-11-08 05:35 UTC
+**Updated:** 2026-11-09 05:47 UTC
 
 **Categories:**
 
@@ -18,116 +18,116 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [rea](https://github.com/morluto/rea)
-
-> 🤖 **Why Recommend**  
-> *REA is a powerful TypeScript-based tool for reverse engineering applications and binaries, boasting over 441,000 stars on GitHub. It enables users to analyze app behavior, native binaries, .NET assemblies, JavaScript, and Electron applications without source code. Key features include a multi-client protocol (MCP) for seamless agent integration, static and dynamic analysis capabilities, and local execution of analyses using tools like Hopper and Ghidra. REA also facilitates the creation of reinforcement learning environments, making it a versatile solution for developers and researchers in software analysis and AI.*
-
-- ⭐ 441523 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-11-08
-
-![rea](2026/11-08/2026-11-08_daily-top_rea.png)
-
-### 2. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+### 1. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 
 > 🤖 **Why Recommend**  
 > *A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings. popular project, actively maintained, recently updated*
 
-- ⭐ 65991 stars
-- 🍴 4295 forks
+- ⭐ 67110 stars
+- 🍴 4385 forks
 - 💻 JavaScript
-- 📅 Updated: 2026-11-08
+- 📅 Updated: 2026-11-09
 
-![security-audit-skill](2026/11-08/2026-11-08_daily-top_security-audit-skill.png)
+![security-audit-skill](2026/11-09/2026-11-09_daily-top_security-audit-skill.png)
 
-### 3. [OpenMausBot](https://github.com/milind-soni/OpenMausBot)
-
-> 🤖 **Why Recommend**  
-> *OpenMausBot is an open-source alternative to Grok Bot, enabling users to create and manage AI bots in a chat app environment. Key features include support for multiple AI models (Claude, Codex, Grok), local-first architecture, and a unique permission system for bot actions. Users can connect various apps like Gmail and Slack, manage bots through a chat-like interface, and utilize a built-in cloud computer. With a focus on privacy and flexibility, OpenMausBot allows for custom configurations and integration, making it a versatile tool for personal and team productivity.*
-
-- ⭐ 17240 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-11-08
-
-![OpenMausBot](2026/11-08/2026-11-08_daily-top_OpenMausBot.png)
-
-### 4. [zed](https://github.com/zed-industries/zed)
+### 2. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
 
 > 🤖 **Why Recommend**  
-> *Zed is a high-performance, multiplayer code editor developed by the creators of Atom and Tree-sitter, designed for seamless coding at the speed of thought. With support for macOS, Linux, and Windows, Zed offers an intuitive installation process, extensive development documentation, and community-driven contributions. Key features include real-time collaboration, a focus on performance, and robust licensing compliance. Zed Industries, Inc. actively seeks sponsorship to support the project's growth, fostering innovation in collaborative coding environments.*
+> *Open-Generative-AI is a powerful, uncensored, open-source platform for generating AI images and videos, featuring over 600 models across 14 studios like Flux, Midjourney, and Kling. Key features include text-to-image, image-to-video, lip sync capabilities, and audio generation—all without content filters or subscription fees. Users can self-host the software, ensuring data privacy and full creative control. The platform supports multi-image input and offers extensive customization options, making it ideal for developers and creatives alike. The project is MIT licensed and boasts a vibrant community for support.*
 
-- ⭐ 94340 stars
-- 💻 Rust
-- 📅 Updated: 2026-11-08
+- ⭐ 33466 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-11-09
 
-![zed](2026/11-08/2026-11-08_daily-top_zed.png)
+![Open-Generative-AI](2026/11-09/2026-11-09_daily-top_Open-Generative-AI.png)
 
-### 5. [orca](https://github.com/stablyai/orca)
-
-> 🤖 **Why Recommend**  
-> *Orca is an innovative AI orchestrator that allows users to efficiently manage a fleet of coding agents, such as Claude Code and Codex, across multiple platforms (desktop, mobile, remote). Key features include parallel worktree management, seamless chat and terminal integration, and the ability to run tasks on cloud VMs or SSH hosts. Users can review AI outputs, utilize Git integration for streamlined commits, and leverage a mobile app for remote work. With extensive plugin support and a powerful CLI, Orca enhances productivity for developers, making it a versatile tool for coding workflows.*
-
-- ⭐ 118718 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-11-08
-
-![orca](2026/11-08/2026-11-08_daily-top_orca.png)
-
-### 6. [ruff](https://github.com/astral-sh/ruff)
+### 3. [LinkSwift](https://github.com/hmjz100/LinkSwift)
 
 > 🤖 **Why Recommend**  
-> *Ruff is a high-performance Python linter and code formatter, crafted in Rust, achieving speeds 10-100x faster than traditional tools like Flake8 and Black. It supports over 900 built-in rules, automatic error correction, and caching to enhance efficiency. Ruff is compatible with Python 3.15, integrates seamlessly with editors like VS Code, and allows configuration through `pyproject.toml`. It serves as a one-stop solution, replacing multiple tools while maintaining a unified interface, making it ideal for modern Python development.*
+> *LinkSwift is a JavaScript-based tool designed to obtain direct download links from eight major cloud storage services in China, including Baidu Netdisk and Alibaba Cloud. With over 38,000 stars on GitHub, it enhances the original “Netdisk Direct Link Download Assistant” by adding features like a UI beautification, support for multiple download managers, and improved functionality for various cloud services. Users can easily install the script from multiple sources and benefit from ongoing updates to optimize their file downloading experience.*
 
-- ⭐ 51020 stars
-- 💻 Rust
-- 📅 Updated: 2026-11-08
+- ⭐ 38908 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-11-09
 
-![ruff](2026/11-08/2026-11-08_daily-top_ruff.png)
+![LinkSwift](2026/11-09/2026-11-09_daily-top_LinkSwift.png)
 
-### 7. [rust](https://github.com/rust-lang/rust)
-
-> 🤖 **Why Recommend**  
-> *Rust is a powerful programming language designed to enable the creation of reliable and efficient software. With over 121,000 stars on GitHub, it features a rich type system and ownership model that enhance memory and thread safety, reducing runtime bugs. Key services include Cargo (package manager), rustfmt (auto-formatter), and Clippy (linter), all aimed at increasing developer productivity. The project emphasizes performance, reliability, and comprehensive documentation, making it suitable for critical services and embedded systems. Join the community and start building with Rust today!*
-
-- ⭐ 121606 stars
-- 💻 Rust
-- 📅 Updated: 2026-11-08
-
-![rust](2026/11-08/2026-11-08_daily-top_rust.png)
-
-### 8. [vscode](https://github.com/microsoft/vscode)
+### 4. [kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)
 
 > 🤖 **Why Recommend**  
-> *Visual Studio Code (VS Code) is a powerful open-source code editor developed by Microsoft, combining simplicity with essential features for the edit-build-debug cycle. It offers comprehensive code editing, navigation, lightweight debugging, and a rich extensibility model, with monthly updates for bug fixes and new features. The project encourages community contributions through bug reports, feature requests, and code reviews. VS Code supports extensions for various languages and provides development containers for streamlined coding environments. Available on Windows, macOS, and Linux, it caters to developers' diverse needs.*
+> *Kimi K3 in C is a portable inference engine for the 2.78-trillion-parameter Kimi K3 model, designed to run on a single CPU with only 8.24 GB of RAM. This C99 implementation requires no external libraries, making it lightweight and efficient. Key features include memory-efficient streaming of the model's trunk, support for incremental decoding, and an expert cache that optimally handles expert routing. The engine delivers consistent outputs across varying memory budgets, making it accessible for diverse hardware configurations while maintaining high performance.*
 
-- ⭐ 195153 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-11-08
+- ⭐ 11349 stars
+- 💻 C
+- 📅 Updated: 2026-11-09
 
-![vscode](2026/11-08/2026-11-08_daily-top_vscode.png)
+![kimi-k3-in-c](2026/11-09/2026-11-09_daily-top_kimi-k3-in-c.png)
 
-### 9. [prometheus](https://github.com/prometheus/prometheus)
-
-> 🤖 **Why Recommend**  
-> *Prometheus is a powerful monitoring system and time series database, part of the Cloud Native Computing Foundation. It features a multi-dimensional data model, a flexible query language (PromQL), and an autonomous single-server architecture. Key capabilities include an HTTP pull model for metric collection, support for pushing metrics via a gateway, service discovery, and diverse graphing options. Prometheus enables efficient monitoring and alerting for applications, with extensive documentation and community support available at prometheus.io.*
-
-- ⭐ 67478 stars
-- 💻 Go
-- 📅 Updated: 2026-11-08
-
-![prometheus](2026/11-08/2026-11-08_daily-top_prometheus.png)
-
-### 10. [OmniRoute](https://github.com/cheaper-inference/OmniRoute)
+### 5. [GDevelop](https://github.com/4ian/GDevelop)
 
 > 🤖 **Why Recommend**  
-> *OmniRoute is an open-source AI gateway that offers a single endpoint to access 375 providers, including over 150 free options, and supports more than 1,400 models like Claude, GPT, and Gemini. Key features include quota-aware auto-fallback, real-time token compression (15-95% savings), and compatibility with various coding tools (Claude Code, Codex, Copilot). The platform is designed to streamline the integration of AI services, allowing users to maximize free tier usage and manage multiple providers efficiently. Built by over 900 contributors, it emphasizes community involvement and transparency.*
+> *GDevelop is an open-source, cross-platform game engine that allows users to create 2D, 3D, and multiplayer games without coding. It features an intuitive event-based system, AI assistance, and supports exports to mobile, desktop, and web platforms. The project offers a modular architecture, including a game editor, engine, and a variety of extensions. Users can contribute by creating templates, assets, or participating in community discussions. With over 28,000 stars on GitHub, GDevelop is designed for both beginners and professionals looking to develop and publish games effortlessly.*
 
-- ⭐ 85497 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-11-08
+- ⭐ 28629 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-11-09
 
-![OmniRoute](2026/11-08/2026-11-08_daily-top_OmniRoute.png)
+![GDevelop](2026/11-09/2026-11-09_daily-top_GDevelop.png)
+
+### 6. [Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)
+
+> 🤖 **Why Recommend**  
+> *Ehviewer_CN_SXJ is an Android application designed for browsing E-Hentai, boasting over 28,000 stars on GitHub. Key features include local gallery imports, enhanced download management, multi-language support, and continuous updates for improved user experience. Recent updates have added local import filtering, crash fixes, and refined download functionalities. The app prioritizes user feedback and community support, with resources available for troubleshooting and engagement via Telegram and official channels. Download options include GitHub releases, cloud services, and torrent links.*
+
+- ⭐ 28876 stars
+- 💻 C
+- 📅 Updated: 2026-11-09
+
+![Ehviewer_CN_SXJ](2026/11-09/2026-11-09_daily-top_Ehviewer_CN_SXJ.png)
+
+### 7. [Shipwright](https://github.com/HarbourMasters/Shipwright)
+
+> 🤖 **Why Recommend**  
+> *Shipwright is a project designed for playing the game "Ocarina of Time" using a legally acquired ROM. It utilizes a custom library, libultraship, to mimic the original N64 SDK functionality on modern hardware. Key features include support for multiple rendering APIs (DirectX11, OpenGL, Metal), custom asset integration through .otr files, and extensive configuration options. Users can verify their ROM compatibility via an online checker and access a vibrant community on Discord for support. For development, detailed building instructions and playtesting builds are available.*
+
+- ⭐ 5934 stars
+- 💻 C
+- 📅 Updated: 2026-11-09
+
+![Shipwright](2026/11-09/2026-11-09_daily-top_Shipwright.png)
+
+### 8. [oot](https://github.com/zeldaret/oot)
+
+> 🤖 **Why Recommend**  
+> *The "oot" project is an ongoing decompilation of *The Legend of Zelda: Ocarina of Time*, aiming to recreate its source code from the original ROM through static and dynamic analysis. With over 5,600 stars on GitHub, it supports multiple game versions, including NTSC and PAL formats. The project emphasizes modding potential and encourages community contributions through its Discord channel. Notably, the repository requires users to provide their own ROM assets for building. It is designed for use on Linux, WSL, and macOS, with detailed installation instructions available.*
+
+- ⭐ 5691 stars
+- 💻 C
+- 📅 Updated: 2026-11-09
+
+![oot](2026/11-09/2026-11-09_daily-top_oot.png)
+
+### 9. [openssl](https://github.com/openssl/openssl)
+
+> 🤖 **Why Recommend**  
+> *OpenSSL is a widely-used open-source toolkit for Transport Layer Security (TLS), Datagram TLS (DTLS), and QUIC protocols, featuring robust cryptographic capabilities. Its core components include **libssl**, supporting all TLS versions up to TLSv1.3, and **libcrypto**, a comprehensive cryptographic library. The command-line tool facilitates tasks such as key generation, certificate creation, and secure communication tests. OpenSSL is FIPS-compliant and actively maintained with a strong community presence, making it essential for secure web communication. Visit [www.openssl.org](https://www.openssl.org) for more details.*
+
+- ⭐ 31384 stars
+- 💻 C
+- 📅 Updated: 2026-11-09
+
+![openssl](2026/11-09/2026-11-09_daily-top_openssl.png)
+
+### 10. [kstuff-lite](https://github.com/EchoStretch/kstuff-lite)
+
+> 🤖 **Why Recommend**  
+> *kstuff-lite is an advanced C-based project focused on optimizing kernel and user-space interactions, particularly for UELF and KELF transitions. Key features include cached translations for per-CPU kernel objects, efficient trap-frame handling, and streamlined debug-register transitions. It enhances performance with runtime selection between `XSAVEC` and `XSAVE`, providing detailed observability metrics through the `KSTUFF_OBS` flag. The project supports improved FPU and CR0 handling, ensuring faster operations and safer state management. With 918 stars, it stands out for its robust diagnostics and performance metrics.*
+
+- ⭐ 918 stars
+- 💻 C
+- 📅 Updated: 2026-11-09
+
+![kstuff-lite](2026/11-09/2026-11-09_daily-top_kstuff-lite.png)
 
 ---
 
@@ -141,4 +141,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-11-08 05:35:35 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-11-09 05:47:45 UTC
