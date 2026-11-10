@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-11-09
+# 📊 🌟 GitHub Trending Daily - 2026-11-10
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **252265** ⭐ | **31094** 🍴
+**10** 个项目 | **322138** ⭐ | **34801** 🍴
 
-**热门语言:** `C` (6) · `JavaScript` (4)
+**热门语言:** `Rust` (3) · `TypeScript` (3) · `C++` (2)
 
-**更新时间:** 2026-11-09 05:47 UTC
+**更新时间:** 2026-11-10 06:56 UTC
 
 **分类分布:**
 
@@ -18,116 +18,116 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+### 1. [astryx](https://github.com/meta/astryx)
 
 > 🤖 **推荐理由**  
-> *A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings. popular project, actively maintained, recently updated*
+> *Astryx is an open-source, customizable design system built for React 19+, designed for both developers and AI assistants. With over 15,000 stars, it features 150+ accessible components, brand-level theming, and a user-friendly CLI. Key highlights include open internals for easy composition, no styling lock-in, and themes that can be customized without forking. Astryx promotes strong conventions, thorough documentation, and seamless collaboration between people and AI. Access comprehensive resources through its docs, Storybook, and sandbox environments.*
 
-- ⭐ 67110 stars
-- 🍴 4385 forks
-- 💻 JavaScript
-- 📅 Updated: 2026-11-09
+- ⭐ 20851 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-11-10
 
-![security-audit-skill](2026/11-09/2026-11-09_daily-top_security-audit-skill.png)
+![astryx](2026/11-10/2026-11-10_daily-top_astryx.png)
 
-### 2. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
-
-> 🤖 **推荐理由**  
-> *Open-Generative-AI is a powerful, uncensored, open-source platform for generating AI images and videos, featuring over 600 models across 14 studios like Flux, Midjourney, and Kling. Key features include text-to-image, image-to-video, lip sync capabilities, and audio generation—all without content filters or subscription fees. Users can self-host the software, ensuring data privacy and full creative control. The platform supports multi-image input and offers extensive customization options, making it ideal for developers and creatives alike. The project is MIT licensed and boasts a vibrant community for support.*
-
-- ⭐ 33466 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-11-09
-
-![Open-Generative-AI](2026/11-09/2026-11-09_daily-top_Open-Generative-AI.png)
-
-### 3. [LinkSwift](https://github.com/hmjz100/LinkSwift)
+### 2. [OpenMausBot](https://github.com/milind-soni/OpenMausBot)
 
 > 🤖 **推荐理由**  
-> *LinkSwift is a JavaScript-based tool designed to obtain direct download links from eight major cloud storage services in China, including Baidu Netdisk and Alibaba Cloud. With over 38,000 stars on GitHub, it enhances the original “Netdisk Direct Link Download Assistant” by adding features like a UI beautification, support for multiple download managers, and improved functionality for various cloud services. Users can easily install the script from multiple sources and benefit from ongoing updates to optimize their file downloading experience.*
+> *OpenMausBot is an open-source alternative to Grok Bot, enabling users to manage a team of AI bots in a chat app. Key features include local-first operation, support for multiple AI models (Claude, Codex), and seamless integration with over 500 apps via Composio. Each bot operates independently with its own personality and model, and actions are subject to user approval for enhanced security. The project allows for custom CLI integration, multi-channel management, and voice capabilities, making it a versatile solution for personal and team productivity.*
 
-- ⭐ 38908 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-11-09
+- ⭐ 20073 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-11-10
 
-![LinkSwift](2026/11-09/2026-11-09_daily-top_LinkSwift.png)
+![OpenMausBot](2026/11-10/2026-11-10_daily-top_OpenMausBot.png)
 
-### 4. [kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)
-
-> 🤖 **推荐理由**  
-> *Kimi K3 in C is a portable inference engine for the 2.78-trillion-parameter Kimi K3 model, designed to run on a single CPU with only 8.24 GB of RAM. This C99 implementation requires no external libraries, making it lightweight and efficient. Key features include memory-efficient streaming of the model's trunk, support for incremental decoding, and an expert cache that optimally handles expert routing. The engine delivers consistent outputs across varying memory budgets, making it accessible for diverse hardware configurations while maintaining high performance.*
-
-- ⭐ 11349 stars
-- 💻 C
-- 📅 Updated: 2026-11-09
-
-![kimi-k3-in-c](2026/11-09/2026-11-09_daily-top_kimi-k3-in-c.png)
-
-### 5. [GDevelop](https://github.com/4ian/GDevelop)
+### 3. [agent-browser](https://github.com/vercel-labs/agent-browser)
 
 > 🤖 **推荐理由**  
-> *GDevelop is an open-source, cross-platform game engine that allows users to create 2D, 3D, and multiplayer games without coding. It features an intuitive event-based system, AI assistance, and supports exports to mobile, desktop, and web platforms. The project offers a modular architecture, including a game editor, engine, and a variety of extensions. Users can contribute by creating templates, assets, or participating in community discussions. With over 28,000 stars on GitHub, GDevelop is designed for both beginners and professionals looking to develop and publish games effortlessly.*
+> *Browser automation CLI for AI agents. popular project, actively maintained, recently updated*
 
-- ⭐ 28629 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-11-09
+- ⭐ 48713 stars
+- 🍴 3319 forks
+- 💻 Rust
+- 📅 Updated: 2026-11-10
 
-![GDevelop](2026/11-09/2026-11-09_daily-top_GDevelop.png)
+![agent-browser](2026/11-10/2026-11-10_daily-top_agent-browser.png)
 
-### 6. [Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)
-
-> 🤖 **推荐理由**  
-> *Ehviewer_CN_SXJ is an Android application designed for browsing E-Hentai, boasting over 28,000 stars on GitHub. Key features include local gallery imports, enhanced download management, multi-language support, and continuous updates for improved user experience. Recent updates have added local import filtering, crash fixes, and refined download functionalities. The app prioritizes user feedback and community support, with resources available for troubleshooting and engagement via Telegram and official channels. Download options include GitHub releases, cloud services, and torrent links.*
-
-- ⭐ 28876 stars
-- 💻 C
-- 📅 Updated: 2026-11-09
-
-![Ehviewer_CN_SXJ](2026/11-09/2026-11-09_daily-top_Ehviewer_CN_SXJ.png)
-
-### 7. [Shipwright](https://github.com/HarbourMasters/Shipwright)
+### 4. [billion-context](https://github.com/ranxianglei/billion-context)
 
 > 🤖 **推荐理由**  
-> *Shipwright is a project designed for playing the game "Ocarina of Time" using a legally acquired ROM. It utilizes a custom library, libultraship, to mimic the original N64 SDK functionality on modern hardware. Key features include support for multiple rendering APIs (DirectX11, OpenGL, Metal), custom asset integration through .otr files, and extensive configuration options. Users can verify their ROM compatibility via an online checker and access a vibrant community on Discord for support. For development, detailed building instructions and playtesting builds are available.*
+> *billion-context is a TypeScript plugin designed for efficient context compression during long sessions, allowing for month-long interactions with billions of tokens. Key features include support for small context windows (100K tokens sufficient), achieving up to 5x token savings, and maintaining a high compression quality. It integrates seamlessly with various clients, providing tools for compressing messages, searching through context, and managing session health. With over 5,800 stars, it effectively reduces token costs while enabling sustained conversations without degradation.*
 
-- ⭐ 5934 stars
-- 💻 C
-- 📅 Updated: 2026-11-09
+- ⭐ 5844 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-11-10
 
-![Shipwright](2026/11-09/2026-11-09_daily-top_Shipwright.png)
+![billion-context](2026/11-10/2026-11-10_daily-top_billion-context.png)
 
-### 8. [oot](https://github.com/zeldaret/oot)
-
-> 🤖 **推荐理由**  
-> *The "oot" project is an ongoing decompilation of *The Legend of Zelda: Ocarina of Time*, aiming to recreate its source code from the original ROM through static and dynamic analysis. With over 5,600 stars on GitHub, it supports multiple game versions, including NTSC and PAL formats. The project emphasizes modding potential and encourages community contributions through its Discord channel. Notably, the repository requires users to provide their own ROM assets for building. It is designed for use on Linux, WSL, and macOS, with detailed installation instructions available.*
-
-- ⭐ 5691 stars
-- 💻 C
-- 📅 Updated: 2026-11-09
-
-![oot](2026/11-09/2026-11-09_daily-top_oot.png)
-
-### 9. [openssl](https://github.com/openssl/openssl)
+### 5. [mujoco](https://github.com/google-deepmind/mujoco)
 
 > 🤖 **推荐理由**  
-> *OpenSSL is a widely-used open-source toolkit for Transport Layer Security (TLS), Datagram TLS (DTLS), and QUIC protocols, featuring robust cryptographic capabilities. Its core components include **libssl**, supporting all TLS versions up to TLSv1.3, and **libcrypto**, a comprehensive cryptographic library. The command-line tool facilitates tasks such as key generation, certificate creation, and secure communication tests. OpenSSL is FIPS-compliant and actively maintained with a strong community presence, making it essential for secure web communication. Visit [www.openssl.org](https://www.openssl.org) for more details.*
+> *MuJoCo (Multi-Joint dynamics with Contact) is a high-performance physics simulator designed for efficient simulation of articulated structures in robotics, biomechanics, graphics, and machine learning. Maintained by Google DeepMind, it features a C API, interactive visualization in desktop and browser environments, and extensive utility functions. Key offerings include Python bindings, Unity integration, and tutorials available on Google Colab. MuJoCo supports prebuilt binaries for multiple platforms and encourages community contributions for enhanced functionality.*
 
-- ⭐ 31384 stars
-- 💻 C
-- 📅 Updated: 2026-11-09
+- ⭐ 17052 stars
+- 💻 C++
+- 📅 Updated: 2026-11-10
 
-![openssl](2026/11-09/2026-11-09_daily-top_openssl.png)
+![mujoco](2026/11-10/2026-11-10_daily-top_mujoco.png)
 
-### 10. [kstuff-lite](https://github.com/EchoStretch/kstuff-lite)
+### 6. [Concat](https://github.com/jub0t/Concat)
 
 > 🤖 **推荐理由**  
-> *kstuff-lite is an advanced C-based project focused on optimizing kernel and user-space interactions, particularly for UELF and KELF transitions. Key features include cached translations for per-CPU kernel objects, efficient trap-frame handling, and streamlined debug-register transitions. It enhances performance with runtime selection between `XSAVEC` and `XSAVE`, providing detailed observability metrics through the `KSTUFF_OBS` flag. The project supports improved FPU and CR0 handling, ensuring faster operations and safer state management. With 918 stars, it stands out for its robust diagnostics and performance metrics.*
+> *Concat is a free, open-source, local-first video editor available for macOS, Windows, Linux, and Android. Key features include auto-captions, text-to-speech, background removal, keyframe animation, and multi-track editing, with support for 4K exports. It operates entirely offline, ensuring user privacy, and requires no account or subscriptions. Concat is also scriptable via a JSON-RPC API and has a built-in MCP server for AI integration. Ideal for creating content for platforms like TikTok and YouTube, it offers 100 effects and a user-friendly interface.*
 
-- ⭐ 918 stars
-- 💻 C
-- 📅 Updated: 2026-11-09
+- ⭐ 16304 stars
+- 💻 Rust
+- 📅 Updated: 2026-11-10
 
-![kstuff-lite](2026/11-09/2026-11-09_daily-top_kstuff-lite.png)
+![Concat](2026/11-10/2026-11-10_daily-top_Concat.png)
+
+### 7. [artcraft](https://github.com/storytold/artcraft)
+
+> 🤖 **推荐理由**  
+> *ArtCraft is a powerful crafting engine designed for artists, designers, and filmmakers, enabling interactive AI image and video creation. Key features include 2D and 3D compositing, character posing, and scene blocking with kitbashing. Users can explore ideas through text prompts, refine visuals with canvas editing, and animate images into videos. The platform supports various models and providers, including Grok and Midjourney, and offers a user-friendly IDE for precise crafting. Available for Windows, macOS, and Linux, ArtCraft is dual-licensed under MIT and Apache-2.0.*
+
+- ⭐ 40342 stars
+- 💻 Rust
+- 📅 Updated: 2026-11-10
+
+![artcraft](2026/11-10/2026-11-10_daily-top_artcraft.png)
+
+### 8. [nvke](https://github.com/dsx-ai-factory/nvke)
+
+> 🤖 **推荐理由**  
+> *NVIDIA Kubernetes Engine (NVKE) is a management plane enabling the creation and operation of Kubernetes clusters on NVIDIA GPU infrastructure. Key features include independent workload clusters with dedicated control planes, lifecycle management for scaling and upgrading, and secure node identity through SPIFFE/SPIRE. NVKE supports evaluation without GPU hardware and requires explicit operator configuration. It integrates with NVIDIA Infra Controller for provisioning and utilizes companion project NVKR for building images. The project is currently in preview, designed for non-production workloads.*
+
+- ⭐ 1061 stars
+- 💻 Go
+- 📅 Updated: 2026-11-10
+
+![nvke](2026/11-10/2026-11-10_daily-top_nvke.png)
+
+### 9. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
+
+> 🤖 **推荐理由**  
+> *Ghidra is an open-source software reverse engineering (SRE) framework developed by the NSA, designed for analyzing compiled code across platforms like Windows, macOS, and Linux. Key features include disassembly, assembly, decompilation, graphing, and extensive scripting support in Java and Python. Ghidra allows users to create custom extensions and automate tasks, making it a powerful tool for cybersecurity professionals. With over 99,000 stars on GitHub, Ghidra addresses complex SRE challenges while enhancing insights into malicious code and system vulnerabilities.*
+
+- ⭐ 99162 stars
+- 💻 Java
+- 📅 Updated: 2026-11-10
+
+![ghidra](2026/11-10/2026-11-10_daily-top_ghidra.png)
+
+### 10. [AnyPS5](https://github.com/boykopovar/AnyPS5)
+
+> 🤖 **推荐理由**  
+> *AnyPS5 is a powerful tool for automatically porting PS5 executables to Linux and Windows, boasting over 52,700 stars on GitHub. It features a relinker that converts executables to native formats without emulation, and includes implementations of system PRX libraries for dynamic linking. The project supports SDL-mapped game controllers and offers a web converter for local file handling. Dedicated to interoperability and preservation, AnyPS5 is independent of Sony and adheres to GPL v2 licensing. Comprehensive documentation and community support are available.*
+
+- ⭐ 52736 stars
+- 💻 C++
+- 📅 Updated: 2026-11-10
+
+![AnyPS5](2026/11-10/2026-11-10_daily-top_AnyPS5.png)
 
 ---
 
@@ -141,4 +141,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-11-09 05:47:45 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-11-10 06:56:14 UTC
