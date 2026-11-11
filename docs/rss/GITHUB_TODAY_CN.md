@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-11-10
+# 📊 🌟 GitHub Trending Daily - 2026-11-11
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **322138** ⭐ | **34801** 🍴
+**10** 个项目 | **627504** ⭐ | **56443** 🍴
 
-**热门语言:** `Rust` (3) · `TypeScript` (3) · `C++` (2)
+**热门语言:** `TypeScript` (4) · `JavaScript` (3) · `Rust` (2)
 
-**更新时间:** 2026-11-10 06:56 UTC
+**更新时间:** 2026-11-11 05:43 UTC
 
 **分类分布:**
 
@@ -21,113 +21,115 @@
 ### 1. [astryx](https://github.com/meta/astryx)
 
 > 🤖 **推荐理由**  
-> *Astryx is an open-source, customizable design system built for React 19+, designed for both developers and AI assistants. With over 15,000 stars, it features 150+ accessible components, brand-level theming, and a user-friendly CLI. Key highlights include open internals for easy composition, no styling lock-in, and themes that can be customized without forking. Astryx promotes strong conventions, thorough documentation, and seamless collaboration between people and AI. Access comprehensive resources through its docs, Storybook, and sandbox environments.*
+> *Astryx is an open-source design system built for customization and collaboration between humans and AI, currently in beta. It features over 150 accessible components, brand-level theming, dark mode, and ready-to-use templates, all built on React 19+ and StyleX. Key highlights include open internals for flexible composition, no styling lock-in, and easy theme customization using CSS variables. With a focus on strong conventions and comprehensive documentation, Astryx aims to streamline development for both developers and AI assistants, making it a powerful tool for modern applications.*
 
-- ⭐ 20851 stars
+- ⭐ 23463 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-11-10
+- 📅 Updated: 2026-11-11
 
-![astryx](2026/11-10/2026-11-10_daily-top_astryx.png)
+![astryx](2026/11-11/2026-11-11_daily-top_astryx.png)
 
-### 2. [OpenMausBot](https://github.com/milind-soni/OpenMausBot)
+### 2. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 
 > 🤖 **推荐理由**  
-> *OpenMausBot is an open-source alternative to Grok Bot, enabling users to manage a team of AI bots in a chat app. Key features include local-first operation, support for multiple AI models (Claude, Codex), and seamless integration with over 500 apps via Composio. Each bot operates independently with its own personality and model, and actions are subject to user approval for enhanced security. The project allows for custom CLI integration, multi-channel management, and voice capabilities, making it a versatile solution for personal and team productivity.*
+> *A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings. popular project, actively maintained, recently updated*
 
-- ⭐ 20073 stars
+- ⭐ 69544 stars
+- 🍴 4596 forks
+- 💻 JavaScript
+- 📅 Updated: 2026-11-11
+
+![security-audit-skill](2026/11-11/2026-11-11_daily-top_security-audit-skill.png)
+
+### 3. [OpenMausBot](https://github.com/milind-soni/OpenMausBot)
+
+> 🤖 **推荐理由**  
+> *OpenMausBot is an open-source alternative to Grok Bot, enabling users to manage multiple AI bots in a chat app. Core features include local-first operation, bringing your own agents like Claude and Codex, and a permission-based action approval system. Each bot operates independently with its own model and connected apps, enhancing customization. Users can manage bots like contacts, utilize a marketplace for app integrations, and receive spoken replies. OpenMausBot supports Windows, macOS, and Ubuntu, making it versatile for various environments.*
+
+- ⭐ 20802 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-11-10
+- 📅 Updated: 2026-11-11
 
-![OpenMausBot](2026/11-10/2026-11-10_daily-top_OpenMausBot.png)
+![OpenMausBot](2026/11-11/2026-11-11_daily-top_OpenMausBot.png)
 
-### 3. [agent-browser](https://github.com/vercel-labs/agent-browser)
+### 4. [ponytail](https://github.com/DietrichGebert/ponytail)
+
+> 🤖 **推荐理由**  
+> *Ponytail is a JavaScript project designed to optimize AI agents by emulating a lazy senior developer's approach—writing minimal code that effectively solves problems. With over 188,000 stars, it focuses on reducing code complexity and runtime costs, achieving significant benchmarks like 53% less code and 41% faster execution. Key features include `/ponytail-review` for thorough code audits, `/ponytail-audit` for comprehensive repository assessments, and a "band" feature that tracks resource usage in real-time. Ponytail integrates seamlessly with various AI platforms, promoting efficient and secure coding practices.*
+
+- ⭐ 188532 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-11-11
+
+![ponytail](2026/11-11/2026-11-11_daily-top_ponytail.png)
+
+### 5. [agent-browser](https://github.com/vercel-labs/agent-browser)
 
 > 🤖 **推荐理由**  
 > *Browser automation CLI for AI agents. popular project, actively maintained, recently updated*
 
-- ⭐ 48713 stars
-- 🍴 3319 forks
+- ⭐ 49398 stars
+- 🍴 3459 forks
 - 💻 Rust
-- 📅 Updated: 2026-11-10
+- 📅 Updated: 2026-11-11
 
-![agent-browser](2026/11-10/2026-11-10_daily-top_agent-browser.png)
+![agent-browser](2026/11-11/2026-11-11_daily-top_agent-browser.png)
 
-### 4. [billion-context](https://github.com/ranxianglei/billion-context)
+### 6. [RuView](https://github.com/ruvnet/RuView)
 
 > 🤖 **推荐理由**  
-> *billion-context is a TypeScript plugin designed for efficient context compression during long sessions, allowing for month-long interactions with billions of tokens. Key features include support for small context windows (100K tokens sufficient), achieving up to 5x token savings, and maintaining a high compression quality. It integrates seamlessly with various clients, providing tools for compressing messages, searching through context, and managing session health. With over 5,800 stars, it effectively reduces token costs while enabling sustained conversations without degradation.*
+> *RuView is a cutting-edge platform that transforms commodity WiFi signals into real-time spatial intelligence and vital sign monitoring, all without cameras or wearables. It detects presence, tracks movement, measures breathing and heart rates, and recognizes activities through walls, utilizing low-cost ESP32 sensors. Key features include integration with major smart home ecosystems (Home Assistant, Google Home, Apple Home), a guided AI operator for setup, and a rich catalog of edge modules for diverse applications. RuView ensures privacy and operates entirely on edge hardware, making it a versatile solution for smart environments.*
 
-- ⭐ 5844 stars
+- ⭐ 103943 stars
+- 💻 Rust
+- 📅 Updated: 2026-11-11
+
+![RuView](2026/11-11/2026-11-11_daily-top_RuView.png)
+
+### 7. [agent-skills](https://github.com/addyosmani/agent-skills)
+
+> 🤖 **推荐理由**  
+> *Agent Skills is a production-grade toolkit designed to equip AI coding agents with structured engineering workflows that mirror best practices from senior developers. With 25 skills encompassing the entire development lifecycle—from defining and planning to building, verifying, reviewing, and shipping—this project encourages discipline in software development. Key features include automated command activation based on tasks, a CLI for easy skill installation across various agents, and a focus on verifiable, actionable steps that enforce quality and reliability. Ideal for enhancing software development processes, it integrates seamlessly with tools like Claude Code, GitHub Copilot, and more.*
+
+- ⭐ 115319 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-11-11
+
+![agent-skills](2026/11-11/2026-11-11_daily-top_agent-skills.png)
+
+### 8. [gbrain](https://github.com/garrytan/gbrain)
+
+> 🤖 **推荐理由**  
+> *Garry's Opinionated OpenClaw/Hermes Agent Brain. popular project, actively maintained, recently updated*
+
+- ⭐ 32562 stars
+- 🍴 4849 forks
 - 💻 TypeScript
-- 📅 Updated: 2026-11-10
+- 📅 Updated: 2026-11-11
 
-![billion-context](2026/11-10/2026-11-10_daily-top_billion-context.png)
+![gbrain](2026/11-11/2026-11-11_daily-top_gbrain.png)
 
-### 5. [mujoco](https://github.com/google-deepmind/mujoco)
+### 9. [mujoco](https://github.com/google-deepmind/mujoco)
 
 > 🤖 **推荐理由**  
-> *MuJoCo (Multi-Joint dynamics with Contact) is a high-performance physics simulator designed for efficient simulation of articulated structures in robotics, biomechanics, graphics, and machine learning. Maintained by Google DeepMind, it features a C API, interactive visualization in desktop and browser environments, and extensive utility functions. Key offerings include Python bindings, Unity integration, and tutorials available on Google Colab. MuJoCo supports prebuilt binaries for multiple platforms and encourages community contributions for enhanced functionality.*
+> *MuJoCo (Multi-Joint dynamics with Contact) is a versatile physics simulator designed for rapid and accurate modeling of articulated structures in robotics, biomechanics, and machine learning. Developed by Google DeepMind, it features a high-performance C API, interactive visualization, and extensive utility functions. Key highlights include Python bindings, a Unity plug-in, and support for WebAssembly. Users can access prebuilt binaries, explore tutorials in IPython notebooks, and engage with the community for support. Comprehensive documentation is available at mujoco.readthedocs.io.*
 
-- ⭐ 17052 stars
+- ⭐ 17463 stars
 - 💻 C++
-- 📅 Updated: 2026-11-10
+- 📅 Updated: 2026-11-11
 
-![mujoco](2026/11-10/2026-11-10_daily-top_mujoco.png)
+![mujoco](2026/11-11/2026-11-11_daily-top_mujoco.png)
 
-### 6. [Concat](https://github.com/jub0t/Concat)
-
-> 🤖 **推荐理由**  
-> *Concat is a free, open-source, local-first video editor available for macOS, Windows, Linux, and Android. Key features include auto-captions, text-to-speech, background removal, keyframe animation, and multi-track editing, with support for 4K exports. It operates entirely offline, ensuring user privacy, and requires no account or subscriptions. Concat is also scriptable via a JSON-RPC API and has a built-in MCP server for AI integration. Ideal for creating content for platforms like TikTok and YouTube, it offers 100 effects and a user-friendly interface.*
-
-- ⭐ 16304 stars
-- 💻 Rust
-- 📅 Updated: 2026-11-10
-
-![Concat](2026/11-10/2026-11-10_daily-top_Concat.png)
-
-### 7. [artcraft](https://github.com/storytold/artcraft)
+### 10. [billion-context](https://github.com/ranxianglei/billion-context)
 
 > 🤖 **推荐理由**  
-> *ArtCraft is a powerful crafting engine designed for artists, designers, and filmmakers, enabling interactive AI image and video creation. Key features include 2D and 3D compositing, character posing, and scene blocking with kitbashing. Users can explore ideas through text prompts, refine visuals with canvas editing, and animate images into videos. The platform supports various models and providers, including Grok and Midjourney, and offers a user-friendly IDE for precise crafting. Available for Windows, macOS, and Linux, ArtCraft is dual-licensed under MIT and Apache-2.0.*
+> *billion-context is a powerful context-compression plugin designed for managing extensive single sessions of billions of tokens while maintaining efficiency. Key features include support for small context windows (100K tokens), achieving up to 5x token savings, and high-quality compression that allows month-long conversations without degradation. The plugin integrates seamlessly with various clients, offering tools like message compression, decompression, and context search. Its incremental and reversible approach ensures that essential details can be restored on demand, optimizing both performance and cost. With 6,478 stars on GitHub, it's a trusted solution for developers needing robust context management.*
 
-- ⭐ 40342 stars
-- 💻 Rust
-- 📅 Updated: 2026-11-10
+- ⭐ 6478 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-11-11
 
-![artcraft](2026/11-10/2026-11-10_daily-top_artcraft.png)
-
-### 8. [nvke](https://github.com/dsx-ai-factory/nvke)
-
-> 🤖 **推荐理由**  
-> *NVIDIA Kubernetes Engine (NVKE) is a management plane enabling the creation and operation of Kubernetes clusters on NVIDIA GPU infrastructure. Key features include independent workload clusters with dedicated control planes, lifecycle management for scaling and upgrading, and secure node identity through SPIFFE/SPIRE. NVKE supports evaluation without GPU hardware and requires explicit operator configuration. It integrates with NVIDIA Infra Controller for provisioning and utilizes companion project NVKR for building images. The project is currently in preview, designed for non-production workloads.*
-
-- ⭐ 1061 stars
-- 💻 Go
-- 📅 Updated: 2026-11-10
-
-![nvke](2026/11-10/2026-11-10_daily-top_nvke.png)
-
-### 9. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
-
-> 🤖 **推荐理由**  
-> *Ghidra is an open-source software reverse engineering (SRE) framework developed by the NSA, designed for analyzing compiled code across platforms like Windows, macOS, and Linux. Key features include disassembly, assembly, decompilation, graphing, and extensive scripting support in Java and Python. Ghidra allows users to create custom extensions and automate tasks, making it a powerful tool for cybersecurity professionals. With over 99,000 stars on GitHub, Ghidra addresses complex SRE challenges while enhancing insights into malicious code and system vulnerabilities.*
-
-- ⭐ 99162 stars
-- 💻 Java
-- 📅 Updated: 2026-11-10
-
-![ghidra](2026/11-10/2026-11-10_daily-top_ghidra.png)
-
-### 10. [AnyPS5](https://github.com/boykopovar/AnyPS5)
-
-> 🤖 **推荐理由**  
-> *AnyPS5 is a powerful tool for automatically porting PS5 executables to Linux and Windows, boasting over 52,700 stars on GitHub. It features a relinker that converts executables to native formats without emulation, and includes implementations of system PRX libraries for dynamic linking. The project supports SDL-mapped game controllers and offers a web converter for local file handling. Dedicated to interoperability and preservation, AnyPS5 is independent of Sony and adheres to GPL v2 licensing. Comprehensive documentation and community support are available.*
-
-- ⭐ 52736 stars
-- 💻 C++
-- 📅 Updated: 2026-11-10
-
-![AnyPS5](2026/11-10/2026-11-10_daily-top_AnyPS5.png)
+![billion-context](2026/11-11/2026-11-11_daily-top_billion-context.png)
 
 ---
 
@@ -141,4 +143,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-11-10 06:56:14 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-11-11 05:43:59 UTC
