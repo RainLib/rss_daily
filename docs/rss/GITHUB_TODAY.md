@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-11-11
+# 📊 🌟 GitHub Trending Daily - 2026-11-12
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **627504** ⭐ | **56443** 🍴
+**10** Projects | **329594** ⭐ | **31937** 🍴
 
-**Top Languages:** `TypeScript` (4) · `JavaScript` (3) · `Rust` (2)
+**Top Languages:** `TypeScript` (3) · `C++` (2) · `Rust` (2)
 
-**Updated:** 2026-11-11 05:43 UTC
+**Updated:** 2026-11-12 06:49 UTC
 
 **Categories:**
 
@@ -21,115 +21,114 @@
 ### 1. [astryx](https://github.com/meta/astryx)
 
 > 🤖 **Why Recommend**  
-> *Astryx is an open-source design system built for customization and collaboration between humans and AI, currently in beta. It features over 150 accessible components, brand-level theming, dark mode, and ready-to-use templates, all built on React 19+ and StyleX. Key highlights include open internals for flexible composition, no styling lock-in, and easy theme customization using CSS variables. With a focus on strong conventions and comprehensive documentation, Astryx aims to streamline development for both developers and AI assistants, making it a powerful tool for modern applications.*
+> *Astryx is an open-source design system built on React 19+ that emphasizes customizability and accessibility. It features over 150 reusable components, brand-level theming, dark mode, and a CLI for seamless integration. Key highlights include open internals allowing for deep customization without styling lock-in, and an API designed for both humans and AI assistants. Astryx supports various theming options and encourages contributions. Documentation, Storybook, and a sandbox environment are readily available, making it easy to get started and explore its capabilities.*
 
-- ⭐ 23463 stars
+- ⭐ 25494 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-11-11
+- 📅 Updated: 2026-11-12
 
-![astryx](2026/11-11/2026-11-11_daily-top_astryx.png)
+![astryx](2026/11-12/2026-11-12_daily-top_astryx.png)
 
-### 2. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+### 2. [agent-skills](https://github.com/addyosmani/agent-skills)
 
 > 🤖 **Why Recommend**  
-> *A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings. popular project, actively maintained, recently updated*
+> *Agent Skills is a production-grade toolkit designed to enhance AI coding agents with structured engineering workflows, ensuring adherence to best practices throughout the software development lifecycle. With 25 skills, it covers defining, planning, building, verifying, reviewing, and shipping code. Key features include 9 slash commands for automation and integration with various coding environments such as Claude Code and GitHub Copilot. Emphasizing quality gates, test-driven development, and comprehensive reviews, Agent Skills helps maintain production-quality outputs, reflecting insights from Google's engineering culture.*
 
-- ⭐ 69544 stars
-- 🍴 4596 forks
+- ⭐ 116148 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-11-11
+- 📅 Updated: 2026-11-12
 
-![security-audit-skill](2026/11-11/2026-11-11_daily-top_security-audit-skill.png)
+![agent-skills](2026/11-12/2026-11-12_daily-top_agent-skills.png)
 
-### 3. [OpenMausBot](https://github.com/milind-soni/OpenMausBot)
+### 3. [billion-context](https://github.com/ranxianglei/billion-context)
 
 > 🤖 **Why Recommend**  
-> *OpenMausBot is an open-source alternative to Grok Bot, enabling users to manage multiple AI bots in a chat app. Core features include local-first operation, bringing your own agents like Claude and Codex, and a permission-based action approval system. Each bot operates independently with its own model and connected apps, enhancing customization. Users can manage bots like contacts, utilize a marketplace for app integrations, and receive spoken replies. OpenMausBot supports Windows, macOS, and Ubuntu, making it versatile for various environments.*
+> *billion-context is a powerful context-compression plugin designed for managing extensive single sessions of billions of tokens while utilizing small context windows (100K tokens). Key features include achieving a 5x reduction in token usage, high compression quality, and maintaining a 95-97% cache hit rate. It allows for month-long sessions without degradation, enabling efficient and economical use of conversational context. The plugin supports various clients and offers context management tools such as compression, decompression, and keyword search, ensuring seamless integration and performance.*
 
-- ⭐ 20802 stars
+- ⭐ 6920 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-11-11
+- 📅 Updated: 2026-11-12
 
-![OpenMausBot](2026/11-11/2026-11-11_daily-top_OpenMausBot.png)
+![billion-context](2026/11-12/2026-11-12_daily-top_billion-context.png)
 
-### 4. [ponytail](https://github.com/DietrichGebert/ponytail)
-
-> 🤖 **Why Recommend**  
-> *Ponytail is a JavaScript project designed to optimize AI agents by emulating a lazy senior developer's approach—writing minimal code that effectively solves problems. With over 188,000 stars, it focuses on reducing code complexity and runtime costs, achieving significant benchmarks like 53% less code and 41% faster execution. Key features include `/ponytail-review` for thorough code audits, `/ponytail-audit` for comprehensive repository assessments, and a "band" feature that tracks resource usage in real-time. Ponytail integrates seamlessly with various AI platforms, promoting efficient and secure coding practices.*
-
-- ⭐ 188532 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-11-11
-
-![ponytail](2026/11-11/2026-11-11_daily-top_ponytail.png)
-
-### 5. [agent-browser](https://github.com/vercel-labs/agent-browser)
+### 4. [agent-browser](https://github.com/vercel-labs/agent-browser)
 
 > 🤖 **Why Recommend**  
 > *Browser automation CLI for AI agents. popular project, actively maintained, recently updated*
 
-- ⭐ 49398 stars
-- 🍴 3459 forks
+- ⭐ 50040 stars
+- 🍴 3492 forks
 - 💻 Rust
-- 📅 Updated: 2026-11-11
+- 📅 Updated: 2026-11-12
 
-![agent-browser](2026/11-11/2026-11-11_daily-top_agent-browser.png)
+![agent-browser](2026/11-12/2026-11-12_daily-top_agent-browser.png)
 
-### 6. [RuView](https://github.com/ruvnet/RuView)
+### 5. [YunX-Desktop](https://github.com/tidain/YunX-Desktop)
 
 > 🤖 **Why Recommend**  
-> *RuView is a cutting-edge platform that transforms commodity WiFi signals into real-time spatial intelligence and vital sign monitoring, all without cameras or wearables. It detects presence, tracks movement, measures breathing and heart rates, and recognizes activities through walls, utilizing low-cost ESP32 sensors. Key features include integration with major smart home ecosystems (Home Assistant, Google Home, Apple Home), a guided AI operator for setup, and a rich catalog of edge modules for diverse applications. RuView ensures privacy and operates entirely on edge hardware, making it a versatile solution for smart environments.*
+> *YunX-Desktop is the official Windows desktop client for YunX, enabling users to paste sharing links for high-speed downloads from various cloud storage and video platforms, including Quark, UC, Baidu, and Bilibili. Key features include multi-account support, encrypted credential storage, P2P download capabilities (magnet, BT, ed2k), and seamless video parsing and previewing. The app supports concurrent downloads with resumption, offers a portable version, and integrates with Windows for notifications and tray access. Open-source under AGPL-3.0, it aims to provide a user-friendly experience for efficient file management.*
 
-- ⭐ 103943 stars
-- 💻 Rust
-- 📅 Updated: 2026-11-11
+- ⭐ 4796 stars
+- 💻 Kotlin
+- 📅 Updated: 2026-11-12
 
-![RuView](2026/11-11/2026-11-11_daily-top_RuView.png)
+![YunX-Desktop](2026/11-12/2026-11-12_daily-top_YunX-Desktop.png)
 
-### 7. [agent-skills](https://github.com/addyosmani/agent-skills)
+### 6. [topcoat](https://github.com/tokio-rs/topcoat)
 
 > 🤖 **Why Recommend**  
-> *Agent Skills is a production-grade toolkit designed to equip AI coding agents with structured engineering workflows that mirror best practices from senior developers. With 25 skills encompassing the entire development lifecycle—from defining and planning to building, verifying, reviewing, and shipping—this project encourages discipline in software development. Key features include automated command activation based on tasks, a CLI for easy skill installation across various agents, and a focus on verifiable, actionable steps that enforce quality and reliability. Ideal for enhancing software development processes, it integrates seamlessly with tools like Claude Code, GitHub Copilot, and more.*
+> *Topcoat is a robust, batteries-included framework for building web applications using Rust, designed to streamline development with pre-integrated tools and libraries. It offers a modular architecture, allowing developers to easily customize and extend functionalities. Key features include efficient performance, strong type safety, and seamless integration with popular web technologies. With over 7,129 stars on GitHub, Topcoat is gaining traction for its developer-friendly approach, making it an ideal choice for efficient and scalable web app development.*
 
-- ⭐ 115319 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-11-11
+- ⭐ 7129 stars
+- 💻 Rust
+- 📅 Updated: 2026-11-12
 
-![agent-skills](2026/11-11/2026-11-11_daily-top_agent-skills.png)
+![topcoat](2026/11-12/2026-11-12_daily-top_topcoat.png)
 
-### 8. [gbrain](https://github.com/garrytan/gbrain)
+### 7. [mujoco](https://github.com/google-deepmind/mujoco)
+
+> 🤖 **Why Recommend**  
+> *MuJoCo (Multi-Joint dynamics with Contact) is a versatile physics simulator designed for accurate and efficient simulation of articulated structures in robotics, biomechanics, and machine learning. Key features include a high-performance C API, interactive visualization in desktop and browser environments, and Python bindings for easy integration. Users can explore models via the MuJoCo Studio app or access tutorials on Google Colab. The project is maintained by Google DeepMind and offers extensive documentation, support for Unity, and various language bindings, making it ideal for researchers and developers alike.*
+
+- ⭐ 17688 stars
+- 💻 C++
+- 📅 Updated: 2026-11-12
+
+![mujoco](2026/11-12/2026-11-12_daily-top_mujoco.png)
+
+### 8. [AnyPS5](https://github.com/boykopovar/AnyPS5)
+
+> 🤖 **Why Recommend**  
+> *AnyPS5 is a powerful tool for automatically porting PS5 executables to Linux and Windows, boasting over 53,000 stars on GitHub. It features a relinker that converts executables to the native format of the target OS without requiring emulation. The project includes system PRX libraries for dynamic linking, supports SDL-mapped controllers, and allows customizable input mapping. A web converter keeps files on the user's device, enhancing privacy. It is designed for interoperability and preservation, with no inclusion of copyrighted software. Licensed under GPL v2.*
+
+- ⭐ 53312 stars
+- 💻 C++
+- 📅 Updated: 2026-11-12
+
+![AnyPS5](2026/11-12/2026-11-12_daily-top_AnyPS5.png)
+
+### 9. [xtool](https://github.com/xtool-org/xtool)
+
+> 🤖 **Why Recommend**  
+> *xtool is a cross-platform replacement for Xcode, enabling users to build and deploy iOS apps using SwiftPM on Linux, Windows, and macOS. With over 15,000 stars, it offers essential features like building SwiftPM packages, signing and installing iOS apps, and programmatic interaction with Apple Developer Services. The tool includes a command-line interface for setup, project management, and device interaction. Additionally, xtool can be integrated as a Swift Package for custom app development, enhancing compatibility with Apple services.*
+
+- ⭐ 15342 stars
+- 💻 Swift
+- 📅 Updated: 2026-11-12
+
+![xtool](2026/11-12/2026-11-12_daily-top_xtool.png)
+
+### 10. [gbrain](https://github.com/garrytan/gbrain)
 
 > 🤖 **Why Recommend**  
 > *Garry's Opinionated OpenClaw/Hermes Agent Brain. popular project, actively maintained, recently updated*
 
-- ⭐ 32562 stars
-- 🍴 4849 forks
+- ⭐ 32725 stars
+- 🍴 4881 forks
 - 💻 TypeScript
-- 📅 Updated: 2026-11-11
+- 📅 Updated: 2026-11-12
 
-![gbrain](2026/11-11/2026-11-11_daily-top_gbrain.png)
-
-### 9. [mujoco](https://github.com/google-deepmind/mujoco)
-
-> 🤖 **Why Recommend**  
-> *MuJoCo (Multi-Joint dynamics with Contact) is a versatile physics simulator designed for rapid and accurate modeling of articulated structures in robotics, biomechanics, and machine learning. Developed by Google DeepMind, it features a high-performance C API, interactive visualization, and extensive utility functions. Key highlights include Python bindings, a Unity plug-in, and support for WebAssembly. Users can access prebuilt binaries, explore tutorials in IPython notebooks, and engage with the community for support. Comprehensive documentation is available at mujoco.readthedocs.io.*
-
-- ⭐ 17463 stars
-- 💻 C++
-- 📅 Updated: 2026-11-11
-
-![mujoco](2026/11-11/2026-11-11_daily-top_mujoco.png)
-
-### 10. [billion-context](https://github.com/ranxianglei/billion-context)
-
-> 🤖 **Why Recommend**  
-> *billion-context is a powerful context-compression plugin designed for managing extensive single sessions of billions of tokens while maintaining efficiency. Key features include support for small context windows (100K tokens), achieving up to 5x token savings, and high-quality compression that allows month-long conversations without degradation. The plugin integrates seamlessly with various clients, offering tools like message compression, decompression, and context search. Its incremental and reversible approach ensures that essential details can be restored on demand, optimizing both performance and cost. With 6,478 stars on GitHub, it's a trusted solution for developers needing robust context management.*
-
-- ⭐ 6478 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-11-11
-
-![billion-context](2026/11-11/2026-11-11_daily-top_billion-context.png)
+![gbrain](2026/11-12/2026-11-12_daily-top_gbrain.png)
 
 ---
 
@@ -143,4 +142,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-11-11 05:43:59 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-11-12 06:49:40 UTC
