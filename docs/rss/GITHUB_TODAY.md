@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-11-16
+# 📊 🌟 GitHub Trending Daily - 2026-11-17
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **237517** ⭐ | **24012** 🍴
+**10** Projects | **500166** ⭐ | **62558** 🍴
 
-**Top Languages:** `TypeScript` (6) · `Go` (2) · `Rust` (1)
+**Top Languages:** `TypeScript` (6) · `Go` (2) · `JavaScript` (1)
 
-**Updated:** 2026-11-16 05:56 UTC
+**Updated:** 2026-11-17 07:33 UTC
 
 **Categories:**
 
@@ -18,115 +18,115 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+### 1. [univer](https://github.com/dream-num/univer)
 
 > 🤖 **Why Recommend**  
-> *The Modern Web Guidance project provides a comprehensive set of best practices, skills, and browser compatibility data to enhance coding agents' web development capabilities. Key features include seamless integration with coding agents through a CLI, interactive guides for modern browser APIs, performance optimization, and accessibility enhancements. The tool helps developers avoid legacy patterns by offering expert-curated guidelines, facilitating modern web practices, and ensuring adaptive solutions for various web technologies. It is collaboratively maintained by teams from Google Chrome, Microsoft Edge, Mozilla Firefox, and the web development community.*
+> *Univer is an open-source Office SDK designed to create customizable AI office applications. It offers a robust Web SDK for embedding spreadsheet and document editing, real-time collaboration, and AI integration capabilities. Key features include rich-text editing, formula calculations, and a plugin architecture for extending functionalities such as charts and file processing. The SDK supports both frontend and backend operations, enabling seamless integration with existing applications. With over 28,000 stars on GitHub, Univer provides a comprehensive platform for developing office solutions tailored to user needs.*
 
-- ⭐ 7414 stars
+- ⭐ 28409 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-11-16
+- 📅 Updated: 2026-11-17
 
-![modern-web-guidance-src](2026/11-16/2026-11-16_daily-top_modern-web-guidance-src.png)
+![univer](2026/11-17/2026-11-17_daily-top_univer.png)
 
-### 2. [univer](https://github.com/dream-num/univer)
+### 2. [modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
 
 > 🤖 **Why Recommend**  
-> *Univer is an open-source Office SDK designed for building AI-driven office applications. It offers a robust foundation for editing, calculation, collaboration, and file processing across various document types, including spreadsheets, documents, and presentations. Key features include real-time collaboration, plugin extensibility, and a rich API for seamless integration with applications. The SDK comprises three parts: Web SDK, Server SDK, and AI SDK, enabling versatile use cases from embedded editors to headless processing. With over 26,500 stars on GitHub, Univer fosters a collaborative development environment.*
+> *Modern Web Guidance (Source) is a TypeScript project aimed at enhancing coding agents with up-to-date web best practices, boasting over 8,000 stars. It provides expert-curated guidelines on modern browser APIs, performance optimizations, and accessibility, steering developers away from legacy code patterns. Key features include an interactive CLI for searching and retrieving guides, a comprehensive evaluation dashboard for testing effectiveness, and a focus on responsible fallbacks. The project is supported by major browser teams, ensuring alignment with the latest web standards.*
 
-- ⭐ 26527 stars
+- ⭐ 8143 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-11-16
+- 📅 Updated: 2026-11-17
 
-![univer](2026/11-16/2026-11-16_daily-top_univer.png)
+![modern-web-guidance-src](2026/11-17/2026-11-17_daily-top_modern-web-guidance-src.png)
 
-### 3. [plannotator](https://github.com/backnotprop/plannotator)
-
-> 🤖 **Why Recommend**  
-> *Plannotator is a TypeScript-based workspace designed for seamless interaction with AI coding agents, allowing users to annotate, plan, review code, and share feedback effortlessly. Key features include the Plannotator Inbox, which consolidates agent communications for efficient review and response, and robust code review tools compatible with Git, GitHub, and GitLab. Users can annotate various artifacts, including HTML and Markdown, and utilize integrations with popular tools like VS Code and Notion. With over 12,000 stars, Plannotator enhances collaboration and productivity in AI-assisted development.*
-
-- ⭐ 12023 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-11-16
-
-![plannotator](2026/11-16/2026-11-16_daily-top_plannotator.png)
-
-### 4. [Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo)
+### 3. [LoopForge](https://github.com/Tencent/LoopForge)
 
 > 🤖 **Why Recommend**  
-> *Veyra-NRVideo is an advanced Windows video player and capture enhancement tool that leverages DLSS 5 technology to deliver a next-gen visual experience at up to 120FPS for PS5 and Xbox. Key features include real-time video enhancement with AI-powered Super Resolution, Denoising, HDR, and Frame Generation. The user-friendly interface supports multiple input sources, including capture cards and game streaming. With over 2857 stars on GitHub, Veyra offers extensive customization options, layered noise reduction, and a robust export workflow, making it a versatile choice for gamers and content creators.*
+> *LoopForge is a self-hosted platform designed for orchestrating software delivery using coding agents like CodeBuddy, Codex, and Claude Code. Key features include chat-based interactions with a Main Bot for on-demand workflows, a visual SOP designer for creating repeatable delivery processes, and integrated human approval gates to ensure quality control. It supports local workflows, Docker sandboxing, and provides metrics for project insights. LoopForge enhances team collaboration while maintaining complete control over the software delivery environment, all under the MIT license.*
 
-- ⭐ 2857 stars
-- 💻 C++
-- 📅 Updated: 2026-11-16
+- ⭐ 2521 stars
+- 💻 Go
+- 📅 Updated: 2026-11-17
 
-![Veyra-NRVideo](2026/11-16/2026-11-16_daily-top_Veyra-NRVideo.png)
+![LoopForge](2026/11-17/2026-11-17_daily-top_LoopForge.png)
+
+### 4. [open-code-review](https://github.com/alibaba/open-code-review)
+
+> 🤖 **Why Recommend**  
+> *Open Code Review is a powerful AI-driven code review tool developed by Alibaba, now available as open-source. It features a hybrid architecture combining deterministic pipelines with LLM agents, ensuring precise line-level comments and robust multi-language rule sets for issues like NPE, thread safety, and SQL injection. With extensive validation at scale, it provides structured feedback on Git diffs and entire files, enhancing review accuracy and reducing noise. Compatible with OpenAI and Anthropic models, it supports multiple platforms and agents. Visit open-codereview.ai for more details.*
+
+- ⭐ 53198 stars
+- 💻 Go
+- 📅 Updated: 2026-11-17
+
+![open-code-review](2026/11-17/2026-11-17_daily-top_open-code-review.png)
 
 ### 5. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
 > 🤖 **Why Recommend**  
-> *chrome-devtools-mcp is a powerful TypeScript package enabling coding agents like Antigravity and Copilot to control and inspect live Chrome browsers. With over 57k stars, it offers features such as advanced browser debugging, performance insights through Chrome DevTools, and reliable automation using Puppeteer. The project supports a Model-Context-Protocol (MCP) server and CLI for versatile integration. Key skills include debugging, performance optimization, and accessibility auditing. Ideal for developers seeking robust automation and debugging tools in Chrome.*
+> *chrome-devtools-mcp is a powerful TypeScript library enabling coding agents like Antigravity and Copilot to control and inspect live Chrome browsers. It functions as a Model-Context-Protocol (MCP) server and CLI, offering features such as performance insights, advanced debugging, and reliable automation through Puppeteer. Key highlights include network request analysis, screenshot capabilities, and customizable skills for various debugging tasks. It supports only Google Chrome and requires Node.js and npm for setup. Ideal for enhancing AI-assisted web development workflows.*
 
-- ⭐ 57170 stars
+- ⭐ 57833 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-11-16
+- 📅 Updated: 2026-11-17
 
-![chrome-devtools-mcp](2026/11-16/2026-11-16_daily-top_chrome-devtools-mcp.png)
+![chrome-devtools-mcp](2026/11-17/2026-11-17_daily-top_chrome-devtools-mcp.png)
 
-### 6. [open-code-review](https://github.com/alibaba/open-code-review)
-
-> 🤖 **Why Recommend**  
-> *Open-Code Review is a powerful AI-driven code review tool developed by Alibaba, designed for secure and efficient code analysis at scale. It features deterministic pipelines combined with an LLM Agent, providing precise line-level comments and a built-in multi-language ruleset addressing key issues like NPE, thread-safety, XSS, and SQL injection. The tool reads Git diffs, performs comprehensive reviews, and supports entire file audits. With compatibility for OpenAI and Anthropic models, it enhances review precision while minimizing false alarms, making it a robust choice for developers.*
-
-- ⭐ 52341 stars
-- 💻 Go
-- 📅 Updated: 2026-11-16
-
-![open-code-review](2026/11-16/2026-11-16_daily-top_open-code-review.png)
-
-### 7. [airgorah](https://github.com/martin-olivier/airgorah)
+### 6. [ag-ui](https://github.com/ag-ui-protocol/ag-ui)
 
 > 🤖 **Why Recommend**  
-> *Airgorah is a Rust-based WiFi security auditing software designed for Linux environments. It enables users to capture nearby WiFi traffic, discover connected clients, perform deauthentication attacks, capture handshakes and PMKIDs, and crack access point passwords. The software features a user-friendly graphical interface built with GTK4 and operates with elevated privileges when necessary through a polkit-based agent. Airgorah is intended for testing and identifying vulnerabilities in networks owned by the user. It has garnered over 6,298 stars on GitHub.*
+> *AG-UI is an open, event-based protocol facilitating seamless integration between AI agents and user-facing applications. With over 19,000 stars on GitHub, it standardizes interactions through a bi-directional event stream, enabling real-time features such as streaming chat, shared state, and human-in-the-loop functionalities. Compatible with frameworks like LangChain and Microsoft Agent Framework, AG-UI supports diverse environments including web, mobile, and terminal applications. The protocol's stable 1.0 specification ensures backward compatibility, making it a versatile choice for developers.*
 
-- ⭐ 6298 stars
-- 💻 Rust
-- 📅 Updated: 2026-11-16
-
-![airgorah](2026/11-16/2026-11-16_daily-top_airgorah.png)
-
-### 8. [freellmapi](https://github.com/tashfeenahmed/freellmapi)
-
-> 🤖 **Why Recommend**  
-> *FreeLLMAPI is an innovative API aggregator providing access to 10.1 billion tokens monthly from 87 free LLM providers, offering 1,313 model endpoints through a unified OpenAI-compatible endpoint. Key features include smart routing with automatic failover, encrypted keys, real-time model catalog updates, and per-key usage tracking to stay within free-tier limits. It supports various models, including chat, embedding, image, and audio, making it ideal for personal experimentation. With a user-friendly dashboard and extensive compatibility with OpenAI clients, FreeLLMAPI streamlines LLM utilization for developers.*
-
-- ⭐ 52994 stars
+- ⭐ 19497 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-11-16
+- 📅 Updated: 2026-11-17
 
-![freellmapi](2026/11-16/2026-11-16_daily-top_freellmapi.png)
+![ag-ui](2026/11-17/2026-11-17_daily-top_ag-ui.png)
 
-### 9. [LoopForge](https://github.com/Tencent/LoopForge)
-
-> 🤖 **Why Recommend**  
-> *LoopForge is a self-hosted platform designed to streamline software delivery using coding agents like CodeBuddy, Codex, and Claude Code. Key features include chat-based interactions with a Main Bot, repeatable Standard Operating Procedures (SOPs) for consistent workflows, and integrated human approval gates for quality control. It allows for on-demand Docker sandboxes, end-to-end requirement tracking, and supports a variety of coding-agent CLIs. LoopForge Local offers built-in workflows directly in coding assistants. The project is MIT licensed and has garnered 1782 stars on GitHub.*
-
-- ⭐ 1782 stars
-- 💻 Go
-- 📅 Updated: 2026-11-16
-
-![LoopForge](2026/11-16/2026-11-16_daily-top_LoopForge.png)
-
-### 10. [ag-ui](https://github.com/ag-ui-protocol/ag-ui)
+### 7. [ECC](https://github.com/affaan-m/ECC)
 
 > 🤖 **Why Recommend**  
-> *AG-UI is an open, event-based protocol designed to facilitate seamless integration between AI agents and user-facing applications. With over 18,000 stars, it offers core features such as real-time agentic chat, bi-directional state synchronization, and a flexible middleware layer compatible with various event transports. Key highlights include extensive documentation, community support via Discord, and partnerships with platforms like LangChain. It supports numerous frameworks and SDKs, enabling rapid application development and integration for enhanced user experiences.*
+> *ECC is a powerful performance optimization system designed for coding agents, integrating skills, instincts, memory, security, and research-driven development. It supports various platforms including Claude Code, Codex, and Kimi Code. Key features include 72 specialized agents, 327 reusable skills, 98 command shims, and AgentShield security scanning. ECC facilitates structured workflows such as Test-Driven Development (TDD), code reviews, and build fixes, while enhancing context management and continuous learning. Its open-source nature allows for extensive customization and community contributions.*
 
-- ⭐ 18111 stars
+- ⭐ 304821 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-11-17
+
+![ECC](2026/11-17/2026-11-17_daily-top_ECC.png)
+
+### 8. [plannotator](https://github.com/backnotprop/plannotator)
+
+> 🤖 **Why Recommend**  
+> *Plannotator is a powerful workspace designed for seamless collaboration and code review with AI coding agents. Key features include Plannotator Inbox for managing agent messages, intuitive annotation of plans, specs, and HTML artifacts, and comprehensive code review capabilities for local changes and GitHub/GitLab PRs. Users can provide feedback directly to agents, facilitating efficient communication. The platform supports multiple coding agents and includes integrations with VS Code, Obsidian, and Notion. With a focus on enhancing team workflows, Plannotator simplifies the review process while ensuring teams stay connected.*
+
+- ⭐ 12789 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-11-16
+- 📅 Updated: 2026-11-17
 
-![ag-ui](2026/11-16/2026-11-16_daily-top_ag-ui.png)
+![plannotator](2026/11-17/2026-11-17_daily-top_plannotator.png)
+
+### 9. [stitch-skills](https://github.com/google-labs-code/stitch-skills)
+
+> 🤖 **Why Recommend**  
+> *The "stitch-skills" project is a TypeScript library designed for the Stitch MCP server, offering a suite of agent skills compliant with the Agent Skills open standard. With over 9,800 stars, it enables compatibility with various coding agents like Codex and Claude Code. Key features include design-focused skills for optimizing workflows, build skills for code generation and integration, and utility skills for enhancing prompts and enforcing design standards. Users can easily install plugins and skills, making it a versatile tool for developers aiming to streamline their design and development processes.*
+
+- ⭐ 9839 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-11-17
+
+![stitch-skills](2026/11-17/2026-11-17_daily-top_stitch-skills.png)
+
+### 10. [Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo)
+
+> 🤖 **Why Recommend**  
+> *Veyra-NRVideo is an advanced Windows video player and capture enhancement tool designed to elevate PS5 GTA6 gameplay to 120FPS using DLSS 5. Key features include real-time GPU video enhancement, AI-powered Super Resolution, noise reduction, HDR, and frame generation. It supports various sources like capture cards and game streaming, and offers a user-friendly interface with customizable settings. The latest version (2.1.9) introduces improved export workflows and enhanced compatibility for NVIDIA and AMD hardware, making it a powerful tool for gamers and content creators alike.*
+
+- ⭐ 3116 stars
+- 💻 C++
+- 📅 Updated: 2026-11-17
+
+![Veyra-NRVideo](2026/11-17/2026-11-17_daily-top_Veyra-NRVideo.png)
 
 ---
 
@@ -140,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-11-16 05:56:05 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-11-17 07:33:16 UTC
