@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-11-17
+# 📊 🌟 GitHub Trending Daily - 2026-11-18
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **500166** ⭐ | **62558** 🍴
+**10** 个项目 | **921930** ⭐ | **90943** 🍴
 
-**热门语言:** `TypeScript` (6) · `Go` (2) · `JavaScript` (1)
+**热门语言:** `TypeScript` (4) · `JavaScript` (3) · `Go` (1)
 
-**更新时间:** 2026-11-17 07:33 UTC
+**更新时间:** 2026-11-18 06:57 UTC
 
 **分类分布:**
 
@@ -21,112 +21,112 @@
 ### 1. [univer](https://github.com/dream-num/univer)
 
 > 🤖 **推荐理由**  
-> *Univer is an open-source Office SDK designed to create customizable AI office applications. It offers a robust Web SDK for embedding spreadsheet and document editing, real-time collaboration, and AI integration capabilities. Key features include rich-text editing, formula calculations, and a plugin architecture for extending functionalities such as charts and file processing. The SDK supports both frontend and backend operations, enabling seamless integration with existing applications. With over 28,000 stars on GitHub, Univer provides a comprehensive platform for developing office solutions tailored to user needs.*
+> *Univer is an open-source Office SDK designed to build AI-enhanced office applications, incorporating editing, calculation, collaboration, and file processing capabilities. Key features include a Web SDK for content management, a Server SDK for real-time collaboration, and an AI SDK for integrating with existing workflows. Users can create customizable editors for spreadsheets and documents, leverage plugins for advanced functionalities, and utilize Facade APIs for seamless integration. With 29,414 stars on GitHub, Univer supports diverse applications and fosters a collaborative development community.*
 
-- ⭐ 28409 stars
+- ⭐ 29414 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-11-17
+- 📅 Updated: 2026-11-18
 
-![univer](2026/11-17/2026-11-17_daily-top_univer.png)
+![univer](2026/11-18/2026-11-18_daily-top_univer.png)
 
-### 2. [modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+### 2. [ag-ui](https://github.com/ag-ui-protocol/ag-ui)
 
 > 🤖 **推荐理由**  
-> *Modern Web Guidance (Source) is a TypeScript project aimed at enhancing coding agents with up-to-date web best practices, boasting over 8,000 stars. It provides expert-curated guidelines on modern browser APIs, performance optimizations, and accessibility, steering developers away from legacy code patterns. Key features include an interactive CLI for searching and retrieving guides, a comprehensive evaluation dashboard for testing effectiveness, and a focus on responsible fallbacks. The project is supported by major browser teams, ensuring alignment with the latest web standards.*
+> *AG-UI is an open, lightweight protocol designed to connect AI agents with user-facing applications, enabling seamless interaction across various platforms including web, mobile, and terminal clients. Key features include bi-directional event streaming, support for streaming chat, generative UI, shared state management, and integration with multiple agent frameworks like LangChain and Microsoft Agent Framework. The stable 1.0 version boasts backward compatibility and extensive SDKs in TypeScript, Python, and .NET, making it a versatile solution for building interactive AI experiences.*
 
-- ⭐ 8143 stars
+- ⭐ 20155 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-11-17
+- 📅 Updated: 2026-11-18
 
-![modern-web-guidance-src](2026/11-17/2026-11-17_daily-top_modern-web-guidance-src.png)
+![ag-ui](2026/11-18/2026-11-18_daily-top_ag-ui.png)
 
-### 3. [LoopForge](https://github.com/Tencent/LoopForge)
-
-> 🤖 **推荐理由**  
-> *LoopForge is a self-hosted platform designed for orchestrating software delivery using coding agents like CodeBuddy, Codex, and Claude Code. Key features include chat-based interactions with a Main Bot for on-demand workflows, a visual SOP designer for creating repeatable delivery processes, and integrated human approval gates to ensure quality control. It supports local workflows, Docker sandboxing, and provides metrics for project insights. LoopForge enhances team collaboration while maintaining complete control over the software delivery environment, all under the MIT license.*
-
-- ⭐ 2521 stars
-- 💻 Go
-- 📅 Updated: 2026-11-17
-
-![LoopForge](2026/11-17/2026-11-17_daily-top_LoopForge.png)
-
-### 4. [open-code-review](https://github.com/alibaba/open-code-review)
+### 3. [orca](https://github.com/stablyai/orca)
 
 > 🤖 **推荐理由**  
-> *Open Code Review is a powerful AI-driven code review tool developed by Alibaba, now available as open-source. It features a hybrid architecture combining deterministic pipelines with LLM agents, ensuring precise line-level comments and robust multi-language rule sets for issues like NPE, thread safety, and SQL injection. With extensive validation at scale, it provides structured feedback on Git diffs and entire files, enhancing review accuracy and reducing noise. Compatible with OpenAI and Anthropic models, it supports multiple platforms and agents. Visit open-codereview.ai for more details.*
+> *Orca is a powerful AI orchestrator that enables users to manage a fleet of coding agents, such as Claude Code and Codex, using their own subscriptions. Available on desktop and mobile, Orca allows for seamless collaboration in chat or terminal modes, orchestration of tasks across multiple agents, and continuous operation via remote servers. Key features include parallel workspaces, Git integration, mobile notifications, and plugin support, making it ideal for developers looking to enhance productivity with AI tools. Ideal for macOS, Windows, and Linux users.*
 
-- ⭐ 53198 stars
-- 💻 Go
-- 📅 Updated: 2026-11-17
-
-![open-code-review](2026/11-17/2026-11-17_daily-top_open-code-review.png)
-
-### 5. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-
-> 🤖 **推荐理由**  
-> *chrome-devtools-mcp is a powerful TypeScript library enabling coding agents like Antigravity and Copilot to control and inspect live Chrome browsers. It functions as a Model-Context-Protocol (MCP) server and CLI, offering features such as performance insights, advanced debugging, and reliable automation through Puppeteer. Key highlights include network request analysis, screenshot capabilities, and customizable skills for various debugging tasks. It supports only Google Chrome and requires Node.js and npm for setup. Ideal for enhancing AI-assisted web development workflows.*
-
-- ⭐ 57833 stars
+- ⭐ 128164 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-11-17
+- 📅 Updated: 2026-11-18
 
-![chrome-devtools-mcp](2026/11-17/2026-11-17_daily-top_chrome-devtools-mcp.png)
+![orca](2026/11-18/2026-11-18_daily-top_orca.png)
 
-### 6. [ag-ui](https://github.com/ag-ui-protocol/ag-ui)
-
-> 🤖 **推荐理由**  
-> *AG-UI is an open, event-based protocol facilitating seamless integration between AI agents and user-facing applications. With over 19,000 stars on GitHub, it standardizes interactions through a bi-directional event stream, enabling real-time features such as streaming chat, shared state, and human-in-the-loop functionalities. Compatible with frameworks like LangChain and Microsoft Agent Framework, AG-UI supports diverse environments including web, mobile, and terminal applications. The protocol's stable 1.0 specification ensures backward compatibility, making it a versatile choice for developers.*
-
-- ⭐ 19497 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-11-17
-
-![ag-ui](2026/11-17/2026-11-17_daily-top_ag-ui.png)
-
-### 7. [ECC](https://github.com/affaan-m/ECC)
+### 4. [jiangshan-map](https://github.com/DeanChensj/jiangshan-map)
 
 > 🤖 **推荐理由**  
-> *ECC is a powerful performance optimization system designed for coding agents, integrating skills, instincts, memory, security, and research-driven development. It supports various platforms including Claude Code, Codex, and Kimi Code. Key features include 72 specialized agents, 327 reusable skills, 98 command shims, and AgentShield security scanning. ECC facilitates structured workflows such as Test-Driven Development (TDD), code reviews, and build fixes, while enhancing context management and continuous learning. Its open-source nature allows for extensive customization and community contributions.*
+> *The "jiangshan-map" project offers an interactive historical atlas of China, spanning 403 BCE to the present across 18 dynasties. Users can explore over 2,400 years of history through features like a dynamic timeline to visualize territorial changes, ancient city genealogies, and significant historical events. The platform allows for tracking historical figures' journeys, and features a quiz to test geographical knowledge. With multi-language support and a user-friendly interface, this tool enriches the understanding of China's historical geography.*
 
-- ⭐ 304821 stars
+- ⭐ 7712 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-11-17
+- 📅 Updated: 2026-11-18
 
-![ECC](2026/11-17/2026-11-17_daily-top_ECC.png)
+![jiangshan-map](2026/11-18/2026-11-18_daily-top_jiangshan-map.png)
 
-### 8. [plannotator](https://github.com/backnotprop/plannotator)
+### 5. [ECC](https://github.com/affaan-m/ECC)
 
 > 🤖 **推荐理由**  
-> *Plannotator is a powerful workspace designed for seamless collaboration and code review with AI coding agents. Key features include Plannotator Inbox for managing agent messages, intuitive annotation of plans, specs, and HTML artifacts, and comprehensive code review capabilities for local changes and GitHub/GitLab PRs. Users can provide feedback directly to agents, facilitating efficient communication. The platform supports multiple coding agents and includes integrations with VS Code, Obsidian, and Notion. With a focus on enhancing team workflows, Plannotator simplifies the review process while ensuring teams stay connected.*
+> *ECC is an advanced performance optimization system designed to enhance agent capabilities in coding environments like Claude Code, Codex, and others. It features 72 specialized agents, 327 reusable skills, and 98 command shims for tasks like planning, testing, and code review. ECC emphasizes a structured workflow that includes planning, implementation, and security checks, supported by tools like AgentShield for vulnerability scanning. The system integrates seamlessly with multiple platforms, allowing for a comprehensive coding experience while maintaining high security and performance standards.*
 
-- ⭐ 12789 stars
+- ⭐ 305808 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-11-18
+
+![ECC](2026/11-18/2026-11-18_daily-top_ECC.png)
+
+### 6. [ponytail](https://github.com/DietrichGebert/ponytail)
+
+> 🤖 **推荐理由**  
+> *Ponytail is an innovative JavaScript project designed to enhance AI agents by enabling them to adopt the approach of a seasoned developer, minimizing unnecessary code. With 193,400 stars, it emphasizes writing efficient, minimal code while maintaining rigorous testing and security standards. Key features include the `/ponytail-review` and `/ponytail-audit` commands for code reviews and audits, as well as performance metrics tracking. Ponytail 5 showcases significant reductions in code, time, cost, and tokens while ensuring high-quality output, making it a valuable tool for developers seeking efficiency and reliability.*
+
+- ⭐ 193400 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-11-18
+
+![ponytail](2026/11-18/2026-11-18_daily-top_ponytail.png)
+
+### 7. [fanqiang](https://github.com/bannedbook/fanqiang)
+
+> 🤖 **推荐理由**  
+> *The "fanqiang" project, a popular tool for circumventing internet censorship, boasts over 57,000 stars on GitHub. Built in Kotlin, it provides extensive resources including tutorials for Android, iOS, Windows, macOS, and Linux users on setting up various VPN solutions like V2ray, Shadowsocks, and Tor. Key features include one-click installation packages for Chrome, Firefox, and Edge, as well as guides for configuring gaming consoles and routers. Users can access free VPN accounts and a comprehensive FAQ to enhance their online experience.*
+
+- ⭐ 57754 stars
+- 💻 Kotlin
+- 📅 Updated: 2026-11-18
+
+![fanqiang](2026/11-18/2026-11-18_daily-top_fanqiang.png)
+
+### 8. [open-code-review](https://github.com/alibaba/open-code-review)
+
+> 🤖 **推荐理由**  
+> *Open Code Review is a hybrid AI-powered code review tool developed by Alibaba, designed for high precision and efficiency. It features deterministic pipelines combined with an LLM agent to generate precise line-level comments, supporting multiple programming languages and built-in rules for vulnerabilities like NPE and SQL injection. The tool excels in identifying code defects while ensuring minimal false positives. With options for Git integration and various review modes, it streamlines the code review process, making it ideal for teams aiming to enhance code quality at scale. Visit the official site for more details.*
+
+- ⭐ 53941 stars
+- 💻 Go
+- 📅 Updated: 2026-11-18
+
+![open-code-review](2026/11-18/2026-11-18_daily-top_open-code-review.png)
+
+### 9. [impeccable](https://github.com/pbakaus/impeccable)
+
+> 🤖 **推荐理由**  
+> *Impeccable is a Rust-based design tool that enhances coding agents by providing a structured design vocabulary. It enables users to refine their projects with commands like `polish`, `bolder`, `critique`, and `audit`, ensuring high-quality outputs before deployment. Key features include a slop detector that identifies design flaws, a UX reviewer that scores usability, and live mode for real-time iteration directly in the browser. It integrates seamlessly with various coding tools, making it ideal for enhancing existing interfaces or creating new designs efficiently. Comprehensive documentation is available at impeccable.style/docs.*
+
+- ⭐ 112405 stars
+- 💻 Rust
+- 📅 Updated: 2026-11-18
+
+![impeccable](2026/11-18/2026-11-18_daily-top_impeccable.png)
+
+### 10. [plannotator](https://github.com/backnotprop/plannotator)
+
+> 🤖 **推荐理由**  
+> *Plannotator is a TypeScript-based workspace designed to streamline collaboration with AI coding agents. It features a comprehensive inbox for managing agent communications, allowing users to annotate plans, specs, and HTML documents, and provide feedback directly. The platform supports code reviews for both local changes and remote PRs, integrating with GitHub, GitLab, and more. Key services include guided reviews and terminal annotations through Herdr. With over 13,000 stars, Plannotator enhances team workflows, enabling seamless interaction with multiple agents in real-time.*
+
+- ⭐ 13177 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-11-17
+- 📅 Updated: 2026-11-18
 
-![plannotator](2026/11-17/2026-11-17_daily-top_plannotator.png)
-
-### 9. [stitch-skills](https://github.com/google-labs-code/stitch-skills)
-
-> 🤖 **推荐理由**  
-> *The "stitch-skills" project is a TypeScript library designed for the Stitch MCP server, offering a suite of agent skills compliant with the Agent Skills open standard. With over 9,800 stars, it enables compatibility with various coding agents like Codex and Claude Code. Key features include design-focused skills for optimizing workflows, build skills for code generation and integration, and utility skills for enhancing prompts and enforcing design standards. Users can easily install plugins and skills, making it a versatile tool for developers aiming to streamline their design and development processes.*
-
-- ⭐ 9839 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-11-17
-
-![stitch-skills](2026/11-17/2026-11-17_daily-top_stitch-skills.png)
-
-### 10. [Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo)
-
-> 🤖 **推荐理由**  
-> *Veyra-NRVideo is an advanced Windows video player and capture enhancement tool designed to elevate PS5 GTA6 gameplay to 120FPS using DLSS 5. Key features include real-time GPU video enhancement, AI-powered Super Resolution, noise reduction, HDR, and frame generation. It supports various sources like capture cards and game streaming, and offers a user-friendly interface with customizable settings. The latest version (2.1.9) introduces improved export workflows and enhanced compatibility for NVIDIA and AMD hardware, making it a powerful tool for gamers and content creators alike.*
-
-- ⭐ 3116 stars
-- 💻 C++
-- 📅 Updated: 2026-11-17
-
-![Veyra-NRVideo](2026/11-17/2026-11-17_daily-top_Veyra-NRVideo.png)
+![plannotator](2026/11-18/2026-11-18_daily-top_plannotator.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-11-17 07:33:16 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-11-18 06:57:32 UTC
