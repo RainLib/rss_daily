@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-11-22
+# 📊 🌟 GitHub Trending Daily - 2026-11-23
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **888383** ⭐ | **83317** 🍴
+**10** 个项目 | **1266592** ⭐ | **137877** 🍴
 
-**热门语言:** `TypeScript` (4) · `JavaScript` (2) · `C` (1)
+**热门语言:** `TypeScript` (6) · `JavaScript` (2) · `C` (1)
 
-**更新时间:** 2026-11-22 06:08 UTC
+**更新时间:** 2026-11-23 07:01 UTC
 
 **分类分布:**
 
@@ -21,112 +21,112 @@
 ### 1. [firecrawl](https://github.com/firecrawl/firecrawl)
 
 > 🤖 **推荐理由**  
-> *Firecrawl is a powerful knowledge infrastructure designed to enhance AI agents by providing seamless access to over 550 data providers through a single API. Key features include Firecrawl Local for local scraping and crawling, Firecrawl Cloud for scalable web data access, and self-hosting options for full server deployment. Users can perform searches, scrape content as clean markdown or JSON, interact with web pages, and utilize an autonomous agent for data retrieval. With fast performance and LLM-ready outputs, Firecrawl is ideal for real-time AI applications.*
+> *Firecrawl is a powerful knowledge infrastructure designed to enhance AI agents by enabling seamless web interaction. With over 550 data providers accessible via a single API, it offers three primary services: Firecrawl Local for local scraping and mapping, Firecrawl Cloud for scalable solutions without setup, and self-hosting options for complete control. Key features include web search, data scraping into clean formats, page interaction, and autonomous data gathering through the Agent. Firecrawl also provides integrations with various AI tools, ensuring a versatile platform for developers.*
 
-- ⭐ 206389 stars
+- ⭐ 207270 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-11-22
+- 📅 Updated: 2026-11-23
 
-![firecrawl](2026/11-22/2026-11-22_daily-top_firecrawl.png)
+![firecrawl](2026/11-23/2026-11-23_daily-top_firecrawl.png)
 
 ### 2. [AnyPS5](https://github.com/boykopovar/AnyPS5)
 
 > 🤖 **推荐理由**  
-> *AnyPS5 is a powerful tool for automatically porting PS5 executables to Linux and Windows, featuring a relinker that converts executables to native formats without emulation. Key highlights include a web converter, support for SDL-mapped game controllers, and an advanced shader recompiler that produces validated SPIR-V. The project is designed for interoperability and research, with a dedicated Discord community and extensive documentation. AnyPS5 is open-source under the GPL v2 license and operates independently of Sony Interactive Entertainment.*
+> *AnyPS5 is a powerful tool designed for the automatic porting of PS5 executables to Linux and Windows, boasting over 60,500 stars on GitHub. It features a relinker that converts executables to native formats without emulation and includes implementations of system prx libraries for dynamic linking. The project supports SDL-mapped game controllers and customizable input mapping. A web converter allows local file processing, and progress tracking for compatibility is available. AnyPS5 emphasizes interoperability and research while adhering to legal standards, and it is licensed under the GNU GPL v2.*
 
-- ⭐ 59754 stars
+- ⭐ 60514 stars
 - 💻 C++
-- 📅 Updated: 2026-11-22
+- 📅 Updated: 2026-11-23
 
-![AnyPS5](2026/11-22/2026-11-22_daily-top_AnyPS5.png)
+![AnyPS5](2026/11-23/2026-11-23_daily-top_AnyPS5.png)
 
-### 3. [ponytail](https://github.com/DietrichGebert/ponytail)
-
-> 🤖 **推荐理由**  
-> *Ponytail is a JavaScript project designed to enhance AI agents' coding efficiency by emulating the approach of a seasoned developer who prioritizes simplicity. With over 196,000 stars, it reduces code complexity by up to 53% while maintaining robust testing and security. Key features include `/ponytail-review` for detailed code audits, `/ponytail-audit` for whole-repo assessments, and a comprehensive task management system. Ponytail emphasizes writing only necessary code, optimizing costs and performance, making it a valuable tool for developers seeking streamlined solutions.*
-
-- ⭐ 196487 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-11-22
-
-![ponytail](2026/11-22/2026-11-22_daily-top_ponytail.png)
-
-### 4. [ECC](https://github.com/affaan-m/ECC)
+### 3. [ECC](https://github.com/affaan-m/ECC)
 
 > 🤖 **推荐理由**  
-> *ECC is a performance optimization system designed for coding agents, integrating skills, instincts, memory, and security. Key features include 72 specialized agents, 328 reusable skills, and 99 command shims, all aimed at enhancing code quality through structured workflows like Test-Driven Development (TDD) and security reviews. It supports multiple models, including Claude Code and Codex, and offers a guided setup for easy installation. ECC emphasizes continuous learning and incorporates AgentShield for security scanning, making it a comprehensive tool for efficient code management and development.*
+> *ECC is an advanced performance optimization system designed for coding agents like Claude Code and Codex. With 72 specialized agents and 328 skills, it facilitates workflows such as Test-Driven Development (TDD), code review, and security auditing. Key features include memory persistence, continuous learning, and AgentShield for security scanning. ECC supports multi-model environments, providing seamless integration across various platforms. It offers a guided setup process, ensuring efficient installation and operation. Its open-source nature fosters community contributions and ongoing enhancements.*
 
-- ⭐ 308488 stars
+- ⭐ 309162 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-11-22
+- 📅 Updated: 2026-11-23
 
-![ECC](2026/11-22/2026-11-22_daily-top_ECC.png)
+![ECC](2026/11-23/2026-11-23_daily-top_ECC.png)
+
+### 4. [ponytail](https://github.com/DietrichGebert/ponytail)
+
+> 🤖 **推荐理由**  
+> *Ponytail is a JavaScript project designed to optimize AI agents for code efficiency, emulating a seasoned developer's approach by minimizing unnecessary code. With 197,054 stars, it excels in reducing code length, time, and costs while maintaining high-quality outputs, evidenced by 98% of risky logic shipping with tests. Key features include `/ponytail-review` for intelligent diff analysis, `/ponytail-audit` for comprehensive repo checks, and a user-friendly band interface for tracking performance metrics. The project emphasizes security and efficiency, ensuring that the code produced is both effective and maintainable.*
+
+- ⭐ 197054 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-11-23
+
+![ponytail](2026/11-23/2026-11-23_daily-top_ponytail.png)
 
 ### 5. [AFFiNE](https://github.com/toeverything/AFFiNE)
 
 > 🤖 **推荐理由**  
-> *AFFiNE is a next-gen, open-source knowledge base designed as an alternative to Notion and Miro. It combines writing, drawing, and planning into a single platform, emphasizing privacy and local-first data ownership. Key features include a versatile canvas for various content types, multimodal AI assistance for enhanced creativity, real-time collaboration, and self-hosting capabilities. With 76,415 stars on GitHub, AFFiNE offers a customizable workspace for knowledge management, presentations, and digital assets, making it ideal for creative minds.*
+> *AFFiNE is an open-source, privacy-focused knowledge base that combines planning, documentation, and creativity in one platform. With over 76,000 stars on GitHub, it offers a unique edgeless canvas for various building blocks like rich text, sticky notes, and databases. Key features include real-time collaboration, local-first data ownership, and a multimodal AI partner for enhanced productivity. AFFiNE supports self-hosting and customization, making it an ideal alternative to Notion and Miro for creative minds. Visit [AFFiNE.Pro](https://affine.pro) for more information.*
 
-- ⭐ 76415 stars
+- ⭐ 76983 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-11-22
+- 📅 Updated: 2026-11-23
 
-![AFFiNE](2026/11-22/2026-11-22_daily-top_AFFiNE.png)
+![AFFiNE](2026/11-23/2026-11-23_daily-top_AFFiNE.png)
 
 ### 6. [stitch-skills](https://github.com/google-labs-code/stitch-skills)
 
 > 🤖 **推荐理由**  
-> *Stitch Skills is a TypeScript library of Agent Skills designed for use with the Stitch MCP server, adhering to the Agent Skills open standard. It offers three core plugins: `stitch-design` for design management, `stitch-build` for code generation and integration, and `stitch-utilities` for enhancing design prompts and enforcing standards. Key features include converting frontend code to Stitch designs, generating responsive components, and automating multi-page website creation. With over 11,500 stars, it supports popular coding agents like Codex, Claude Code, and Cursor, streamlining design workflows and enhancing productivity.*
+> *Stitch Skills is a comprehensive library of Agent Skills for the Stitch MCP server, adhering to the Agent Skills open standard. With over 12,000 stars, it supports various coding agents, including Codex and Claude Code. Key features include plugins for design (`stitch-design`), build processes (`stitch-build`), and utilities (`stitch-utilities`). Users can easily install plugins, manage design systems, convert designs to code, and generate comprehensive documents like DESIGN.md. The project empowers developers to streamline design workflows and enhance productivity in coding environments.*
 
-- ⭐ 11558 stars
+- ⭐ 12030 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-11-22
+- 📅 Updated: 2026-11-23
 
-![stitch-skills](2026/11-22/2026-11-22_daily-top_stitch-skills.png)
+![stitch-skills](2026/11-23/2026-11-23_daily-top_stitch-skills.png)
 
-### 7. [LiberNT](https://github.com/LiberNT/LiberNT)
+### 7. [plugins](https://github.com/cursor/plugins)
 
 > 🤖 **推荐理由**  
-> *LiberNT is a free, Windows-compatible operating system actively developed in C, designed for amd64, arm64, and riscv64 architectures. Key features include UEFI boot support, a Windows 11-compatible driver model, and extensive hardware support, including Raspberry Pi. It focuses on stability, efficiency, and modern hardware integration, offering tools for users to customize their builds. Users can download prebuilt images or build from source. With over 1,800 stars on GitHub, LiberNT fosters community contributions and aims to provide a reliable, maintainable OS experience.*
+> *The "plugins" project hosts official Cursor plugins tailored for various developer tools, frameworks, and SaaS products, boasting over 18,500 stars on GitHub. Each plugin features its own manifest and includes capabilities for incremental learning, team workflows, and productivity enhancements. Key plugins span categories such as teaching, code review, document management, and integrations with major platforms like Google, Salesforce, and Zoom. The repository's structure supports easy plugin management and development, making it a comprehensive resource for enhancing productivity in software development and business processes.*
 
-- ⭐ 1842 stars
+- ⭐ 18565 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-11-23
+
+![plugins](2026/11-23/2026-11-23_daily-top_plugins.png)
+
+### 8. [opencode](https://github.com/anomalyco/opencode)
+
+> 🤖 **推荐理由**  
+> *OpenCode is an open-source AI coding agent designed to enhance developer productivity. Built with TypeScript, it features two main agents: a full-access "build" agent for development and a "plan" agent for analysis and exploration, ensuring safe code interactions. The platform offers a user-friendly CLI and a desktop application available for multiple operating systems. With extensive documentation and a supportive community on Discord, OpenCode enables users to efficiently navigate and manipulate codebases. Join over 228,000 stars on GitHub and contribute to the project.*
+
+- ⭐ 228673 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-11-23
+
+![opencode](2026/11-23/2026-11-23_daily-top_opencode.png)
+
+### 9. [nginx](https://github.com/nginx/nginx)
+
+> 🤖 **推荐理由**  
+> *NGINX is the world's leading open-source web server and high-performance load balancer, reverse proxy, API gateway, and content cache, known for its efficiency and scalability. Key features include flexible configuration via text-based directives, support for dynamic and static modules, and robust capabilities for load balancing, rate limiting, and content caching. NGINX is actively developed, with comprehensive documentation available for installation and configuration. Enterprise support is provided by F5, Inc. The project boasts over 32,000 stars on GitHub, reflecting its popularity and community engagement.*
+
+- ⭐ 32934 stars
 - 💻 C
-- 📅 Updated: 2026-11-22
+- 📅 Updated: 2026-11-23
 
-![LiberNT](2026/11-22/2026-11-22_daily-top_LiberNT.png)
+![nginx](2026/11-23/2026-11-23_daily-top_nginx.png)
 
-### 8. [plugins](https://github.com/cursor/plugins)
+### 10. [pi](https://github.com/earendil-works/pi)
 
 > 🤖 **推荐理由**  
-> *The plugins project provides official Cursor plugins for various developer tools, frameworks, and SaaS products, enhancing productivity and automation. Each plugin features a unique directory with a manifest for seamless integration. Key offerings include tools for teaching, continual learning, CI workflows, and extensive integrations with platforms like Google, Salesforce, and Zoom. The repository supports a multi-plugin marketplace structure, facilitating easy access to a wide array of functionalities. With over 18,000 stars, it showcases a robust community and active development.*
+> *Pi is an extensible AI agent toolkit designed for customizable workflows. It features a unified LLM API supporting multiple providers, an interactive coding agent CLI, and a terminal UI for streamlined user experience. Key highlights include the ability to adapt through extensions, skills, and prompt templates, as well as automation in print or JSON mode. Pi supports various installation methods, including npm and Nix, and offers a monorepo with multiple packages for enhanced functionality. Ideal for developers looking to integrate AI capabilities into their projects.*
 
-- ⭐ 18169 stars
+- ⭐ 123407 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-11-22
+- 📅 Updated: 2026-11-23
 
-![plugins](2026/11-22/2026-11-22_daily-top_plugins.png)
-
-### 9. [Search](https://github.com/driceroland/Search)
-
-> 🤖 **推荐理由**  
-> *Search is a lightweight, fast web browser for macOS, developed by Office Commun. Utilizing WebKit, it features a minimalistic interface with a single address/search field and unobtrusive tab management. Key highlights include a built-in ad blocker, reading mode, split view for side-by-side browsing, and a focus on privacy, with no account or telemetry requirements. Users can also manage passwords securely through macOS Keychain and utilize Chrome extensions. Search prioritizes speed, simplicity, and user control, making it an efficient tool for browsing.*
-
-- ⭐ 3729 stars
-- 💻 Swift
-- 📅 Updated: 2026-11-22
-
-![Search](2026/11-22/2026-11-22_daily-top_Search.png)
-
-### 10. [LoopForge](https://github.com/Tencent/LoopForge)
-
-> 🤖 **推荐理由**  
-> *LoopForge is a self-hosted workflow platform designed for efficient software delivery using coding agents like CodeBuddy, Codex, and Claude Code. Key features include a chat-driven interface for real-time collaboration, Standard Operating Procedures (SOPs) for repeatable processes, and Docker sandbox environments for secure execution. Users can manage project roles, implement approval gates, and track requirements end-to-end. With over 5,500 stars, LoopForge offers a robust solution for teams seeking structured, automated coding workflows on their own infrastructure.*
-
-- ⭐ 5552 stars
-- 💻 Go
-- 📅 Updated: 2026-11-22
-
-![LoopForge](2026/11-22/2026-11-22_daily-top_LoopForge.png)
+![pi](2026/11-23/2026-11-23_daily-top_pi.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-11-22 06:08:53 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-11-23 07:01:26 UTC
