@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-11-24
+# 📊 🌟 GitHub Trending Daily - 2026-11-25
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **1178449** ⭐ | **122343** 🍴
+**10** 个项目 | **1252297** ⭐ | **135575** 🍴
 
-**热门语言:** `TypeScript` (5) · `Go` (2) · `JavaScript` (2)
+**热门语言:** `TypeScript` (5) · `JavaScript` (3) · `Rust` (1)
 
-**更新时间:** 2026-11-24 09:27 UTC
+**更新时间:** 2026-11-25 08:00 UTC
 
 **分类分布:**
 
@@ -21,112 +21,112 @@
 ### 1. [firecrawl](https://github.com/firecrawl/firecrawl)
 
 > 🤖 **推荐理由**  
-> *Firecrawl is a powerful knowledge infrastructure that enhances AI agents by providing access to 550+ data providers through a single API. Key features include Firecrawl Local for local scraping, Firecrawl Cloud for scalable web access, and self-hosting options. It supports data scraping in various formats, web searching, and autonomous data gathering via its Agent feature. With tools for crawling websites, batch scraping, and interactive capabilities, Firecrawl is designed for real-time AI applications, making it a versatile solution for data extraction and integration.*
+> *Firecrawl is a powerful knowledge infrastructure designed to enhance AI agents by providing seamless access to over 550 data providers through a single API. It offers three deployment options: Firecrawl Local for local scraping, Firecrawl Cloud for scalable services without infrastructure management, and self-hosting for complete control. Core features include web scraping, site crawling, search capabilities, and an autonomous agent for data retrieval. Firecrawl delivers clean markdown, structured JSON, and supports integration with various AI tools, making it an invaluable resource for data-driven applications.*
 
-- ⭐ 208296 stars
+- ⭐ 209258 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-11-24
+- 📅 Updated: 2026-11-25
 
-![firecrawl](2026/11-24/2026-11-24_daily-top_firecrawl.png)
+![firecrawl](2026/11-25/2026-11-25_daily-top_firecrawl.png)
 
-### 2. [AnyPS5](https://github.com/boykopovar/AnyPS5)
+### 2. [ECC](https://github.com/affaan-m/ECC)
 
 > 🤖 **推荐理由**  
-> *AnyPS5 is a powerful tool for automatically porting PS5 executables to Linux and Windows. It features a relinker that converts executables to native formats without emulation, alongside implementations of system PRX libraries for dynamic linking. The project includes a web converter, supports SDL-mapped controllers, and offers extensive input mapping configurations. With over 61,000 stars on GitHub, AnyPS5 emphasizes interoperability, research, and preservation, while ensuring compliance with legal standards. It is independently developed and not affiliated with Sony.*
+> *ECC is an advanced agent harness performance optimization system designed to enhance coding workflows through specialized tools. Key features include 72 agents, 328 skills, and 99 command shims for tasks like planning, testing, and security reviews. ECC promotes a structured approach to coding with continuous learning, memory persistence, and security scanning via AgentShield. It supports multiple platforms including Claude Code, Codex, and Kimi, offering both guided and manual installation options. Visit the ECC website for more details and access to tools.*
 
-- ⭐ 61127 stars
+- ⭐ 310366 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-11-25
+
+![ECC](2026/11-25/2026-11-25_daily-top_ECC.png)
+
+### 3. [ponytail](https://github.com/DietrichGebert/ponytail)
+
+> 🤖 **推荐理由**  
+> *Ponytail is a JavaScript project designed to optimize AI agent performance by mimicking the efficiency of the laziest senior developer. With over 198,000 stars, it focuses on reducing code complexity while maintaining high-quality outputs, achieving significant reductions in code, time, and costs. Key features include advanced review and audit processes, which analyze code for bugs and security vulnerabilities, and an intuitive command interface for seamless integration. Ideal for enhancing productivity, Ponytail prioritizes minimalism and effectiveness, ensuring safe, efficient coding practices.*
+
+- ⭐ 198298 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-11-25
+
+![ponytail](2026/11-25/2026-11-25_daily-top_ponytail.png)
+
+### 4. [AFFiNE](https://github.com/toeverything/AFFiNE)
+
+> 🤖 **推荐理由**  
+> *AFFiNE is a next-gen, open-source knowledge base that seamlessly integrates planning, creation, and organization, making it a robust alternative to Notion and Miro. Key features include a versatile canvas for rich text, sticky notes, and multimedia; a multimodal AI partner for enhanced creativity; and strong privacy with local-first data management. AFFiNE supports real-time collaboration, self-hosting, and customization through a plugin system. With over 78,000 stars on GitHub, it is designed for creative minds seeking a comprehensive workspace solution.*
+
+- ⭐ 78147 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-11-25
+
+![AFFiNE](2026/11-25/2026-11-25_daily-top_AFFiNE.png)
+
+### 5. [AnyPS5](https://github.com/boykopovar/AnyPS5)
+
+> 🤖 **推荐理由**  
+> *AnyPS5 is a powerful tool for automatically porting PS5 executables to Linux and Windows, boasting over 61,000 stars on GitHub. Key features include a relinker that adapts executables to native formats, support for dynamic linking via system PRX libraries, and a web converter that keeps files on the user's device. The project supports SDL-mapped game controllers and offers customizable input mapping. With a focus on interoperability and research, AnyPS5 is independent of Sony and does not distribute copyrighted materials. It is licensed under the GNU General Public License v2.*
+
+- ⭐ 61357 stars
 - 💻 C++
-- 📅 Updated: 2026-11-24
+- 📅 Updated: 2026-11-25
 
-![AnyPS5](2026/11-24/2026-11-24_daily-top_AnyPS5.png)
-
-### 3. [ECC](https://github.com/affaan-m/ECC)
-
-> 🤖 **推荐理由**  
-> *ECC is a powerful agent harness performance optimization system designed to enhance coding workflows. With 72 specialized agents and 328 reusable skills, ECC enables efficient planning, testing, and code review. Key features include automated security scanning via AgentShield, continuous learning, and seamless integration with tools like Claude Code, Codex, and GitHub Copilot. Its structured approach allows agents to plan, implement, and verify code while maintaining security and memory management. ECC is open-source, optimized for various environments, and supports multiple programming languages.*
-
-- ⭐ 309798 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-11-24
-
-![ECC](2026/11-24/2026-11-24_daily-top_ECC.png)
-
-### 4. [ponytail](https://github.com/DietrichGebert/ponytail)
-
-> 🤖 **推荐理由**  
-> *Ponytail is a JavaScript project that empowers AI agents to write efficient code with minimal effort, emulating the expertise of a seasoned developer. Key features include reduced code length, improved execution speed, and enhanced cost efficiency, achieving a 53% reduction in code, 41% faster execution, and 26% lower costs compared to previous versions. The project offers commands for code review and auditing, ensuring security and optimization while maintaining rigorous testing standards. With robust integration options, Ponytail streamlines development without compromising quality.*
-
-- ⭐ 197742 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-11-24
-
-![ponytail](2026/11-24/2026-11-24_daily-top_ponytail.png)
-
-### 5. [AFFiNE](https://github.com/toeverything/AFFiNE)
-
-> 🤖 **推荐理由**  
-> *AFFiNE is an open-source, privacy-focused knowledge base and collaboration platform, designed as a versatile alternative to Notion and Miro. Key features include a seamless canvas for various content types (docs, drawings, databases), real-time collaboration, and a multimodal AI partner for enhanced productivity. Users can self-host and customize their experience, with community-driven plugins and templates available. With a strong emphasis on data ownership and local-first functionality, AFFiNE empowers creative minds to organize and plan efficiently.*
-
-- ⭐ 77609 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-11-24
-
-![AFFiNE](2026/11-24/2026-11-24_daily-top_AFFiNE.png)
+![AnyPS5](2026/11-25/2026-11-25_daily-top_AnyPS5.png)
 
 ### 6. [stitch-skills](https://github.com/google-labs-code/stitch-skills)
 
 > 🤖 **推荐理由**  
-> *Stitch Skills is a TypeScript library offering a suite of agent skills and plugins for the Stitch MCP server, adhering to the Agent Skills open standard. With 12,463 stars, it supports coding agents like Codex, Antigravity, and Claude Code. Key features include the ability to convert code to designs, generate and manage design systems, and facilitate build processes for React and React Native. The repository provides plugins for design, build, and utilities, enabling seamless integration and enhanced project workflows.*
+> *Stitch Skills is a TypeScript library of Agent Skills tailored for the Stitch MCP server, adhering to the Agent Skills open standard. It offers a suite of plugins, including `stitch-design`, `stitch-build`, and `stitch-utilities`, enabling seamless integration with coding agents like Codex, Antigravity, and Claude Code. Key features include design management, code generation for React components, and utility skills for enhancing prompts and generating design specifications. With 12,776 stars, it provides powerful tools for streamlining design workflows and application development.*
 
-- ⭐ 12463 stars
+- ⭐ 12776 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-11-24
+- 📅 Updated: 2026-11-25
 
-![stitch-skills](2026/11-24/2026-11-24_daily-top_stitch-skills.png)
+![stitch-skills](2026/11-25/2026-11-25_daily-top_stitch-skills.png)
 
-### 7. [multica](https://github.com/multica-ai/multica)
+### 7. [plugins](https://github.com/cursor/plugins)
 
 > 🤖 **推荐理由**  
-> *Multica is an open-source, self-hostable workspace designed to seamlessly integrate human and AI coding agents. With 57,652 stars on GitHub, it allows users to assign tasks to multiple agents—like Claude Code and Codex—who autonomously manage issues, report progress, and request reviews. Key features include shared agent pools, execution logs, scheduled tasks, and customizable roles. Multica supports various agent CLIs and can run on personal infrastructure, ensuring data control and flexibility. Efficiently streamline collaborative workflows with Multica's unified platform.*
+> *The "plugins" project offers a comprehensive repository of official Cursor plugins designed for popular developer tools, frameworks, and SaaS products. With over 19,350 stars, it showcases a variety of plugins categorized into utilities, developer tools, and integrations. Key features include skill mapping, incremental learning updates, and internal team workflows, alongside extensive integrations with services like Google Suite, Salesforce, and Zoom. Each plugin is self-contained with its own manifest, facilitating easy customization and deployment for developers. The project is structured for scalability and collaboration.*
 
-- ⭐ 57652 stars
-- 💻 Go
-- 📅 Updated: 2026-11-24
+- ⭐ 19350 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-11-25
 
-![multica](2026/11-24/2026-11-24_daily-top_multica.png)
+![plugins](2026/11-25/2026-11-25_daily-top_plugins.png)
 
-### 8. [plugins](https://github.com/cursor/plugins)
+### 8. [rustdesk](https://github.com/rustdesk/rustdesk)
 
 > 🤖 **推荐理由**  
-> *The "plugins" GitHub project offers a collection of official Cursor plugins tailored for popular developer tools, frameworks, and SaaS products. Each plugin features its own directory with a manifest for easy integration. Key plugins include utilities for teaching, continual learning, CI workflows, and productivity tools for Gmail, Google Drive, and more. Comprehensive integrations cover platforms like Salesforce, Zoom, and Shopify, enabling seamless management of tasks, communications, and data. With 18,948 stars, this TypeScript-based repository provides developers with essential tools for enhanced productivity and automation.*
+> *RustDesk is an open-source remote desktop application written in Rust, offering a self-hosted alternative to TeamViewer. With over 131,350 stars on GitHub, it ensures user data security and privacy, allowing for easy connection without configuration. Key features include screen sharing, file transfer, and support for both rendezvous and relay servers. Users can build the application via Docker or traditional methods, and it supports multiple languages. RustDesk encourages contributions and community engagement through platforms like Discord and Reddit.*
 
-- ⭐ 18948 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-11-24
+- ⭐ 131350 stars
+- 💻 Rust
+- 📅 Updated: 2026-11-25
 
-![plugins](2026/11-24/2026-11-24_daily-top_plugins.png)
+![rustdesk](2026/11-25/2026-11-25_daily-top_rustdesk.png)
 
 ### 9. [opencode](https://github.com/anomalyco/opencode)
 
 > 🤖 **推荐理由**  
-> *OpenCode is an open-source AI coding agent built in TypeScript, boasting over 228,000 stars on GitHub. Key features include two built-in agents: "build" for full development access and "plan" for read-only code exploration. It offers a CLI for easy installation across various platforms, including a desktop application in beta for macOS, Windows, and Linux. Users can access comprehensive documentation and contribute to the project via GitHub. Join the community on Discord for support and collaboration. Explore more at opencode.ai.*
+> *OpenCode is an open-source AI coding agent designed to enhance programming efficiency. With over 229,000 stars on GitHub, it offers a versatile command-line interface (CLI) and a desktop application for macOS, Windows, and Linux. Key features include two built-in agents—'build' for development and 'plan' for code exploration—allowing users to switch seamlessly. Installation options include package managers and scripts. OpenCode supports multiple languages, fostering a diverse community. Documentation and contribution guidelines are readily available for developers.*
 
-- ⭐ 228880 stars
+- ⭐ 229045 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-11-24
+- 📅 Updated: 2026-11-25
 
-![opencode](2026/11-24/2026-11-24_daily-top_opencode.png)
+![opencode](2026/11-25/2026-11-25_daily-top_opencode.png)
 
-### 10. [LoopForge](https://github.com/Tencent/LoopForge)
+### 10. [antigravity2-cn](https://github.com/qqxpee/antigravity2-cn)
 
 > 🤖 **推荐理由**  
-> *LoopForge is a self-hosted platform designed for orchestrating software delivery with coding agents like CodeBuddy, Codex, and Claude Code. Key features include a chat workbench for real-time interactions, a visual SOP designer for repeatable workflows, and Docker sandbox environments for secure execution. The platform facilitates human approval gates, allowing teams to maintain control and oversight throughout the development process. With built-in metrics and support for multiple coding agents, LoopForge streamlines collaboration and enhances software delivery efficiency.*
+> *Antigravity2-cn is a Chinese localization suite for Antigravity 2.0, providing a zero-dependency package that seamlessly integrates into the Electron framework. Key features include one-click installation and restoration, dynamic injection of Chinese translations for the interface, menu, taskbar, and settings, all without altering core binaries. The suite supports both Windows and macOS, and utilizes Node.js for efficient operation. Advanced functionalities include optional proxy injection for network restrictions and automated dictionary updates through an AI assistant, enhancing user experience and community engagement.*
 
-- ⭐ 5934 stars
-- 💻 Go
-- 📅 Updated: 2026-11-24
+- ⭐ 2350 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-11-25
 
-![LoopForge](2026/11-24/2026-11-24_daily-top_LoopForge.png)
+![antigravity2-cn](2026/11-25/2026-11-25_daily-top_antigravity2-cn.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-11-24 09:27:58 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-11-25 08:00:45 UTC
